@@ -1,0 +1,154 @@
+[
+  {
+    "id": "mee-1",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "1",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/2/28/BasicGrassEnergyMEEEnergy1.jpg/340px-BasicGrassEnergyMEEEnergy1.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/2/28/BasicGrassEnergyMEEEnergy1.jpg"
+    }
+  },
+  {
+    "id": "mee-2",
+    "name": "Basic Fire Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "2",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/1/17/BasicFireEnergyMEEEnergy2.jpg/340px-BasicFireEnergyMEEEnergy2.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/1/17/BasicFireEnergyMEEEnergy2.jpg"
+    }
+  },
+  {
+    "id": "mee-3",
+    "name": "Basic Water Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "3",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/d/d5/BasicWaterEnergyMEEEnergy3.jpg/340px-BasicWaterEnergyMEEEnergy3.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/d/d5/BasicWaterEnergyMEEEnergy3.jpg"
+    }
+  },
+  {
+    "id": "mee-4",
+    "name": "Basic Lightning Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "4",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/9/9b/BasicLightningEnergyMEEEnergy4.jpg/340px-BasicLightningEnergyMEEEnergy4.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/9/9b/BasicLightningEnergyMEEEnergy4.jpg"
+    }
+  },
+  {
+    "id": "mee-5",
+    "name": "Basic Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "5",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/a/ad/BasicPsychicEnergyMEEEnergy5.jpg/340px-BasicPsychicEnergyMEEEnergy5.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/a/ad/BasicPsychicEnergyMEEEnergy5.jpg"
+    }
+  },
+  {
+    "id": "mee-6",
+    "name": "Basic Fighting Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "6",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/6/6c/BasicFightingEnergyMEEEnergy6.jpg/340px-BasicFightingEnergyMEEEnergy6.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/6/6c/BasicFightingEnergyMEEEnergy6.jpg"
+    }
+  },
+  {
+    "id": "mee-7",
+    "name": "Basic Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "7",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/2/27/BasicDarknessEnergyMEEEnergy7.jpg/340px-BasicDarknessEnergyMEEEnergy7.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/2/27/BasicDarknessEnergyMEEEnergy7.jpg"
+    }
+  },
+  {
+    "id": "mee-8",
+    "name": "Basic Metal Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "8",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/BasicMetalEnergyMEEEnergy8.jpg/340px-BasicMetalEnergyMEEEnergy8.jpg",
+      "large": "https://archives.bulbagarden.net/media/upload/5/5b/BasicMetalEnergyMEEEnergy8.jpg"
+    }
+  }
+]
