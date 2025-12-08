@@ -37,11 +37,9 @@ const sortCardsByName = (
       return acc;
     }, {} as Record<string, any>);
 
-  Object.assign(cardByNameData, sortedCardByNameData);
-
-  console.log("✅ 2. Update cardByName with this:", cardByNameData);
+  console.log("✅ 2. Update cardByName with this:", sortedCardByNameData);
   console.log("----------------------------------------------------");
-  return cardByNameData;
+  return sortedCardByNameData;
 };
 
 export default sortCardsByName;

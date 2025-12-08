@@ -79,15 +79,20 @@ const findAllReprints = (
   for (const cardId in reprintListData) {
     if (reprintListData[cardId].length === 0) {
       delete reprintListData[cardId];
-    } else {
-      reprintListData[cardId].sort();
     }
   }
 
-  console.log("✅ 3. Update ReprintList with this:", reprintListData);
+  const sortedReprintListData = Object.keys(reprintListData)
+    .sort()
+    .reduce((acc, key) => {
+      acc[key] = reprintListData[key].sort();
+      return acc;
+    }, {} as Record<string, string[]>);
+
+  console.log("✅ 3. Update ReprintList with this:", sortedReprintListData);
   console.log("----------------------------------------------------");
 
-  return reprintListData;
+  return sortedReprintListData;
 };
 
 export default findAllReprints;
