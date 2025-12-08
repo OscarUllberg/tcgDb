@@ -1,11 +1,14 @@
+import addSetsInfo from "./addSetsInfo";
 import findAllReprints from "./findReprints";
 import sortCardsById from "./sortCardsById";
 import sortCardsByName from "./sortCardsByName";
 
 const newExpansion = async () => {
+  const expansionCode = "me2";
+
   // read new set
-  const newExpansionData = await fetch("cardBySet/me2.json").then((res) =>
-    res.json()
+  const newExpansionData = await fetch(`cardBySet/${expansionCode}.json`).then(
+    (res) => res.json()
   );
 
   // read cardById
@@ -23,6 +26,11 @@ const newExpansion = async () => {
     "datastructureJsonFiles/reprintList.json"
   ).then((res) => res.json());
 
+  // read setsInfo
+  const setsInfoData = await fetch("datastructureJsonFiles/setsInfo.json").then(
+    (res) => res.json()
+  );
+
   // 1. handle newExpansion for cardById
   // Go through newExpansionData and add card.id as key
   // Then console log the new list
@@ -37,8 +45,11 @@ const newExpansion = async () => {
   // 3. handle newExpansion for reprintList
   findAllReprints(updatedCardById, reprintListData);
 
+  // 4. handle add release date and set info to expansionList
+  addSetsInfo(newExpansionData, setsInfoData, expansionCode);
+
   console.log(
-    "Remember to update oldFullCardDb with the new expansion! And update firebase."
+    `Remember to update oldFullCardDb with the new expansion: ${expansionCode}! And update firebase.`
   );
 };
 
