@@ -3,13 +3,9 @@
     "id": "mep-1",
     "name": "Meganium",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "160",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Bayleef",
     "abilities": [
       {
@@ -21,12 +17,7 @@
     "attacks": [
       {
         "name": "Solar Beam",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Grass", "Grass", "Colorless", "Colorless"],
         "convertedEnergyCost": 4,
         "damage": "140",
         "text": ""
@@ -38,17 +29,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "1",
     "artist": "Uninori",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      154
-    ],
+    "nationalPokedexNumbers": [154],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -58,35 +44,36 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-1/medium",
       "large": "https://images.scrydex.com/pokemon/mep-1/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-2",
     "name": "Inteleon",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "150",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "evolvesFrom": "Drizzile",
     "attacks": [
       {
         "name": "Bring Down",
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Choose a Pokémon in play (yours or your opponent's) that has the least HP remaining, except for this Pokémon, and it is Knocked Out."
       },
       {
         "name": "Water Shot",
-        "cost": [
-          "Water"
-        ],
+        "cost": ["Water"],
         "convertedEnergyCost": 1,
         "damage": "110",
         "text": "Discard an Energy from this Pokémon."
@@ -98,16 +85,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "2",
     "artist": "Kazumasa Yasukuni",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      818
-    ],
+    "nationalPokedexNumbers": [818],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -117,19 +100,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-2/medium",
       "large": "https://images.scrydex.com/pokemon/mep-2/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-3",
     "name": "Alakazam",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "140",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "evolvesFrom": "Kadabra",
     "abilities": [
       {
@@ -141,9 +129,7 @@
     "attacks": [
       {
         "name": "Powerful Hand",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
@@ -161,16 +147,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "3",
     "artist": "cochi8i",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      65
-    ],
+    "nationalPokedexNumbers": [65],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -180,19 +162,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-3/medium",
       "large": "https://images.scrydex.com/pokemon/mep-3/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-4",
     "name": "Lunatone",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "110",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "abilities": [
       {
         "name": "Lunar Cycle",
@@ -203,10 +190,7 @@
     "attacks": [
       {
         "name": "Power Gem",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "50",
         "text": ""
@@ -218,16 +202,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "4",
     "artist": "Ounishi",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      337
-    ],
+    "nationalPokedexNumbers": [337],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -237,25 +217,28 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-4/medium",
       "large": "https://images.scrydex.com/pokemon/mep-4/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-   {
+  {
     "id": "mep-5",
     "name": "Drifloon",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "110",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Pull",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
@@ -273,16 +256,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "5",
     "artist": "Shimaris Yukichi",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      425
-    ],
+    "nationalPokedexNumbers": [425],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -292,35 +271,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-5/medium",
       "large": "https://images.scrydex.com/pokemon/mep-5/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-6",
     "name": "Drifblim",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "110",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Creepy Wind",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "0",
         "text": "Your opponent's Active Pokémon is now Confused."
       },
       {
         "name": "Balloon Return",
-        "cost": [
-          "Psychic",
-          "Psychic"
-        ],
+        "cost": ["Psychic", "Psychic"],
         "convertedEnergyCost": 2,
         "damage": "110",
         "text": "Put this Pokémon and all attached cards into your hand."
@@ -338,16 +317,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "6",
     "artist": "Shimaris Yukichi",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      426
-    ],
+    "nationalPokedexNumbers": [426],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -357,19 +332,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-6/medium",
       "large": "https://images.scrydex.com/pokemon/mep-6/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-7",
     "name": "Psyduck",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "abilities": [
       {
         "name": "Damp",
@@ -380,10 +360,7 @@
     "attacks": [
       {
         "name": "Ram",
-        "cost": [
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "20",
         "text": ""
@@ -395,16 +372,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "7",
     "artist": "Jiro Sasumo",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      54
-    ],
+    "nationalPokedexNumbers": [54],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -414,19 +387,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-7/medium",
       "large": "https://images.scrydex.com/pokemon/mep-7/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-8",
     "name": "Golduck",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "120",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "abilities": [
       {
         "name": "Damp",
@@ -437,11 +415,7 @@
     "attacks": [
       {
         "name": "Hydro Pump",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "60+",
         "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon."
@@ -453,16 +427,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "8",
     "artist": "Jiro Sasumo",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      55
-    ],
+    "nationalPokedexNumbers": [55],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -472,19 +442,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-8/medium",
       "large": "https://images.scrydex.com/pokemon/mep-8/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-9",
     "name": "Alakazam",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "140",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "evolvesFrom": "Kadabra",
     "abilities": [
       {
@@ -496,9 +471,7 @@
     "attacks": [
       {
         "name": "Powerful Hand",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
@@ -516,16 +489,12 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "9",
     "artist": "Aya Kusube",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      65
-    ],
+    "nationalPokedexNumbers": [65],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -535,28 +504,29 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-9/medium",
       "large": "https://images.scrydex.com/pokemon/mep-9/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-   {
+  {
     "id": "mep-10",
     "name": "Riolu",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "80",
-    "types": [
-      "Fighting"
-    ],
-    "evolvesTo": [
-      "Lucario"
-    ],
+    "types": ["Fighting"],
+    "evolvesTo": ["Lucario"],
     "attacks": [
       {
         "name": "Accelerating Stab",
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "convertedEnergyCost": 1,
         "damage": "30",
         "text": "During your next turn, this Pokémon can't use Accelerating Stab."
@@ -568,17 +538,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "10",
     "artist": "GOSSAN",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      447
-    ],
+    "nationalPokedexNumbers": [447],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -588,56 +553,49 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-10/medium",
       "large": "https://images.scrydex.com/pokemon/mep-10/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-11",
     "name": "Mega Latias ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic",
-      "MEGA",
-      "ex"
-    ],
+    "subtypes": ["Basic", "MEGA", "ex"],
     "hp": "280",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "rules": [
       "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
         "name": "Strafe",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "40",
         "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Illusory Impulse",
-        "cost": [
-          "Fire",
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Psychic", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "300",
         "text": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "11",
     "artist": "5ban Graphics",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      380
-    ],
+    "nationalPokedexNumbers": [380],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -647,21 +605,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-11/medium",
       "large": "https://images.scrydex.com/pokemon/mep-11/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-   {
+  {
     "id": "mep-12",
     "name": "Mega Lucario ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1",
-      "MEGA",
-      "ex"
-    ],
+    "subtypes": ["Stage 1", "MEGA", "ex"],
     "hp": "340",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "evolvesFrom": "Riolu",
     "rules": [
       "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
@@ -669,19 +630,14 @@
     "attacks": [
       {
         "name": "Aura Jab",
-        "cost": [
-          "Fighting"
-        ],
+        "cost": ["Fighting"],
         "convertedEnergyCost": 1,
         "damage": "130",
         "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like."
       },
       {
         "name": "Mega Brave",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "270",
         "text": "During your next turn, this Pokémon can't use Mega Brave."
@@ -693,17 +649,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "12",
     "artist": "5ban Graphics",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      448
-    ],
+    "nationalPokedexNumbers": [448],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -713,21 +664,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-12/medium",
       "large": "https://images.scrydex.com/pokemon/mep-12/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-13",
     "name": "Mega Venusaur ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2",
-      "MEGA",
-      "ex"
-    ],
+    "subtypes": ["Stage 2", "MEGA", "ex"],
     "hp": "380",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "evolvesFrom": "Ivysaur",
     "rules": [
       "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
@@ -742,12 +696,7 @@
     "attacks": [
       {
         "name": "Jungle Dump",
-        "cost": [
-          "Grass",
-          "Grass",
-          "Grass",
-          "Grass"
-        ],
+        "cost": ["Grass", "Grass", "Grass", "Grass"],
         "convertedEnergyCost": 4,
         "damage": "240",
         "text": "Heal 30 damage from this Pokémon."
@@ -759,19 +708,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 4,
     "number": "13",
     "artist": "5ban Graphics",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      3
-    ],
+    "nationalPokedexNumbers": [3],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -781,26 +723,29 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-13/medium",
       "large": "https://images.scrydex.com/pokemon/mep-13/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-{
+  {
     "id": "mep-14",
     "name": "Ceruledge",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "140",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "evolvesFrom": "Charcadet",
     "attacks": [
       {
         "name": "Infernal Slash",
-        "cost": [
-          "Fire"
-        ],
+        "cost": ["Fire"],
         "convertedEnergyCost": 1,
         "damage": "220",
         "text": "Discard 4 Basic Fire Energy cards from your hand. If you can't discard 4 cards in this way, this attack does nothing."
@@ -812,18 +757,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "14",
     "artist": "Anesaki Dynamic",
     "rarity": "Promo",
     "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
-    "nationalPokedexNumbers": [
-      937
-    ],
+    "nationalPokedexNumbers": [937],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -833,26 +773,28 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-14/medium",
       "large": "https://images.scrydex.com/pokemon/mep-14/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-   {
+  {
     "id": "mep-15",
     "name": "Zacian",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "130",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Limit Break",
-        "cost": [
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "50+",
         "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 90 more damage."
@@ -864,18 +806,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "15",
     "artist": "Shiburingaru",
     "rarity": "Promo",
     "flavorText": "Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.",
-    "nationalPokedexNumbers": [
-      888
-    ],
+    "nationalPokedexNumbers": [888],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -885,19 +822,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-15/medium",
       "large": "https://images.scrydex.com/pokemon/mep-15/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-16",
     "name": "Flygon",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2"
-    ],
+    "subtypes": ["Stage 2"],
     "hp": "150",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "evolvesFrom": "Vibrava",
     "abilities": [
       {
@@ -909,10 +851,7 @@
     "attacks": [
       {
         "name": "Cutting Wind",
-        "cost": [
-          "Fighting",
-          "Fighting"
-        ],
+        "cost": ["Fighting", "Fighting"],
         "convertedEnergyCost": 2,
         "damage": "130",
         "text": ""
@@ -924,17 +863,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "16",
     "artist": "Oswaldo KATO",
     "rarity": "Promo",
     "flavorText": "Known as the Desert Spirit, this Pokémon hides in the sandstorms it causes by beating its wings.",
-    "nationalPokedexNumbers": [
-      330
-    ],
+    "nationalPokedexNumbers": [330],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -944,19 +879,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-16/medium",
       "large": "https://images.scrydex.com/pokemon/mep-16/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
-   {
+  {
     "id": "mep-17",
     "name": "Toxtricity",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "140",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "evolvesFrom": "Toxel",
     "abilities": [
       {
@@ -968,11 +908,7 @@
     "attacks": [
       {
         "name": "Gentle Slap",
-        "cost": [
-          "Darkness",
-          "Darkness",
-          "Colorless"
-        ],
+        "cost": ["Darkness", "Darkness", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "100",
         "text": ""
@@ -984,18 +920,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "17",
     "artist": "Krgc",
     "rarity": "Promo",
     "flavorText": "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
-    "nationalPokedexNumbers": [
-      849
-    ],
+    "nationalPokedexNumbers": [849],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1005,25 +936,28 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-17/medium",
       "large": "https://images.scrydex.com/pokemon/mep-17/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-18",
     "name": "Cottonee",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "60",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Collect",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Draw a Card"
@@ -1035,16 +969,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "18",
     "artist": "Kariyya",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      546
-    ],
+    "nationalPokedexNumbers": [546],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1054,34 +984,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-18/medium",
       "large": "https://images.scrydex.com/pokemon/mep-18/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-19",
     "name": "Whimsicott",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "90",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Healing Fluff",
-        "cost": [
-          "Colorless"
-        ],
+        "cost": ["Colorless"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Heal all damage from 1 of your Benched Pokémon."
       },
       {
         "name": "U-turn",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "50",
         "text": "Switch this Pokémon with 1 of your Benched Pokémon."
@@ -1093,16 +1024,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "19",
     "artist": "Yuka Tanaka",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      547
-    ],
+    "nationalPokedexNumbers": [547],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1112,35 +1039,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-19/medium",
       "large": "https://images.scrydex.com/pokemon/mep-19/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-20",
     "name": "Sneasel",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "attacks": [
       {
         "name": "Dig Claws",
-        "cost": [
-          "Darkness"
-        ],
+        "cost": ["Darkness"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
       },
       {
         "name": "Scratch",
-        "cost": [
-          "Darkness",
-          "Darkness"
-        ],
+        "cost": ["Darkness", "Darkness"],
         "convertedEnergyCost": 2,
         "damage": "30",
         "text": ""
@@ -1152,16 +1079,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "20",
     "artist": "Souichirou Gunjima",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      215
-    ],
+    "nationalPokedexNumbers": [215],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1171,36 +1094,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-20/medium",
       "large": "https://images.scrydex.com/pokemon/mep-20/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-21",
     "name": "Weavile",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "90",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "attacks": [
       {
         "name": "Retaliatory Claw",
-        "cost": [
-          "Darkness",
-          "Darkness"
-        ],
+        "cost": ["Darkness", "Darkness"],
         "convertedEnergyCost": 2,
         "damage": "20+",
         "text": "If this Pokémon's remaining HP is 50 or less, this attack does 170 more damage."
       },
       {
         "name": "Cut",
-        "cost": [
-          "Darkness",
-          "Darkness"
-        ],
+        "cost": ["Darkness", "Darkness"],
         "convertedEnergyCost": 2,
         "damage": "60",
         "text": ""
@@ -1212,16 +1134,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "21",
     "artist": "matazo",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      461
-    ],
+    "nationalPokedexNumbers": [461],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1231,34 +1149,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-21/medium",
       "large": "https://images.scrydex.com/pokemon/mep-21/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-22",
     "name": "Charcadet",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "70",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "attacks": [
       {
         "name": "Gather Strength",
-        "cost": [
-          "Fire"
-        ],
+        "cost": ["Fire"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
       },
       {
         "name": "Chop",
-        "cost": [
-          "Fire"
-        ],
+        "cost": ["Fire"],
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
@@ -1270,18 +1189,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "22",
     "artist": "Teeziro",
     "rarity": "Promo",
     "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
-    "nationalPokedexNumbers": [
-      935
-    ],
+    "nationalPokedexNumbers": [935],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1291,21 +1205,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-22/medium",
       "large": "https://images.scrydex.com/pokemon/mep-22/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-23",
     "name": "Mega Charizard X ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 2",
-      "MEGA",
-      "ex"
-    ],
+    "subtypes": ["Stage 2", "MEGA", "ex"],
     "hp": "360",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "evolvesFrom": "Charmeleon",
     "rules": [
       "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
@@ -1313,10 +1230,7 @@
     "attacks": [
       {
         "name": "Inferno X",
-        "cost": [
-          "Fire",
-          "Fire"
-        ],
+        "cost": ["Fire", "Fire"],
         "convertedEnergyCost": 2,
         "damage": "90×",
         "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way."
@@ -1328,17 +1242,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless"],
     "convertedRetreatCost": 2,
     "number": "23",
     "artist": "Saboteri",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      6
-    ],
+    "nationalPokedexNumbers": [6],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1348,20 +1257,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-23/medium",
       "large": "https://images.scrydex.com/pokemon/mep-23/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-24",
     "name": "Oricorio ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic",
-      "ex"
-    ],
+    "subtypes": ["Basic", "ex"],
     "hp": "190",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "rules": [
       "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
@@ -1375,11 +1288,7 @@
     "attacks": [
       {
         "name": "Fire Wing",
-        "cost": [
-          "Fire",
-          "Fire",
-          "Colorless"
-        ],
+        "cost": ["Fire", "Fire", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "110",
         "text": ""
@@ -1391,16 +1300,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "24",
     "artist": "Shinji Kanda",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      741
-    ],
+    "nationalPokedexNumbers": [741],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1410,21 +1315,24 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-24/medium",
       "large": "https://images.scrydex.com/pokemon/mep-24/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-25",
     "name": "Mega Kangaskhan ex",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic",
-      "MEGA",
-      "ex"
-    ],
+    "subtypes": ["Basic", "MEGA", "ex"],
     "hp": "300",
-    "types": [
-      "Colorless"
-    ],
+    "types": ["Colorless"],
     "rules": [
       "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
     ],
@@ -1438,11 +1346,7 @@
     "attacks": [
       {
         "name": "Rapid-Fire Combo",
-        "cost": [
-          "Colorless",
-          "Colorless",
-          "Colorless"
-        ],
+        "cost": ["Colorless", "Colorless", "Colorless"],
         "convertedEnergyCost": 3,
         "damage": "200+",
         "text": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
@@ -1454,18 +1358,12 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless",
-      "Colorless",
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless", "Colorless", "Colorless"],
     "convertedRetreatCost": 3,
     "number": "25",
     "artist": "5ban Graphics",
     "rarity": "Promo",
-    "nationalPokedexNumbers": [
-      115
-    ],
+    "nationalPokedexNumbers": [115],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1475,35 +1373,35 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-25/medium",
       "large": "https://images.scrydex.com/pokemon/mep-25/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-26",
     "name": "Meloetta",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Basic"
-    ],
+    "subtypes": ["Basic"],
     "hp": "90",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "attacks": [
       {
         "name": "Soothing Melody",
-        "cost": [
-          "Psychic"
-        ],
+        "cost": ["Psychic"],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Heal 120 damage from 1 of your Benched Psychic Pokémon."
       },
       {
         "name": "Magical Shot",
-        "cost": [
-          "Psychic",
-          "Colorless"
-        ],
+        "cost": ["Psychic", "Colorless"],
         "convertedEnergyCost": 2,
         "damage": "50",
         "text": ""
@@ -1521,17 +1419,13 @@
         "value": "-30"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "26",
     "artist": "Keisin",
     "rarity": "Promo",
     "flavorText": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
-    "nationalPokedexNumbers": [
-      648
-    ],
+    "nationalPokedexNumbers": [648],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1541,29 +1435,30 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-26/medium",
       "large": "https://images.scrydex.com/pokemon/mep-26/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-27",
     "name": "Haunter",
     "supertype": "Pokémon",
-    "subtypes": [
-      "Stage 1"
-    ],
+    "subtypes": ["Stage 1"],
     "hp": "100",
-    "types": [
-      "Darkness"
-    ],
+    "types": ["Darkness"],
     "evolvesFrom": "Gastly",
-    "evolvesTo": [
-      "Gengar"
-    ],
+    "evolvesTo": ["Gengar"],
     "attacks": [
       {
         "name": "Spooky Shot",
-        "cost": [
-          "Darkness"
-        ],
+        "cost": ["Darkness"],
         "convertedEnergyCost": 1,
         "damage": "40",
         "text": ""
@@ -1575,17 +1470,13 @@
         "value": "×2"
       }
     ],
-    "retreatCost": [
-      "Colorless"
-    ],
+    "retreatCost": ["Colorless"],
     "convertedRetreatCost": 1,
     "number": "27",
     "artist": "Arai Kiriko",
     "rarity": "Promo",
     "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
-    "nationalPokedexNumbers": [
-      93
-    ],
+    "nationalPokedexNumbers": [93],
     "legalities": {
       "unlimited": "Legal",
       "standard": "Legal",
@@ -1595,15 +1486,22 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-27/medium",
       "large": "https://images.scrydex.com/pokemon/mep-27/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   },
   {
     "id": "mep-28",
     "name": "Celebratory Fanfare",
     "supertype": "Trainer",
-    "subtypes": [
-      "Stadium"
-    ],
+    "subtypes": ["Stadium"],
     "rules": [
       "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.",
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
@@ -1620,6 +1518,15 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/mep-28/medium",
       "large": "https://images.scrydex.com/pokemon/mep-28/medium"
+    },
+    "set": {
+      "releaseDate": "2025/10/17",
+      "images": {
+        "logo": "https://images.pokemontcg.io/svp/logo.png",
+        "symbol": "https://images.pokemontcg.io/svp/symbol.png"
+      },
+      "ptcgoCode": "PR-ME",
+      "name": "Mega Evolution Black Star Promos"
     }
   }
 ]

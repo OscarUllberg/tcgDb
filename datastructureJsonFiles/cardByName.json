@@ -167,7 +167,9 @@
     "SK-H1",
     "MEG-56",
     "LC-1",
-    "TWM-82"
+    "TWM-82",
+    "PFL-3",
+    "PFL-9"
   ],
   "alakazam e4": ["RR-38"],
   "alakazam e4 lv x": ["RR-103"],
@@ -1580,6 +1582,7 @@
   "celebi ◇": ["LOT-19"],
   "celebi ★": ["CG-100"],
   "celebi-ex": ["BCR-9", "BCR-141"],
+  "celebratory fanfare": ["PFL-28"],
   "celesteela": ["CES-100", "PR-SM-SM131"],
   "celesteela-gx": [
     "UNB-163",
@@ -1602,7 +1605,15 @@
   "centiskorch v": ["LOR-TG14", "DAA-33", "DAA-179", "SHF-SV108"],
   "centiskorch vmax": ["LOR-TG15", "DAA-34", "DAA-191", "SHF-SV109"],
   "cerulean city gym": ["G1-108"],
-  "ceruledge": ["PAF-40", "PAF-162", "PAL-98", "SSP-35", "SSP-197", "PFL-20"],
+  "ceruledge": [
+    "PAF-40",
+    "PAF-162",
+    "PAL-98",
+    "SSP-35",
+    "SSP-197",
+    "PFL-20",
+    "PFL-14"
+  ],
   "ceruledge ex": ["SSP-36", "PRE-147"],
   "cessation crystal": ["CG-74"],
   "cetitan": ["SVI-60", "PAL-55", "SSP-54", "SSP-201", "PR-SV-63"],
@@ -1678,7 +1689,8 @@
     "SCR-29",
     "SSP-32",
     "SSP-33",
-    "PFL-19"
+    "PFL-19",
+    "PFL-22"
   ],
   "charity": ["G1-99"],
   "charizard": [
@@ -2311,7 +2323,8 @@
     "SSH-5",
     "VIV-75",
     "FCO-70",
-    "AOR-55"
+    "AOR-55",
+    "PFL-18"
   ],
   "counter catcher": ["PAR-160", "CIN-91", "CIN-120"],
   "counter energy": ["CIN-100", "CIN-122"],
@@ -3277,7 +3290,8 @@
     "PR-SV-135",
     "UPR-52",
     "ASR-64",
-    "STS-47"
+    "STS-47",
+    "PFL-6"
   ],
   "drifblim fb": ["SV-3"],
   "drifloon": [
@@ -3296,7 +3310,8 @@
     "SCR-60",
     "UPR-51",
     "ASR-63",
-    "STS-46"
+    "STS-46",
+    "PFL-5"
   ],
   "drilbur": [
     "EPO-54",
@@ -4555,7 +4570,8 @@
     "FFI-76",
     "PRC-110",
     "PFL-53",
-    "PFL-101"
+    "PFL-101",
+    "PFL-16"
   ],
   "flygon ex": ["LM-87", "PK-94", "SSP-106", "SSP-222"],
   "flygon ex δ": ["DF-92"],
@@ -5307,7 +5323,8 @@
     "TEU-27",
     "ASR-29",
     "EVS-25",
-    "BKP-17"
+    "BKP-17",
+    "PFL-8"
   ],
   "golduck break": ["BKP-18"],
   "golduck δ": ["HP-43"],
@@ -5833,7 +5850,8 @@
     "GEN-34",
     "EVO-48",
     "BKT-59",
-    "PFL-55"
+    "PFL-55",
+    "PFL-27"
   ],
   "hawlucha": [
     "PAF-175",
@@ -6498,7 +6516,8 @@
     "SSH-59",
     "SHF-SV027",
     "CRE-43",
-    "EVS-227"
+    "EVS-227",
+    "PFL-2"
   ],
   "inteleon v": ["RCL-49", "RCL-180"],
   "inteleon vmax": ["RCL-50", "RCL-195"],
@@ -7896,7 +7915,8 @@
     "CRZ-62",
     "CRZ-GG11",
     "DAA-72",
-    "XY-63"
+    "XY-63",
+    "PFL-4"
   ],
   "lurantis": ["DRI-14", "PR-SM-SM25", "BST-15"],
   "lurantis-gx": ["SUM-15", "SUM-138", "SUM-150"],
@@ -8736,21 +8756,21 @@
   "mega absol ex": ["MEG-86", "MEG-161", "MEG-180"],
   "mega camerupt ex": ["MEG-22", "MEG-156"],
   "mega catcher": ["FCO-104"],
-  "mega charizard x ex": ["PFL-13", "PFL-109", "PFL-125", "PFL-130"],
+  "mega charizard x ex": ["PFL-13", "PFL-109", "PFL-125", "PFL-130", "PFL-23"],
   "mega diancie ex": ["PFL-41"],
   "mega gardevoir ex": ["MEG-60", "MEG-159", "MEG-178", "MEG-187"],
   "mega gengar ex": ["PFL-56"],
   "mega heracross ex": ["PFL-4", "PFL-108"],
-  "mega kangaskhan ex": ["MEG-104", "MEG-164", "MEG-182"],
-  "mega latias ex": ["MEG-100", "MEG-163", "MEG-181"],
+  "mega kangaskhan ex": ["MEG-104", "MEG-164", "MEG-182", "PFL-25"],
+  "mega latias ex": ["MEG-100", "MEG-163", "MEG-181", "PFL-11"],
   "mega lopunny ex": ["PFL-84", "PFL-115", "PFL-128"],
-  "mega lucario ex": ["MEG-77", "MEG-160", "MEG-179", "MEG-188"],
+  "mega lucario ex": ["MEG-77", "MEG-160", "MEG-179", "MEG-188", "PFL-12"],
   "mega manectric ex": ["MEG-50", "MEG-158"],
   "mega mawile ex": ["MEG-94", "MEG-162"],
   "mega sharpedo ex": ["PFL-61", "PFL-113", "PFL-127"],
   "mega signal": ["MEG-121", "MEG-171"],
   "mega turbo": ["ROS-86"],
-  "mega venusaur ex": ["MEG-3", "MEG-155", "MEG-177"],
+  "mega venusaur ex": ["MEG-3", "MEG-155", "MEG-177", "PFL-13"],
   "meganium": [
     "MT-13",
     "EX-18",
@@ -8765,7 +8785,8 @@
     "N1-10",
     "N1-11",
     "LOT-8",
-    "BKP-3"
+    "BKP-3",
+    "PFL-1"
   ],
   "meganium ex": ["UF-106"],
   "meganium δ": ["DF-4"],
@@ -8793,7 +8814,8 @@
     "BKT-85",
     "PR-XY-XY120",
     "PR-XY-XY193",
-    "PFL-40"
+    "PFL-40",
+    "PFL-26"
   ],
   "meloetta ex": ["BLK-44", "BLK-159", "BLK-167"],
   "meloetta-ex": ["LTR-RC11", "LTR-RC25"],
@@ -10070,7 +10092,7 @@
     "PR-SM-SM19",
     "CRZ-GG04"
   ],
-  "oricorio ex": ["PFL-18", "PFL-110"],
+  "oricorio ex": ["PFL-18", "PFL-110", "PFL-24"],
   "origin forme dialga v": ["ASR-113", "ASR-177"],
   "origin forme dialga vstar": ["ASR-114", "ASR-198", "ASR-210", "CRZ-GG68"],
   "origin forme palkia v": ["ASR-39", "ASR-167"],
@@ -11268,7 +11290,8 @@
     "PR-SM-SM199",
     "ASR-28",
     "EVS-24",
-    "BKP-16"
+    "BKP-16",
+    "PFL-7"
   ],
   "psyduck δ": ["HP-81"],
   "pumpkaboo": ["PAR-77", "CIN-44", "EVS-76", "XY-56", "PHF-44"],
@@ -11992,7 +12015,8 @@
     "VIV-90",
     "BRS-78",
     "FCO-45",
-    "FCO-46"
+    "FCO-46",
+    "PFL-10"
   ],
   "risky ruins": ["MEG-127"],
   "rival": ["DP-113", "SW-124"],
@@ -13352,7 +13376,8 @@
     "BRS-86",
     "STS-60",
     "FLF-50",
-    "FLF-51"
+    "FLF-51",
+    "PFL-20"
   ],
   "sneasel ex": ["RS-103"],
   "snivy": [
@@ -14879,7 +14904,8 @@
     "DAA-63",
     "SHF-SV042",
     "PFL-68",
-    "PFL-103"
+    "PFL-103",
+    "PFL-17"
   ],
   "toxtricity ex": ["PAR-100", "PAR-227"],
   "toxtricity v": ["RCL-70", "RCL-182", "SHF-SV112"],
@@ -15892,7 +15918,8 @@
     "CRE-31",
     "BRS-87",
     "STS-61",
-    "FLF-52"
+    "FLF-52",
+    "PFL-21"
   ],
   "weavile g": ["PL-17"],
   "weeding gloves": ["CRE-155"],
@@ -15978,7 +16005,8 @@
     "SSH-6",
     "VIV-76",
     "FCO-71",
-    "AOR-56"
+    "AOR-56",
+    "PFL-19"
   ],
   "whimsicott ex": ["WHT-5", "WHT-157", "WHT-165"],
   "whimsicott v": ["BRS-64", "BRS-160"],
@@ -16313,7 +16341,15 @@
     "PR-XY-XY150a"
   ],
   "yveltal-gx": ["FLI-79", "FLI-124", "FLI-137"],
-  "zacian": ["PAR-136", "CRZ-94", "RCL-139", "VIV-82", "PFL-45", "PFL-100"],
+  "zacian": [
+    "PAR-136",
+    "CRZ-94",
+    "RCL-139",
+    "VIV-82",
+    "PFL-45",
+    "PFL-100",
+    "PFL-15"
+  ],
   "zacian v": [
     "CEL-16",
     "SSH-138",
