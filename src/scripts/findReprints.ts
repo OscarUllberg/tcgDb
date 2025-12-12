@@ -89,7 +89,7 @@ const findAllReprints = (
       return acc;
     }, {} as Record<string, string[]>);
 
-  console.log("✅ 3. Update ReprintList with this:", sortedReprintListData);
+  console.log("✅ 4. Update ReprintList with this:", sortedReprintListData);
   console.log("----------------------------------------------------");
 
   return sortedReprintListData;

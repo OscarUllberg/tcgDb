@@ -37,7 +37,7 @@ const sortCardsByName = (
       return acc;
     }, {} as Record<string, any>);
 
-  console.log("✅ 2. Update cardByName with this:", sortedCardByNameData);
+  console.log("✅ 3. Update cardByName with this:", sortedCardByNameData);
   console.log("----------------------------------------------------");
   return sortedCardByNameData;
 };

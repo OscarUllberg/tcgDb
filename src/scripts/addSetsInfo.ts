@@ -17,10 +17,12 @@ const addSetsInfo = (
     newExpansionData[cardKey].set = {
       releaseDate: setInfo.releaseDate,
       images: setInfo.images,
+      ptcgoCode: setInfo.ptcgoCode,
+      name: setInfo.name,
     };
   }
 
-  console.log("✅ 4. Update setsInfo with this:", newExpansionData);
+  console.log("✅ 1. Update setsInfo with this:", newExpansionData);
   console.log("----------------------------------------------------");
   return newExpansionData;
 };

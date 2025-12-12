@@ -20,7 +20,7 @@ const sortCardsById = (newExpansionData: any, cardByIdData: any) => {
       return sorted;
     }, {});
 
-  console.log("✅ 1. Update cardById with this:", cardByIdData);
+  console.log("✅ 2. Update cardById with this:", cardByIdData);
   console.log(`✅ Flattened ${Object.keys(cardById).length} cards`);
   console.log("----------------------------------------------------");
   return cardById;
