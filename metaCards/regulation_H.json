@@ -4,7 +4,7 @@
     "regulation": "H",
     "name": "Rabsca",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/24.png",
       "large": "https://images.pokemontcg.io/sv5/24_hires.png"
@@ -15,7 +15,7 @@
     "regulation": "H",
     "name": "Iron Leaves ex",
     "categories": ["Finisher"],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/25.png",
       "large": "https://images.pokemontcg.io/sv5/25_hires.png"
@@ -26,7 +26,7 @@
     "regulation": "H",
     "name": "Flutter Mane",
     "categories": ["Negate Abilities"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/78.png",
       "large": "https://images.pokemontcg.io/sv5/78_hires.png"
@@ -37,7 +37,7 @@
     "regulation": "H",
     "name": "Drillbur",
     "categories": ["Energy Search"],
-    "type": "Fighting",
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/85.png",
       "large": "https://images.pokemontcg.io/sv5/85_hires.png"
@@ -48,7 +48,7 @@
     "regulation": "H",
     "name": "Metang",
     "categories": ["Energy Acceleration"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/114.png",
       "large": "https://images.pokemontcg.io/sv5/114_hires.png"
@@ -59,7 +59,7 @@
     "regulation": "H",
     "name": "Dudunsparce",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/129.png",
       "large": "https://images.pokemontcg.io/sv5/129_hires.png"
@@ -70,7 +70,7 @@
     "regulation": "H",
     "name": "Whimsicott",
     "categories": ["Damage Control"],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/15.png",
       "large": "https://images.pokemontcg.io/sv5/15_hires.png"
@@ -81,7 +81,7 @@
     "regulation": "H",
     "name": "Buddy-Buddy Poffin",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/144.png",
       "large": "https://images.pokemontcg.io/sv5/144_hires.png"
@@ -92,7 +92,7 @@
     "regulation": "H",
     "name": "Ciphermaniac's Codebreaking",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/145.png",
       "large": "https://images.pokemontcg.io/sv5/145_hires.png"
@@ -102,8 +102,8 @@
     "id": "TEF-146",
     "regulation": "H",
     "name": "Eri",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Hand Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/146.png",
       "large": "https://images.pokemontcg.io/sv5/146_hires.png"
@@ -114,7 +114,7 @@
     "regulation": "H",
     "name": "Full Metal Lab",
     "categories": ["Damage Control"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/148.png",
       "large": "https://images.pokemontcg.io/sv5/148_hires.png"
@@ -124,8 +124,8 @@
     "id": "TEF-150",
     "regulation": "H",
     "name": "Hand Trimmer",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Hand Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/150.png",
       "large": "https://images.pokemontcg.io/sv5/150_hires.png"
@@ -136,7 +136,7 @@
     "regulation": "H",
     "name": "Heavy Baton",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/151.png",
       "large": "https://images.pokemontcg.io/sv5/151_hires.png"
@@ -147,7 +147,7 @@
     "regulation": "H",
     "name": "Hero's Cape",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/152.png",
       "large": "https://images.pokemontcg.io/sv5/152_hires.png"
@@ -158,7 +158,7 @@
     "regulation": "H",
     "name": "Master Ball",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/153.png",
       "large": "https://images.pokemontcg.io/sv5/153_hires.png"
@@ -169,7 +169,7 @@
     "regulation": "H",
     "name": "Maximum Belt",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/154.png",
       "large": "https://images.pokemontcg.io/sv5/154_hires.png"
@@ -180,7 +180,7 @@
     "regulation": "H",
     "name": "Prime Catcher",
     "categories": ["Gusting and Repulsion"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/157.png",
       "large": "https://images.pokemontcg.io/sv5/157_hires.png"
@@ -191,7 +191,7 @@
     "regulation": "H",
     "name": "Mist Energy",
     "categories": ["Special Energies"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/161.png",
       "large": "https://images.pokemontcg.io/sv5/161_hires.png"
@@ -202,7 +202,7 @@
     "regulation": "H",
     "name": "Neo Upper Energy",
     "categories": ["Special Energies"],
-    "type": "",
+    "type": ["Stage 2"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/162.png",
       "large": "https://images.pokemontcg.io/sv5/162_hires.png"
@@ -212,8 +212,8 @@
     "id": "TWM-25",
     "regulation": "H",
     "name": "Teal Mask Ogerpon",
-    "categories": ["Draw"],
-    "type": "Grass",
+    "categories": ["Draw", "Energy Acceleration"],
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/25.png",
       "large": "https://images.pokemontcg.io/sv6/25_hires.png"
@@ -224,7 +224,7 @@
     "regulation": "H",
     "name": "Froslass",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/53.png",
       "large": "https://images.pokemontcg.io/sv6/53_hires.png"
@@ -234,8 +234,8 @@
     "id": "TWM-64",
     "regulation": "H",
     "name": "Wellspring Ogerpon",
-    "categories": ["Attacker"],
-    "type": "",
+    "categories": ["Notable Attacker"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/64.png",
       "large": "https://images.pokemontcg.io/sv6/64_hires.png"
@@ -246,7 +246,7 @@
     "regulation": "H",
     "name": "Iron Thorns ex",
     "categories": ["Negate Abilities"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/77.png",
       "large": "https://images.pokemontcg.io/sv6/77_hires.png"
@@ -256,8 +256,8 @@
     "id": "TWM-112",
     "regulation": "H",
     "name": "Cornerstone Ogerpon ex",
-    "categories": ["Damage Control"],
-    "type": "",
+    "categories": ["Damage Control", "Wall Break"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/112.png",
       "large": "https://images.pokemontcg.io/sv6/112_hires.png"
@@ -268,7 +268,7 @@
     "regulation": "H",
     "name": "Drakloak",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/129.png",
       "large": "https://images.pokemontcg.io/sv6/129_hires.png"
@@ -279,7 +279,7 @@
     "regulation": "H",
     "name": "Bloodmoon Ursaluno",
     "categories": ["Finisher"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/141.png",
       "large": "https://images.pokemontcg.io/sv6/141_hires.png"
@@ -290,7 +290,7 @@
     "regulation": "H",
     "name": "Bug Catching Set",
     "categories": ["Pokémon Search"],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/143.png",
       "large": "https://images.pokemontcg.io/sv6/143_hires.png"
@@ -301,7 +301,7 @@
     "regulation": "H",
     "name": "Carmine",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/145.png",
       "large": "https://images.pokemontcg.io/sv6/145_hires.png"
@@ -311,8 +311,8 @@
     "id": "TWM-148",
     "regulation": "H",
     "name": "Enhanced Hammer",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Energy Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/148.png",
       "large": "https://images.pokemontcg.io/sv6/148_hires.png"
@@ -322,8 +322,8 @@
     "id": "TWM-150",
     "regulation": "H",
     "name": "Handheld Fan",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Energy Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/150.png",
       "large": "https://images.pokemontcg.io/sv6/150_hires.png"
@@ -333,8 +333,8 @@
     "id": "TWM-151",
     "regulation": "H",
     "name": "Hassel",
-    "categories": ["Recovery and Rebound"],
-    "type": "",
+    "categories": ["Recovery and Rebound", "Draw"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/151.png",
       "large": "https://images.pokemontcg.io/sv6/151_hires.png"
@@ -345,7 +345,7 @@
     "regulation": "H",
     "name": "Hyper Aroma",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": ["Stage 1"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/152.png",
       "large": "https://images.pokemontcg.io/sv6/152_hires.png"
@@ -355,8 +355,8 @@
     "id": "TWM-153",
     "regulation": "H",
     "name": "Jamming tower",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Tool Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/153.png",
       "large": "https://images.pokemontcg.io/sv6/153_hires.png"
@@ -366,8 +366,8 @@
     "id": "TWM-154",
     "regulation": "H",
     "name": "Kieran",
-    "categories": ["Damage Control"],
-    "type": "",
+    "categories": ["Damage Control", "Switching and Prize Denial"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/154.png",
       "large": "https://images.pokemontcg.io/sv6/154_hires.png"
@@ -378,7 +378,7 @@
     "regulation": "H",
     "name": "Lana's Aid",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/155.png",
       "large": "https://images.pokemontcg.io/sv6/155_hires.png"
@@ -389,7 +389,7 @@
     "regulation": "H",
     "name": "Scoop Up Cyyclone",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/162.png",
       "large": "https://images.pokemontcg.io/sv6/162_hires.png"
@@ -400,7 +400,7 @@
     "regulation": "H",
     "name": "Secret Box",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/163.png",
       "large": "https://images.pokemontcg.io/sv6/163_hires.png"
@@ -410,8 +410,8 @@
     "id": "TWM-165",
     "regulation": "H",
     "name": "Unfair Stamb",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Hand Disruption", "Recovery and Rebound"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/165.png",
       "large": "https://images.pokemontcg.io/sv6/165_hires.png"
@@ -421,8 +421,8 @@
     "id": "TWM-167",
     "regulation": "H",
     "name": "Legacy Energy",
-    "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "categories": ["Switching and Prize Denial", "Special Energies"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/167.png",
       "large": "https://images.pokemontcg.io/sv6/167_hires.png"
@@ -433,7 +433,7 @@
     "regulation": "H",
     "name": "Survival Brace",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/164.png",
       "large": "https://images.pokemontcg.io/sv6/164_hires.png"
@@ -444,7 +444,7 @@
     "regulation": "H",
     "name": "Munkidori",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/95.png",
       "large": "https://images.pokemontcg.io/sv6/95_hires.png"
@@ -454,8 +454,8 @@
     "id": "SFA-38",
     "regulation": "H",
     "name": "Fezandipity ex",
-    "categories": ["Draw"],
-    "type": "",
+    "categories": ["Draw", "Recovery and Rebound"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/38.png",
       "large": "https://images.pokemontcg.io/sv6pt5/38_hires.png"
@@ -466,7 +466,7 @@
     "regulation": "H",
     "name": "Pecharunt ex",
     "categories": ["Switching and Prize Denial"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/39.png",
       "large": "https://images.pokemontcg.io/sv6pt5/39_hires.png"
@@ -476,8 +476,8 @@
     "id": "SFA-40",
     "regulation": "H",
     "name": "Genesect",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Other Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/40.png",
       "large": "https://images.pokemontcg.io/sv6pt5/40_hires.png"
@@ -487,8 +487,8 @@
     "id": "SFA-57",
     "regulation": "H",
     "name": "Colress Tenacity",
-    "categories": ["Consistency and Setup"],
-    "type": "",
+    "categories": ["Consistency and Setup", "Energy Search"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/57.png",
       "large": "https://images.pokemontcg.io/sv6pt5/57_hires.png"
@@ -498,8 +498,8 @@
     "id": "SFA-55",
     "regulation": "H",
     "name": "Binding Mochi",
-    "categories": ["Damage Control"],
-    "type": "",
+    "categories": ["Damage Control", "Poison"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/55.png",
       "large": "https://images.pokemontcg.io/sv6pt5/55_hires.png"
@@ -509,8 +509,8 @@
     "id": "SFA-59",
     "regulation": "H",
     "name": "Janine's Secret Art",
-    "categories": ["Energy Acceleration"],
-    "type": "Darkness",
+    "categories": ["Energy Acceleration", "Poison"],
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/59.png",
       "large": "https://images.pokemontcg.io/sv6pt5/59_hires.png"
@@ -521,7 +521,7 @@
     "regulation": "H",
     "name": "Neutralization Zone",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/60.png",
       "large": "https://images.pokemontcg.io/sv6pt5/60_hires.png"
@@ -532,7 +532,7 @@
     "regulation": "H",
     "name": "Night Streatcher",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/61.png",
       "large": "https://images.pokemontcg.io/sv6pt5/61_hires.png"
@@ -543,7 +543,7 @@
     "regulation": "H",
     "name": "Powerglass",
     "categories": ["Energy Acceleration"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/63.png",
       "large": "https://images.pokemontcg.io/sv6pt5/63_hires.png"
@@ -553,8 +553,8 @@
     "id": "SFA-64",
     "regulation": "H",
     "name": "Xerosic's Mechaniation",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Hand Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/64.png",
       "large": "https://images.pokemontcg.io/sv6pt5/64_hires.png"
@@ -565,7 +565,7 @@
     "regulation": "H",
     "name": "Poké Vital A",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/62.png",
       "large": "https://images.pokemontcg.io/sv6pt5/62_hires.png"
@@ -576,7 +576,7 @@
     "regulation": "H",
     "name": "Joltik",
     "categories": ["Energy Acceleration"],
-    "type": "Lightning",
+    "type": ["Lightning", "Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/50.png",
       "large": "https://images.pokemontcg.io/sv7/50_hires.png"
@@ -587,7 +587,7 @@
     "regulation": "H",
     "name": "Noctowl",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/115.png",
       "large": "https://images.pokemontcg.io/sv7/115_hires.png"
@@ -598,7 +598,7 @@
     "regulation": "H",
     "name": "Fan Rotom",
     "categories": ["Consistency and Setup"],
-    "type": "Colorless",
+    "type": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/118.png",
       "large": "https://images.pokemontcg.io/sv7/118_hires.png"
@@ -608,8 +608,8 @@
     "id": "SCR-119",
     "regulation": "H",
     "name": "Bouffalant",
-    "categories": ["Switching and Prize Denial"],
-    "type": "Colorless",
+    "categories": ["Damage Control"],
+    "type": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/119.png",
       "large": "https://images.pokemontcg.io/sv7/119_hires.png"
@@ -620,7 +620,7 @@
     "regulation": "H",
     "name": "Terapagos ex",
     "categories": ["Consistency and Setup"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/128.png",
       "large": "https://images.pokemontcg.io/sv7/128_hires.png"
@@ -631,7 +631,7 @@
     "regulation": "H",
     "name": "Area Zero Underdepth",
     "categories": ["Consistency and Setup"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/131.png",
       "large": "https://images.pokemontcg.io/sv7/131_hires.png"
@@ -642,7 +642,7 @@
     "regulation": "H",
     "name": "Briar",
     "categories": ["Extra Prize"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
@@ -652,8 +652,8 @@
     "id": "SCR-133",
     "regulation": "H",
     "name": "Crispin",
-    "categories": ["Energy Acceleration"],
-    "type": "",
+    "categories": ["Energy Acceleration", "Energy Search"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/133.png",
       "large": "https://images.pokemontcg.io/sv7/133_hires.png"
@@ -664,7 +664,7 @@
     "regulation": "H",
     "name": "Deluxe Bomb",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/134.png",
       "large": "https://images.pokemontcg.io/sv7/134_hires.png"
@@ -675,7 +675,7 @@
     "regulation": "H",
     "name": "Glass Trumpet",
     "categories": ["Energy Acceleration"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/135.png",
       "large": "https://images.pokemontcg.io/sv7/135_hires.png"
@@ -685,8 +685,8 @@
     "id": "SCR-136",
     "regulation": "H",
     "name": "Grand Tree",
-    "categories": ["Consistency and Setup"],
-    "type": "",
+    "categories": ["Consistency and Setup", "Pokémon Search"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/136.png",
       "large": "https://images.pokemontcg.io/sv7/136_hires.png"
@@ -697,7 +697,7 @@
     "regulation": "H",
     "name": "Gravity Gemstone",
     "categories": ["Retreat Locke"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/137.png",
       "large": "https://images.pokemontcg.io/sv7/137_hires.png"
@@ -708,7 +708,7 @@
     "regulation": "H",
     "name": "Occa Berry",
     "categories": ["Damage Control"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/140.png",
       "large": "https://images.pokemontcg.io/sv7/140_hires.png"
@@ -719,7 +719,7 @@
     "regulation": "H",
     "name": "Payapa Berry",
     "categories": ["Damage Control"],
-    "type": "Psychic",
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/141.png",
       "large": "https://images.pokemontcg.io/sv7/141_hires.png"
@@ -729,8 +729,8 @@
     "id": "SSP-56",
     "regulation": "H",
     "name": "Chien-Pao",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Stadium Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/56.png",
       "large": "https://images.pokemontcg.io/sv8/56_hires.png"
@@ -741,7 +741,7 @@
     "regulation": "H",
     "name": "Sparkling Crystal",
     "categories": ["Energy Acceleration"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/142.png",
       "large": "https://images.pokemontcg.io/sv7/142_hires.png"
@@ -752,7 +752,7 @@
     "regulation": "H",
     "name": "Magneton",
     "categories": ["Energy Acceleration"],
-    "type": "Lightning",
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/59.png",
       "large": "https://images.pokemontcg.io/sv8/59_hires.png"
@@ -763,7 +763,7 @@
     "regulation": "H",
     "name": "Togekiss",
     "categories": ["Extra Prize"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/72.png",
       "large": "https://images.pokemontcg.io/sv8/72_hires.png"
@@ -774,7 +774,7 @@
     "regulation": "H",
     "name": "Latias ex",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/76.png",
       "large": "https://images.pokemontcg.io/sv8/76_hires.png"
@@ -785,7 +785,7 @@
     "regulation": "H",
     "name": "Dedenne",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/87.png",
       "large": "https://images.pokemontcg.io/sv8/87_hires.png"
@@ -795,8 +795,8 @@
     "id": "SSP-107",
     "regulation": "H",
     "name": "Gastrodon",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Other Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/107.png",
       "large": "https://images.pokemontcg.io/sv8/107_hires.png"
@@ -807,7 +807,7 @@
     "regulation": "H",
     "name": "Archaludon ex",
     "categories": ["Energy Acceleration"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/130.png",
       "large": "https://images.pokemontcg.io/sv8/130_hires.png"
@@ -817,8 +817,8 @@
     "id": "SSP-137",
     "regulation": "H",
     "name": "Turtonator",
-    "categories": ["Disruption"],
-    "type": "Fire",
+    "categories": ["Energy Disruption"],
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/137.png",
       "large": "https://images.pokemontcg.io/sv8/137_hires.png"
@@ -829,7 +829,7 @@
     "regulation": "H",
     "name": "Terapagos",
     "categories": ["Energy Acceleration"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/161.png",
       "large": "https://images.pokemontcg.io/sv8/161_hires.png"
@@ -840,7 +840,7 @@
     "regulation": "H",
     "name": "Brilliant Blender",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/164.png",
       "large": "https://images.pokemontcg.io/sv8/164_hires.png"
@@ -850,8 +850,8 @@
     "id": "SSP-165",
     "regulation": "H",
     "name": "Call Bell",
-    "categories": ["Consistency and Setup"],
-    "type": "",
+    "categories": ["Consistency and Setup", "Turn 1 Specific"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/165.png",
       "large": "https://images.pokemontcg.io/sv8/165_hires.png"
@@ -862,7 +862,7 @@
     "regulation": "H",
     "name": "Clemont's Quick Wit",
     "categories": ["Damage Control"],
-    "type": "Lightning",
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/167.png",
       "large": "https://images.pokemontcg.io/sv8/167_hires.png"
@@ -872,8 +872,8 @@
     "id": "SSP-169",
     "regulation": "H",
     "name": "Counter Gain",
-    "categories": ["Recovery and Rebound"],
-    "type": "",
+    "categories": ["Recovery and Rebound", "Energy Acceleration"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/169.png",
       "large": "https://images.pokemontcg.io/sv8/169_hires.png"
@@ -884,7 +884,7 @@
     "regulation": "H",
     "name": "Cyrano",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": ["ex"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/170.png",
       "large": "https://images.pokemontcg.io/sv8/170_hires.png"
@@ -895,7 +895,7 @@
     "regulation": "H",
     "name": "Dusk Ball",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/175.png",
       "large": "https://images.pokemontcg.io/sv8/175_hires.png"
@@ -906,7 +906,7 @@
     "regulation": "H",
     "name": "Energy Search Pro",
     "categories": ["Energy Search"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/176.png",
       "large": "https://images.pokemontcg.io/sv8/176_hires.png"
@@ -917,7 +917,7 @@
     "regulation": "H",
     "name": "Gravityy Mountain",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/177.png",
       "large": "https://images.pokemontcg.io/sv8/177_hires.png"
@@ -928,7 +928,7 @@
     "regulation": "H",
     "name": "Lively Stadium",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/180.png",
       "large": "https://images.pokemontcg.io/sv8/180_hires.png"
@@ -938,8 +938,12 @@
     "id": "SSP-182",
     "regulation": "H",
     "name": "Megaton Blower",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": [
+      "Tool Disruption",
+      "Energy Disruption",
+      "Stadium Disruption"
+    ],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/182.png",
       "large": "https://images.pokemontcg.io/sv8/182_hires.png"
@@ -950,7 +954,7 @@
     "regulation": "H",
     "name": "Miracle Headset",
     "categories": ["Other Good"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/183.png",
       "large": "https://images.pokemontcg.io/sv8/183_hires.png"
@@ -959,9 +963,9 @@
   {
     "id": "SSP-185",
     "regulation": "H",
-    "name": "Precious Strolley",
+    "name": "Precious Trolley",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/185.png",
       "large": "https://images.pokemontcg.io/sv8/185_hires.png"
@@ -971,8 +975,8 @@
     "id": "SSP-186",
     "regulation": "H",
     "name": "Scramble Switch",
-    "categories": ["Consistency and Setup"],
-    "type": "",
+    "categories": ["Consistency and Setup", "Energy Acceleration"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/186.png",
       "large": "https://images.pokemontcg.io/sv8/186_hires.png"
@@ -983,7 +987,7 @@
     "regulation": "H",
     "name": "Tera Orb",
     "categories": ["Pokémon Search"],
-    "type": "Tera",
+    "type": ["Tera"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/189.png",
       "large": "https://images.pokemontcg.io/sv8/189_hires.png"
@@ -993,8 +997,8 @@
     "id": "SSP-191",
     "regulation": "H",
     "name": "Enriching Energy",
-    "categories": ["Draw"],
-    "type": "",
+    "categories": ["Draw", "Special Energies"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/191.png",
       "large": "https://images.pokemontcg.io/sv8/191_hires.png"
@@ -1004,8 +1008,8 @@
     "id": "PRE-4",
     "regulation": "H",
     "name": "Budew",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Item Locke"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/4.png",
       "large": "https://images.pokemontcg.io/sv8pt5/4_hires.png"
@@ -1016,7 +1020,7 @@
     "regulation": "H",
     "name": "Archaludon",
     "categories": ["Switching and Prize Denial"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/70.png",
       "large": "https://images.pokemontcg.io/sv8pt5/70_hires.png"
@@ -1026,8 +1030,8 @@
     "id": "PRE-86",
     "regulation": "H",
     "name": "Regigigas",
-    "categories": ["Attacker"],
-    "type": "",
+    "categories": ["Notable Attacker"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/86.png",
       "large": "https://images.pokemontcg.io/sv8pt5/86_hires.png"
@@ -1038,7 +1042,7 @@
     "regulation": "H",
     "name": "Max Rod",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/116.png",
       "large": "https://images.pokemontcg.io/sv8pt5/116_hires.png"
@@ -1049,7 +1053,7 @@
     "regulation": "H",
     "name": "Treasure Tracker",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/131.png",
       "large": "https://images.pokemontcg.io/sv8pt5/131_hires.png"
@@ -1060,7 +1064,7 @@
     "regulation": "H",
     "name": "Haban Berry",
     "categories": ["Damage Control"],
-    "type": "Dragon",
+    "type": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/111.png",
       "large": "https://images.pokemontcg.io/sv8pt5/111_hires.png"
@@ -1071,7 +1075,7 @@
     "regulation": "H",
     "name": "Babiri Berry",
     "categories": ["Damage Control"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/163.png",
       "large": "https://images.pokemontcg.io/sv8/163_hires.png"
@@ -1082,7 +1086,7 @@
     "regulation": "H",
     "name": "Colbur Berry",
     "categories": ["Damage Control"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/168.png",
       "large": "https://images.pokemontcg.io/sv8/168_hires.png"
@@ -1093,7 +1097,7 @@
     "regulation": "H",
     "name": "Dragon Elixir",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/172.png",
       "large": "https://images.pokemontcg.io/sv8/172_hires.png"
@@ -1104,7 +1108,7 @@
     "regulation": "H",
     "name": "Passho Berry",
     "categories": ["Damage Control"],
-    "type": "Water",
+    "type": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/184.png",
       "large": "https://images.pokemontcg.io/sv8/184_hires.png"
@@ -1115,7 +1119,7 @@
     "regulation": "H",
     "name": "Surfer",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/187.png",
       "large": "https://images.pokemontcg.io/sv8/187_hires.png"
@@ -1126,7 +1130,7 @@
     "regulation": "H",
     "name": "Amulet of Hope",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/162.png",
       "large": "https://images.pokemontcg.io/sv8/162_hires.png"

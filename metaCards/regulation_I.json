@@ -4,7 +4,7 @@
     "regulation": "I",
     "name": "Black Belt's Training",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/143.png",
       "large": "https://images.pokemontcg.io/sv9/143_hires.png"
@@ -15,7 +15,7 @@
     "regulation": "I",
     "name": "Brock's Scouting",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": ["Basic", "Evolution"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/146.png",
       "large": "https://images.pokemontcg.io/sv9/146_hires.png"
@@ -26,7 +26,7 @@
     "regulation": "I",
     "name": "Levincia",
     "categories": ["Recovery and Rebound"],
-    "type": "Lightning",
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/150.png",
       "large": "https://images.pokemontcg.io/sv9/150_hires.png"
@@ -37,7 +37,7 @@
     "regulation": "I",
     "name": "Redeemable Ticket",
     "categories": ["Other Good"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/156.png",
       "large": "https://images.pokemontcg.io/sv9/156_hires.png"
@@ -48,7 +48,7 @@
     "regulation": "I",
     "name": "Blaziken",
     "categories": ["Energy Acceleration"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/24.png",
       "large": "https://images.pokemontcg.io/sv9/24_hires.png"
@@ -59,7 +59,7 @@
     "regulation": "I",
     "name": "N's Zoroark",
     "categories": ["Draw"],
-    "type": "Darkness",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/98.png",
       "large": "https://images.pokemontcg.io/sv9/98_hires.png"
@@ -67,10 +67,10 @@
   },
   {
     "id": "JTG-7",
-    "regulation": "I",
+    "regulation": "H",
     "name": "Lilligant",
     "categories": ["Damage Control"],
-    "type": "Fire",
+    "type": ["Fire", "Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/7.png",
       "large": "https://images.pokemontcg.io/sv9/7_hires.png"
@@ -80,8 +80,8 @@
     "id": "JTG-56",
     "regulation": "I",
     "name": "Lillie's Clefairy",
-    "categories": ["Attacker"],
-    "type": "Psychic",
+    "categories": ["Notable Attacker"],
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/56.png",
       "large": "https://images.pokemontcg.io/sv9/56_hires.png"
@@ -92,7 +92,7 @@
     "regulation": "I",
     "name": "Maractus",
     "categories": ["Retreat Locke"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/8.png",
       "large": "https://images.pokemontcg.io/sv9/8_hires.png"
@@ -103,7 +103,7 @@
     "regulation": "I",
     "name": "Shaymin",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": ["Non-Rulebox"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/10.png",
       "large": "https://images.pokemontcg.io/sv10/10_hires.png"
@@ -113,8 +113,8 @@
     "id": "DRI-12",
     "regulation": "I",
     "name": "Crustle",
-    "categories": ["Damage Control"],
-    "type": "",
+    "categories": ["Damage Control", "Wall Break"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/12.png",
       "large": "https://images.pokemontcg.io/sv10/12_hires.png"
@@ -125,7 +125,7 @@
     "regulation": "I",
     "name": "Ethan's Ho-Oh ex",
     "categories": ["Energy Acceleration"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/39.png",
       "large": "https://images.pokemontcg.io/sv10/39_hires.png"
@@ -136,7 +136,7 @@
     "regulation": "I",
     "name": "Steven's Metagross ex",
     "categories": ["Energy Acceleration"],
-    "type": "Metal",
+    "type": ["Metal", "Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/145.png",
       "large": "https://images.pokemontcg.io/sv10/145_hires.png"
@@ -147,7 +147,7 @@
     "regulation": "I",
     "name": "Energy Recycler",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/164.png",
       "large": "https://images.pokemontcg.io/sv10/164_hires.png"
@@ -157,8 +157,8 @@
     "id": "DRI-167",
     "regulation": "I",
     "name": "Judge",
-    "categories": ["Disruption"],
-    "type": "",
+    "categories": ["Hand Disruption", "Draw"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/167.png",
       "large": "https://images.pokemontcg.io/sv10/167_hires.png"
@@ -169,7 +169,7 @@
     "regulation": "I",
     "name": "Sacred Ash",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/168.png",
       "large": "https://images.pokemontcg.io/sv10/168_hires.png"
@@ -180,7 +180,7 @@
     "regulation": "I",
     "name": "Team Rocket's Factory",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/173.png",
       "large": "https://images.pokemontcg.io/sv10/173_hires.png"
@@ -191,7 +191,7 @@
     "regulation": "I",
     "name": "Team Rocket's Petrel",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/176.png",
       "large": "https://images.pokemontcg.io/sv10/176_hires.png"
@@ -202,7 +202,7 @@
     "regulation": "I",
     "name": "Team Rocket's Watchtower",
     "categories": ["Negate Abilities"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/180.png",
       "large": "https://images.pokemontcg.io/sv10/180_hires.png"
@@ -213,7 +213,7 @@
     "regulation": "I",
     "name": "Eelektrik",
     "categories": ["Energy Acceleration"],
-    "type": "Lightning",
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/31.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/31_hires.png"
@@ -224,7 +224,7 @@
     "regulation": "I",
     "name": "Zekrom",
     "categories": ["Finisher"],
-    "type": "Lightning",
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/34.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/34_hires.png"
@@ -234,8 +234,8 @@
     "id": "BLK-40",
     "regulation": "I",
     "name": "Elgyem",
-    "categories": ["Disruption"],
-    "type": "Psychic",
+    "categories": ["Energy Disruption"],
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/40.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/40_hires.png"
@@ -246,7 +246,7 @@
     "regulation": "I",
     "name": "Genesect ex",
     "categories": ["Pokémon Search"],
-    "type": "Metal",
+    "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/67.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/67_hires.png"
@@ -257,7 +257,7 @@
     "regulation": "I",
     "name": "Air Balloon",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/79.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/79_hires.png"
@@ -268,7 +268,7 @@
     "regulation": "I",
     "name": "N's Plan",
     "categories": ["Energy Acceleration"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/83.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/83_hires.png"
@@ -279,7 +279,7 @@
     "regulation": "I",
     "name": "Pokégear 3.0",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/84.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/84_hires.png"
@@ -290,7 +290,7 @@
     "regulation": "I",
     "name": "Prism Energy",
     "categories": ["Special Energies"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/86.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/86_hires.png"
@@ -301,7 +301,7 @@
     "regulation": "I",
     "name": "Emboar",
     "categories": ["Energy Acceleration"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/13.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/13_hires.png"
@@ -311,8 +311,8 @@
     "id": "WHT-44",
     "regulation": "I",
     "name": "Frillish",
-    "categories": ["Disruption"],
-    "type": "Psychic",
+    "categories": ["Item Locke"],
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/44.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/44_hires.png"
@@ -322,8 +322,8 @@
     "id": "WHT-45",
     "regulation": "I",
     "name": "Jellicent",
-    "categories": ["Disruption"],
-    "type": "Psychic",
+    "categories": ["Item Locke", "Tool Disruption"],
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/45.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/45_hires.png"
@@ -334,7 +334,7 @@
     "regulation": "I",
     "name": "Purrloin",
     "categories": ["Consistency and Setup"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/55.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/55_hires.png"
@@ -345,7 +345,7 @@
     "regulation": "I",
     "name": "Brave Bangle",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": ["Non-Rulebox"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/80.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/80_hires.png"
@@ -356,7 +356,7 @@
     "regulation": "I",
     "name": "Energy Retreival",
     "categories": ["Recovery and Rebound"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/82.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/82_hires.png"
@@ -366,8 +366,8 @@
     "id": "WHT-84",
     "regulation": "I",
     "name": "Hilda",
-    "categories": ["Pokémon Search"],
-    "type": "",
+    "categories": ["Pokémon Search", "Energy Search"],
+    "type": ["Evolution"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/84.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/84_hires.png"
@@ -377,8 +377,8 @@
     "id": "WHT-85",
     "regulation": "I",
     "name": "Tool Scrapper",
-    "categories": ["Other Good"],
-    "type": "",
+    "categories": ["Tool Disruption"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/85.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/85_hires.png"
@@ -389,7 +389,7 @@
     "regulation": "I",
     "name": "Ignition Energy",
     "categories": ["Special Energies"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/86.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/86_hires.png"
@@ -400,7 +400,7 @@
     "regulation": "I",
     "name": "Mega Venusaur ex",
     "categories": [""],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/3.png",
       "large": "https://images.pokemontcg.io/me1/3_hires.png"
@@ -411,7 +411,7 @@
     "regulation": "I",
     "name": "Meganium",
     "categories": ["Energy Acceleration"],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/10.png",
       "large": "https://images.pokemontcg.io/me1/10_hires.png"
@@ -422,7 +422,7 @@
     "regulation": "I",
     "name": "Shuckle",
     "categories": ["Damage Control"],
-    "type": "Grass",
+    "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/11.png",
       "large": "https://images.pokemontcg.io/me1/11_hires.png"
@@ -433,7 +433,7 @@
     "regulation": "I",
     "name": "Cinderace",
     "categories": ["Energy Acceleration"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/28.png",
       "large": "https://images.pokemontcg.io/me1/28_hires.png"
@@ -444,7 +444,7 @@
     "regulation": "I",
     "name": "Clawitzer",
     "categories": ["Energy Acceleration"],
-    "type": "Water",
+    "type": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/38.png",
       "large": "https://images.pokemontcg.io/me1/38_hires.png"
@@ -455,7 +455,7 @@
     "regulation": "I",
     "name": "Kadabra",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/55.png",
       "large": "https://images.pokemontcg.io/me1/55_hires.png"
@@ -466,7 +466,7 @@
     "regulation": "I",
     "name": "Alakazam",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/56.png",
       "large": "https://images.pokemontcg.io/me1/56_hires.png"
@@ -477,7 +477,7 @@
     "regulation": "I",
     "name": "Hariyama",
     "categories": ["Gusting and Repulsion"],
-    "type": "Fighting",
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/73.png",
       "large": "https://images.pokemontcg.io/me1/73_hires.png"
@@ -488,7 +488,7 @@
     "regulation": "I",
     "name": "Lunatone",
     "categories": ["Draw"],
-    "type": "Fighting",
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/74.png",
       "large": "https://images.pokemontcg.io/me1/74_hires.png"
@@ -499,7 +499,7 @@
     "regulation": "I",
     "name": "Solrock",
     "categories": [""],
-    "type": "Fighting",
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
@@ -510,7 +510,7 @@
     "regulation": "I",
     "name": "Yveltal",
     "categories": ["Retreat Locke"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/88.png",
       "large": "https://images.pokemontcg.io/me1/88_hires.png"
@@ -521,7 +521,7 @@
     "regulation": "I",
     "name": "Mega Kangaskhan",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/104.png",
       "large": "https://images.pokemontcg.io/me1/104_hires.png"
@@ -532,7 +532,7 @@
     "regulation": "I",
     "name": "Boss's Orders",
     "categories": ["Gusting and Repulsion"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/114.png",
       "large": "https://images.pokemontcg.io/me1/114_hires.png"
@@ -542,8 +542,8 @@
     "id": "MEG-115",
     "regulation": "I",
     "name": "Energy Switch",
-    "categories": ["Consistency and Setup"],
-    "type": "",
+    "categories": ["Consistency and Setup", "Energy Acceleration"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/115.png",
       "large": "https://images.pokemontcg.io/me1/115_hires.png"
@@ -553,8 +553,8 @@
     "id": "MEG-116",
     "regulation": "I",
     "name": "Fighting Gong",
-    "categories": ["Pokémon Search"],
-    "type": "",
+    "categories": ["Pokémon Search", "Energy Search"],
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/116.png",
       "large": "https://images.pokemontcg.io/me1/116_hires.png"
@@ -565,7 +565,7 @@
     "regulation": "I",
     "name": "Forest of Vitality",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/117.png",
       "large": "https://images.pokemontcg.io/me1/117_hires.png"
@@ -576,7 +576,7 @@
     "regulation": "I",
     "name": "Iron Defender",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/118.png",
       "large": "https://images.pokemontcg.io/me1/118_hires.png"
@@ -587,7 +587,7 @@
     "regulation": "I",
     "name": "Lillie's Determination",
     "categories": ["Draw"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/119.png",
       "large": "https://images.pokemontcg.io/me1/119_hires.png"
@@ -598,7 +598,7 @@
     "regulation": "I",
     "name": "Mega Signal",
     "categories": ["Pokémon Search"],
-    "type": "Mega",
+    "type": ["Mega"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/121.png",
       "large": "https://images.pokemontcg.io/me1/121_hires.png"
@@ -609,7 +609,7 @@
     "regulation": "I",
     "name": "Mysery Garden",
     "categories": ["Draw"],
-    "type": "Psychic",
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/122.png",
       "large": "https://images.pokemontcg.io/me1/122_hires.png"
@@ -620,7 +620,7 @@
     "regulation": "I",
     "name": "Premium Power Pro",
     "categories": ["Damage Control"],
-    "type": "Fighting",
+    "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/124.png",
       "large": "https://images.pokemontcg.io/me1/124_hires.png"
@@ -631,7 +631,7 @@
     "regulation": "I",
     "name": "Rare Candy",
     "categories": ["Consistency and Setup"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/125.png",
       "large": "https://images.pokemontcg.io/me1/125_hires.png"
@@ -642,7 +642,7 @@
     "regulation": "I",
     "name": "Surfing Beach",
     "categories": ["Switching and Prize Denial"],
-    "type": "Water",
+    "type": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/129.png",
       "large": "https://images.pokemontcg.io/me1/129_hires.png"
@@ -653,7 +653,7 @@
     "regulation": "I",
     "name": "Switch",
     "categories": ["Switching and Prize Denial"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/130.png",
       "large": "https://images.pokemontcg.io/me1/130_hires.png"
@@ -664,7 +664,7 @@
     "regulation": "I",
     "name": "Ultra Ball",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/131.png",
       "large": "https://images.pokemontcg.io/me1/131_hires.png"
@@ -675,7 +675,7 @@
     "regulation": "I",
     "name": "Wally's Compassion",
     "categories": ["Damage Control"],
-    "type": "Mega",
+    "type": ["Mega"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/132.png",
       "large": "https://images.pokemontcg.io/me1/132_hires.png"
@@ -686,7 +686,7 @@
     "regulation": "I",
     "name": "Repel",
     "categories": ["Gusting and Repulsion"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/126.png",
       "large": "https://images.pokemontcg.io/me1/126_hires.png"
@@ -697,7 +697,7 @@
     "regulation": "I",
     "name": "Risky Ruins",
     "categories": ["Damage Control"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/127.png",
       "large": "https://images.pokemontcg.io/me1/127_hires.png"
@@ -708,7 +708,7 @@
     "regulation": "I",
     "name": "Oricorio",
     "categories": ["Energy Acceleration"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/18.png",
       "large": "https://images.pokemontcg.io/me2/18_hires.png"
@@ -719,7 +719,7 @@
     "regulation": "I",
     "name": "Mega Gengar ex",
     "categories": ["Switching and Prize Denial"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/56.png",
       "large": "https://images.pokemontcg.io/me2/56_hires.png"
@@ -730,7 +730,7 @@
     "regulation": "I",
     "name": "Toxtricity",
     "categories": ["Energy Acceleration"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/68.png",
       "large": "https://images.pokemontcg.io/me2/68_hires.png"
@@ -741,7 +741,7 @@
     "regulation": "I",
     "name": "Mega Lopunny",
     "categories": ["Wall Break"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/84.png",
       "large": "https://images.pokemontcg.io/me2/84_hires.png"
@@ -752,7 +752,7 @@
     "regulation": "I",
     "name": "Battle Cage",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/85.png",
       "large": "https://images.pokemontcg.io/me2/85_hires.png"
@@ -762,8 +762,12 @@
     "id": "PFL-86",
     "regulation": "I",
     "name": "Blowtorch",
-    "categories": ["Other Good"],
-    "type": "Fire",
+    "categories": [
+      "Tool Disruption",
+      "Stadium Disruption",
+      "Energy Disruption"
+    ],
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/86.png",
       "large": "https://images.pokemontcg.io/me2/86_hires.png"
@@ -774,7 +778,7 @@
     "regulation": "I",
     "name": "Dawn",
     "categories": ["Pokémon Search"],
-    "type": "",
+    "type": ["Basic", "Stage 1", "Stage 2"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/87.png",
       "large": "https://images.pokemontcg.io/me2/87_hires.png"
@@ -785,7 +789,7 @@
     "regulation": "I",
     "name": "Firebreather",
     "categories": ["Energy Search"],
-    "type": "Fire",
+    "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/89.png",
       "large": "https://images.pokemontcg.io/me2/89_hires.png"
@@ -796,7 +800,7 @@
     "regulation": "I",
     "name": "Grimsley's Move",
     "categories": ["Other Good"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/90.png",
       "large": "https://images.pokemontcg.io/me2/90_hires.png"
@@ -807,7 +811,7 @@
     "regulation": "I",
     "name": "Jumbo Ice Cream",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/91.png",
       "large": "https://images.pokemontcg.io/me2/91_hires.png"
@@ -818,7 +822,7 @@
     "regulation": "I",
     "name": "Punk Helmet",
     "categories": ["Damage Control"],
-    "type": "Darkness",
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/92.png",
       "large": "https://images.pokemontcg.io/me2/92_hires.png"
@@ -829,7 +833,7 @@
     "regulation": "I",
     "name": "Sacred Charm",
     "categories": ["Damage Control"],
-    "type": "",
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/93.png",
       "large": "https://images.pokemontcg.io/me2/93_hires.png"
@@ -840,7 +844,7 @@
     "regulation": "I",
     "name": "Wonderous Patch",
     "categories": ["Energy Acceleration"],
-    "type": "Psychic",
+    "type": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/94.png",
       "large": "https://images.pokemontcg.io/me2/94_hires.png"
