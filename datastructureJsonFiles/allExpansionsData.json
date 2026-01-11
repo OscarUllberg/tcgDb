@@ -88,12 +88,31 @@
         "unlimited": "Legal"
       },
       "name": "Ascending Heroes",
-      "printedTotal": 1,
+      "printedTotal": 0,
       "ptcgoCode": "ASC",
       "releaseDate": "2026/01/30",
       "series": "Mega Evolution",
       "total": 1,
       "updatedAt": "2025/12/16 21:00:00"
+    },
+    {
+      "id": "me3",
+      "images": {
+        "logo": "https://images.pokemontcg.io/me3/logo.png",
+        "symbol": "https://images.pokemontcg.io/me3/symbol.png"
+      },
+      "legalities": {
+        "expanded": "Legal",
+        "standard": "Legal",
+        "unlimited": "Legal"
+      },
+      "name": "Perfect Order",
+      "printedTotal": 0,
+      "ptcgoCode": "POR",
+      "releaseDate": "2026/03/27",
+      "series": "Mega Evolution",
+      "total": 1,
+      "updatedAt": "2026/01/11 21:00:00"
     }
   ],
   [
