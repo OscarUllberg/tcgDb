@@ -561,14 +561,14 @@
     }
   },
   {
-    "id": "MEW-154",
+    "id": "MEW-164",
     "regulation": "G",
     "name": "Protective Glasses",
     "category": "Damage Control",
     "type": "",
     "images": {
-      "small": "https://images.pokemontcg.io/sv3pt5/154.png",
-      "large": "https://images.pokemontcg.io/sv3pt5/154_hires.png"
+      "small": "https://images.pokemontcg.io/sv3pt5/164.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/164_hires.png"
     }
   },
   {
@@ -798,8 +798,8 @@
     "category": "Retreat Locke",
     "type": "",
     "images": {
-      "small": "https://images.pokemontcg.io/sv3pt5/6.png",
-      "large": "https://images.pokemontcg.io/sv3pt5/6_hires.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/6.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/6_hires.png"
     }
   },
   {
@@ -809,8 +809,8 @@
     "category": "Draw",
     "type": "Metal",
     "images": {
-      "small": "https://images.pokemontcg.io/sv3pt5/65.png",
-      "large": "https://images.pokemontcg.io/sv3pt5/65_hires.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/65.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/65_hires.png"
     }
   }
 ]

@@ -256,7 +256,7 @@
     "id": "BLK-79",
     "regulation": "I",
     "name": "Air Balloon",
-    "category": "Free Retreat",
+    "category": "Switching and Prize Denial",
     "type": "",
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/79.png",
@@ -418,14 +418,14 @@
     }
   },
   {
-    "id": "MEG-111",
+    "id": "MEG-11",
     "regulation": "I",
     "name": "Shuckle",
     "category": "Damage Control",
     "type": "Grass",
     "images": {
-      "small": "https://images.pokemontcg.io/me1/111.png",
-      "large": "https://images.pokemontcg.io/me1/111_hires.png"
+      "small": "https://images.pokemontcg.io/me1/11.png",
+      "large": "https://images.pokemontcg.io/me1/11_hires.png"
     }
   },
   {
