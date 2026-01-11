@@ -704,17 +704,6 @@
     }
   },
   {
-    "id": "SCR-138",
-    "regulation": "H",
-    "name": "Sparkling Crystal",
-    "category": "Energy Acceleration",
-    "type": "Tera",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv7/138.png",
-      "large": "https://images.pokemontcg.io/sv7/138_hires.png"
-    }
-  },
-  {
     "id": "SCR-140",
     "regulation": "H",
     "name": "Occa Berry",
@@ -745,6 +734,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv8/56.png",
       "large": "https://images.pokemontcg.io/sv8/56_hires.png"
+    }
+  },
+  {
+    "id": "SCR-142",
+    "regulation": "H",
+    "name": "Sparkling Crystal",
+    "category": "Energy Acceleration",
+    "type": "Tera",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/142.png",
+      "large": "https://images.pokemontcg.io/sv7/142_hires.png"
     }
   },
   {
