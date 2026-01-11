@@ -466,7 +466,7 @@
     "regulation": "H",
     "name": "Pecharunt ex",
     "category": "Switching and Prize Denial",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/39.png",
       "large": "https://images.pokemontcg.io/sv6pt5/39_hires.png"
@@ -510,7 +510,7 @@
     "regulation": "H",
     "name": "Janine's Secret Art",
     "category": "Energy Acceleration",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/59.png",
       "large": "https://images.pokemontcg.io/sv6pt5/59_hires.png"
@@ -1082,7 +1082,7 @@
     "regulation": "H",
     "name": "Colbur Berry",
     "category": "Damage Control",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/168.png",
       "large": "https://images.pokemontcg.io/sv8/168_hires.png"

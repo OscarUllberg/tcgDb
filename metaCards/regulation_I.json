@@ -59,7 +59,7 @@
     "regulation": "I",
     "name": "N's Zoroark",
     "category": "Draw",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/98.png",
       "large": "https://images.pokemontcg.io/sv9/98_hires.png"
@@ -334,7 +334,7 @@
     "regulation": "I",
     "name": "Purrloin",
     "category": "Consistency and Setup",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/55.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/55_hires.png"
@@ -510,7 +510,7 @@
     "regulation": "I",
     "name": "Yveltal",
     "category": "Retreat Locke",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me1/88.png",
       "large": "https://images.pokemontcg.io/me1/88_hires.png"
@@ -697,7 +697,7 @@
     "regulation": "I",
     "name": "Risky Ruins",
     "category": "Damage Control",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me1/127.png",
       "large": "https://images.pokemontcg.io/me1/127_hires.png"
@@ -719,7 +719,7 @@
     "regulation": "I",
     "name": "Mega Gengar ex",
     "category": "Switching and Prize Denial",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me2/56.png",
       "large": "https://images.pokemontcg.io/me2/56_hires.png"
@@ -730,7 +730,7 @@
     "regulation": "I",
     "name": "Toxtricity",
     "category": "Energy Acceleration",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me2/68.png",
       "large": "https://images.pokemontcg.io/me2/68_hires.png"
@@ -796,7 +796,7 @@
     "regulation": "I",
     "name": "Grimsley's Move",
     "category": "Other Good",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me2/90.png",
       "large": "https://images.pokemontcg.io/me2/90_hires.png"
@@ -818,7 +818,7 @@
     "regulation": "I",
     "name": "Punk Helmet",
     "category": "Damage Control",
-    "type": "Darknes",
+    "type": "Darkness",
     "images": {
       "small": "https://images.pokemontcg.io/me2/92.png",
       "large": "https://images.pokemontcg.io/me2/92_hires.png"
