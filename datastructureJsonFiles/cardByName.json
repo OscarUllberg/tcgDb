@@ -275,7 +275,7 @@
     "PR-XY-XY46"
   ],
   "altaria c": ["SV-49"],
-  "altaria ex": ["EM-90", "PAR-140", "PAR-232"],
+  "altaria ex": ["EM-90", "PAR-140", "PAR-232", "PAR-253"],
   "altaria ex δ": ["DF-90"],
   "altaria spirit link": ["FCO-91"],
   "altaria-ex": ["FCO-83", "FCO-123"],
@@ -736,7 +736,7 @@
   ],
   "bayleef δ": ["DF-26"],
   "bea": ["ASR-TG25", "CRZ-123", "VIV-147", "VIV-180", "VIV-193"],
-  "beach court": ["SVI-167"],
+  "beach court": ["SVI-167", "PAR-263"],
   "beartic": [
     "EPO-30",
     "EPO-31",
@@ -2326,7 +2326,7 @@
     "AOR-55",
     "MEP-18"
   ],
-  "counter catcher": ["PAR-160", "CIN-91", "CIN-120"],
+  "counter catcher": ["PAR-160", "PAR-264", "CIN-91", "CIN-120"],
   "counter energy": ["CIN-100", "CIN-122"],
   "counter gain": ["SSP-169", "SSP-249", "LOT-170", "LOT-230"],
   "counterattack claws": ["N4-97"],
@@ -4898,7 +4898,7 @@
   "garchomp & giratina-gx": ["PR-SM-SM193"],
   "garchomp c": ["SV-60"],
   "garchomp c lv x": ["PR-DPP-DP46", "SV-145", "CEL-145"],
-  "garchomp ex": ["PAR-38", "PAR-219"],
+  "garchomp ex": ["PAR-38", "PAR-219", "PAR-245", "PAR-260"],
   "garchomp lv x": ["MD-97"],
   "garchomp spirit link": ["PR-XY-XY169"],
   "garchomp v": ["ASR-117", "ASR-178", "ASR-TG23"],
@@ -5056,7 +5056,7 @@
   ],
   "ghetsis": ["PLF-101", "PLF-115"],
   "gholdengo": ["PAF-67", "MEG-99", "SSP-131"],
-  "gholdengo ex": ["PAR-139", "PAR-231", "PRE-164"],
+  "gholdengo ex": ["PAR-139", "PAR-231", "PAR-252", "PRE-164"],
   "giacomo": ["PAL-182", "PAL-252", "PAL-267", "PRE-138"],
   "giant cape": ["DRX-114"],
   "giant stump": ["LM-75"],
@@ -5361,7 +5361,7 @@
     "AOR-34"
   ],
   "golisopod": ["PAR-49", "GRI-9", "PR-SM-SM52", "PGO-26", "DAA-18"],
-  "golisopod ex": ["PAR-50", "PAR-221"],
+  "golisopod ex": ["PAR-50", "PAR-221", "PAR-246"],
   "golisopod-gx": ["BUS-17", "BUS-129", "BUS-148", "PR-SM-SM62"],
   "golurk": [
     "PLB-46",
@@ -6546,7 +6546,7 @@
   ],
   "iron defender": ["MEG-118"],
   "iron hands": ["TEF-61"],
-  "iron hands ex": ["PAR-70", "PAR-223", "PRE-31", "PRE-154"],
+  "iron hands ex": ["PAR-70", "PAR-223", "PAR-248", "PRE-31", "PRE-154"],
   "iron jugulis": ["PAR-158", "PAR-216", "TEF-139"],
   "iron leaves": ["TWM-19"],
   "iron leaves ex": [
@@ -6563,7 +6563,14 @@
   "iron treads": ["TEF-118"],
   "iron treads ex": ["PAF-66", "SVI-143", "SVI-233", "SVI-248", "PR-SV-73"],
   "iron valiant": ["TEF-79", "TEF-80"],
-  "iron valiant ex": ["PAR-89", "PAR-225", "PRE-157", "PR-SV-68"],
+  "iron valiant ex": [
+    "PAR-89",
+    "PAR-225",
+    "PAR-249",
+    "PAR-261",
+    "PRE-157",
+    "PR-SV-68"
+  ],
   "iscan": ["LOR-158", "LOR-192", "LOR-207"],
   "island cave": ["HL-89"],
   "island hermit": ["DF-76"],
@@ -7980,7 +7987,7 @@
   "luxray gl": ["RR-9"],
   "luxray gl lv x": ["RR-109", "CEL-109"],
   "luxray v": ["ASR-50", "ASR-168"],
-  "luxurious cape": ["PAR-166"],
+  "luxurious cape": ["PAR-166", "PAR-265"],
   "luxury ball": ["SF-86"],
   "lycanroc": [
     "OBF-117",
@@ -8791,7 +8798,7 @@
   "meganium ex": ["UF-106"],
   "meganium δ": ["DF-4"],
   "megaton blower": ["SSP-182"],
-  "mela": ["PAR-167", "PAR-236", "PRE-140"],
+  "mela": ["PAR-167", "PAR-236", "PAR-254", "PRE-140"],
   "melmetal": [
     "TEF-117",
     "SCR-104",
@@ -10326,7 +10333,7 @@
     "GEN-7",
     "BKT-2"
   ],
-  "parasol lady": ["PAR-169", "PAR-238"],
+  "parasol lady": ["PAR-169", "PAR-238", "PAR-255"],
   "passho berry": ["SSP-184"],
   "passimian": [
     "PAL-118",
@@ -11209,9 +11216,9 @@
   "professor oak's research": ["EX-149", "DF-80"],
   "professor oak's visit": ["SW-122", "AR-90"],
   "professor rowan": ["DP-112", "SW-123"],
-  "professor sada's vitality": ["PAR-170", "PAR-239", "PRE-120"],
+  "professor sada's vitality": ["PAR-170", "PAR-239", "PAR-256", "PRE-120"],
   "professor sycamore": ["XY-122", "STS-114", "PHF-101", "BKP-107", "BKP-107a"],
-  "professor turo's scenario": ["PAR-171", "PAR-240", "PRE-121"],
+  "professor turo's scenario": ["PAR-171", "PAR-240", "PAR-257", "PRE-121"],
   "professor's letter": ["XY-123", "BKT-146", "BKT-146a"],
   "professor's research": [
     "PAF-87",
@@ -11913,7 +11920,7 @@
     "PR-SV-121"
   ],
   "revavroom ex": ["OBF-156", "OBF-216", "OBF-224", "SFA-15", "SFA-81"],
-  "reversal energy": ["PAL-192"],
+  "reversal energy": ["PAL-192", "PAR-266"],
   "reversal trigger": ["PLB-86"],
   "reverse valley": ["BKP-110"],
   "revitalizer": ["GEN-70"],
@@ -11976,7 +11983,7 @@
   "ribbon badge": ["EVS-155"],
   "ribombee": ["TEF-76", "SUM-93", "BUS-96", "LOT-146", "EVS-79"],
   "rigid band": ["MEW-165"],
-  "rika": ["PAR-172", "PAR-241"],
+  "rika": ["PAR-172", "PAR-241", "PAR-258"],
   "riley": ["LOR-166"],
   "rillaboom": [
     "TWM-16",
@@ -12021,7 +12028,14 @@
   "risky ruins": ["MEG-127"],
   "rival": ["DP-113", "SW-124"],
   "roaring moon": ["TEF-109", "PRE-65"],
-  "roaring moon ex": ["PAR-124", "PAR-229", "PRE-162", "PR-SV-67"],
+  "roaring moon ex": [
+    "PAR-124",
+    "PAR-229",
+    "PAR-251",
+    "PAR-262",
+    "PRE-162",
+    "PR-SV-67"
+  ],
   "roark": ["PAR-173", "PAR-242"],
   "robo substitute team flare gear": ["PHF-102"],
   "rock chestplate": ["SVI-192"],
@@ -12367,7 +12381,7 @@
   ],
   "sandslash δ": ["DS-27"],
   "sandy shocks": ["TEF-98"],
-  "sandy shocks ex": ["PAR-108", "PAR-228", "PRE-56", "PRE-159"],
+  "sandy shocks ex": ["PAR-108", "PAR-228", "PAR-250", "PRE-56", "PRE-159"],
   "sandygast": [
     "PAL-95",
     "PAL-214",
@@ -14302,7 +14316,7 @@
     "PR-SM-SM31",
     "DAA-61"
   ],
-  "tapu koko ex": ["PAR-68", "PAR-222", "JTG-51"],
+  "tapu koko ex": ["PAR-68", "PAR-222", "PAR-247", "JTG-51"],
   "tapu koko v": ["SSH-72", "BST-50", "BST-147"],
   "tapu koko vmax": ["BST-51", "BST-166"],
   "tapu koko ◇": ["TEU-51"],
@@ -15034,7 +15048,7 @@
   "tsareena": ["OBF-18", "SUM-20", "PR-SM-SM26", "DAA-16", "CRE-15"],
   "tsareena ex": ["PAR-46", "PAR-220"],
   "tsareena-gx": ["PR-SM-SM56"],
-  "tulip": ["PAR-181"],
+  "tulip": ["PAR-181", "PAR-244", "PAR-259"],
   "turbo patch": ["DAA-172", "DAA-200"],
   "turffield stadium": ["RCL-170", "CPA-68", "EVS-234"],
   "turtonator": [
