@@ -146,8 +146,8 @@
     "id": "SVI-175",
     "regulation": "G",
     "name": "Jacq",
-    "categories": ["Pokémon Search"],
-    "type": ["Evolution"],
+    "categories": ["Pokémon Search", "Evolution"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/175.png",
       "large": "https://images.pokemontcg.io/sv1/175_hires.png"
@@ -168,8 +168,8 @@
     "id": "SVI-181",
     "regulation": "G",
     "name": "Nest Ball",
-    "categories": ["Pokémon Search"],
-    "type": ["Basic"],
+    "categories": ["Pokémon Search", "Basic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/181.png",
       "large": "https://images.pokemontcg.io/sv1/181_hires.png"
@@ -333,8 +333,8 @@
     "id": "PAL-171",
     "regulation": "G",
     "name": "Artazon",
-    "categories": ["Pokémon Search"],
-    "type": ["Basic"],
+    "categories": ["Pokémon Search", "Basic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv2/171.png",
       "large": "https://images.pokemontcg.io/sv2/171_hires.png"
@@ -641,8 +641,8 @@
     "id": "PAR-156",
     "regulation": "G",
     "name": "Bombirdier",
-    "categories": ["Consistency and Setup", "Turn 1 Specific"],
-    "type": ["Basic"],
+    "categories": ["Consistency and Setup", "Turn 1 Specific", "Basic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv4/156.png",
       "large": "https://images.pokemontcg.io/sv4/156_hires.png"
@@ -685,8 +685,8 @@
     "id": "PAR-166",
     "regulation": "G",
     "name": "Luxurious Cape",
-    "categories": ["Damage Control"],
-    "type": ["Non-Rulebox"],
+    "categories": ["Damage Control", "Non-Rulebox"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv4/166.png",
       "large": "https://images.pokemontcg.io/sv4/166_hires.png"
