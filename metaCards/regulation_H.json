@@ -223,8 +223,8 @@
     "id": "TEF-162",
     "regulation": "H",
     "name": "Neo Upper Energy",
-    "categories": ["Special Energies"],
-    "type": ["Stage 2"],
+    "categories": ["Special Energies", "Stage 2"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/162.png",
       "large": "https://images.pokemontcg.io/sv5/162_hires.png"
@@ -377,8 +377,8 @@
     "id": "TWM-152",
     "regulation": "H",
     "name": "Hyper Aroma",
-    "categories": ["Pokémon Search"],
-    "type": ["Stage 1"],
+    "categories": ["Pokémon Search", "Stage 1"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/152.png",
       "large": "https://images.pokemontcg.io/sv6/152_hires.png"
@@ -674,8 +674,8 @@
     "id": "SCR-128",
     "regulation": "H",
     "name": "Terapagos ex",
-    "categories": ["Consistency and Setup"],
-    "type": ["Tera"],
+    "categories": ["Consistency and Setup", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/128.png",
       "large": "https://images.pokemontcg.io/sv7/128_hires.png"
@@ -685,8 +685,8 @@
     "id": "SCR-131",
     "regulation": "H",
     "name": "Area Zero Underdepth",
-    "categories": ["Consistency and Setup"],
-    "type": ["Tera"],
+    "categories": ["Consistency and Setup", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/131.png",
       "large": "https://images.pokemontcg.io/sv7/131_hires.png"
@@ -696,8 +696,8 @@
     "id": "SCR-132",
     "regulation": "H",
     "name": "Briar",
-    "categories": ["Extra Prize"],
-    "type": ["Tera"],
+    "categories": ["Extra Prize", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
@@ -729,8 +729,8 @@
     "id": "SCR-135",
     "regulation": "H",
     "name": "Glass Trumpet",
-    "categories": ["Energy Acceleration"],
-    "type": ["Tera"],
+    "categories": ["Energy Acceleration", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/135.png",
       "large": "https://images.pokemontcg.io/sv7/135_hires.png"
@@ -784,8 +784,8 @@
     "id": "SCR-142",
     "regulation": "H",
     "name": "Sparkling Crystal",
-    "categories": ["Energy Acceleration"],
-    "type": ["Tera"],
+    "categories": ["Energy Acceleration", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/142.png",
       "large": "https://images.pokemontcg.io/sv7/142_hires.png"
@@ -905,8 +905,8 @@
     "id": "SSP-161",
     "regulation": "H",
     "name": "Terapagos",
-    "categories": ["Energy Acceleration"],
-    "type": ["Tera"],
+    "categories": ["Energy Acceleration", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/161.png",
       "large": "https://images.pokemontcg.io/sv8/161_hires.png"
@@ -960,8 +960,8 @@
     "id": "SSP-170",
     "regulation": "H",
     "name": "Cyrano",
-    "categories": ["Pokémon Search"],
-    "type": ["ex"],
+    "categories": ["Pokémon Search", "ex"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/170.png",
       "large": "https://images.pokemontcg.io/sv8/170_hires.png"
@@ -1015,8 +1015,8 @@
     "id": "SSP-180",
     "regulation": "H",
     "name": "Lively Stadium",
-    "categories": ["Damage Control"],
-    "type": ["Basic"],
+    "categories": ["Damage Control", "Basic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/180.png",
       "large": "https://images.pokemontcg.io/sv8/180_hires.png"
@@ -1052,8 +1052,8 @@
     "id": "SSP-185",
     "regulation": "H",
     "name": "Precious Trolley",
-    "categories": ["Pokémon Search"],
-    "type": ["Basic"],
+    "categories": ["Pokémon Search", "Basic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/185.png",
       "large": "https://images.pokemontcg.io/sv8/185_hires.png"
@@ -1074,8 +1074,8 @@
     "id": "SSP-189",
     "regulation": "H",
     "name": "Tera Orb",
-    "categories": ["Pokémon Search"],
-    "type": ["Tera"],
+    "categories": ["Pokémon Search", "Tera"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/189.png",
       "large": "https://images.pokemontcg.io/sv8/189_hires.png"

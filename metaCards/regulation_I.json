@@ -14,8 +14,8 @@
     "id": "JTG-146",
     "regulation": "I",
     "name": "Brock's Scouting",
-    "categories": ["Pokémon Search"],
-    "type": ["Basic", "Evolution"],
+    "categories": ["Pokémon Search", "Basic", "Evolution"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/146.png",
       "large": "https://images.pokemontcg.io/sv9/146_hires.png"
@@ -124,8 +124,8 @@
     "id": "DRI-10",
     "regulation": "I",
     "name": "Shaymin",
-    "categories": ["Damage Control"],
-    "type": ["Non-Rulebox"],
+    "categories": ["Damage Control", "Non-Rulebox"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/10.png",
       "large": "https://images.pokemontcg.io/sv10/10_hires.png"
@@ -366,8 +366,8 @@
     "id": "WHT-80",
     "regulation": "I",
     "name": "Brave Bangle",
-    "categories": ["Damage Control"],
-    "type": ["Non-Rulebox"],
+    "categories": ["Damage Control", "Non-Rulebox"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/80.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/80_hires.png"
@@ -388,8 +388,8 @@
     "id": "WHT-84",
     "regulation": "I",
     "name": "Hilda",
-    "categories": ["Pokémon Search", "Energy Search"],
-    "type": ["Evolution"],
+    "categories": ["Pokémon Search", "Energy Search", "Evolution"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/84.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/84_hires.png"
@@ -619,8 +619,8 @@
     "id": "MEG-121",
     "regulation": "I",
     "name": "Mega Signal",
-    "categories": ["Pokémon Search"],
-    "type": ["Mega"],
+    "categories": ["Pokémon Search", "Mega"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/121.png",
       "large": "https://images.pokemontcg.io/me1/121_hires.png"
@@ -696,8 +696,8 @@
     "id": "MEG-132",
     "regulation": "I",
     "name": "Wally's Compassion",
-    "categories": ["Damage Control"],
-    "type": ["Mega"],
+    "categories": ["Damage Control", "Mega"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/132.png",
       "large": "https://images.pokemontcg.io/me1/132_hires.png"
@@ -821,8 +821,8 @@
     "id": "PFL-87",
     "regulation": "I",
     "name": "Dawn",
-    "categories": ["Pokémon Search"],
-    "type": ["Basic", "Stage 1", "Stage 2"],
+    "categories": ["Pokémon Search", "Basic", "Stage 1", "Stage 2"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/87.png",
       "large": "https://images.pokemontcg.io/me2/87_hires.png"
