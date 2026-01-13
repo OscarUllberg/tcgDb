@@ -267,8 +267,8 @@
     "id": "PAL-33",
     "regulation": "G",
     "name": "Oricorio",
-    "categories": [""],
-    "type": ["Evolution"],
+    "categories": ["Evolution"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv2/33.png",
       "large": "https://images.pokemontcg.io/sv2/33_hires.png"

@@ -477,7 +477,7 @@
     "regulation": "H",
     "name": "Munkidori",
     "categories": ["Damage Control"],
-    "type": ["Confuse"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/95.png",
       "large": "https://images.pokemontcg.io/sv6/95_hires.png"
@@ -498,8 +498,8 @@
     "id": "SFA-39",
     "regulation": "H",
     "name": "Pecharunt ex",
-    "categories": ["Switching and Prize Denial"],
-    "type": ["Darkness", "Poison"],
+    "categories": ["Switching and Prize Denial", "Poison"],
+    "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/39.png",
       "large": "https://images.pokemontcg.io/sv6pt5/39_hires.png"
@@ -1004,8 +1004,8 @@
     "id": "SSP-179",
     "regulation": "H",
     "name": "Lisia's Appeal",
-    "categories": ["Switching and Prize Denial"],
-    "type": ["Confuse"],
+    "categories": ["Switching and Prize Denial", "Confuse"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/179.png",
       "large": "https://images.pokemontcg.io/sv8/179_hires.png"
