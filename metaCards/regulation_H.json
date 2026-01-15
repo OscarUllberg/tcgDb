@@ -1223,5 +1223,16 @@
       "small": "https://images.pokemontcg.io/sv8/162.png",
       "large": "https://images.pokemontcg.io/sv8/162_hires.png"
     }
+  },
+  {
+    "id": "SVP-149",
+    "regulation": "H",
+    "name": "Pecharunt",
+    "categories": ["Poison"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/149.png",
+      "large": "https://images.pokemontcg.io/svp/149_hires.png"
+    }
   }
 ]
