@@ -308,6 +308,17 @@
     }
   },
   {
+    "id": "WHT-20",
+    "regulation": "I",
+    "name": "Reshiram ex",
+    "categories": ["Finisher"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.pokemontcg.io/rsv10pt5/20.png",
+      "large": "https://images.pokemontcg.io/rsv10pt5/20_hires.png"
+    }
+  },
+  {
     "id": "WHT-44",
     "regulation": "I",
     "name": "Frillish",

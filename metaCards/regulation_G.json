@@ -790,5 +790,16 @@
       "small": "https://images.pokemontcg.io/sv4pt5/65.png",
       "large": "https://images.pokemontcg.io/sv4pt5/65_hires.png"
     }
+  },
+  {
+    "id": "PAF-90",
+    "regulation": "G",
+    "name": "TM Crisis",
+    "categories": ["Finisher"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/90.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/90_hires.png"
+    }
   }
 ]
