@@ -5059,6 +5059,7 @@
   "gholdengo ex": ["PAR-139", "PAR-231", "PAR-252", "PRE-164"],
   "giacomo": ["PAL-182", "PAL-252", "PAL-267", "PRE-138"],
   "giant cape": ["DRX-114"],
+  "giant hearth": ["UNM-197", "CEC-263"],
   "giant stump": ["LM-75"],
   "gible": [
     "LTR-94",
@@ -9587,7 +9588,14 @@
   "mystery plate γ": ["SK-135"],
   "mystery plate δ": ["SK-136"],
   "mystery zone": ["SK-137"],
-  "n": ["NVI-92", "NVI-101", "DEX-96", "PR-BLW-BW100", "FCO-105", "FCO-105a"],
+  "support n": [
+    "NVI-92",
+    "NVI-101",
+    "DEX-96",
+    "PR-BLW-BW100",
+    "FCO-105",
+    "FCO-105a"
+  ],
   "n's castle": ["JTG-152"],
   "n's darmanitan": ["JTG-27"],
   "n's darumaka": ["JTG-26"],
@@ -11408,7 +11416,7 @@
     "PR-SV-82"
   ],
   "quaxwell": ["SVI-53", "PAL-51", "PAL-207", "SSP-51", "PR-SV-83"],
-  "quick ball": ["MT-114", "MD-86", "SSH-179", "SSH-216"],
+  "quick ball": ["MT-114", "MD-86", "SSH-179", "SSH-216", "FST-237"],
   "quilava": [
     "MT-60",
     "EX-91",
