@@ -44,6 +44,17 @@
     }
   },
   {
+    "id": "TEF-108",
+    "regulation": "H",
+    "name": "Farigiraf ex",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/108.png",
+      "large": "https://images.pokemontcg.io/sv5/108_hires.png"
+    }
+  },
+  {
     "id": "TEF-114",
     "regulation": "H",
     "name": "Metang",
@@ -176,6 +187,17 @@
     }
   },
   {
+    "id": "TEF-156",
+    "regulation": "H",
+    "name": "Perilous Jungle",
+    "categories": ["Poison"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/156.png",
+      "large": "https://images.pokemontcg.io/sv5/156_hires.png"
+    }
+  },
+  {
     "id": "TEF-157",
     "regulation": "H",
     "name": "Prime Catcher",
@@ -261,6 +283,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv6/112.png",
       "large": "https://images.pokemontcg.io/sv6/112_hires.png"
+    }
+  },
+  {
+    "id": "TWM-123",
+    "regulation": "H",
+    "name": "Heatran",
+    "categories": ["Burn"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/123.png",
+      "large": "https://images.pokemontcg.io/sv6/123_hires.png"
     }
   },
   {
@@ -465,7 +498,7 @@
     "id": "SFA-39",
     "regulation": "H",
     "name": "Pecharunt ex",
-    "categories": ["Switching and Prize Denial"],
+    "categories": ["Switching and Prize Denial", "Poison"],
     "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/39.png",
@@ -503,6 +536,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/55.png",
       "large": "https://images.pokemontcg.io/sv6pt5/55_hires.png"
+    }
+  },
+  {
+    "id": "SFA-58",
+    "regulation": "H",
+    "name": "Dangerous Laser",
+    "categories": ["Poison", "Burn"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6pt5/58.png",
+      "large": "https://images.pokemontcg.io/sv6pt5/58_hires.png"
     }
   },
   {
@@ -569,6 +613,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/62.png",
       "large": "https://images.pokemontcg.io/sv6pt5/62_hires.png"
+    }
+  },
+  {
+    "id": "SCR-6",
+    "regulation": "H",
+    "name": "Cradily",
+    "categories": ["Burn", "Confuse", "Poison"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/6.png",
+      "large": "https://images.pokemontcg.io/sv7/6_hires.png"
     }
   },
   {
@@ -708,7 +763,7 @@
     "regulation": "H",
     "name": "Occa Berry",
     "categories": ["Damage Control"],
-    "type": ["Fire"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/140.png",
       "large": "https://images.pokemontcg.io/sv7/140_hires.png"
@@ -719,21 +774,10 @@
     "regulation": "H",
     "name": "Payapa Berry",
     "categories": ["Damage Control"],
-    "type": ["Psychic"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/141.png",
       "large": "https://images.pokemontcg.io/sv7/141_hires.png"
-    }
-  },
-  {
-    "id": "SSP-56",
-    "regulation": "H",
-    "name": "Chien-Pao",
-    "categories": ["Stadium Disruption"],
-    "type": [""],
-    "images": {
-      "small": "https://images.pokemontcg.io/sv8/56.png",
-      "large": "https://images.pokemontcg.io/sv8/56_hires.png"
     }
   },
   {
@@ -745,6 +789,39 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv7/142.png",
       "large": "https://images.pokemontcg.io/sv7/142_hires.png"
+    }
+  },
+  {
+    "id": "SSP-9",
+    "regulation": "H",
+    "name": "Shiinotic",
+    "categories": ["Sleep"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/9.png",
+      "large": "https://images.pokemontcg.io/sv8/9_hires.png"
+    }
+  },
+  {
+    "id": "SSP-42",
+    "regulation": "H",
+    "name": "Milotic ex",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/42.png",
+      "large": "https://images.pokemontcg.io/sv8/42_hires.png"
+    }
+  },
+  {
+    "id": "SSP-56",
+    "regulation": "H",
+    "name": "Chien-Pao",
+    "categories": ["Stadium Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/56.png",
+      "large": "https://images.pokemontcg.io/sv8/56_hires.png"
     }
   },
   {
@@ -924,6 +1001,17 @@
     }
   },
   {
+    "id": "SSP-179",
+    "regulation": "H",
+    "name": "Lisia's Appeal",
+    "categories": ["Switching and Prize Denial", "Confuse"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/179.png",
+      "large": "https://images.pokemontcg.io/sv8/179_hires.png"
+    }
+  },
+  {
     "id": "SSP-180",
     "regulation": "H",
     "name": "Lively Stadium",
@@ -1064,7 +1152,7 @@
     "regulation": "H",
     "name": "Haban Berry",
     "categories": ["Damage Control"],
-    "type": ["Dragon"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/111.png",
       "large": "https://images.pokemontcg.io/sv8pt5/111_hires.png"
@@ -1075,7 +1163,7 @@
     "regulation": "H",
     "name": "Babiri Berry",
     "categories": ["Damage Control"],
-    "type": ["Metal"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/163.png",
       "large": "https://images.pokemontcg.io/sv8/163_hires.png"
@@ -1086,7 +1174,7 @@
     "regulation": "H",
     "name": "Colbur Berry",
     "categories": ["Damage Control"],
-    "type": ["Darkness"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/168.png",
       "large": "https://images.pokemontcg.io/sv8/168_hires.png"
@@ -1097,7 +1185,7 @@
     "regulation": "H",
     "name": "Dragon Elixir",
     "categories": ["Damage Control"],
-    "type": [""],
+    "type": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/172.png",
       "large": "https://images.pokemontcg.io/sv8/172_hires.png"
@@ -1108,7 +1196,7 @@
     "regulation": "H",
     "name": "Passho Berry",
     "categories": ["Damage Control"],
-    "type": ["Water"],
+    "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/184.png",
       "large": "https://images.pokemontcg.io/sv8/184_hires.png"
@@ -1134,6 +1222,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv8/162.png",
       "large": "https://images.pokemontcg.io/sv8/162_hires.png"
+    }
+  },
+  {
+    "id": "SVP-149",
+    "regulation": "H",
+    "name": "Pecharunt",
+    "categories": ["Poison"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/svp/149.png",
+      "large": "https://images.pokemontcg.io/svp/149_hires.png"
     }
   }
 ]

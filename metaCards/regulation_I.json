@@ -44,6 +44,17 @@
     }
   },
   {
+    "id": "JTG-21",
+    "regulation": "I",
+    "name": "Magmortar",
+    "categories": ["Burn"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/21.png",
+      "large": "https://images.pokemontcg.io/sv9/21_hires.png"
+    }
+  },
+  {
     "id": "JTG-24",
     "regulation": "I",
     "name": "Blaziken",
@@ -52,6 +63,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv9/24.png",
       "large": "https://images.pokemontcg.io/sv9/24_hires.png"
+    }
+  },
+  {
+    "id": "JTG-31",
+    "regulation": "I",
+    "name": "Volcanion ex",
+    "categories": ["Burn"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/31.png",
+      "large": "https://images.pokemontcg.io/sv9/31_hires.png"
     }
   },
   {
@@ -717,12 +739,34 @@
   {
     "id": "PFL-18",
     "regulation": "I",
-    "name": "Oricorio",
+    "name": "Oricorio ex",
     "categories": ["Energy Acceleration"],
     "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/18.png",
       "large": "https://images.pokemontcg.io/me2/18_hires.png"
+    }
+  },
+   {
+    "id": "PFL-36",
+    "regulation": "I",
+    "name": "Mismagius ex",
+    "categories": ["Confuse"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/36.png",
+      "large": "https://images.pokemontcg.io/me2/36_hires.png"
+    }
+  },
+  {
+    "id": "PFL-47",
+    "regulation": "I",
+    "name": "Brambleghast",
+    "categories": ["Confuse"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/47.png",
+      "large": "https://images.pokemontcg.io/me2/47_hires.png"
     }
   },
   {
@@ -793,6 +837,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/me2/87.png",
       "large": "https://images.pokemontcg.io/me2/87_hires.png"
+    }
+  },
+  {
+    "id": "PFL-88",
+    "regulation": "I",
+    "name": "Dizzying Valley",
+    "categories": ["Confuse"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/88.png",
+      "large": "https://images.pokemontcg.io/me2/88_hires.png"
     }
   },
   {

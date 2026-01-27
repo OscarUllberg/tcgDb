@@ -263,6 +263,17 @@
       "large": "https://images.pokemontcg.io/sv2/5_hires.png"
     }
   },
+   {
+    "id": "PAL-33",
+    "regulation": "G",
+    "name": "Oricorio",
+    "categories": ["Evolution"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/33.png",
+      "large": "https://images.pokemontcg.io/sv2/33_hires.png"
+    }
+  },
   {
     "id": "PAL-60",
     "regulation": "G",
@@ -619,7 +630,7 @@
     "id": "PAR-123",
     "regulation": "G",
     "name": "Brute Bonnet",
-    "categories": [""],
+    "categories": ["Poison"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv4/123.png",
