@@ -68,7 +68,7 @@
   "accompanying flute": ["TWM-142"],
   "ace trainer": ["AOR-69"],
   "acerola": ["BUS-112", "BUS-112a", "BUS-142"],
-  "acerola's mischief": ["MEG-113", "MEG-165", "MEG-183"],
+  "acerola's mischief": ["MEG-113", "MEG-165", "MEG-183", "PFL-180"],
   "acerola's premonition": ["BRS-129", "BRS-TG24"],
   "acro bike": ["CES-123", "CES-123a", "CES-178", "PRC-122"],
   "adaman": ["ASR-135", "ASR-181", "ASR-199", "CRZ-GG57"],
@@ -156,7 +156,7 @@
     "STS-90",
     "PFL-78"
   ],
-  "air balloon": ["MEG-166", "BLK-79", "SSH-156", "SSH-213"],
+  "air balloon": ["MEG-166", "BLK-79", "SSH-156", "SSH-213", "PFL-181"],
   "alakazam": [
     "BS-1",
     "B2-1",
@@ -349,6 +349,7 @@
   "annihilape ex": ["PAL-242", "PR-SV-32"],
   "anorith": ["LA-46", "LM-29", "PK-26", "SS-27", "SS-28", "SIT-95", "STS-56"],
   "anorith δ": ["HP-57"],
+  "anthea & concordia": ["PFL-182", "PFL-254"],
   "antique cover fossil": ["SCR-129", "BLK-60"],
   "antique dome fossil": ["MEW-152"],
   "antique helix fossil": ["MEW-153"],
@@ -623,6 +624,7 @@
     "PRC-103",
     "PRC-104"
   ],
+  "azumarill ex": ["PFL-84"],
   "azumarill δ": ["DS-19"],
   "azurill": ["DP-69", "DS-20", "SS-31"],
   "babiri berry": ["SSP-163"],
@@ -685,7 +687,9 @@
     "VIV-68",
     "CRE-63",
     "ROS-31",
-    "ROS-32"
+    "ROS-32",
+    "PFL-91",
+    "PFL-234"
   ],
   "banette ex": ["LM-85", "SVI-88", "SVI-229"],
   "banette-gx": ["CES-66", "CES-157", "CES-174"],
@@ -732,7 +736,8 @@
     "N1-28",
     "N1-29",
     "LOT-7",
-    "BKP-2"
+    "BKP-2",
+    "PFL-9"
   ],
   "bayleef δ": ["DF-26"],
   "bea": ["ASR-TG25", "CRZ-123", "VIV-147", "VIV-180", "VIV-193"],
@@ -762,7 +767,9 @@
     "PL-21",
     "LOT-26",
     "LOR-8",
-    "ROS-5"
+    "ROS-5",
+    "PFL-13",
+    "PFL-219"
   ],
   "beauty": ["VIV-148", "VIV-181", "VIV-194"],
   "bebe's search": ["MT-109", "SW-119", "RR-89"],
@@ -941,7 +948,8 @@
     "BST-104",
     "KSS-20",
     "XY-82",
-    "STS-64"
+    "STS-64",
+    "PFL-147"
   ],
   "blacephalon": ["UNB-32", "PR-SM-SM221"],
   "blacephalon-gx": ["LOT-52", "LOT-199", "LOT-219"],
@@ -953,7 +961,8 @@
     "PRE-99",
     "JTG-143",
     "JTG-144",
-    "JTG-145"
+    "JTG-145",
+    "PFL-255"
   ],
   "black kyurem": ["BCR-100", "PR-BLW-BW58", "PR-XY-XY80", "PR-XY-XY160"],
   "black kyurem ex": ["SSP-48", "SSP-218"],
@@ -1112,7 +1121,9 @@
     "RCL-189",
     "RCL-200",
     "SHF-58",
-    "BRS-132"
+    "BRS-132",
+    "PFL-183",
+    "PFL-256"
   ],
   "boss's orders (ghetsis)": ["PAL-172", "PAL-248", "PAL-265"],
   "bouffalant": [
@@ -1277,9 +1288,9 @@
   ],
   "bubble coat": ["LA-129"],
   "buck's training": ["LA-130"],
-  "buddy-buddy poffin": ["MEG-167", "TEF-144", "TWM-223", "PRE-101"],
+  "buddy-buddy poffin": ["MEG-167", "TEF-144", "TWM-223", "PRE-101", "PFL-184"],
   "buddy-buddy rescue": ["BKT-135"],
-  "budew": ["DP-43", "SF-33", "PRE-4"],
+  "budew": ["DP-43", "SF-33", "PRE-4", "PFL-16", "PFL-221"],
   "buff padding": ["TEU-136"],
   "buffer piece": ["DF-72", "DR-83", "AR-84"],
   "bug catching set": ["TWM-143", "PRE-102"],
@@ -1438,13 +1449,15 @@
     "OBF-32",
     "CIN-14",
     "PGO-14",
-    "BKP-13"
+    "BKP-13",
+    "PFL-28"
   ],
   "camerupt ex": ["EM-92"],
   "camerupt g": ["SV-19"],
   "camerupt spirit link": ["PR-XY-XY199"],
   "camerupt-ex": ["PRC-29", "PRC-146"],
   "camping gear": ["BST-122"],
+  "canari": ["PFL-185", "PFL-257", "PFL-291"],
   "canceling cologne": ["ASR-136"],
   "candela": ["PGO-65", "PGO-83"],
   "candice": ["SIT-152", "SIT-189", "SIT-204"],
@@ -1462,12 +1475,14 @@
     "FCO-49",
     "FCO-50",
     "FLF-68",
-    "ROS-47"
+    "ROS-47",
+    "PFL-117",
+    "PFL-242"
   ],
   "carbink break": ["FCO-51"],
   "card-flip game": ["N1-92"],
   "caretaker": ["TWM-144", "TWM-203"],
-  "carkol": ["TEF-94", "RCL-106", "SHF-SV068", "BST-79"],
+  "carkol": ["TEF-94", "RCL-106", "SHF-SV068", "BST-79", "PFL-119"],
   "carmine": ["TWM-145", "TWM-204", "TWM-217", "PRE-103"],
   "carnivine": [
     "LTR-5",
@@ -1515,7 +1530,8 @@
     "PL-44",
     "LOT-27",
     "LOR-9",
-    "ROS-6"
+    "ROS-6",
+    "PFL-14"
   ],
   "cassiopeia": ["SFA-56", "SFA-86", "SFA-94"],
   "cassius": ["XY-115"],
@@ -1763,7 +1779,15 @@
     "PR-SM-SM195",
     "PR-SM-SM211"
   ],
-  "charjabug": ["TEF-55", "TEF-169", "SCR-52", "SUM-51", "UNB-58", "RCL-65"],
+  "charjabug": [
+    "TEF-55",
+    "TEF-169",
+    "SCR-52",
+    "SUM-51",
+    "UNB-58",
+    "RCL-65",
+    "PFL-65"
+  ],
   "charmander": [
     "MEW-4",
     "MEW-168",
@@ -1800,7 +1824,8 @@
     "VIV-23",
     "GEN-RC3",
     "EVO-9",
-    "PFL-11"
+    "PFL-11",
+    "PFL-20"
   ],
   "charmander δ": ["CG-49"],
   "charmeleon": [
@@ -1831,7 +1856,8 @@
     "VIV-24",
     "GEN-RC4",
     "EVO-10",
-    "PFL-12"
+    "PFL-12",
+    "PFL-21"
   ],
   "charmeleon δ": ["CG-30"],
   "charon's choice": ["RR-RT6"],
@@ -1853,7 +1879,7 @@
   ],
   "chatot g": ["SV-54"],
   "cheerleader's cheer": ["CL-76", "UL-71"],
-  "cheren": ["EPO-91", "DEX-91", "BCR-148", "WHT-81"],
+  "cheren": ["EPO-91", "DEX-91", "BCR-148", "WHT-81", "PFL-258"],
   "cheren's care": ["CRZ-GG58", "BRS-134", "BRS-168", "BRS-177"],
   "cherrim": [
     "PLS-7",
@@ -1918,7 +1944,8 @@
     "LOT-5",
     "LOT-6",
     "GEN-RC1",
-    "BKP-1"
+    "BKP-1",
+    "PFL-8"
   ],
   "chikorita δ": ["DF-44"],
   "chill teaser toy": ["SSP-166"],
@@ -2004,7 +2031,7 @@
     "FCO-89"
   ],
   "cinderace": ["MEG-28", "SSH-34", "SSH-35", "SSH-36", "SHF-SV017", "CRE-28"],
-  "cinderace ex": ["SCR-28", "SCR-157", "PR-SV-163"],
+  "cinderace ex": ["SCR-28", "SCR-157", "PR-SV-163", "PFL-38"],
   "cinderace v": ["RCL-35", "RCL-178", "SHF-18"],
   "cinderace vmax": ["RCL-36", "RCL-194", "SHF-19"],
   "cinnabar city gym": ["G2-113"],
@@ -2083,7 +2110,8 @@
     "BRS-54",
     "GEN-51",
     "FFI-71",
-    "BKP-82"
+    "BKP-82",
+    "PFL-75"
   ],
   "clefable ex": ["RG-106", "OBF-82"],
   "clefairy": [
@@ -2113,7 +2141,8 @@
     "EVO-63",
     "FFI-69",
     "FFI-70",
-    "BKP-81"
+    "BKP-81",
+    "PFL-74"
   ],
   "clefairy doll": ["BS-70"],
   "cleffa": [
@@ -2160,7 +2189,14 @@
     "BKP-24"
   ],
   "cloyster δ": ["DF-14"],
-  "coalossal": ["TEF-95", "RCL-107", "DAA-198", "SHF-SV069", "BST-80"],
+  "coalossal": [
+    "TEF-95",
+    "RCL-107",
+    "DAA-198",
+    "SHF-SV069",
+    "BST-80",
+    "PFL-120"
+  ],
   "coalossal v": ["VIV-98", "VIV-173"],
   "coalossal vmax": ["VIV-99", "VIV-189"],
   "coating metal energy": ["VIV-163"],
@@ -2328,7 +2364,14 @@
   ],
   "counter catcher": ["PAR-160", "PAR-264", "CIN-91", "CIN-120"],
   "counter energy": ["CIN-100", "CIN-122"],
-  "counter gain": ["SSP-169", "SSP-249", "LOT-170", "LOT-230"],
+  "counter gain": [
+    "SSP-169",
+    "SSP-249",
+    "LOT-170",
+    "LOT-230",
+    "PFL-186",
+    "PFL-259"
+  ],
   "counterattack claws": ["N4-97"],
   "cover fossil": ["PLB-79", "NVI-90"],
   "crabominable": [
@@ -2447,7 +2490,8 @@
     "TEF-40",
     "SLG-19",
     "DRM-23",
-    "PHF-16"
+    "PHF-16",
+    "PFL-42"
   ],
   "croconaw δ": ["DF-27"],
   "crushing gloves": ["CRE-133"],
@@ -2579,15 +2623,21 @@
   "cynthia's ambition": ["CRZ-GG60", "BRS-138", "BRS-169", "BRS-178"],
   "cynthia's feebas": ["DRI-52"],
   "cynthia's feelings": ["LA-131"],
-  "cynthia's gabite": ["DRI-103"],
-  "cynthia's garchomp ex": ["DRI-104", "DRI-215", "DRI-232", "DRI-241"],
-  "cynthia's gible": ["DRI-102"],
+  "cynthia's gabite": ["DRI-103", "PFL-110"],
+  "cynthia's garchomp ex": [
+    "DRI-104",
+    "DRI-215",
+    "DRI-232",
+    "DRI-241",
+    "PFL-111"
+  ],
+  "cynthia's gible": ["DRI-102", "PFL-109"],
   "cynthia's guidance": ["SV-136"],
   "cynthia's milotic": ["DRI-53"],
   "cynthia's power weight": ["DRI-162"],
   "cynthia's roselia": ["DRI-7"],
   "cynthia's roserade": ["DRI-8", "DRI-184"],
-  "cynthia's spiritomb": ["DRI-129"],
+  "cynthia's spiritomb": ["DRI-129", "PFL-133", "PFL-244"],
   "cyrano": ["SSP-170", "SSP-230"],
   "cyrus ◇": ["UPR-120"],
   "cyrus's conspiracy": ["PL-105"],
@@ -2846,7 +2896,8 @@
     "PR-SM-SM132",
     "DAA-142",
     "XY-105",
-    "PRC-114"
+    "PRC-114",
+    "PFL-166"
   ],
   "delcatty ex": ["CG-91"],
   "delibird": [
@@ -3161,7 +3212,7 @@
   "dracozolt vmax": ["EVS-59", "EVS-210"],
   "dragalge": ["FLI-53", "CRZ-82", "FLF-71", "BKP-86", "PR-XY-XY10"],
   "dragapult": ["SIT-89", "RCL-91", "SHF-SV062"],
-  "dragapult ex": ["TWM-130", "TWM-200", "PRE-73", "PRE-165"],
+  "dragapult ex": ["TWM-130", "TWM-200", "PRE-73", "PRE-165", "PFL-160"],
   "dragapult v": ["RCL-92", "RCL-183"],
   "dragapult vmax": ["RCL-93", "RCL-197"],
   "dragon elixir": ["SSP-172"],
@@ -3183,7 +3234,8 @@
     "DRM-36",
     "TEU-118",
     "SIT-130",
-    "ROS-50"
+    "ROS-50",
+    "PFL-151"
   ],
   "dragonair δ": ["DS-41", "DS-42", "DF-28"],
   "dragonite": [
@@ -3212,7 +3264,15 @@
   "dragonite-ex": ["EVO-72", "EVO-106", "FFI-74", "FFI-108"],
   "dragonite-gx": ["DRM-37", "DRM-67", "PR-SM-SM156"],
   "drake's stadium": ["PK-72"],
-  "drakloak": ["TWM-129", "PRE-72", "SIT-88", "RCL-90", "SHF-SV061"],
+  "drakloak": [
+    "TWM-129",
+    "PRE-72",
+    "SIT-88",
+    "RCL-90",
+    "SHF-SV061",
+    "PFL-159",
+    "PFL-248"
+  ],
   "drampa": [
     "OBF-161",
     "TEF-138",
@@ -3224,7 +3284,8 @@
     "PR-SM-SM21",
     "SSH-149",
     "BST-119",
-    "EVS-119"
+    "EVS-119",
+    "PFL-176"
   ],
   "drampa v": ["BRS-128"],
   "drampa-gx": ["GRI-115", "GRI-142", "GRI-160"],
@@ -3265,7 +3326,8 @@
     "TEU-116",
     "TEU-117",
     "SIT-129",
-    "ROS-49"
+    "ROS-49",
+    "PFL-150"
   ],
   "dratini δ": ["DS-65", "DS-66", "DF-46"],
   "drayton": ["SSP-174", "SSP-232", "SSP-244", "PRE-172"],
@@ -3273,7 +3335,15 @@
   "drednaw": ["SCR-44", "SSH-61", "VIV-39", "SHF-27", "SHF-SV029"],
   "drednaw v": ["CPA-14", "CPA-69"],
   "drednaw vmax": ["CPA-15", "CPA-75"],
-  "dreepy": ["TWM-128", "PRE-71", "SIT-87", "RCL-89", "SHF-SV060"],
+  "dreepy": [
+    "TWM-128",
+    "PRE-71",
+    "SIT-87",
+    "RCL-89",
+    "SHF-SV060",
+    "PFL-158",
+    "PFL-247"
+  ],
   "drifblim": [
     "PAF-156",
     "PLB-35",
@@ -3547,7 +3617,9 @@
     "LOT-28",
     "LOR-10",
     "ROS-7",
-    "ROS-8"
+    "ROS-8",
+    "PFL-15",
+    "PFL-220"
   ],
   "dustox ex": ["LM-86"],
   "dwebble": [
@@ -3579,7 +3651,8 @@
     "CRZ-48",
     "VIV-58",
     "PRC-63",
-    "PRC-64"
+    "PRC-64",
+    "PFL-60"
   ],
   "eelektross": [
     "PLB-33",
@@ -3983,7 +4056,8 @@
     "BST-20",
     "EVS-19",
     "AOR-14",
-    "AOR-15"
+    "AOR-15",
+    "PFL-25"
   ],
   "entei & raikou legend": ["UL-90", "UL-91"],
   "entei ex": ["MA-91"],
@@ -3993,7 +4067,7 @@
   "entei-gx": ["SLG-10", "SLG-10a", "SLG-71", "SLG-74"],
   "eri": ["TEF-146", "TEF-199", "TEF-210", "PRE-136"],
   "erika": ["G1-16", "G1-100"],
-  "erika's bellsprout": ["G1-75", "G1-76", "G2-38"],
+  "erika's bellsprout": ["G1-75", "G1-76", "G2-38", "PFL-4"],
   "erika's bulbasaur": ["G2-39"],
   "erika's clefable": ["G1-3"],
   "erika's clefairy": ["G1-25", "G2-40"],
@@ -4001,21 +4075,22 @@
   "erika's dratini": ["G1-42"],
   "erika's exeggcute": ["G1-43", "G1-77"],
   "erika's exeggutor": ["G1-44"],
-  "erika's gloom": ["G1-45", "G1-46"],
+  "erika's gloom": ["G1-45", "G1-46", "PFL-2"],
   "erika's hospitality": ["HIF-56", "TEU-140", "TEU-174"],
   "erika's invitation": ["MEW-160", "MEW-196", "MEW-203"],
   "erika's ivysaur": ["G2-41"],
   "erika's jigglypuff": ["G2-69"],
   "erika's kindness": ["G2-103"],
   "erika's maids": ["G1-109"],
-  "erika's oddish": ["G1-47", "G1-78", "G2-70"],
+  "erika's oddish": ["G1-47", "G1-78", "G2-70", "PFL-1"],
   "erika's paras": ["G2-71"],
   "erika's perfume": ["G1-110"],
-  "erika's tangela": ["G1-79"],
+  "erika's tangela": ["G1-79", "PFL-7", "PFL-218"],
   "erika's venusaur": ["G2-4"],
-  "erika's victreebel": ["G1-26"],
+  "erika's victreebel": ["G1-26", "PFL-6"],
   "erika's vileplume": ["G1-5"],
-  "erika's weepinbell": ["G1-48", "G1-49"],
+  "erika's vileplume ex": ["PFL-3"],
+  "erika's weepinbell": ["G1-48", "G1-49", "PFL-5"],
   "escape board": ["UPR-122", "UPR-122a", "UPR-167"],
   "escape rope": ["PLS-120", "BUS-114", "BUS-163", "BST-125", "PRC-127"],
   "escavalier": [
@@ -4072,12 +4147,12 @@
   "eternatus vmax": ["LOR-TG22", "DAA-117", "DAA-192", "SHF-SV122"],
   "ethan's adventure": ["DRI-165", "DRI-221", "DRI-236"],
   "ethan's cyndaquil": ["DRI-32"],
-  "ethan's ho-oh ex": ["DRI-39", "DRI-209", "DRI-230", "DRI-239"],
-  "ethan's magcargo": ["DRI-36"],
+  "ethan's ho-oh ex": ["DRI-39", "DRI-209", "DRI-230", "DRI-239", "PFL-26"],
+  "ethan's magcargo": ["DRI-36", "PFL-24", "PFL-222"],
   "ethan's pichu": ["DRI-71"],
   "ethan's pinsir": ["DRI-1"],
   "ethan's quilava": ["DRI-33"],
-  "ethan's slugma": ["DRI-35"],
+  "ethan's slugma": ["DRI-35", "PFL-23"],
   "ethan's sudowoodo": ["DRI-93"],
   "ethan's typhlosion": ["DRI-34", "DRI-190"],
   "ether": ["PLS-121"],
@@ -4206,7 +4281,7 @@
   "falkner": ["PAL-180", "PAL-251"],
   "familiar bell": ["DAA-161"],
   "fan of waves": ["BST-127", "CRE-226"],
-  "fan rotom": ["RR-RT1", "SCR-118", "PRE-85", "UPR-110"],
+  "fan rotom": ["RR-RT1", "SCR-118", "PRE-85", "UPR-110", "PFL-171", "PFL-250"],
   "fantina": ["LOR-157", "LOR-191", "LOR-206"],
   "farfetch'd": [
     "MEW-83",
@@ -4333,7 +4408,7 @@
   "fervor": ["G2-124"],
   "festival grounds": ["TWM-149", "PRE-108"],
   "fezandipiti": ["TWM-96", "SFA-73", "PRE-45"],
-  "fezandipiti ex": ["SFA-38", "SFA-84", "SFA-92"],
+  "fezandipiti ex": ["SFA-38", "SFA-84", "SFA-92", "PFL-142", "PFL-288"],
   "fidough": ["PAF-38", "SVI-97", "SVI-98", "SVI-213", "SCR-66", "PR-SV-69"],
   "field blower": ["GRI-125", "GRI-125a", "GRI-163"],
   "fieldworker": ["LM-73"],
@@ -4365,7 +4440,7 @@
     "EVO-96"
   ],
   "fighting fury belt": ["BKP-99"],
-  "fighting gong": ["MEG-116", "MEG-168"],
+  "fighting gong": ["MEG-116", "MEG-168", "PFL-187"],
   "fighting memory": ["CIN-94"],
   "fighting stadium": ["FFI-90"],
   "finizen": ["PAF-123", "OBF-60", "OBF-61", "TEF-48", "TWM-59"],
@@ -4600,7 +4675,7 @@
   ],
   "forest guardian": ["AQ-123"],
   "forest of giant plants": ["AOR-74"],
-  "forest of vitality": ["MEG-117"],
+  "forest of vitality": ["MEG-117", "PFL-188"],
   "forest seal stone": ["SIT-156"],
   "forretress": [
     "LA-28",
@@ -4703,7 +4778,8 @@
     "ASR-TG04",
     "RCL-204",
     "SHF-30",
-    "SHF-SV034"
+    "SHF-SV034",
+    "PFL-53"
   ],
   "frost rotom": ["RR-RT2", "UPR-41"],
   "frozen city": ["PLF-100"],
@@ -4792,7 +4868,7 @@
   "galarian darmanitan vmax": ["VIV-37", "VIV-187"],
   "galarian darumaka": ["RCL-47", "DAA-43", "SHF-SV023"],
   "galarian farfetch'd": ["RCL-94", "SHF-SV063", "CRE-78"],
-  "galarian linoone": ["SSH-118", "CPA-36", "SHF-SV079"],
+  "galarian linoone": ["SSH-118", "CPA-36", "SHF-SV079", "PFL-131"],
   "galarian meowth": ["SSH-127", "CRZ-84", "RCL-126", "VIV-112", "SHF-SV086"],
   "galarian moltres": ["EVS-93"],
   "galarian moltres v": ["ASR-TG20", "CRE-97", "CRE-176", "CRE-177", "BRS-183"],
@@ -4804,7 +4880,9 @@
     "ASR-TG10",
     "CPA-37",
     "VIV-198",
-    "SHF-SV080"
+    "SHF-SV080",
+    "PFL-132",
+    "PFL-245"
   ],
   "galarian perrserker": [
     "SSH-128",
@@ -4839,7 +4917,7 @@
   "galarian yamask": ["RCL-101", "SHF-SV065", "CRE-82"],
   "galarian zapdos": ["EVS-82"],
   "galarian zapdos v": ["ASR-TG19", "CRE-80", "CRE-173", "CRE-174", "BRS-182"],
-  "galarian zigzagoon": ["SSH-117", "CPA-35", "SHF-SV078"],
+  "galarian zigzagoon": ["SSH-117", "CPA-35", "SHF-SV078", "PFL-130"],
   "gallade": ["LTR-81", "PLS-61", "SW-6", "ASR-62", "CRE-81", "BKT-84"],
   "gallade e4": ["RR-20"],
   "gallade e4 lv x": ["RR-106"],
@@ -4984,7 +5062,8 @@
     "EVO-47",
     "BKT-58",
     "PR-XY-XY132",
-    "PFL-54"
+    "PFL-54",
+    "PFL-123"
   ],
   "gastrodon": ["SSP-107", "CIN-54", "LOR-102", "STS-29"],
   "gastrodon east sea": ["SW-8", "RR-21"],
@@ -5185,8 +5264,8 @@
     "BST-115",
     "BKP-93"
   ],
-  "glass trumpet": ["SCR-135", "PRE-110"],
-  "glastrier": ["LOR-51"],
+  "glass trumpet": ["SCR-135", "PRE-110", "PFL-189", "PFL-260"],
+  "glastrier": ["LOR-51", "PFL-54"],
   "gligar": [
     "BCR-80",
     "LA-94",
@@ -5325,7 +5404,8 @@
     "ASR-29",
     "EVS-25",
     "BKP-17",
-    "MEP-8"
+    "MEP-8",
+    "PFL-40"
   ],
   "golduck break": ["BKP-18"],
   "golduck δ": ["HP-43"],
@@ -5634,7 +5714,8 @@
     "PRE-49",
     "CES-81",
     "PRC-84",
-    "PR-XY-XY52"
+    "PR-XY-XY52",
+    "PFL-108"
   ],
   "groudon ex": ["CG-93", "HL-93", "PR-NP-2", "PR-NP-38"],
   "groudon spirit link": ["PRC-131"],
@@ -5687,7 +5768,15 @@
     "EVO-17",
     "BKP-10"
   ],
-  "grubbin": ["TEF-18", "SCR-9", "SUM-13", "UNB-18", "CRZ-15", "RCL-16"],
+  "grubbin": [
+    "TEF-18",
+    "SCR-9",
+    "SUM-13",
+    "UNB-18",
+    "CRZ-15",
+    "RCL-16",
+    "PFL-17"
+  ],
   "grumpig": [
     "BCR-60",
     "LA-56",
@@ -5852,7 +5941,8 @@
     "EVO-48",
     "BKT-59",
     "PFL-55",
-    "MEP-27"
+    "MEP-27",
+    "PFL-124"
   ],
   "hawlucha": [
     "PAF-175",
@@ -5950,7 +6040,9 @@
     "RCL-64",
     "FLF-37",
     "PHF-30",
-    "PR-XY-XY47"
+    "PR-XY-XY47",
+    "PFL-64",
+    "PFL-229"
   ],
   "helioptile": [
     "MEG-52",
@@ -5964,7 +6056,8 @@
     "RCL-63",
     "FLF-36",
     "PHF-28",
-    "PHF-29"
+    "PHF-29",
+    "PFL-63"
   ],
   "helix fossil": ["MD-91", "AR-93"],
   "helix fossil omanyte": ["FCO-102"],
@@ -6127,7 +6220,9 @@
     "LOT-113",
     "VIV-88",
     "BRS-72",
-    "FFI-49"
+    "FFI-49",
+    "PFL-102",
+    "PFL-240"
   ],
   "ho-oh": [
     "PR-52",
@@ -6214,7 +6309,8 @@
     "DAA-111",
     "STS-51",
     "PR-XY-XY90",
-    "PR-XY-XY147"
+    "PR-XY-XY147",
+    "PFL-141"
   ],
   "hoopa ex": ["PAR-98", "PAR-226"],
   "hoopa v": ["CRZ-GG53"],
@@ -6242,12 +6338,15 @@
   "hop's choice band": ["JTG-148"],
   "hop's corviknight": ["JTG-108"],
   "hop's corvisquire": ["JTG-134"],
-  "hop's cramorant": ["JTG-138"],
+  "hop's cramorant": ["JTG-138", "PFL-177"],
   "hop's dubwool": ["JTG-136"],
+  "hop's phantump": ["PFL-95"],
+  "hop's pincurchin ex": ["PFL-68"],
   "hop's rookidee": ["JTG-133"],
   "hop's sandaconda": ["JTG-87"],
   "hop's silicobra": ["JTG-86"],
   "hop's snorlax": ["JTG-117"],
+  "hop's trevenant": ["PFL-96", "PFL-237"],
   "hop's wooloo": ["JTG-135", "JTG-170"],
   "hop's zacian ex": ["JTG-111", "JTG-176", "JTG-186"],
   "hoppip": [
@@ -6524,15 +6623,22 @@
   "inteleon vmax": ["RCL-50", "RCL-195"],
   "interviewer's questions": ["CL-79", "UL-77"],
   "iono": ["PAF-80", "PAF-237", "PAL-185", "PAL-254", "PAL-269", "PR-SV-124"],
-  "iono's bellibolt ex": ["JTG-53", "JTG-172", "JTG-183", "JTG-188"],
+  "iono's bellibolt ex": [
+    "JTG-53",
+    "JTG-172",
+    "JTG-183",
+    "JTG-188",
+    "PFL-70",
+    "PFL-279"
+  ],
   "iono's electrode": ["JTG-48"],
-  "iono's kilowattrel": ["JTG-55", "JTG-163"],
-  "iono's tadbulb": ["JTG-52"],
+  "iono's kilowattrel": ["JTG-55", "JTG-163", "PFL-72"],
+  "iono's tadbulb": ["JTG-52", "PFL-69"],
   "iono's voltorb": ["JTG-47"],
-  "iono's wattrel": ["JTG-54"],
+  "iono's wattrel": ["JTG-54", "PFL-71", "PFL-231"],
   "irida": ["ASR-147", "ASR-186", "ASR-204", "CRZ-GG63"],
   "iris": ["PLB-81", "PLB-101"],
-  "iris's fighting spirit": ["JTG-149", "JTG-180"],
+  "iris's fighting spirit": ["JTG-149", "JTG-180", "PFL-190", "PFL-292"],
   "iron boulder": ["SCR-71", "PRE-46"],
   "iron boulder ex": ["TEF-99", "TEF-192", "TEF-207", "TEF-217", "PR-SV-147"],
   "iron bundle": ["PAR-56", "TWM-62", "SSP-55", "PR-SV-58", "PR-SV-66"],
@@ -6596,7 +6702,7 @@
   ],
   "jacq": ["SVI-175", "SVI-236", "SVI-250"],
   "jamming net team flare hyper gear": ["PHF-98"],
-  "jamming tower": ["DRI-243", "TWM-153"],
+  "jamming tower": ["DRI-243", "TWM-153", "PFL-261"],
   "jangmo-o": ["GRI-98", "CIN-75", "DRM-52", "PR-SM-SM40"],
   "janine": ["UNB-176", "UNB-210"],
   "janine's secret art": ["SFA-59", "SFA-88", "PRE-112", "PRE-173"],
@@ -6913,7 +7019,8 @@
     "SVI-220",
     "OBF-150",
     "PR-SV-113",
-    "PR-SV-130"
+    "PR-SV-130",
+    "PFL-148"
   ],
   "kingdra": [
     "PLF-84",
@@ -6980,7 +7087,8 @@
     "SIT-68",
     "CRE-60",
     "AOR-53",
-    "BKT-69"
+    "BKT-69",
+    "PFL-88"
   ],
   "kirlia δ": ["DF-33"],
   "klang": [
@@ -7104,7 +7212,8 @@
     "SVI-254",
     "OBF-124",
     "TEF-120",
-    "PR-SV-29"
+    "PR-SV-29",
+    "PFL-121"
   ],
   "korrina": ["FFI-95", "FFI-111"],
   "korrina's focus": ["BST-128", "BST-160", "BST-174"],
@@ -7340,7 +7449,15 @@
   "lapras vmax": ["SSH-50", "SSH-203", "SHF-SV111"],
   "lapras-gx": ["SUM-35", "SUM-139", "SUM-151"],
   "larry": ["PAR-165", "PAR-235"],
+  "larry's braviary": ["PFL-174"],
+  "larry's dudunsparce ex": ["PFL-164"],
+  "larry's dunsparce": ["PFL-163"],
+  "larry's komala": ["PFL-175"],
+  "larry's rufflet": ["PFL-173"],
   "larry's skill": ["PRE-115", "PRE-139"],
+  "larry's staraptor": ["PFL-170", "PFL-249"],
+  "larry's staravia": ["PFL-169"],
+  "larry's starly": ["PFL-168"],
   "larvesta": [
     "PLB-12",
     "NVI-19",
@@ -7571,6 +7688,7 @@
   "life herb": ["HL-90", "RG-93", "UL-79", "PL-108", "CES-136", "CES-180"],
   "light arcanine": ["N4-12"],
   "light azumarill": ["N4-13"],
+  "light ball": ["PFL-191"],
   "light dewgong": ["N4-45"],
   "light dragonair": ["N4-22"],
   "light dragonite": ["N4-14"],
@@ -7625,10 +7743,10 @@
   ],
   "lileep δ": ["HP-68"],
   "lillie": ["SUM-122", "SUM-147", "SLG-62", "UPR-125", "UPR-125a", "UPR-151"],
-  "lillie's clefairy ex": ["JTG-56", "JTG-173", "JTG-184"],
+  "lillie's clefairy ex": ["JTG-56", "JTG-173", "JTG-184", "PFL-76", "PFL-280"],
   "lillie's comfey": ["JTG-68"],
   "lillie's cutiefly": ["JTG-66"],
-  "lillie's determination": ["MEG-119", "MEG-169", "MEG-184"],
+  "lillie's determination": ["MEG-119", "MEG-169", "MEG-184", "PFL-192"],
   "lillie's pearl": ["JTG-151"],
   "lillie's ribombee": ["JTG-67", "JTG-164"],
   "lilligant": [
@@ -7924,7 +8042,8 @@
     "CRZ-GG11",
     "DAA-72",
     "XY-63",
-    "MEP-4"
+    "MEP-4",
+    "PFL-105"
   ],
   "lurantis": ["DRI-14", "PR-SM-SM25", "BST-15"],
   "lurantis-gx": ["SUM-15", "SUM-138", "SUM-150"],
@@ -8460,6 +8579,7 @@
     "FCO-58"
   ],
   "mandibuzz break": ["PR-XY-XY182"],
+  "mandibuzz ex": ["PFL-139"],
   "manectric": [
     "DRX-43",
     "DRX-44",
@@ -8586,11 +8706,13 @@
     "BUS-34",
     "LOT-135",
     "STS-76",
-    "PRC-102"
+    "PRC-102",
+    "PFL-83",
+    "PFL-232"
   ],
   "marley's request": ["SF-87"],
   "marnie": ["SSH-169", "SSH-200", "SSH-208", "CPA-56"],
-  "marnie's grimmsnarl ex": ["DRI-136"],
+  "marnie's grimmsnarl ex": ["DRI-136", "PFL-287"],
   "marnie's impidimp": ["DRI-134"],
   "marnie's liepard": ["DRI-131"],
   "marnie's morgrem": ["DRI-135"],
@@ -8697,7 +8819,9 @@
     "SSH-129",
     "LOR-71",
     "BST-100",
-    "BKP-78"
+    "BKP-78",
+    "PFL-144",
+    "PFL-246"
   ],
   "mawile spirit link": ["PR-XY-XY105"],
   "mawile v": ["SIT-70", "SIT-178", "SIT-TG17"],
@@ -8735,7 +8859,9 @@
     "SIT-73",
     "RCL-98",
     "PRC-80",
-    "PRC-81"
+    "PRC-81",
+    "PFL-104",
+    "PFL-241"
   ],
   "medicham ex": ["EM-95", "SCR-80", "SCR-161"],
   "medicham v": ["EVS-83", "EVS-185", "EVS-186"],
@@ -8758,25 +8884,43 @@
     "LOR-99",
     "SIT-72",
     "RCL-97",
-    "PRC-79"
+    "PRC-79",
+    "PFL-103"
   ],
   "mega abomasnow ex": ["MEG-36", "MEG-157"],
   "mega absol ex": ["MEG-86", "MEG-161", "MEG-180"],
+  "mega audino ex": ["PFL-172", "PFL-253"],
   "mega camerupt ex": ["MEG-22", "MEG-156"],
   "mega catcher": ["FCO-104"],
   "mega charizard x ex": ["PFL-13", "PFL-109", "PFL-125", "PFL-130", "MEP-23"],
-  "mega diancie ex": ["PFL-41"],
-  "mega gardevoir ex": ["MEG-60", "MEG-159", "MEG-178", "MEG-187"],
-  "mega gengar ex": ["PFL-56"],
+  "mega charizard y ex": ["PFL-22", "PFL-294"],
+  "mega diancie ex": ["PFL-41", "PFL-267", "PFL-282"],
+  "mega dragonite ex": ["PFL-152", "PFL-271", "PFL-290", "PFL-295"],
+  "mega eelektross ex": ["PFL-61", "PFL-266", "PFL-278"],
+  "mega emboar ex": ["PFL-31", "PFL-273"],
+  "mega feraligatr ex": ["PFL-43", "PFL-274"],
+  "mega froslass ex": ["PFL-47", "PFL-265", "PFL-275"],
+  "mega gardevoir ex": ["MEG-60", "MEG-159", "MEG-178", "MEG-187", "PFL-89"],
+  "mega gengar ex": ["PFL-56", "PFL-125", "PFL-269", "PFL-284"],
+  "mega hawlucha ex": ["PFL-116", "PFL-268", "PFL-283"],
   "mega heracross ex": ["PFL-4", "PFL-108"],
   "mega kangaskhan ex": ["MEG-104", "MEG-164", "MEG-182", "MEP-25"],
   "mega latias ex": ["MEG-100", "MEG-163", "MEG-181", "MEP-11"],
   "mega lopunny ex": ["PFL-84", "PFL-115", "PFL-128"],
-  "mega lucario ex": ["MEG-77", "MEG-160", "MEG-179", "MEG-188", "MEP-12"],
+  "mega lucario ex": [
+    "MEG-77",
+    "MEG-160",
+    "MEG-179",
+    "MEG-188",
+    "MEP-12",
+    "PFL-113"
+  ],
   "mega manectric ex": ["MEG-50", "MEG-158"],
   "mega mawile ex": ["MEG-94", "MEG-162"],
+  "mega meganium ex": ["PFL-10", "PFL-272"],
+  "mega scrafty ex": ["PFL-135", "PFL-270", "PFL-285"],
   "mega sharpedo ex": ["PFL-61", "PFL-113", "PFL-127"],
-  "mega signal": ["MEG-121", "MEG-171"],
+  "mega signal": ["MEG-121", "MEG-171", "PFL-193"],
   "mega turbo": ["ROS-86"],
   "mega venusaur ex": ["MEG-3", "MEG-155", "MEG-177", "MEP-13"],
   "meganium": [
@@ -9149,7 +9293,9 @@
     "ASR-TG09",
     "VIV-104",
     "KSS-17",
-    "PHF-54"
+    "PHF-54",
+    "PFL-129",
+    "PFL-243"
   ],
   "mightyena ex": ["HP-101"],
   "mightyena δ": ["DS-24"],
@@ -9290,7 +9436,8 @@
     "OBF-79",
     "TEF-122",
     "PR-SV-28",
-    "PR-SV-143"
+    "PR-SV-143",
+    "PFL-73"
   ],
   "miriam": ["SVI-179", "SVI-238", "SVI-251"],
   "misdreavus": [
@@ -9313,7 +9460,9 @@
     "ASR-58",
     "SIT-63",
     "BKT-65",
-    "PFL-35"
+    "PFL-35",
+    "PFL-85",
+    "PFL-233"
   ],
   "mismagius": [
     "LTR-58",
@@ -9331,7 +9480,8 @@
     "PR-SM-SM245",
     "ASR-59",
     "SIT-64",
-    "BKT-66"
+    "BKT-66",
+    "PFL-86"
   ],
   "mismagius ex": ["PFL-36", "PFL-112"],
   "mismagius gl": ["RR-10"],
@@ -9531,7 +9681,7 @@
   "multi switch": ["GRI-129", "BUS-164"],
   "multi technical machine 01": ["EX-144"],
   "munchlax": ["DP-33", "MD-68", "RR-69", "RR-70"],
-  "munkidori": ["TWM-95", "SFA-72", "PRE-44"],
+  "munkidori": ["TWM-95", "SFA-72", "PRE-44", "PFL-99"],
   "munkidori ex": ["SFA-37", "SFA-83", "SFA-91"],
   "munna": [
     "BLW-48",
@@ -9582,34 +9732,37 @@
   "mysterious shard": ["CG-81"],
   "mysterious treasure": ["FLI-113", "FLI-113a", "FLI-145"],
   "mystery energy": ["PHF-112"],
-  "mystery garden": ["MEG-122", "MEG-172"],
+  "mystery garden": ["MEG-122", "MEG-172", "PFL-194"],
   "mystery plate α": ["SK-133"],
   "mystery plate β": ["SK-134"],
   "mystery plate γ": ["SK-135"],
   "mystery plate δ": ["SK-136"],
   "mystery zone": ["SK-137"],
-  "support n": [
-    "NVI-92",
-    "NVI-101",
-    "DEX-96",
-    "PR-BLW-BW100",
-    "FCO-105",
-    "FCO-105a"
-  ],
   "n's castle": ["JTG-152"],
-  "n's darmanitan": ["JTG-27"],
-  "n's darumaka": ["JTG-26"],
+  "n's darmanitan": ["JTG-27", "PFL-33"],
+  "n's darumaka": ["JTG-26", "PFL-32"],
   "n's joltik": ["JTG-49"],
   "n's klang": ["JTG-104"],
   "n's klink": ["JTG-103"],
   "n's klinklang": ["JTG-105"],
   "n's plan": ["BLK-83", "BLK-163", "BLK-170"],
-  "n's pp up": ["JTG-153"],
+  "n's pp up": ["JTG-153", "PFL-195", "PFL-262"],
   "n's purrloin": ["JTG-96"],
-  "n's reshiram": ["JTG-116", "JTG-167"],
+  "n's reshiram": ["JTG-116", "JTG-167", "PFL-154"],
   "n's sigilyph": ["JTG-64"],
-  "n's zoroark ex": ["JTG-98", "JTG-175", "JTG-185", "JTG-189"],
-  "n's zorua": ["JTG-97"],
+  "n's vanillish": ["PFL-50"],
+  "n's vanillite": ["PFL-49"],
+  "n's vanilluxe": ["PFL-51"],
+  "n's zekrom": ["PFL-155"],
+  "n's zoroark ex": [
+    "JTG-98",
+    "JTG-175",
+    "JTG-185",
+    "JTG-189",
+    "PFL-137",
+    "PFL-286"
+  ],
+  "n's zorua": ["JTG-97", "PFL-136"],
   "nacli": [
     "PAF-176",
     "MEG-82",
@@ -9770,9 +9923,10 @@
   "nidorino δ": ["DF-35"],
   "night maintenance": ["MT-113", "SW-120"],
   "night pokémon center": ["DP-108"],
-  "night stretcher": ["MEG-173", "SFA-61", "SSP-251"],
+  "night stretcher": ["MEG-173", "SFA-61", "SSP-251", "PFL-196"],
   "night teleporter": ["SV-138"],
   "nightly garbage run": ["TR-77"],
+  "nighttime mine": ["PFL-197"],
   "nihilego": ["LOT-106"],
   "nihilego-gx": ["CIN-49", "CIN-103", "CIN-114"],
   "nincada": [
@@ -9870,9 +10024,10 @@
     "SIT-132",
     "FFI-87",
     "BKT-131",
-    "BKT-132"
+    "BKT-132",
+    "PFL-156"
   ],
-  "noivern": ["JTG-128", "FLI-101", "SIT-133", "FFI-77", "BKT-112"],
+  "noivern": ["JTG-128", "FLI-101", "SIT-133", "FFI-77", "BKT-112", "PFL-157"],
   "noivern break": ["BKT-113"],
   "noivern ex": ["PAF-69", "PAF-220", "PAL-153", "PAL-246", "PRE-91"],
   "noivern v": ["EVS-117", "EVS-195", "EVS-196"],
@@ -9915,7 +10070,9 @@
     "OBF-31",
     "CIN-13",
     "PGO-13",
-    "BKP-12"
+    "BKP-12",
+    "PFL-27",
+    "PFL-223"
   ],
   "nuzleaf": [
     "NXD-71",
@@ -10001,7 +10158,7 @@
     "JTG-140"
   ],
   "oinkologne ex": ["SVI-158", "SVI-234"],
-  "okidogi": ["TWM-111", "SFA-74", "PRE-57"],
+  "okidogi": ["TWM-111", "SFA-74", "PRE-57", "PFL-122"],
   "okidogi ex": ["SFA-36", "SFA-82", "SFA-90"],
   "old amber": ["MD-84", "AR-89"],
   "old amber aerodactyl": ["DEX-97", "FCO-106"],
@@ -10240,7 +10397,8 @@
     "FFI-59",
     "FFI-60",
     "BKT-86",
-    "BKP-71"
+    "BKP-71",
+    "PFL-115"
   ],
   "pangoro": [
     "SCR-93",
@@ -10251,7 +10409,8 @@
     "CRZ-80",
     "FFI-68",
     "BKP-75",
-    "PR-XY-XY50"
+    "PR-XY-XY50",
+    "PFL-140"
   ],
   "panic mask": ["LOR-165"],
   "panpour": [
@@ -10401,10 +10560,11 @@
     "BST-103",
     "KSS-19",
     "XY-81",
-    "STS-63"
+    "STS-63",
+    "PFL-146"
   ],
   "payapa berry": ["SCR-141"],
-  "pecharunt": ["PR-SV-129", "PR-SV-149"],
+  "pecharunt": ["PR-SV-129", "PR-SV-149", "PFL-143"],
   "pecharunt ex": ["SFA-39", "SFA-85", "SFA-93", "SFA-95", "PRE-163"],
   "peeking red card": ["CIN-97", "UPR-169"],
   "pelipper": [
@@ -10601,7 +10761,8 @@
     "BCR-25",
     "WHT-12",
     "WHT-97",
-    "BST-24"
+    "BST-24",
+    "PFL-30"
   ],
   "pikachu": [
     "MEW-25",
@@ -10682,7 +10843,8 @@
     "BKT-48",
     "PR-XY-XY89",
     "PR-XY-XY95",
-    "PR-XY-XY202"
+    "PR-XY-XY202",
+    "PFL-55"
   ],
   "pikachu & zekrom-gx": ["TEU-33", "TEU-162", "TEU-184", "PR-SM-SM168"],
   "pikachu ex": [
@@ -10693,7 +10855,10 @@
     "SSP-247",
     "PRE-28",
     "PRE-179",
-    "PR-SV-106"
+    "PR-SV-106",
+    "PFL-57",
+    "PFL-276",
+    "PFL-277"
   ],
   "pikachu on the ball": ["FUT20-1"],
   "pikachu v": ["LOR-TG16", "VIV-43", "VIV-170", "BRS-157"],
@@ -10853,6 +11018,7 @@
   "poké drawer +": ["SF-89"],
   "poké healer +": ["SF-90"],
   "poké kid": ["SSH-173", "SHF-70"],
+  "poké pad": ["PFL-198"],
   "poké radar": ["LA-133"],
   "poké vital a": ["SFA-62"],
   "pokédex": ["BS-87", "B2-115", "BLW-98", "EVO-82"],
@@ -11045,7 +11211,8 @@
     "CRZ-GG33",
     "VIV-103",
     "KSS-16",
-    "PHF-53"
+    "PHF-53",
+    "PFL-128"
   ],
   "popplio": ["SUM-39", "LOT-64", "LOT-65", "PR-SM-SM03", "PR-SM-SM24"],
   "poppy": ["OBF-193", "OBF-220", "OBF-227"],
@@ -11144,7 +11311,7 @@
   "practice studio": ["PAL-186"],
   "precious trolley": ["SSP-185"],
   "premier ball": ["GE-101", "SF-91"],
-  "premium power pro": ["MEG-124", "MEG-174"],
+  "premium power pro": ["MEG-124", "MEG-174", "PFL-199"],
   "primal groudon-ex": ["PRC-86", "PRC-151", "AOR-97"],
   "primal kyogre-ex": ["PRC-55", "PRC-149", "AOR-96"],
   "primarina": ["SUM-41", "LOT-67"],
@@ -11184,7 +11351,7 @@
     "BKT-37",
     "PFL-28"
   ],
-  "prism energy": ["NXD-93", "BLK-86"],
+  "prism energy": ["NXD-93", "BLK-86", "PFL-216"],
   "probopass": [
     "DRX-82",
     "LA-13",
@@ -11306,7 +11473,9 @@
     "ASR-28",
     "EVS-24",
     "BKP-16",
-    "MEP-7"
+    "MEP-7",
+    "PFL-39",
+    "PFL-226"
   ],
   "psyduck δ": ["HP-81"],
   "pumpkaboo": ["PAR-77", "CIN-44", "EVS-76", "XY-56", "PHF-44"],
@@ -11451,7 +11620,8 @@
     "SSH-32",
     "SSH-33",
     "SHF-SV016",
-    "CRE-27"
+    "CRE-27",
+    "PFL-37"
   ],
   "rabsca": ["PAF-163", "PAL-99", "PAL-215", "TEF-24", "SSP-14"],
   "rabsca ex": ["DRI-25"],
@@ -11521,7 +11691,8 @@
     "XY-43",
     "EVO-36",
     "FFI-28",
-    "BKT-49"
+    "BKT-49",
+    "PFL-56"
   ],
   "raichu break": ["BKT-50"],
   "raichu ex": ["SS-98", "EM-97"],
@@ -11603,7 +11774,8 @@
     "CRE-59",
     "AOR-52",
     "BKT-68",
-    "BKT-100"
+    "BKT-100",
+    "PFL-87"
   ],
   "ralts δ": ["DF-61"],
   "rampardos": ["MT-33", "PL-13", "UPR-65", "ASR-77"],
@@ -11723,7 +11895,8 @@
     "GRI-106",
     "VIV-138",
     "PR-XY-XY64",
-    "PR-XY-XY141"
+    "PR-XY-XY141",
+    "PFL-153"
   ],
   "rayquaza & deoxys legend": ["UD-89", "UD-90"],
   "rayquaza c": ["SV-8"],
@@ -11774,7 +11947,7 @@
     "ASR-37",
     "AOR-24"
   ],
-  "regice ex": ["HL-97", "EM-98"],
+  "regice ex": ["HL-97", "EM-98", "PFL-48"],
   "regice ★": ["LM-90"],
   "regidrago": ["ASR-118", "EVS-124"],
   "regidrago v": ["SIT-135", "SIT-183", "SIT-184"],
@@ -11812,7 +11985,7 @@
     "AOR-40",
     "PR-XY-XY49"
   ],
-  "regirock ex": ["HL-98", "EM-99", "DRI-101", "DRI-214"],
+  "regirock ex": ["HL-98", "EM-99", "DRI-101", "DRI-214", "PFL-107"],
   "regirock v": ["SSH-104"],
   "regirock ★": ["LM-91"],
   "regirock-ex": ["FCO-43", "FCO-43a"],
@@ -11826,7 +11999,7 @@
     "ASR-108",
     "AOR-51"
   ],
-  "registeel ex": ["HL-99", "EM-100"],
+  "registeel ex": ["HL-99", "EM-100", "PFL-145"],
   "registeel ★": ["LM-92"],
   "registeel-ex": ["DRX-81", "DRX-122"],
   "relic hunter": ["SK-120"],
@@ -12031,7 +12204,8 @@
     "BRS-78",
     "FCO-45",
     "FCO-46",
-    "MEP-10"
+    "MEP-10",
+    "PFL-112"
   ],
   "risky ruins": ["MEG-127"],
   "rival": ["DP-113", "SW-124"],
@@ -12107,7 +12281,7 @@
     "PHF-48"
   ],
   "roller skates": ["XY-125", "PHF-103"],
-  "rolycoly": ["TEF-93", "RCL-105", "CPA-31", "SHF-SV067", "BST-78"],
+  "rolycoly": ["TEF-93", "RCL-105", "CPA-31", "SHF-SV067", "BST-78", "PFL-118"],
   "rookidee": ["PAL-164", "PAL-225", "SSH-150", "DAA-154", "SHF-SV101"],
   "root fossil": ["LA-139", "LM-80", "HP-93", "PK-86", "SS-92"],
   "root fossil lileep": ["PLB-87"],
@@ -12167,7 +12341,8 @@
     "SHF-34",
     "SHF-SV038",
     "FCO-24",
-    "AOR-29"
+    "AOR-29",
+    "PFL-92"
   ],
   "rotom bike": ["SSH-181", "CPA-63"],
   "rotom dex": ["SUM-131", "SUM-159"],
@@ -12303,7 +12478,8 @@
     "PR-SM-SM154",
     "SSH-27",
     "CRZ-27",
-    "BST-27"
+    "BST-27",
+    "PFL-34"
   ],
   "salazzle": [
     "OBF-140",
@@ -12316,7 +12492,9 @@
     "PR-SM-SM73",
     "SSH-28",
     "CRZ-28",
-    "BST-28"
+    "BST-28",
+    "PFL-35",
+    "PFL-224"
   ],
   "salazzle-gx": ["BUS-25", "BUS-132", "BUS-151", "PR-SM-SM63"],
   "salvatore": ["TEF-160", "TEF-202", "TEF-212"],
@@ -12486,7 +12664,16 @@
   "scoop up": ["BS-78", "B2-107", "LC-104"],
   "scoop up cyclone": ["PLB-95", "TWM-162", "PRE-128"],
   "scoop up net": ["RCL-165", "RCL-207"],
-  "scorbunny": ["MEG-26", "SCR-26", "SSH-30", "SSH-31", "SHF-SV015", "CRE-26"],
+  "scorbunny": [
+    "MEG-26",
+    "SCR-26",
+    "SSH-30",
+    "SSH-31",
+    "SHF-SV015",
+    "CRE-26",
+    "PFL-36",
+    "PFL-225"
+  ],
   "scorbunny on the ball": ["FUT20-4"],
   "scorched earth": ["FCO-110", "PRC-138"],
   "scott": ["PK-81", "EM-84"],
@@ -12519,7 +12706,8 @@
     "CPA-41",
     "EVS-98",
     "FLF-58",
-    "FFI-66"
+    "FFI-66",
+    "PFL-134"
   ],
   "scramble energy": ["DF-89", "DX-95"],
   "scramble switch": ["PLS-129", "SSP-186"],
@@ -12989,7 +13177,8 @@
     "LOR-72",
     "VIV-67",
     "CRE-62",
-    "ROS-30"
+    "ROS-30",
+    "PFL-90"
   ],
   "sidney's stadium": ["PK-82"],
   "siebold": ["CRE-153", "CRE-198", "CRE-221"],
@@ -13018,7 +13207,8 @@
     "PL-63",
     "LOT-25",
     "LOR-7",
-    "ROS-4"
+    "ROS-4",
+    "PFL-12"
   ],
   "silent lab": ["PRC-140"],
   "silicobra": ["SVI-119", "SSH-107", "SSH-108", "SHF-SV070", "BST-81"],
@@ -13176,7 +13366,8 @@
     "DAA-141",
     "KSS-28",
     "XY-104",
-    "PRC-113"
+    "PRC-113",
+    "PFL-165"
   ],
   "skorupi": [
     "DP-99",
@@ -13348,7 +13539,9 @@
     "GEN-RC20",
     "XY-95",
     "PHF-69",
-    "PR-XY-XY15"
+    "PR-XY-XY15",
+    "PFL-94",
+    "PFL-236"
   ],
   "smeargle": [
     "PR-32",
@@ -13399,7 +13592,8 @@
     "STS-60",
     "FLF-50",
     "FLF-51",
-    "MEP-20"
+    "MEP-20",
+    "PFL-44"
   ],
   "sneasel ex": ["RS-103"],
   "snivy": [
@@ -13414,7 +13608,15 @@
     "BLK-87",
     "FCO-5"
   ],
-  "snom": ["MEG-42", "TEF-45", "TEF-168", "SSH-63", "SHF-29", "SHF-SV033"],
+  "snom": [
+    "MEG-42",
+    "TEF-45",
+    "TEF-168",
+    "SSH-63",
+    "SHF-29",
+    "SHF-SV033",
+    "PFL-52"
+  ],
   "snorlax": [
     "MEW-143",
     "PAF-202",
@@ -13475,7 +13677,9 @@
     "CRZ-34",
     "CRE-35",
     "BRS-34",
-    "GEN-RC7"
+    "GEN-RC7",
+    "PFL-46",
+    "PFL-227"
   ],
   "snover": [
     "PAF-100",
@@ -13558,7 +13762,8 @@
     "CRZ-GG15",
     "DAA-92",
     "XY-64",
-    "PRC-83"
+    "PRC-83",
+    "PFL-106"
   ],
   "sonia": ["RCL-167", "RCL-192", "RCL-203", "CPA-65"],
   "sophocles": ["BUS-123", "BUS-146", "SLG-65"],
@@ -13588,7 +13793,7 @@
     "ROS-65"
   ],
   "special charge": ["STS-105"],
-  "spectrier": ["LOR-81"],
+  "spectrier": ["LOR-81", "PFL-98"],
   "speed lightning energy": ["RCL-173"],
   "speed stadium": ["DP-114"],
   "spell tag": ["LOT-190", "LOT-235"],
@@ -13696,7 +13901,7 @@
     "PR-SV-1",
     "PR-SV-76"
   ],
-  "sprigatito ex": ["PR-SV-87"],
+  "sprigatito ex": ["PR-SV-87", "PFL-251"],
   "spritzee": ["PRE-38", "UNB-141", "XY-92", "FLF-67", "BKT-105", "BKP-84"],
   "sprout tower": ["N1-97"],
   "squawkabilly": ["SVI-162", "DRI-160", "JTG-141"],
@@ -13877,7 +14082,7 @@
   "steven's beldum": ["DRI-143"],
   "steven's carbink": ["DRI-86"],
   "steven's claydol": ["DRI-84"],
-  "steven's metagross ex": ["DRI-145"],
+  "steven's metagross ex": ["DRI-145", "PFL-289"],
   "steven's metang": ["DRI-144"],
   "steven's resolve": ["CES-145", "CES-165"],
   "steven's skarmory": ["DRI-142"],
@@ -13937,8 +14142,10 @@
     "SLG-46",
     "LOT-83",
     "SIT-55",
-    "BKT-56"
+    "BKT-56",
+    "PFL-62"
   ],
+  "stunfisk ex": ["PFL-114", "PFL-252"],
   "stunky": [
     "DRX-76",
     "DP-102",
@@ -14039,7 +14246,15 @@
   ],
   "supereffective glasses": ["ASR-152"],
   "superior energy retrieval": ["PLF-103", "PAL-189", "PAL-277"],
-  "surfer": ["SSP-187", "SSP-235"],
+  "support n": [
+    "NVI-92",
+    "NVI-101",
+    "DEX-96",
+    "PR-BLW-BW100",
+    "FCO-105",
+    "FCO-105a"
+  ],
+  "surfer": ["SSP-187", "SSP-235", "PFL-200", "PFL-293"],
   "surfing beach": ["MEG-129"],
   "surfing pikachu": ["PR-28", "RR-114", "EVO-111"],
   "surprise box": ["UNB-187"],
@@ -14175,7 +14390,8 @@
     "GEN-RC19",
     "KSS-24",
     "XY-94",
-    "PHF-68"
+    "PHF-68",
+    "PFL-93"
   ],
   "switch": [
     "MEW-206",
@@ -14322,7 +14538,8 @@
     "PR-SM-SM30",
     "PR-SM-SM30a",
     "PR-SM-SM31",
-    "DAA-61"
+    "DAA-61",
+    "PFL-67"
   ],
   "tapu koko ex": ["PAR-68", "PAR-222", "PAR-247", "JTG-51"],
   "tapu koko v": ["SSH-72", "BST-50", "BST-147"],
@@ -14451,37 +14668,51 @@
   "team plasma grunt": ["PLS-125"],
   "team rocket's ampharos": ["DRI-74"],
   "team rocket's arbok": ["DRI-113"],
-  "team rocket's archer": ["DRI-170", "DRI-223"],
-  "team rocket's ariana": ["DRI-171", "DRI-224", "DRI-237"],
+  "team rocket's archer": ["DRI-170", "DRI-223", "PFL-201"],
+  "team rocket's ariana": ["DRI-171", "DRI-224", "DRI-237", "PFL-202"],
   "team rocket's articuno": ["DRI-51"],
   "team rocket's blipbug": ["DRI-15"],
   "team rocket's bother-bot": ["DRI-172"],
   "team rocket's chingling": ["DRI-85"],
   "team rocket's crobat ex": ["DRI-122", "DRI-217", "DRI-234", "DRI-242"],
+  "team rocket's diglett": ["PFL-100"],
   "team rocket's dottler": ["DRI-88"],
   "team rocket's drowzee": ["DRI-79"],
+  "team rocket's dugtrio": ["PFL-101", "PFL-239"],
   "team rocket's ekans": ["DRI-112"],
-  "team rocket's energy": ["DRI-182"],
+  "team rocket's energy": ["DRI-182", "PFL-217"],
   "team rocket's evil deeds": ["N4-103"],
-  "team rocket's factory": ["DRI-173"],
+  "team rocket's exeggcute": ["PFL-77"],
+  "team rocket's exeggutor": ["PFL-78"],
+  "team rocket's factory": ["DRI-173", "PFL-203"],
   "team rocket's flaaffy": ["DRI-73"],
-  "team rocket's giovanni": ["DRI-174", "DRI-225", "DRI-238"],
+  "team rocket's giovanni": ["DRI-174", "DRI-225", "DRI-238", "PFL-204"],
   "team rocket's golbat": ["DRI-121"],
-  "team rocket's great ball": ["DRI-175"],
+  "team rocket's great ball": ["DRI-175", "PFL-205"],
   "team rocket's grimer": ["DRI-123"],
   "team rocket's handiwork": ["FCO-112", "FCO-124"],
+  "team rocket's honchkrow": ["PFL-127"],
   "team rocket's houndoom": ["DRI-38", "DRI-191"],
   "team rocket's houndour": ["DRI-37"],
   "team rocket's hypno": ["DRI-80"],
+  "team rocket's hypnotizer": ["PFL-206"],
+  "team rocket's kangaskhan ex": ["PFL-162"],
   "team rocket's koffing": ["DRI-125"],
   "team rocket's larvitar": ["DRI-94"],
   "team rocket's mareep": ["DRI-72"],
-  "team rocket's meowth": ["PR-18", "DRI-149", "DRI-203"],
-  "team rocket's mewtwo ex": ["DRI-81", "DRI-213", "DRI-231", "DRI-240"],
-  "team rocket's mimikyu": ["DRI-87"],
+  "team rocket's meowth": ["PR-18", "DRI-149", "DRI-203", "PFL-161"],
+  "team rocket's mewtwo ex": [
+    "DRI-81",
+    "DRI-213",
+    "DRI-231",
+    "DRI-240",
+    "PFL-79",
+    "PFL-281"
+  ],
+  "team rocket's mimikyu": ["DRI-87", "PFL-97", "PFL-238"],
   "team rocket's moltres ex": ["DRI-31", "DRI-208", "DRI-229"],
   "team rocket's muk": ["DRI-124"],
-  "team rocket's murkrow": ["DRI-127", "DRI-200"],
+  "team rocket's murkrow": ["DRI-127", "DRI-200", "PFL-126"],
   "team rocket's nidoking ex": ["DRI-119", "DRI-216", "DRI-233"],
   "team rocket's nidoqueen": ["DRI-116"],
   "team rocket's nidoran♀": ["DRI-114"],
@@ -14490,22 +14721,22 @@
   "team rocket's nidorino": ["DRI-118"],
   "team rocket's orbeetle": ["DRI-89", "DRI-198"],
   "team rocket's persian ex": ["DRI-150", "DRI-219"],
-  "team rocket's petrel": ["DRI-176", "DRI-226"],
+  "team rocket's petrel": ["DRI-176", "DRI-226", "PFL-207"],
   "team rocket's porygon": ["DRI-153"],
   "team rocket's porygon-z": ["DRI-155"],
   "team rocket's porygon2": ["DRI-154"],
-  "team rocket's proton": ["DRI-177", "DRI-227"],
+  "team rocket's proton": ["DRI-177", "DRI-227", "PFL-208"],
   "team rocket's pupitar": ["DRI-95"],
   "team rocket's raticate": ["DRI-148", "DRI-202"],
   "team rocket's rattata": ["DRI-147"],
   "team rocket's sneasel": ["DRI-128"],
-  "team rocket's spidops": ["DRI-20", "DRI-187"],
-  "team rocket's tarountula": ["DRI-19"],
-  "team rocket's transceiver": ["DRI-178"],
+  "team rocket's spidops": ["DRI-20", "DRI-187", "PFL-19"],
+  "team rocket's tarountula": ["DRI-19", "PFL-18"],
+  "team rocket's transceiver": ["DRI-178", "PFL-209", "PFL-263"],
   "team rocket's trickery": ["UD-78"],
   "team rocket's tyranitar": ["DRI-96"],
   "team rocket's venture bomb": ["DRI-179"],
-  "team rocket's watchtower": ["DRI-180"],
+  "team rocket's watchtower": ["DRI-180", "PFL-210"],
   "team rocket's weezing": ["DRI-126", "DRI-199"],
   "team rocket's wobbuffet": ["DRI-82"],
   "team rocket's zapdos": ["DRI-70"],
@@ -14582,10 +14813,11 @@
     "PR-BLW-BW07",
     "WHT-11",
     "WHT-96",
-    "BST-23"
+    "BST-23",
+    "PFL-29"
   ],
   "tera orb": ["SSP-189"],
-  "terapagos": ["SSP-161"],
+  "terapagos": ["SSP-161", "PFL-178"],
   "terapagos ex": [
     "SCR-128",
     "SCR-170",
@@ -14593,7 +14825,8 @@
     "PRE-92",
     "PRE-169",
     "PRE-180",
-    "PR-SV-165"
+    "PR-SV-165",
+    "PFL-179"
   ],
   "terrakion": [
     "LTR-84",
@@ -14615,6 +14848,7 @@
   "the rocket's training gym": ["G1-104"],
   "the rocket's trap": ["G1-19"],
   "therapeutic energy": ["PAL-193"],
+  "thick scale": ["PFL-211"],
   "thievul": [
     "MEG-90",
     "PAR-120",
@@ -14730,6 +14964,7 @@
     "PFL-73",
     "PFL-104"
   ],
+  "togedemaru ex": ["PFL-149"],
   "togekiss": [
     "PLS-104",
     "GE-11",
@@ -14740,7 +14975,9 @@
     "UNB-138",
     "ASR-57",
     "ROS-45",
-    "ROS-46"
+    "ROS-46",
+    "PFL-82",
+    "PFL-235"
   ],
   "togekiss c": ["SV-86"],
   "togekiss v": ["VIV-140", "VIV-178"],
@@ -14761,7 +14998,8 @@
     "SSP-70",
     "UNB-136",
     "ASR-55",
-    "ROS-43"
+    "ROS-43",
+    "PFL-80"
   ],
   "togepi δ": ["DF-41"],
   "togetic": [
@@ -14776,13 +15014,14 @@
     "SSP-71",
     "UNB-137",
     "ASR-56",
-    "ROS-44"
+    "ROS-44",
+    "PFL-81"
   ],
   "togetic δ": ["DF-11"],
   "tool box": ["LOR-168"],
   "tool jammer": ["BST-136"],
   "tool retriever": ["FFI-101"],
-  "tool scrapper": ["DRX-116", "WHT-85", "RCL-168", "RCL-208"],
+  "tool scrapper": ["DRX-116", "WHT-85", "RCL-168", "RCL-208", "PFL-212"],
   "torchic": [
     "LTR-RC5",
     "DEX-14",
@@ -14876,7 +15115,8 @@
     "TEF-39",
     "SLG-18",
     "DRM-22",
-    "PHF-15"
+    "PHF-15",
+    "PFL-41"
   ],
   "totodile δ": ["DF-67"],
   "toucannon": ["SUM-108", "LOT-166", "VIV-145"],
@@ -15118,7 +15358,8 @@
     "BUS-44",
     "LOR-59",
     "VIV-57",
-    "PRC-62"
+    "PRC-62",
+    "PFL-59"
   ],
   "type: null": ["CIN-89", "UPR-115"],
   "typhlosion": [
@@ -15198,7 +15439,9 @@
     "BRS-186",
     "FCO-113",
     "FLF-99",
-    "ROS-93"
+    "ROS-93",
+    "PFL-213",
+    "PFL-264"
   ],
   "ultra forest kartenvoy": ["UNB-188"],
   "ultra necrozma": ["PR-SM-SM165"],
@@ -15334,6 +15577,7 @@
   "unown y": ["LA-81", "N3-40"],
   "unown z": ["SW-72", "N4-60"],
   "upper energy": ["RR-102"],
+  "urbain": ["PFL-214"],
   "urn of vitality": ["BST-139", "CRE-229"],
   "ursaluna": ["ASR-124"],
   "ursaluna v": ["SIT-102"],
@@ -15607,7 +15851,9 @@
     "UNB-59",
     "PR-SM-SM28",
     "PR-SM-SM208",
-    "RCL-66"
+    "RCL-66",
+    "PFL-66",
+    "PFL-230"
   ],
   "vikavolt v": ["DAA-60", "DAA-180"],
   "vikavolt-gx": ["GRI-45", "GRI-134", "GRI-152"],
@@ -15744,6 +15990,7 @@
     "EVO-39",
     "ROS-21"
   ],
+  "voltorb ex": ["PFL-58"],
   "vs seeker": ["RG-100", "SV-140", "PHF-109", "ROS-110"],
   "vullaby": [
     "BLW-72",
@@ -15754,7 +16001,8 @@
     "WHT-144",
     "TEU-92",
     "RCL-119",
-    "FCO-57"
+    "FCO-57",
+    "PFL-138"
   ],
   "vulpix": [
     "MEW-37",
@@ -15824,6 +16072,7 @@
   "wailord-ex": ["PRC-38", "PRC-147"],
   "wait and see hammer": ["LOT-192", "LOT-236"],
   "wait and see turbo": ["ASR-158"],
+  "waitress": ["PFL-215"],
   "walking wake": ["TWM-63"],
   "walking wake ex": [
     "TEF-50",
@@ -15941,7 +16190,9 @@
     "BRS-87",
     "STS-61",
     "FLF-52",
-    "MEP-21"
+    "MEP-21",
+    "PFL-45",
+    "PFL-228"
   ],
   "weavile g": ["PL-17"],
   "weeding gloves": ["CRE-155"],
@@ -16226,7 +16477,8 @@
     "LOT-23",
     "LOT-24",
     "LOR-6",
-    "ROS-3"
+    "ROS-3",
+    "PFL-11"
   ],
   "wynaut": ["DP-42", "LM-71", "PK-70", "SS-54"],
   "wyndon stadium": ["VIV-161"],
@@ -16409,6 +16661,7 @@
     "TEU-132",
     "CRE-120"
   ],
+  "zangoose ex": ["PFL-167"],
   "zapdos": [
     "BS-16",
     "FO-15",

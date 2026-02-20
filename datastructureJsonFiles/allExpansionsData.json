@@ -79,20 +79,20 @@
     {
       "id": "me2pt5",
       "images": {
-        "logo": "https://images.pokemontcg.io/me2pt5/logo.png",
-        "symbol": "https://images.pokemontcg.io/me2pt5/symbol.png"
+        "logo": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
+        "symbol": "https://images.scrydex.com/pokemon/me2pt5-logo/logo"
       },
       "legalities": {
         "expanded": "Legal",
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "name": "Ascending Heroes",
+      "name": "Ascended Heroes",
       "printedTotal": 217,
       "ptcgoCode": "ASC",
       "releaseDate": "2026/01/30",
       "series": "Mega Evolution",
-      "total": 294,
+      "total": 295,
       "updatedAt": "2025/12/16 21:00:00"
     },
     {
