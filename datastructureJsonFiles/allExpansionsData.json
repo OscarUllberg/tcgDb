@@ -79,8 +79,8 @@
     {
       "id": "me2pt5",
       "images": {
-        "logo": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
-        "symbol": "https://images.scrydex.com/pokemon/me2pt5-logo/logo"
+        "logo": "https://images.scrydex.com/pokemon/me2pt5-logo/logo",
+        "symbol": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol"
       },
       "legalities": {
         "expanded": "Legal",
