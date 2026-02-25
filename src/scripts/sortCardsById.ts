@@ -1,10 +1,14 @@
-const sortCardsById = (newExpansionData: any, cardByIdData: any) => {
+const sortCardsById = (
+  newExpansionData: any,
+  cardByIdData: any,
+  expansionId: string,
+) => {
   const cardById: Record<string, any> = {};
   for (const cardKey in newExpansionData) {
     const cardElement = newExpansionData[cardKey];
     if (cardElement.number) {
       // change first part of key to ${cardElement.set.ptcgoCode} if set is added to each element
-      const key = `PFL-${cardElement.number}`;
+      const key = `${expansionId}-${cardElement.number}`;
       cardById[key] = cardElement;
     }
   }

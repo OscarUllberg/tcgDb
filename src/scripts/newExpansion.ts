@@ -4,7 +4,8 @@ import sortCardsById from "./sortCardsById";
 import sortCardsByName from "./sortCardsByName";
 
 const newExpansion = async () => {
-  const expansionCode = "me2";
+  const expansionCode = "swsh8";
+  const expansionId = "FST";
 
   // read new set
   const newExpansionData = await fetch(`cardBySet/${expansionCode}.json`).then(
@@ -41,7 +42,11 @@ const newExpansion = async () => {
   // 2. handle newExpansion for cardById
   // Go through newExpansionData and add card.id as key
   // Then console log the new list
-  const updatedCardById = sortCardsById(updatedExpansionData, cardByIdData);
+  const updatedCardById = sortCardsById(
+    updatedExpansionData,
+    cardByIdData,
+    expansionId,
+  );
 
   // 3. handle newExpansion for cardByName
   // For each card in newExpansionData check if card.name exists in cardByNameData
