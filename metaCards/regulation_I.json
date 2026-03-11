@@ -915,5 +915,173 @@
       "small": "https://images.pokemontcg.io/me2/94.png",
       "large": "https://images.pokemontcg.io/me2/94_hires.png"
     }
+  },
+  {
+    "id": "ASC-15",
+    "regulation": "I",
+    "name": "Dustox",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-15/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-15/large"
+    }
+  },
+  {
+    "id": "ASC-19",
+    "regulation": "I",
+    "name": "Team Rocket's Spidops",
+    "categories": ["Energy Acceleration"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-19/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-19/large"
+    }
+  },
+  {
+    "id": "ASC-27",
+    "regulation": "I",
+    "name": "Numel",
+    "categories": ["Burn"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-27/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-27/large"
+    }
   }
+  ,
+  {
+    "id": "ASC-53",
+    "regulation": "I",
+    "name": "Frosmoth",
+    "categories": ["Draw"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-53/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-53/large"
+    }
+  },
+  {
+    "id": "ASC-62",
+    "regulation": "I",
+    "name": "Stunfick",
+    "categories": ["Retreat Locke"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-62/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-62/large"
+    }
+  },
+  {
+    "id": "ASC-64",
+    "regulation": "I",
+    "name": "Heliolisk",
+    "categories": ["Energy Acceleration"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-64/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-64/large"
+    }
+  },
+  {
+    "id": "ASC-101",
+    "regulation": "I",
+    "name": "Team Rocket's Dugtrio",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-101/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-101/large"
+    }
+  },
+  {
+    "id": "ASC-143",
+    "regulation": "I",
+    "name": "Pecharunt",
+    "categories": ["Consistency and Setup"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-143/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-143/large"
+    }
+  },
+  {
+    "id": "ASC-151",
+    "regulation": "I",
+    "name": "Dragonair",
+    "categories": ["Pokémon Search","Evolution"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-151/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-151/large"
+    }
+  }
+  ,
+  {
+    "id": "ASC-152",
+    "regulation": "I",
+    "name": "Mega Dragonite ex",
+    "categories": ["Switching and Prize Denial"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-152/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-152/large"
+    }
+  },
+  {
+    "id": "ASC-155",
+    "regulation": "I",
+    "name": "N's Zekrom",
+    "categories": ["Wall Break"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-155/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-155/large"
+    }
+  },
+  {
+    "id": "ASC-185",
+    "regulation": "I",
+    "name": "Canari",
+    "categories": ["Pokémon Search"],
+    "type": ["Lightning"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-185/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-185/large"
+    }
+  },
+  {
+    "id": "ASC-191",
+    "regulation": "I",
+    "name": "Light Ball",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-191/large"
+    }
+  },
+  {
+    "id": "ASC-197",
+    "regulation": "I",
+    "name": "Nighttime Mine",
+    "categories": ["Other Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-197/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-197/large"
+    }
+  },
+  {
+    "id": "ASC-211",
+    "regulation": "I",
+    "name": "Thick Scale",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-211/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-211/large"
+    }
+  }
+  
 ]

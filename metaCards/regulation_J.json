@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ASC-3",
+    "regulation": "J",
+    "name": "Erika's Vileplume ex",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-3/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-3/large"
+    }
+  },
+  {
+    "id": "ASC-114",
+    "regulation": "J",
+    "name": "Stunfisk ex",
+    "categories": ["Retreat Locke"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-114/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-114/large"
+    }
+  },
+  {
+    "id": "ASC-172",
+    "regulation": "J",
+    "name": "Mega Audino ex",
+    "categories": ["Energy Accerleration"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-172/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-172/large"
+    }
+  },
+  {
+    "id": "ASC-198",
+    "regulation": "J",
+    "name": "Poké Pad",
+    "categories": ["Pokémon Search", "Non-Rulebox"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-198/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-198/large"
+    }
+  }
+]
