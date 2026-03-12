@@ -98,8 +98,8 @@
     {
       "id": "me3",
       "images": {
-        "logo": "https://images.pokemontcg.io/me3/logo.png",
-        "symbol": "https://images.pokemontcg.io/me3/symbol.png"
+        "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me3-logo.png",
+        "symbol": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me3-symbol.png"
       },
       "legalities": {
         "expanded": "Legal",
@@ -113,7 +113,26 @@
       "series": "Mega Evolution",
       "total": 1,
       "updatedAt": "2026/01/11 21:00:00"
-    }
+    },
+    {
+      "id": "me4",
+      "images": {
+        "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me4-logo.png",
+        "symbol": "https://images.pokemontcg.io/me4/symbol.png"
+      },
+      "legalities": {
+        "expanded": "Legal",
+        "standard": "Legal",
+        "unlimited": "Legal"
+      },
+      "name": "Chaos Rising",
+      "printedTotal": 0,
+      "ptcgoCode": "CRI",
+      "releaseDate": "2026/05/22",
+      "series": "Mega Evolution",
+      "total": 1,
+      "updatedAt": "2026/03/12 21:00:00"
+    }    
   ],
   [
     {
