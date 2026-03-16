@@ -34,7 +34,7 @@
       "printedTotal": 8,
       "ptcgoCode": "MEE",
       "releaseDate": "2025/10/17",
-      "series": "Mega Evolution",
+      "series": "Mega Evolution", 
       "total": 8,
       "updatedAt": "2023/07/20 15:45:00"
     },
@@ -54,6 +54,7 @@
       "ptcgoCode": "MEG",
       "releaseDate": "2025/09/26",
       "series": "Mega Evolution",
+      "regulation": "I", 
       "total": 188,
       "updatedAt": "2025/09/25 15:00:00"
     },
@@ -73,6 +74,7 @@
       "ptcgoCode": "PFL",
       "releaseDate": "2025/11/14",
       "series": "Mega Evolution",
+      "regulation": "I", 
       "total": 130,
       "updatedAt": "2025/09/25 15:00:00"
     },
@@ -92,6 +94,7 @@
       "ptcgoCode": "ASC",
       "releaseDate": "2026/02/20",
       "series": "Mega Evolution",
+      "regulation": "I", 
       "total": 295,
       "updatedAt": "2025/12/16 21:00:00"
     },
@@ -111,6 +114,7 @@
       "ptcgoCode": "POR",
       "releaseDate": "2026/03/27",
       "series": "Mega Evolution",
+      "regulation": "J", 
       "total": 124,
       "updatedAt": "2026/01/11 21:00:00"
     },
@@ -130,6 +134,7 @@
       "ptcgoCode": "CRI",
       "releaseDate": "2026/05/22",
       "series": "Mega Evolution",
+      "regulation": "J", 
       "total": 1,
       "updatedAt": "2026/03/12 21:00:00"
     }    
@@ -189,6 +194,7 @@
       "ptcgoCode": "SVI",
       "releaseDate": "2023/03/31",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 258,
       "updatedAt": "2023/03/31 15:45:00"
     },
@@ -208,6 +214,7 @@
       "ptcgoCode": "PAL",
       "releaseDate": "2023/06/09",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 279,
       "updatedAt": "2023/06/09 15:00:00"
     },
@@ -227,6 +234,7 @@
       "ptcgoCode": "OBF",
       "releaseDate": "2023/08/11",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 230,
       "updatedAt": "2023/08/11 15:00:00"
     },
@@ -246,6 +254,7 @@
       "ptcgoCode": "MEW",
       "releaseDate": "2023/09/22",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 207,
       "updatedAt": "2023/09/22 15:00:00"
     },
@@ -265,6 +274,7 @@
       "ptcgoCode": "PAR",
       "releaseDate": "2023/11/03",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 266,
       "updatedAt": "2023/11/03 15:00:00"
     },
@@ -284,6 +294,7 @@
       "ptcgoCode": "PAF",
       "releaseDate": "2024/01/26",
       "series": "Scarlet & Violet",
+      "regulation": "G", 
       "total": 245,
       "updatedAt": "2024/01/25 15:00:00"
     },
@@ -303,6 +314,7 @@
       "ptcgoCode": "TEF",
       "releaseDate": "2024/03/22",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 218,
       "updatedAt": "2024/03/22 15:00:00"
     },
@@ -322,6 +334,7 @@
       "ptcgoCode": "TWM",
       "releaseDate": "2024/05/24",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 226,
       "updatedAt": "2024/05/24 15:00:00"
     },
@@ -341,6 +354,7 @@
       "ptcgoCode": "SFA",
       "releaseDate": "2024/08/02",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 99,
       "updatedAt": "2024/08/02 15:00:00"
     },
@@ -360,6 +374,7 @@
       "ptcgoCode": "SCR",
       "releaseDate": "2024/09/13",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 175,
       "updatedAt": "2024/08/02 15:00:00"
     },
@@ -379,6 +394,7 @@
       "ptcgoCode": "SSP",
       "releaseDate": "2024/11/08",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 252,
       "updatedAt": "2024/11/07 22:00:00"
     },
@@ -398,6 +414,7 @@
       "ptcgoCode": "PRE",
       "releaseDate": "2025/01/17",
       "series": "Scarlet & Violet",
+      "regulation": "H", 
       "total": 180,
       "updatedAt": "2025/01/16 22:00:00"
     },
@@ -417,6 +434,7 @@
       "ptcgoCode": "JTG",
       "releaseDate": "2025/03/28",
       "series": "Scarlet & Violet",
+      "regulation": "I", 
       "total": 190,
       "updatedAt": "2025/03/27 16:00:00"
     },
@@ -436,6 +454,7 @@
       "ptcgoCode": "DRI",
       "releaseDate": "2025/05/30",
       "series": "Scarlet & Violet",
+      "regulation": "I", 
       "total": 244,
       "updatedAt": "2025/05/29 22:00:00"
     },
@@ -455,6 +474,7 @@
       "ptcgoCode": "BLK",
       "releaseDate": "2025/07/18",
       "series": "Scarlet & Violet",
+      "regulation": "I", 
       "total": 172,
       "updatedAt": "2025/07/17 15:00:00"
     },
@@ -474,6 +494,7 @@
       "ptcgoCode": "WHT",
       "releaseDate": "2025/07/18",
       "series": "Scarlet & Violet",
+      "regulation": "I", 
       "total": 173,
       "updatedAt": "2025/07/17 15:00:00"
     }
