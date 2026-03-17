@@ -7,7 +7,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -57,7 +58,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Erika's Oddish",
@@ -110,7 +112,7 @@
       "ex"
     ],
     "hp": "310",
-    "types": [
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Erika's Gloom",
@@ -173,7 +175,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -223,7 +226,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Erika's Bellsprout",
@@ -285,7 +289,7 @@
       "Stage 2"
     ],
     "hp": "150",
-    "types": [
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Erika's Weepinbell",
@@ -349,7 +353,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Grass"
     ],
     "abilities": [
@@ -408,7 +413,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -468,7 +474,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Chikorita",
@@ -522,7 +529,7 @@
       "ex"
     ],
     "hp": "360",
-    "types": [
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Bayleef",
@@ -579,7 +586,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -629,7 +637,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Wurmple",
@@ -689,7 +698,8 @@
       "Stage 2"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Silcoon",
@@ -749,7 +759,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Wurmple",
@@ -802,7 +813,8 @@
       "Stage 2"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Cascoon",
@@ -861,7 +873,8 @@
       "Basic"
     ],
     "hp": "30",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -905,7 +918,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -957,7 +971,8 @@
       "Basic"
     ],
     "hp": "50",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -1007,7 +1022,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Team Rocket's Tarountula",
@@ -1067,7 +1083,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1118,7 +1135,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Charmander",
@@ -1172,7 +1190,7 @@
       "ex"
     ],
     "hp": "360",
-    "types": [
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Charmeleon",
@@ -1228,7 +1246,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1279,7 +1298,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Ethan's Slugma",
@@ -1341,7 +1361,8 @@
       "Basic"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1395,7 +1416,7 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+   "types": [
       "Fire"
     ],
     "rules": [
@@ -1458,7 +1479,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fire"
     ],
     "abilities": [
@@ -1518,7 +1540,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Numel",
@@ -1583,7 +1606,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1634,7 +1658,8 @@
       "Stage 1"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Tepig",
@@ -1691,7 +1716,7 @@
       "ex"
     ],
     "hp": "380",
-    "types": [
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Pignite",
@@ -1750,7 +1775,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1813,7 +1839,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "N's Darumaka",
@@ -1878,7 +1905,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -1928,7 +1956,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Salandit",
@@ -1991,7 +2020,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -2041,7 +2071,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Scorbunny",
@@ -2105,7 +2136,7 @@
       "ex"
     ],
     "hp": "320",
-    "types": [
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Raboot",
@@ -2168,7 +2199,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Water"
     ],
     "abilities": [
@@ -2226,7 +2258,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Psyduck",
@@ -2286,7 +2319,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -2337,7 +2371,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Totodile",
@@ -2392,7 +2427,7 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Croconaw",
@@ -2450,7 +2485,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -2510,7 +2546,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Sneasel",
@@ -2571,7 +2608,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -2623,7 +2661,7 @@
       "ex"
     ],
     "hp": "310",
-    "types": [
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Snorunt",
@@ -2688,8 +2726,8 @@
       "Basic",
       "ex"
     ],
-    "hp": "230",
-    "types": [
+    "hp": "230",    
+   "types": [
       "Water"
     ],
     "rules": [
@@ -2755,7 +2793,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -2815,7 +2854,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "N's Vanillite",
@@ -2877,7 +2917,8 @@
       "Stage 2"
     ],
     "hp": "150",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "N's Vanillish",
@@ -2940,7 +2981,8 @@
       "Basic"
     ],
     "hp": "50",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -2990,7 +3032,8 @@
       "Stage 1"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Snom",
@@ -3050,7 +3093,8 @@
       "Basic"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -3112,7 +3156,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3171,7 +3216,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Pikachu",
@@ -3235,7 +3281,7 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -3298,7 +3344,7 @@
       "ex"
     ],
     "hp": "170",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -3306,7 +3352,7 @@
     ],
     "attacks": [
       {
-        "name": "Hundred-Hitting Ball",
+        "name": "Hundred-Hitting  Ball",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3352,7 +3398,8 @@
       "Basic"
     ],
     "hp": "40",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3398,7 +3445,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Tynamo",
@@ -3411,7 +3459,7 @@
     ],
     "attacks": [
       {
-        "name": "Electric Ball",
+        "name": "Electric  Ball",
         "cost": [
           "Lightning",
           "Lightning",
@@ -3461,7 +3509,7 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Eelektrik",
@@ -3528,7 +3576,8 @@
       "Basic"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3579,7 +3628,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3630,7 +3680,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Helioptile",
@@ -3690,7 +3741,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Grubbin",
@@ -3743,7 +3795,8 @@
       "Stage 2"
     ],
     "hp": "160",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Charjabug",
@@ -3806,7 +3859,8 @@
       "Basic"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3868,7 +3922,7 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -3930,7 +3984,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -3983,7 +4038,7 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Iono's Tadbulb",
@@ -4047,7 +4102,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -4103,7 +4159,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Iono's Wattrel",
@@ -4171,7 +4228,7 @@
       "ex"
     ],
     "hp": "220",
-    "types": [
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -4235,7 +4292,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -4286,7 +4344,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Clefairy",
@@ -4351,7 +4410,7 @@
       "ex"
     ],
     "hp": "190",
-    "types": [
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -4411,7 +4470,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -4467,7 +4527,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Team Rocket's Exeggcute",
@@ -4539,7 +4600,7 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -4554,7 +4615,7 @@
     ],
     "attacks": [
       {
-        "name": "Erasure Ball",
+        "name": "Erasure  Ball",
         "cost": [
           "Psychic",
           "Psychic",
@@ -4608,7 +4669,8 @@
       "Basic"
     ],
     "hp": "50",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -4659,7 +4721,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Togepi",
@@ -4711,7 +4774,8 @@
       "Stage 2"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Togetic",
@@ -4771,7 +4835,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -4832,7 +4897,7 @@
       "ex"
     ],
     "hp": "270",
-    "types": [
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Marill",
@@ -4895,7 +4960,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -4951,7 +5017,8 @@
       "Stage 1"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Misdreavus",
@@ -5009,7 +5076,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5074,7 +5142,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Ralts",
@@ -5142,7 +5211,7 @@
       "ex"
     ],
     "hp": "360",
-    "types": [
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Kirlia",
@@ -5212,7 +5281,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5268,7 +5338,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Shuppet",
@@ -5335,7 +5406,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5401,7 +5473,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5450,7 +5523,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Swirlix",
@@ -5512,7 +5586,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5569,7 +5644,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Hop's Phantump",
@@ -5638,7 +5714,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5691,7 +5768,8 @@
       "Basic"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -5758,7 +5836,8 @@
       "Basic"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Psychic"
     ],
     "abilities": [
@@ -5822,7 +5901,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -5872,7 +5952,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Team Rocket's Diglett",
@@ -5931,7 +6012,8 @@
       "Basic"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -5991,7 +6073,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6049,7 +6132,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Meditite",
@@ -6099,7 +6183,8 @@
       "Basic"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "abilities": [
@@ -6157,7 +6242,8 @@
       "Basic"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6208,7 +6294,7 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -6274,7 +6360,8 @@
       "Basic"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6340,7 +6427,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6390,7 +6478,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Cynthia's Gible",
@@ -6449,7 +6538,7 @@
       "ex"
     ],
     "hp": "330",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Cynthia's Gabite",
@@ -6508,7 +6597,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6561,7 +6651,7 @@
       "ex"
     ],
     "hp": "340",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Riolu",
@@ -6627,7 +6717,7 @@
       "ex"
     ],
     "hp": "210",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -6691,7 +6781,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6744,7 +6835,7 @@
       "ex"
     ],
     "hp": "250",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -6806,7 +6897,8 @@
       "Basic"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Fighting"
     ],
     "abilities": [
@@ -6864,7 +6956,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -6916,7 +7009,8 @@
       "Stage 1"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Rolycoly",
@@ -6980,7 +7074,8 @@
       "Stage 2"
     ],
     "hp": "180",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Carkol",
@@ -7048,7 +7143,7 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -7114,7 +7209,8 @@
       "Basic"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -7174,7 +7270,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7224,7 +7321,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Gastly",
@@ -7277,7 +7375,7 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Haunter",
@@ -7340,7 +7438,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7406,7 +7505,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Team Rocket's Murkrow",
@@ -7475,7 +7575,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7526,7 +7627,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Poochyena",
@@ -7590,7 +7692,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7640,7 +7743,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Galarian Zigzagoon",
@@ -7702,7 +7806,8 @@
       "Stage 2"
     ],
     "hp": "170",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Galarian Linoone",
@@ -7766,7 +7871,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7816,7 +7922,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7870,7 +7977,7 @@
       "ex"
     ],
     "hp": "330",
-    "types": [
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Scraggy",
@@ -7934,7 +8041,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -7985,7 +8093,7 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "N's Zorua",
@@ -8047,7 +8155,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -8105,7 +8214,7 @@
       "ex"
     ],
     "hp": "260",
-    "types": [
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Vullaby",
@@ -8176,7 +8285,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Pancham",
@@ -8239,7 +8349,8 @@
       "Basic"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -8302,7 +8413,7 @@
       "ex"
     ],
     "hp": "210",
-    "types": [
+   "types": [
       "Darkness"
     ],
     "rules": [
@@ -8363,7 +8474,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Darkness"
     ],
     "abilities": [
@@ -8420,7 +8532,8 @@
       "Basic"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Metal"
     ],
     "attacks": [
@@ -8488,7 +8601,7 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+   "types": [
       "Metal"
     ],
     "rules": [
@@ -8560,7 +8673,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Metal"
     ],
     "attacks": [
@@ -8616,7 +8730,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Metal"
     ],
     "evolvesFrom": "Pawniard",
@@ -8673,7 +8788,8 @@
       "Stage 2"
     ],
     "hp": "170",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Metal"
     ],
     "evolvesFrom": "Bisharp",
@@ -8741,7 +8857,7 @@
       "ex"
     ],
     "hp": "190",
-    "types": [
+   "types": [
       "Metal"
     ],
     "rules": [
@@ -8809,7 +8925,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -8855,7 +8972,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dratini",
@@ -8911,7 +9029,7 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dragonair",
@@ -8969,7 +9087,8 @@
       "Basic"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -9025,7 +9144,8 @@
       "Basic"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -9083,7 +9203,8 @@
       "Basic"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -9142,7 +9263,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -9196,7 +9318,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Noibat",
@@ -9248,7 +9371,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -9302,7 +9426,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Quick Ball", 
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dreepy",
@@ -9357,7 +9482,7 @@
       "ex"
     ],
     "hp": "320",
-    "types": [
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Drakloak",
@@ -9415,7 +9540,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -9476,7 +9602,8 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+   "ball": "Team Rocket", 
+   "types": [
       "Colorless"
     ],
     "rules": [
@@ -9541,7 +9668,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -9587,8 +9715,8 @@
       "Stage 1",
       "ex"
     ],
-    "hp": "270",
-    "types": [
+    "hp": "270",    
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Larry's Dunsparce",
@@ -9645,7 +9773,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -9695,7 +9824,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Skitty",
@@ -9757,7 +9887,7 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+   "types": [
       "Colorless"
     ],
     "rules": [
@@ -9820,7 +9950,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -9885,7 +10016,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Larry's Starly",
@@ -9952,7 +10084,8 @@
       "Stage 2"
     ],
     "hp": "150",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Larry's Staravia",
@@ -10020,7 +10153,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Dusk  Ball", 
+   "types": [
       "Colorless"
     ],
     "abilities": [
@@ -10085,7 +10219,7 @@
       "ex"
     ],
     "hp": "270",
-    "types": [
+   "types": [
       "Colorless"
     ],
     "rules": [
@@ -10149,7 +10283,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -10206,7 +10341,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Larry's Rufflet",
@@ -10275,7 +10411,8 @@
       "Basic"
     ],
     "hp": "90",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "abilities": [
@@ -10333,7 +10470,8 @@
       "Basic"
     ],
     "hp": "130",
-    "types": [
+   "ball": "Friend Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -10396,7 +10534,8 @@
       "Basic"
     ],
     "hp": "110",
-    "types": [
+   "ball": "Poke  Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -10452,7 +10591,8 @@
       "Basic"
     ],
     "hp": "120",
-    "types": [
+   "ball": "Love Ball", 
+   "types": [
       "Colorless"
     ],
     "attacks": [
@@ -10516,7 +10656,8 @@
       "ex"
     ],
     "hp": "230",
-    "types": [
+    
+   "types": [
       "Colorless"
     ],
     "rules": [
@@ -10851,7 +10992,7 @@
   },
   {
     "id": "me2pt5-191",
-    "name": "Light Ball",
+    "name": "Light  Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Pokémon Tool"
@@ -11201,7 +11342,7 @@
   },
   {
     "id": "me2pt5-205",
-    "name": "Team Rocket's Great Ball",
+    "name": "Team Rocket's Great  Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
@@ -11404,7 +11545,7 @@
   },
   {
     "id": "me2pt5-213",
-    "name": "Ultra Ball",
+    "name": "Ultra  Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
@@ -11531,7 +11672,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "abilities": [
@@ -11590,7 +11732,8 @@
       "Stage 2"
     ],
     "hp": "130",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Silcoon",
@@ -11650,7 +11793,8 @@
       "Stage 2"
     ],
     "hp": "140",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Cascoon",
@@ -11709,7 +11853,8 @@
       "Basic"
     ],
     "hp": "30",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "attacks": [
@@ -11753,7 +11898,8 @@
       "Stage 1"
     ],
     "hp": "130",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Ethan's Slugma",
@@ -11815,7 +11961,8 @@
       "Basic"
     ],
     "hp": "80",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "abilities": [
@@ -11875,7 +12022,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Salandit",
@@ -11938,7 +12086,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "attacks": [
@@ -11988,7 +12137,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "abilities": [
@@ -12046,7 +12196,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "attacks": [
@@ -12096,7 +12247,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Sneasel",
@@ -12157,7 +12309,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Helioptile",
@@ -12217,7 +12370,8 @@
       "Stage 2"
     ],
     "hp": "160",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Charjabug",
@@ -12280,7 +12434,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "attacks": [
@@ -12336,7 +12491,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -12396,7 +12552,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -12452,7 +12609,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Shuppet",
@@ -12519,7 +12677,8 @@
       "Stage 2"
     ],
     "hp": "140",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Togetic",
@@ -12579,7 +12738,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Swirlix",
@@ -12641,7 +12801,8 @@
       "Stage 1"
     ],
     "hp": "140",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "evolvesFrom": "Hop's Phantump",
@@ -12710,7 +12871,8 @@
       "Basic"
     ],
     "hp": "60",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "attacks": [
@@ -12763,7 +12925,8 @@
       "Stage 1"
     ],
     "hp": "100",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Team Rocket's Diglett",
@@ -12822,7 +12985,8 @@
       "Basic"
     ],
     "hp": "100",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "attacks": [
@@ -12882,7 +13046,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "evolvesFrom": "Meditite",
@@ -12932,7 +13097,8 @@
       "Basic"
     ],
     "hp": "90",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "abilities": [
@@ -12990,7 +13156,8 @@
       "Stage 1"
     ],
     "hp": "120",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Poochyena",
@@ -13054,7 +13221,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "attacks": [
@@ -13104,7 +13272,8 @@
       "Stage 2"
     ],
     "hp": "170",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Galarian Linoone",
@@ -13168,7 +13337,8 @@
       "Basic"
     ],
     "hp": "90",
-    "types": [
+    
+   "types": [
       "Metal"
     ],
     "attacks": [
@@ -13235,7 +13405,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Dragon"
     ],
     "attacks": [
@@ -13289,7 +13460,8 @@
       "Stage 1"
     ],
     "hp": "90",
-    "types": [
+    
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dreepy",
@@ -13342,7 +13514,8 @@
       "Stage 2"
     ],
     "hp": "150",
-    "types": [
+    
+   "types": [
       "Colorless"
     ],
     "evolvesFrom": "Larry's Staravia",
@@ -13410,7 +13583,8 @@
       "Basic"
     ],
     "hp": "70",
-    "types": [
+    
+   "types": [
       "Colorless"
     ],
     "abilities": [
@@ -13474,7 +13648,8 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "rules": [
@@ -13538,7 +13713,8 @@
       "ex"
     ],
     "hp": "210",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -13604,7 +13780,8 @@
       "ex"
     ],
     "hp": "270",
-    "types": [
+    
+   "types": [
       "Colorless"
     ],
     "rules": [
@@ -13912,7 +14089,7 @@
   },
   {
     "id": "me2pt5-264",
-    "name": "Ultra Ball",
+    "name": "Ultra  Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
@@ -13945,7 +14122,8 @@
       "ex"
     ],
     "hp": "310",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Snorunt",
@@ -14012,7 +14190,8 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Eelektrik",
@@ -14081,7 +14260,8 @@
       "ex"
     ],
     "hp": "270",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -14144,7 +14324,8 @@
       "ex"
     ],
     "hp": "250",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -14208,7 +14389,8 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Haunter",
@@ -14273,7 +14455,8 @@
       "ex"
     ],
     "hp": "330",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Scraggy",
@@ -14339,7 +14522,8 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+    
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dragonair",
@@ -14399,7 +14583,8 @@
       "ex"
     ],
     "hp": "360",
-    "types": [
+    
+   "types": [
       "Grass"
     ],
     "evolvesFrom": "Bayleef",
@@ -14458,7 +14643,8 @@
       "ex"
     ],
     "hp": "380",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Pignite",
@@ -14519,7 +14705,8 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Croconaw",
@@ -14579,7 +14766,8 @@
       "ex"
     ],
     "hp": "310",
-    "types": [
+    
+   "types": [
       "Water"
     ],
     "evolvesFrom": "Snorunt",
@@ -14645,7 +14833,8 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -14701,7 +14890,8 @@
       "ex"
     ],
     "hp": "200",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "rules": [
@@ -14765,7 +14955,8 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Eelektrik",
@@ -14833,7 +15024,8 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+    
+   "types": [
       "Lightning"
     ],
     "evolvesFrom": "Iono's Tadbulb",
@@ -14898,7 +15090,8 @@
       "ex"
     ],
     "hp": "190",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -14959,7 +15152,8 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -14974,7 +15168,7 @@
     ],
     "attacks": [
       {
-        "name": "Erasure Ball",
+        "name": "Erasure  Ball",
         "cost": [
           "Psychic",
           "Psychic",
@@ -15030,7 +15224,8 @@
       "ex"
     ],
     "hp": "270",
-    "types": [
+    
+   "types": [
       "Psychic"
     ],
     "rules": [
@@ -15093,7 +15288,8 @@
       "ex"
     ],
     "hp": "250",
-    "types": [
+    
+   "types": [
       "Fighting"
     ],
     "rules": [
@@ -15157,7 +15353,8 @@
       "ex"
     ],
     "hp": "350",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Haunter",
@@ -15222,7 +15419,8 @@
       "ex"
     ],
     "hp": "330",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Scraggy",
@@ -15287,7 +15485,8 @@
       "ex"
     ],
     "hp": "280",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "N's Zorua",
@@ -15350,7 +15549,8 @@
       "ex"
     ],
     "hp": "320",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "evolvesFrom": "Marnie's Morgrem",
@@ -15413,7 +15613,8 @@
       "ex"
     ],
     "hp": "210",
-    "types": [
+    
+   "types": [
       "Darkness"
     ],
     "rules": [
@@ -15475,7 +15676,8 @@
       "ex"
     ],
     "hp": "340",
-    "types": [
+    
+   "types": [
       "Metal"
     ],
     "evolvesFrom": "Steven's Metang",
@@ -15547,7 +15749,8 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+    
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dragonair",
@@ -15682,7 +15885,8 @@
       "ex"
     ],
     "hp": "360",
-    "types": [
+    
+   "types": [
       "Fire"
     ],
     "evolvesFrom": "Charmeleon",
@@ -15740,7 +15944,8 @@
       "ex"
     ],
     "hp": "370",
-    "types": [
+    
+   "types": [
       "Dragon"
     ],
     "evolvesFrom": "Dragonair",
