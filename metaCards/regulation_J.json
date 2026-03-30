@@ -42,5 +42,379 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-198/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-198/large"
     }
+  },
+  {
+    "id": "POR-1",
+    "regulation": "J",
+    "name": "Spinarak",
+    "categories": ["Retreat Locke"],
+    "type": ["Grass"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-1/small",
+      "large": "https://images.scrydex.com/pokemon/me3-1/large"
+    }
+  },
+  {
+    "id": "POR-1",
+    "regulation": "J",
+    "name": "Spinarak",
+    "categories": ["Retreat Locke"],
+    "type": ["Grass"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-1/small",
+      "large": "https://images.scrydex.com/pokemon/me3-1/large"
+    }
+  },
+  {
+    "id": "POR-2",
+    "regulation": "J",
+    "name": "Ariados",
+    "categories": ["Retreat Locke", "Poison"],
+    "type": ["Grass"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-2/small",
+      "large": "https://images.scrydex.com/pokemon/me3-2/large"
+    }
+  },
+  {
+    "id": "POR-9",
+    "regulation": "J",
+    "name": "Vivillon",
+    "categories": ["Hand Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-9/small",
+      "large": "https://images.scrydex.com/pokemon/me3-9/large"
+    }
+  },
+  {
+    "id": "POR-14",
+    "regulation": "J",
+    "name": "Talonflame",
+    "categories": ["Hand Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-14/small",
+      "large": "https://images.scrydex.com/pokemon/me3-14/large"
+    }
+  },
+  {
+    "id": "POR-17",
+    "regulation": "J",
+    "name": "Turtonator",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-17/small",
+      "large": "https://images.scrydex.com/pokemon/me3-17/large"
+    }
+  },
+  {
+    "id": "POR-19",
+    "regulation": "J",
+    "name": "Dewgong",
+    "categories": ["Energy Accerleration"],
+    "type": ["Water"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-19/small",
+      "large": "https://images.scrydex.com/pokemon/me3-19/large"
+    }
+  },
+  {
+    "id": "POR-21",
+    "regulation": "J",
+    "name": "Mega Starmie ex",
+    "categories": ["Wall Break"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-21/small",
+      "large": "https://images.scrydex.com/pokemon/me3-21/large"
+    }
+  },
+  {
+    "id": "POR-24",
+    "regulation": "J",
+    "name": "Aurorus",
+    "categories": ["Damage Control"],
+    "type": ["Water"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-24/small",
+      "large": "https://images.scrydex.com/pokemon/me3-24/large"
+    }
+  },
+  {
+    "id": "POR-31",
+    "regulation": "J",
+    "name": "Mega Clefable ex",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-31/small",
+      "large": "https://images.scrydex.com/pokemon/me3-31/large"
+    }
+  },
+  {
+    "id": "POR-36",
+    "regulation": "J",
+    "name": "Aromatisse",
+    "categories": ["Energy Search"],
+    "type": ["Psychic"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-36/small",
+      "large": "https://images.scrydex.com/pokemon/me3-36/large"
+    }
+  },
+  {
+    "id": "POR-40",
+    "regulation": "J",
+    "name": "Hippowdon",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-40/small",
+      "large": "https://images.scrydex.com/pokemon/me3-40/large"
+    }
+  },
+  {
+    "id": "POR-43",
+    "regulation": "J",
+    "name": "Barbaracle",
+    "categories": ["Energy Accerleration"],
+    "type": ["Fighting"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-43/small",
+      "large": "https://images.scrydex.com/pokemon/me3-43/large"
+    }
+  },
+  {
+    "id": "POR-45",
+    "regulation": "J",
+    "name": "Tyrantrum",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-45/small",
+      "large": "https://images.scrydex.com/pokemon/me3-45/large"
+    }
+  },
+  {
+    "id": "POR-50",
+    "regulation": "J",
+    "name": "Gengar",
+    "categories": ["Switching and Prize Denial"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-50/small",
+      "large": "https://images.scrydex.com/pokemon/me3-50/large"
+    }
+  },
+  {
+    "id": "POR-53",
+    "regulation": "J",
+    "name": "Yveltal ex",
+    "categories": ["Spread"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-53/small",
+      "large": "https://images.scrydex.com/pokemon/me3-53/large"
+    }
+  },
+  {
+    "id": "POR-55",
+    "regulation": "J",
+    "name": "Mega Skarmory ex",
+    "categories": ["Bench Sniping"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-55/small",
+      "large": "https://images.scrydex.com/pokemon/me3-55/large"
+    }
+  },
+  {
+    "id": "POR-62",
+    "regulation": "J",
+    "name": "Meowth ex",
+    "categories": ["Consistency and Setup"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-62/small",
+      "large": "https://images.scrydex.com/pokemon/me3-62/large"
+    }
+  },
+  {
+    "id": "POR-71",
+    "regulation": "J",
+    "name": "Crushing Hammer",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-71/small",
+      "large": "https://images.scrydex.com/pokemon/me3-71/large"
+    }
+  },
+  {
+    "id": "POR-72",
+    "regulation": "J",
+    "name": "Energy Search",
+    "categories": ["Energy Search"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-72/small",
+      "large": "https://images.scrydex.com/pokemon/me3-72/large"
+    }
+  },
+  {
+    "id": "POR-40",
+    "regulation": "J",
+    "name": "Hippowdon",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-40/small",
+      "large": "https://images.scrydex.com/pokemon/me3-40/large"
+    }
+  },
+  {
+    "id": "POR-73",
+    "regulation": "J",
+    "name": "Energy Swatter",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-73/small",
+      "large": "https://images.scrydex.com/pokemon/me3-73/large"
+    }
+  },
+  {
+    "id": "POR-74",
+    "regulation": "J",
+    "name": "Hole-Digging Shovel",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-74/small",
+      "large": "https://images.scrydex.com/pokemon/me3-74/large"
+    }
+  },
+  {
+    "id": "POR-75",
+    "regulation": "J",
+    "name": "Jacinthe",
+    "categories": ["Damage Control"],
+    "type": ["Psychic"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-75/small",
+      "large": "https://images.scrydex.com/pokemon/me3-75/large"
+    }
+  },
+  {
+    "id": "POR-76",
+    "regulation": "J",
+    "name": "Judge",
+    "categories": ["Hand Disruption", "Draw"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-76/small",
+      "large": "https://images.scrydex.com/pokemon/me3-76/large"
+    }
+  },
+  {
+    "id": "POR-77",
+    "regulation": "J",
+    "name": "Lumiose City",
+    "categories": ["Pokémon Search","Basic"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-77/small",
+      "large": "https://images.scrydex.com/pokemon/me3-77/large"
+    }
+  },
+  {
+    "id": "POR-78",
+    "regulation": "J",
+    "name": "Lumiouse Galette",
+    "categories": ["Damage Control"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-78/small",
+      "large": "https://images.scrydex.com/pokemon/me3-78/large"
+    }
+  },
+  {
+    "id": "POR-79",
+    "regulation": "J",
+    "name": "Naveen",
+    "categories": ["Draw", "Discard Cards"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-79/small",
+      "large": "https://images.scrydex.com/pokemon/me3-79/large"
+    }
+  },
+  {
+    "id": "POR-82",
+    "regulation": "J",
+    "name": "Pokémon Catcher",
+    "categories": ["Gusting and Repulsion"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-82/small",
+      "large": "https://images.scrydex.com/pokemon/me3-82/large"
+    }
+  },
+  {
+    "id": "POR-84",
+    "regulation": "J",
+    "name": "Rosa's Encouragement",
+    "categories": ["Energy Accerleration", "Comeback Mechanic"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-84/small",
+      "large": "https://images.scrydex.com/pokemon/me3-84/large"
+    }
+  },
+  {
+    "id": "POR-85",
+    "regulation": "J",
+    "name": "Tarragon",
+    "categories": ["Recovery and Rebound"],
+    "type": ["Fighting"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-85/small",
+      "large": "https://images.scrydex.com/pokemon/me3-85/large"
+    }
+  },
+  {
+    "id": "POR-86",
+    "regulation": "J",
+    "name": "Growing Energy",
+    "categories": ["Increase Health", "Special Energies"],
+    "type": ["Grass"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-86/small",
+      "large": "https://images.scrydex.com/pokemon/me3-86/large"
+    }
+  },
+  {
+    "id": "POR-87",
+    "regulation": "J",
+    "name": "Rocky Energy",
+    "categories": ["Negate Effects", "Special Energies"],
+    "type": ["Fighting"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-87/small",
+      "large": "https://images.scrydex.com/pokemon/me3-87/large"
+    }
+  },
+  {
+    "id": "POR-88",
+    "regulation": "J",
+    "name": "Telepath Energy",
+    "categories": ["Pokémon Search", "Basic", "Special Energies"],
+    "type": ["Psychic"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-88/small",
+      "large": "https://images.scrydex.com/pokemon/me3-88/large"
+    }
   }
 ]
