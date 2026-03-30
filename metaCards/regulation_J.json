@@ -55,17 +55,6 @@
     }
   },
   {
-    "id": "POR-1",
-    "regulation": "J",
-    "name": "Spinarak",
-    "categories": ["Retreat Locke"],
-    "type": ["Grass"],
-    "images": {
-      "small": "https://images.scrydex.com/pokemon/me3-1/small",
-      "large": "https://images.scrydex.com/pokemon/me3-1/large"
-    }
-  },
-  {
     "id": "POR-2",
     "regulation": "J",
     "name": "Ariados",
@@ -113,7 +102,7 @@
     "id": "POR-19",
     "regulation": "J",
     "name": "Dewgong",
-    "categories": ["Energy Accerleration"],
+    "categories": ["Energy Switching"],
     "type": ["Water"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-19/small",
@@ -261,17 +250,6 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-72/small",
       "large": "https://images.scrydex.com/pokemon/me3-72/large"
-    }
-  },
-  {
-    "id": "POR-40",
-    "regulation": "J",
-    "name": "Hippowdon",
-    "categories": ["Mill"],
-    "type": [""],
-    "images": {
-      "small": "https://images.scrydex.com/pokemon/me3-40/small",
-      "large": "https://images.scrydex.com/pokemon/me3-40/large"
     }
   },
   {

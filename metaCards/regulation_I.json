@@ -289,7 +289,7 @@
     "id": "BLK-83",
     "regulation": "I",
     "name": "N's Plan",
-    "categories": ["Energy Acceleration"],
+    "categories": ["Energy Switching"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/83.png",
@@ -575,7 +575,7 @@
     "id": "MEG-115",
     "regulation": "I",
     "name": "Energy Switch",
-    "categories": ["Consistency and Setup", "Energy Acceleration"],
+    "categories": ["Consistency and Setup", "Energy Switching"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/115.png",

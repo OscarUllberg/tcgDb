@@ -949,7 +949,7 @@
     "id": "SSP-169",
     "regulation": "H",
     "name": "Counter Gain",
-    "categories": ["Recovery and Rebound", "Energy Acceleration"],
+    "categories": ["Energy Acceleration", "Comeback Mechanic"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/169.png",
@@ -1063,7 +1063,7 @@
     "id": "SSP-186",
     "regulation": "H",
     "name": "Scramble Switch",
-    "categories": ["Consistency and Setup", "Energy Acceleration"],
+    "categories": ["Consistency and Setup", "Energy Switching"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/186.png",
