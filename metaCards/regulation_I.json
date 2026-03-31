@@ -1,15 +1,5 @@
 [
-  {
-    "id": "JTG-143",
-    "regulation": "I",
-    "name": "Black Belt's Training",
-    "categories": ["Damage Control"],
-    "type": [""],
-    "images": {
-      "small": "https://images.pokemontcg.io/sv9/143.png",
-      "large": "https://images.pokemontcg.io/sv9/143_hires.png"
-    }
-  },
+ 
   {
     "id": "JTG-146",
     "regulation": "I",
@@ -88,17 +78,6 @@
     }
   },
   {
-    "id": "JTG-7",
-    "regulation": "H",
-    "name": "Lilligant",
-    "categories": ["Damage Control"],
-    "type": ["Fire", "Grass"],
-    "images": {
-      "small": "https://images.pokemontcg.io/sv9/7.png",
-      "large": "https://images.pokemontcg.io/sv9/7_hires.png"
-    }
-  },
-  {
     "id": "JTG-56",
     "regulation": "I",
     "name": "Lillie's Clefairy",
@@ -124,7 +103,7 @@
     "id": "DRI-10",
     "regulation": "I",
     "name": "Shaymin",
-    "categories": ["Damage Control", "Non-Rulebox"],
+    "categories": ["Prevent Damage", "Bench Barrier", "Non-Rulebox"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/10.png",
@@ -135,7 +114,7 @@
     "id": "DRI-12",
     "regulation": "I",
     "name": "Crustle",
-    "categories": ["Damage Control", "Wall Break"],
+    "categories": ["Prevent Damage", "Wall Break"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/12.png",
@@ -217,6 +196,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv10/176.png",
       "large": "https://images.pokemontcg.io/sv10/176_hires.png"
+    }
+  },
+  {
+    "id": "DRI-179",
+    "regulation": "I",
+    "name": "Team Rocket's Venture Bomb",
+    "categories": ["Create Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/179.png",
+      "large": "https://images.pokemontcg.io/sv10/179_hires.png"
     }
   },
   {
@@ -377,7 +367,7 @@
     "id": "WHT-80",
     "regulation": "I",
     "name": "Brave Bangle",
-    "categories": ["Damage Control", "Non-Rulebox"],
+    "categories": ["Increase Damage", "Non-Rulebox"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/80.png",
@@ -454,7 +444,7 @@
     "id": "MEG-11",
     "regulation": "I",
     "name": "Shuckle",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/11.png",
@@ -608,7 +598,7 @@
     "id": "MEG-118",
     "regulation": "I",
     "name": "Iron Defender",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/118.png",
@@ -652,7 +642,7 @@
     "id": "MEG-124",
     "regulation": "I",
     "name": "Premium Power Pro",
-    "categories": ["Damage Control"],
+    "categories": ["Increase Damage"],
     "type": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/124.png",
@@ -707,7 +697,7 @@
     "id": "MEG-132",
     "regulation": "I",
     "name": "Wally's Compassion",
-    "categories": ["Damage Control", "Mega"],
+    "categories": ["Healing", "Mega"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me1/132.png",
@@ -729,7 +719,7 @@
     "id": "MEG-127",
     "regulation": "I",
     "name": "Risky Ruins",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage"],
     "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/127.png",
@@ -806,7 +796,7 @@
     "id": "PFL-85",
     "regulation": "I",
     "name": "Battle Cage",
-    "categories": ["Damage Control"],
+    "categories": ["Prevent Damage Counters"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/85.png",
@@ -876,7 +866,7 @@
     "id": "PFL-91",
     "regulation": "I",
     "name": "Jumbo Ice Cream",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/91.png",
@@ -887,7 +877,7 @@
     "id": "PFL-92",
     "regulation": "I",
     "name": "Punk Helmet",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage"],
     "type": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me2/92.png",
@@ -898,7 +888,7 @@
     "id": "PFL-93",
     "regulation": "I",
     "name": "Sacred Charm",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/me2/93.png",
@@ -948,8 +938,18 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-27/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-27/large"
     }
-  }
-  ,
+  }, 
+  {
+    "id": "ASC-39",
+    "regulation": "I",
+    "name": "Psyduck",
+    "categories": ["Prevent Damage", "Bench Barrier"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-39/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-39/large"
+    }
+  },
   {
     "id": "ASC-53",
     "regulation": "I",
@@ -987,7 +987,7 @@
     "id": "ASC-101",
     "regulation": "I",
     "name": "Team Rocket's Dugtrio",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-101/small",
@@ -1054,8 +1054,8 @@
     "id": "ASC-191",
     "regulation": "I",
     "name": "Light Ball",
-    "categories": ["Damage Control"],
-    "type": [""],
+    "categories": ["Increase Damage"],
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-191/large"
@@ -1076,8 +1076,8 @@
     "id": "ASC-211",
     "regulation": "I",
     "name": "Thick Scale",
-    "categories": ["Damage Control"],
-    "type": [""],
+    "categories": ["Reduce Damage"],
+    "type": ["Dragon"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-211/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-211/large"

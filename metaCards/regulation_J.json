@@ -3,7 +3,7 @@
     "id": "ASC-3",
     "regulation": "J",
     "name": "Erika's Vileplume ex",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-3/small",
@@ -124,7 +124,7 @@
     "id": "POR-24",
     "regulation": "J",
     "name": "Aurorus",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": ["Water"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-24/small",
@@ -135,7 +135,7 @@
     "id": "POR-31",
     "regulation": "J",
     "name": "Mega Clefable ex",
-    "categories": ["Damage Control"],
+    "categories": ["Prevent Effects"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-31/small",
@@ -278,7 +278,7 @@
     "id": "POR-75",
     "regulation": "J",
     "name": "Jacinthe",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": ["Psychic"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-75/small",
@@ -311,7 +311,7 @@
     "id": "POR-78",
     "regulation": "J",
     "name": "Lumiouse Galette",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-78/small",

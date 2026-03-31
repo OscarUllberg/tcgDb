@@ -3,7 +3,7 @@
     "id": "TEF-24",
     "regulation": "H",
     "name": "Rabsca",
-    "categories": ["Damage Control"],
+    "categories": ["Bench Barrier", "Prevent Damage", "Prevent Effects"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/24.png",
@@ -47,7 +47,7 @@
     "id": "TEF-108",
     "regulation": "H",
     "name": "Farigiraf ex",
-    "categories": ["Damage Control"],
+    "categories": ["Prevent Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/108.png",
@@ -80,7 +80,7 @@
     "id": "TEF-15",
     "regulation": "H",
     "name": "Whimsicott",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/15.png",
@@ -124,7 +124,7 @@
     "id": "TEF-148",
     "regulation": "H",
     "name": "Full Metal Lab",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/148.png",
@@ -157,7 +157,7 @@
     "id": "TEF-152",
     "regulation": "H",
     "name": "Hero's Cape",
-    "categories": ["Damage Control"],
+    "categories": ["Increase HP"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/152.png",
@@ -179,7 +179,7 @@
     "id": "TEF-154",
     "regulation": "H",
     "name": "Maximum Belt",
-    "categories": ["Damage Control"],
+    "categories": ["Increase Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/154.png",
@@ -245,7 +245,7 @@
     "id": "TWM-53",
     "regulation": "H",
     "name": "Froslass",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/53.png",
@@ -256,7 +256,7 @@
     "id": "TWM-64",
     "regulation": "H",
     "name": "Wellspring Ogerpon",
-    "categories": ["Notable Attacker"],
+    "categories": ["Notable Attacker", "Bench Sniping"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/64.png",
@@ -278,7 +278,7 @@
     "id": "TWM-112",
     "regulation": "H",
     "name": "Cornerstone Ogerpon ex",
-    "categories": ["Damage Control", "Wall Break"],
+    "categories": ["Prevent Damage", "Wall Break"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/112.png",
@@ -399,7 +399,7 @@
     "id": "TWM-154",
     "regulation": "H",
     "name": "Kieran",
-    "categories": ["Damage Control", "Switching and Prize Denial"],
+    "categories": ["Increase Damage", "Switching and Prize Denial"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/154.png",
@@ -476,7 +476,7 @@
     "id": "TWM-95",
     "regulation": "H",
     "name": "Munkidori",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage", "Healing"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6/95.png",
@@ -531,7 +531,7 @@
     "id": "SFA-55",
     "regulation": "H",
     "name": "Binding Mochi",
-    "categories": ["Damage Control", "Poison"],
+    "categories": ["Increase Damage", "Poison"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/55.png",
@@ -608,7 +608,7 @@
     "id": "SFA-62",
     "regulation": "H",
     "name": "Poké Vital A",
-    "categories": ["Damage Control"],
+    "categories": ["Increase HP"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv6pt5/62.png",
@@ -641,7 +641,7 @@
     "id": "SCR-115",
     "regulation": "H",
     "name": "Noctowl",
-    "categories": ["Consistency and Setup"],
+    "categories": ["Consistency and Setup", "Tera"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/115.png",
@@ -663,7 +663,7 @@
     "id": "SCR-119",
     "regulation": "H",
     "name": "Bouffalant",
-    "categories": ["Damage Control"],
+    "categories": ["Decrease Damage"],
     "type": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/119.png",
@@ -718,7 +718,7 @@
     "id": "SCR-134",
     "regulation": "H",
     "name": "Deluxe Bomb",
-    "categories": ["Damage Control"],
+    "categories": ["Create Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/134.png",
@@ -762,7 +762,7 @@
     "id": "SCR-140",
     "regulation": "H",
     "name": "Occa Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/140.png",
@@ -773,7 +773,7 @@
     "id": "SCR-141",
     "regulation": "H",
     "name": "Payapa Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/141.png",
@@ -806,7 +806,7 @@
     "id": "SSP-42",
     "regulation": "H",
     "name": "Milotic ex",
-    "categories": ["Damage Control"],
+    "categories": ["Prevent Damage", "Prevent Effects"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/42.png",
@@ -938,7 +938,7 @@
     "id": "SSP-167",
     "regulation": "H",
     "name": "Clemont's Quick Wit",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/167.png",
@@ -993,7 +993,7 @@
     "id": "SSP-177",
     "regulation": "H",
     "name": "Gravityy Mountain",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce HP"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/177.png",
@@ -1015,7 +1015,7 @@
     "id": "SSP-180",
     "regulation": "H",
     "name": "Lively Stadium",
-    "categories": ["Damage Control", "Basic"],
+    "categories": ["Increase HP", "Basic"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/180.png",
@@ -1151,7 +1151,7 @@
     "id": "PRE-111",
     "regulation": "H",
     "name": "Haban Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/111.png",
@@ -1162,7 +1162,7 @@
     "id": "SSP-163",
     "regulation": "H",
     "name": "Babiri Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/163.png",
@@ -1173,7 +1173,7 @@
     "id": "SSP-168",
     "regulation": "H",
     "name": "Colbur Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/168.png",
@@ -1184,7 +1184,7 @@
     "id": "SSP-172",
     "regulation": "H",
     "name": "Dragon Elixir",
-    "categories": ["Damage Control"],
+    "categories": ["Healing"],
     "type": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/172.png",
@@ -1195,7 +1195,7 @@
     "id": "SSP-184",
     "regulation": "H",
     "name": "Passho Berry",
-    "categories": ["Damage Control"],
+    "categories": ["Reduce Damage"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/184.png",
@@ -1233,6 +1233,28 @@
     "images": {
       "small": "https://images.pokemontcg.io/svp/149.png",
       "large": "https://images.pokemontcg.io/svp/149_hires.png"
+    }
+  },
+  {
+    "id": "JTG-7",
+    "regulation": "H",
+    "name": "Lilligant",
+    "categories": ["Increase Damage"],
+    "type": ["Fire", "Grass"],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/7.png",
+      "large": "https://images.pokemontcg.io/sv9/7_hires.png"
+    }
+  }, 
+  {
+    "id": "JTG-143",
+    "regulation": "H",
+    "name": "Black Belt's Training",
+    "categories": ["Increase Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/143.png",
+      "large": "https://images.pokemontcg.io/sv9/143_hires.png"
     }
   }
 ]
