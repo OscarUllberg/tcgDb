@@ -1,5 +1,4 @@
 [
- 
   {
     "id": "JTG-146",
     "regulation": "I",
@@ -9,6 +8,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv9/146.png",
       "large": "https://images.pokemontcg.io/sv9/146_hires.png"
+    }
+  },
+  {
+    "id": "JTG-149",
+    "regulation": "I",
+    "name": "Iris's Fighting Spirit",
+    "categories": ["Draw", "Discard Cards"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/149.png",
+      "large": "https://images.pokemontcg.io/sv9/149_hires.png"
     }
   },
   {
@@ -152,17 +162,6 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv10/164.png",
       "large": "https://images.pokemontcg.io/sv10/164_hires.png"
-    }
-  },
-  {
-    "id": "DRI-167",
-    "regulation": "I",
-    "name": "Judge",
-    "categories": ["Hand Disruption", "Draw"],
-    "type": [""],
-    "images": {
-      "small": "https://images.pokemontcg.io/sv10/167.png",
-      "large": "https://images.pokemontcg.io/sv10/167_hires.png"
     }
   },
   {
@@ -737,7 +736,7 @@
       "large": "https://images.pokemontcg.io/me2/18_hires.png"
     }
   },
-   {
+  {
     "id": "PFL-36",
     "regulation": "I",
     "name": "Mismagius ex",
@@ -938,7 +937,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-27/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-27/large"
     }
-  }, 
+  },
   {
     "id": "ASC-39",
     "regulation": "I",
@@ -1009,14 +1008,13 @@
     "id": "ASC-151",
     "regulation": "I",
     "name": "Dragonair",
-    "categories": ["Pokémon Search","Evolution"],
+    "categories": ["Pokémon Search", "Evolution"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-151/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-151/large"
     }
-  }
-  ,
+  },
   {
     "id": "ASC-152",
     "regulation": "I",
@@ -1083,5 +1081,4 @@
       "large": "https://images.scrydex.com/pokemon/me2pt5-211/large"
     }
   }
-  
 ]

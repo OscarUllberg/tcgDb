@@ -187,6 +187,17 @@
     }
   },
   {
+    "id": "TEF-155",
+    "regulation": "H",
+    "name": "Morty's Conviction",
+    "categories": ["Draw", "Discard Cards"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/155.png",
+      "large": "https://images.pokemontcg.io/sv5/155_hires.png"
+    }
+  },
+  {
     "id": "TEF-156",
     "regulation": "H",
     "name": "Perilous Jungle",
@@ -1245,7 +1256,7 @@
       "small": "https://images.pokemontcg.io/sv9/7.png",
       "large": "https://images.pokemontcg.io/sv9/7_hires.png"
     }
-  }, 
+  },
   {
     "id": "JTG-143",
     "regulation": "H",
