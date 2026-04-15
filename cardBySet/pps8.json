@@ -4,8 +4,8 @@
     "name": "Mega Venusaur ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-003/small",
-      "large": "https://images.scrydex.com/pokemon/me1-003/large"
+      "small": "https://images.pokemontcg.io/me1/003.png",
+      "large": "https://images.pokemontcg.io/me1/003_hires.png"
     }
   },
   {
@@ -13,8 +13,8 @@
     "name": "Mega Camerupt ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-022/small",
-      "large": "https://images.scrydex.com/pokemon/me1-022/large"
+      "small": "https://images.pokemontcg.io/me1/022.png",
+      "large": "https://images.pokemontcg.io/me1/022_hires.png"
     }
   },
   {
@@ -22,8 +22,8 @@
     "name": "Cinderace",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-028/small",
-      "large": "https://images.scrydex.com/pokemon/me1-028/large"
+      "small": "https://images.pokemontcg.io/me1/028.png",
+      "large": "https://images.pokemontcg.io/me1/028_hires.png"
     }
   },
   {
@@ -31,8 +31,8 @@
     "name": "Mega Abomasnow ex",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-036/small",
-      "large": "https://images.scrydex.com/pokemon/me1-036/large"
+      "small": "https://images.pokemontcg.io/me1/036.png",
+      "large": "https://images.pokemontcg.io/me1/036_hires.png"
     }
   },
   {
@@ -40,8 +40,8 @@
     "name": "Mega Manectric ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-050/small",
-      "large": "https://images.scrydex.com/pokemon/me1-050/large"
+      "small": "https://images.pokemontcg.io/me1/050.png",
+      "large": "https://images.pokemontcg.io/me1/050_hires.png"
     }
   },
   {
@@ -49,8 +49,8 @@
     "name": "Mega Gardevoir ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-060/small",
-      "large": "https://images.scrydex.com/pokemon/me1-060/large"
+      "small": "https://images.pokemontcg.io/me1/060.png",
+      "large": "https://images.pokemontcg.io/me1/060_hires.png"
     }
   },
   {
@@ -58,8 +58,8 @@
     "name": "Hariyama",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-073/small",
-      "large": "https://images.scrydex.com/pokemon/me1-073/large"
+      "small": "https://images.pokemontcg.io/me1/073.png",
+      "large": "https://images.pokemontcg.io/me1/073_hires.png"
     }
   },
   {
@@ -67,8 +67,8 @@
     "name": "Lunatone",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-074/small",
-      "large": "https://images.scrydex.com/pokemon/me1-074/large"
+      "small": "https://images.pokemontcg.io/me1/074.png",
+      "large": "https://images.pokemontcg.io/me1/074_hires.png"
     }
   },
   {
@@ -76,8 +76,8 @@
     "name": "Solrock",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-075/small",
-      "large": "https://images.scrydex.com/pokemon/me1-075/large"
+      "small": "https://images.pokemontcg.io/me1/075.png",
+      "large": "https://images.pokemontcg.io/me1/075_hires.png"
     }
   },
   {
@@ -85,8 +85,8 @@
     "name": "Mega Lucario ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-077/small",
-      "large": "https://images.scrydex.com/pokemon/me1-077/large"
+      "small": "https://images.pokemontcg.io/me1/077.png",
+      "large": "https://images.pokemontcg.io/me1/077_hires.png"
     }
   },
   {
@@ -94,8 +94,8 @@
     "name": "Mega Absol ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-086/small",
-      "large": "https://images.scrydex.com/pokemon/me1-086/large"
+      "small": "https://images.pokemontcg.io/me1/086.png",
+      "large": "https://images.pokemontcg.io/me1/086_hires.png"
     }
   },
   {
@@ -103,8 +103,8 @@
     "name": "Mega Mawile ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-094/small",
-      "large": "https://images.scrydex.com/pokemon/me1-094/large"
+      "small": "https://images.pokemontcg.io/me1/094.png",
+      "large": "https://images.pokemontcg.io/me1/094_hires.png"
     }
   },
   {
@@ -112,8 +112,8 @@
     "name": "Mega Latias ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-100/small",
-      "large": "https://images.scrydex.com/pokemon/me1-100/large"
+      "small": "https://images.pokemontcg.io/me1/100.png",
+      "large": "https://images.pokemontcg.io/me1/100_hires.png"
     }
   },
   {
@@ -121,8 +121,8 @@
     "name": "Latios",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-101/small",
-      "large": "https://images.scrydex.com/pokemon/me1-101/large"
+      "small": "https://images.pokemontcg.io/me1/101.png",
+      "large": "https://images.pokemontcg.io/me1/101_hires.png"
     }
   },
   {
@@ -130,8 +130,8 @@
     "name": "Mega Kangaskhan ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-104/small",
-      "large": "https://images.scrydex.com/pokemon/me1-104/large"
+      "small": "https://images.pokemontcg.io/me1/104.png",
+      "large": "https://images.pokemontcg.io/me1/104_hires.png"
     }
   },
   {
@@ -139,8 +139,8 @@
     "name": "Boss's Orders",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-114/small",
-      "large": "https://images.scrydex.com/pokemon/me1-114/large"
+      "small": "https://images.pokemontcg.io/me1/114.png",
+      "large": "https://images.pokemontcg.io/me1/114_hires.png"
     }
   },
   {
@@ -148,8 +148,8 @@
     "name": "Fighting Gong",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-116/small",
-      "large": "https://images.scrydex.com/pokemon/me1-116/large"
+      "small": "https://images.pokemontcg.io/me1/116.png",
+      "large": "https://images.pokemontcg.io/me1/116_hires.png"
     }
   },
   {
@@ -157,8 +157,8 @@
     "name": "Forest of Vitality",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-117/small",
-      "large": "https://images.scrydex.com/pokemon/me1-117/large"
+      "small": "https://images.pokemontcg.io/me1/117.png",
+      "large": "https://images.pokemontcg.io/me1/117_hires.png"
     }
   },
   {
@@ -166,8 +166,8 @@
     "name": "Iron Defender",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-118/small",
-      "large": "https://images.scrydex.com/pokemon/me1-118/large"
+      "small": "https://images.pokemontcg.io/me1/118.png",
+      "large": "https://images.pokemontcg.io/me1/118_hires.png"
     }
   },
   {
@@ -175,8 +175,8 @@
     "name": "Lillie's Determination",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-119/small",
-      "large": "https://images.scrydex.com/pokemon/me1-119/large"
+      "small": "https://images.pokemontcg.io/me1/119.png",
+      "large": "https://images.pokemontcg.io/me1/119_hires.png"
     }
   },
   {
@@ -184,8 +184,8 @@
     "name": "Mega Signal",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-121/small",
-      "large": "https://images.scrydex.com/pokemon/me1-121/large"
+      "small": "https://images.pokemontcg.io/me1/121.png",
+      "large": "https://images.pokemontcg.io/me1/121_hires.png"
     }
   },
   {
@@ -193,8 +193,8 @@
     "name": "Mystery Garden",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-122/small",
-      "large": "https://images.scrydex.com/pokemon/me1-122/large"
+      "small": "https://images.pokemontcg.io/me1/122.png",
+      "large": "https://images.pokemontcg.io/me1/122_hires.png"
     }
   },
   {
@@ -202,8 +202,8 @@
     "name": "Premium Power Pro",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-124/small",
-      "large": "https://images.scrydex.com/pokemon/me1-124/large"
+      "small": "https://images.pokemontcg.io/me1/124.png",
+      "large": "https://images.pokemontcg.io/me1/124_hires.png"
     }
   },
   {
@@ -211,8 +211,8 @@
     "name": "Risky Ruins",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-127/small",
-      "large": "https://images.scrydex.com/pokemon/me1-127/large"
+      "small": "https://images.pokemontcg.io/me1/127.png",
+      "large": "https://images.pokemontcg.io/me1/127_hires.png"
     }
   },
   {
@@ -220,8 +220,8 @@
     "name": "Strange Timepiece",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-128/small",
-      "large": "https://images.scrydex.com/pokemon/me1-128/large"
+      "small": "https://images.pokemontcg.io/me1/128.png",
+      "large": "https://images.pokemontcg.io/me1/128_hires.png"
     }
   },
   {
@@ -229,8 +229,8 @@
     "name": "Surfing Beach",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-129/small",
-      "large": "https://images.scrydex.com/pokemon/me1-129/large"
+      "small": "https://images.pokemontcg.io/me1/129.png",
+      "large": "https://images.pokemontcg.io/me1/129_hires.png"
     }
   },
   {
@@ -238,8 +238,8 @@
     "name": "Wally's Compassion",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me1-132/small",
-      "large": "https://images.scrydex.com/pokemon/me1-132/large"
+      "small": "https://images.pokemontcg.io/me1/132.png",
+      "large": "https://images.pokemontcg.io/me1/132_hires.png"
     }
   },
   {
@@ -247,8 +247,8 @@
     "name": "Basic Grass Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-001/small",
-      "large": "https://images.scrydex.com/pokemon/mee-001/large"
+      "small": "https://images.pokemontcg.io/mee/001.png",
+      "large": "https://images.pokemontcg.io/mee/001_hires.png"
     }
   },
   {
@@ -256,8 +256,8 @@
     "name": "Basic Fire Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-002/small",
-      "large": "https://images.scrydex.com/pokemon/mee-002/large"
+      "small": "https://images.pokemontcg.io/mee/002.png",
+      "large": "https://images.pokemontcg.io/mee/002_hires.png"
     }
   },
   {
@@ -265,8 +265,8 @@
     "name": "Basic Water Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-003/small",
-      "large": "https://images.scrydex.com/pokemon/mee-003/large"
+      "small": "https://images.pokemontcg.io/mee/003.png",
+      "large": "https://images.pokemontcg.io/mee/003_hires.png"
     }
   },
   {
@@ -274,8 +274,8 @@
     "name": "Basic Lightning Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-004/small",
-      "large": "https://images.scrydex.com/pokemon/mee-004/large"
+      "small": "https://images.pokemontcg.io/mee/004.png",
+      "large": "https://images.pokemontcg.io/mee/004_hires.png"
     }
   },
   {
@@ -283,8 +283,8 @@
     "name": "Basic Psychic Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-005/small",
-      "large": "https://images.scrydex.com/pokemon/mee-005/large"
+      "small": "https://images.pokemontcg.io/mee/005.png",
+      "large": "https://images.pokemontcg.io/mee/005_hires.png"
     }
   },
   {
@@ -292,8 +292,8 @@
     "name": "Basic Fighting Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-006/small",
-      "large": "https://images.scrydex.com/pokemon/mee-006/large"
+      "small": "https://images.pokemontcg.io/mee/006.png",
+      "large": "https://images.pokemontcg.io/mee/006_hires.png"
     }
   },
   {
@@ -301,8 +301,8 @@
     "name": "Basic Darkness Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-007/small",
-      "large": "https://images.scrydex.com/pokemon/mee-007/large"
+      "small": "https://images.pokemontcg.io/mee/007.png",
+      "large": "https://images.pokemontcg.io/mee/007_hires.png"
     }
   },
   {
@@ -310,8 +310,8 @@
     "name": "Basic Metal Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/mee-008/small",
-      "large": "https://images.scrydex.com/pokemon/mee-008/large"
+      "small": "https://images.pokemontcg.io/mee/008.png",
+      "large": "https://images.pokemontcg.io/mee/008_hires.png"
     }
   },
   {
@@ -319,8 +319,8 @@
     "name": "Emboar",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/rsv10pt5-013/small",
-      "large": "https://images.scrydex.com/pokemon/rsv10pt5-013/large"
+      "small": "https://images.scrydex.com/pokemon/rsv10pt5-013.png",
+      "large": "https://images.scrydex.com/pokemon/rsv10pt5-013_hires.png"
     }
   },
   {
@@ -328,8 +328,8 @@
     "name": "Reshiram ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/rsv10pt5-020/small",
-      "large": "https://images.scrydex.com/pokemon/rsv10pt5-020/large"
+      "small": "https://images.scrydex.com/pokemon/rsv10pt5-020.png",
+      "large": "https://images.scrydex.com/pokemon/rsv10pt5-020_hires.png"
     }
   },
   {
@@ -337,8 +337,8 @@
     "name": "Yanmega ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-003/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-003/large"
+      "small": "https://images.pokemontcg.io/sv10/003.png",
+      "large": "https://images.pokemontcg.io/sv10/003_hires.png"
     }
   },
   {
@@ -346,8 +346,8 @@
     "name": "Cynthia's Roserade",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-008/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-008/large"
+      "small": "https://images.pokemontcg.io/sv10/008.png",
+      "large": "https://images.pokemontcg.io/sv10/008_hires.png"
     }
   },
   {
@@ -355,8 +355,8 @@
     "name": "Shaymin",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-010/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-010/large"
+      "small": "https://images.pokemontcg.io/sv10/010.png",
+      "large": "https://images.pokemontcg.io/sv10/010_hires.png"
     }
   },
   {
@@ -364,8 +364,8 @@
     "name": "Team Rocket's Spidops",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-020/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-020/large"
+      "small": "https://images.pokemontcg.io/sv10/020.png",
+      "large": "https://images.pokemontcg.io/sv10/020_hires.png"
     }
   },
   {
@@ -373,8 +373,8 @@
     "name": "Ethan's Quilava",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-033/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-033/large"
+      "small": "https://images.pokemontcg.io/sv10/033.png",
+      "large": "https://images.pokemontcg.io/sv10/033_hires.png"
     }
   },
   {
@@ -382,8 +382,8 @@
     "name": "Ethan's Typhlosion",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-034/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-034/large"
+      "small": "https://images.pokemontcg.io/sv10/034.png",
+      "large": "https://images.pokemontcg.io/sv10/034_hires.png"
     }
   },
   {
@@ -391,8 +391,8 @@
     "name": "Ethan's Magcargo",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-036/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-036/large"
+      "small": "https://images.pokemontcg.io/sv10/036.png",
+      "large": "https://images.pokemontcg.io/sv10/036_hires.png"
     }
   },
   {
@@ -400,8 +400,8 @@
     "name": "Ethan's Ho-Oh ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-039/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-039/large"
+      "small": "https://images.pokemontcg.io/sv10/039.png",
+      "large": "https://images.pokemontcg.io/sv10/039_hires.png"
     }
   },
   {
@@ -409,8 +409,8 @@
     "name": "Team Rocket's Mewtwo ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-081/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-081/large"
+      "small": "https://images.pokemontcg.io/sv10/081.png",
+      "large": "https://images.pokemontcg.io/sv10/081_hires.png"
     }
   },
   {
@@ -418,8 +418,8 @@
     "name": "Cynthia's Gabite",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-103/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-103/large"
+      "small": "https://images.pokemontcg.io/sv10/103.png",
+      "large": "https://images.pokemontcg.io/sv10/103_hires.png"
     }
   },
   {
@@ -427,8 +427,8 @@
     "name": "Cynthia's Garchomp ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-104/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-104/large"
+      "small": "https://images.pokemontcg.io/sv10/104.png",
+      "large": "https://images.pokemontcg.io/sv10/104_hires.png"
     }
   },
   {
@@ -436,8 +436,8 @@
     "name": "Team Rocket's Nidoking ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-119/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-119/large"
+      "small": "https://images.pokemontcg.io/sv10/119.png",
+      "large": "https://images.pokemontcg.io/sv10/119_hires.png"
     }
   },
   {
@@ -445,8 +445,8 @@
     "name": "Team Rocket's Crobat ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-122/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-122/large"
+      "small": "https://images.pokemontcg.io/sv10/122.png",
+      "large": "https://images.pokemontcg.io/sv10/122_hires.png"
     }
   },
   {
@@ -454,8 +454,8 @@
     "name": "Arven's Mabosstiff ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-139/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-139/large"
+      "small": "https://images.pokemontcg.io/sv10/139.png",
+      "large": "https://images.pokemontcg.io/sv10/139_hires.png"
     }
   },
   {
@@ -463,8 +463,8 @@
     "name": "Cynthia's Power Weight",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-162/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-162/large"
+      "small": "https://images.pokemontcg.io/sv10/162.png",
+      "large": "https://images.pokemontcg.io/sv10/162_hires.png"
     }
   },
   {
@@ -472,8 +472,8 @@
     "name": "Ethan's Adventure",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-165/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-165/large"
+      "small": "https://images.pokemontcg.io/sv10/165.png",
+      "large": "https://images.pokemontcg.io/sv10/165_hires.png"
     }
   },
   {
@@ -481,8 +481,8 @@
     "name": "Team Rocket's Archer",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-170/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-170/large"
+      "small": "https://images.pokemontcg.io/sv10/170.png",
+      "large": "https://images.pokemontcg.io/sv10/170_hires.png"
     }
   },
   {
@@ -490,8 +490,8 @@
     "name": "Team Rocket's Ariana",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-171/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-171/large"
+      "small": "https://images.pokemontcg.io/sv10/171.png",
+      "large": "https://images.pokemontcg.io/sv10/171_hires.png"
     }
   },
   {
@@ -499,8 +499,8 @@
     "name": "Team Rocket's Factory",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-173/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-173/large"
+      "small": "https://images.pokemontcg.io/sv10/173.png",
+      "large": "https://images.pokemontcg.io/sv10/173_hires.png"
     }
   },
   {
@@ -508,8 +508,8 @@
     "name": "Team Rocket's Giovanni",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-174/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-174/large"
+      "small": "https://images.pokemontcg.io/sv10/174.png",
+      "large": "https://images.pokemontcg.io/sv10/174_hires.png"
     }
   },
   {
@@ -517,8 +517,8 @@
     "name": "Team Rocket's Petrel",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-176/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-176/large"
+      "small": "https://images.pokemontcg.io/sv10/176.png",
+      "large": "https://images.pokemontcg.io/sv10/176_hires.png"
     }
   },
   {
@@ -526,8 +526,8 @@
     "name": "Team Rocket's Proton",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-177/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-177/large"
+      "small": "https://images.pokemontcg.io/sv10/177.png",
+      "large": "https://images.pokemontcg.io/sv10/177_hires.png"
     }
   },
   {
@@ -535,8 +535,8 @@
     "name": "Team Rocket's Transceiver",
     "rarity": ["uncommon"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-178/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-178/large"
+      "small": "https://images.pokemontcg.io/sv10/178.png",
+      "large": "https://images.pokemontcg.io/sv10/178_hires.png"
     }
   },
   {
@@ -544,8 +544,8 @@
     "name": "Team Rocket's Energy",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv10-182/small",
-      "large": "https://images.scrydex.com/pokemon/sv10-182/large"
+      "small": "https://images.pokemontcg.io/sv10/182.png",
+      "large": "https://images.pokemontcg.io/sv10/182_hires.png"
     }
   },
   {
@@ -553,8 +553,8 @@
     "name": "Archaludon",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv7-107/small",
-      "large": "https://images.scrydex.com/pokemon/sv7-107/large"
+      "small": "https://images.pokemontcg.io/sv7/107.png",
+      "large": "https://images.pokemontcg.io/sv7/107_hires.png"
     }
   },
   {
@@ -562,8 +562,8 @@
     "name": "Brilliant Blender",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8-164/small",
-      "large": "https://images.scrydex.com/pokemon/sv8-164/large"
+      "small": "https://images.pokemontcg.io/sv8/164.png",
+      "large": "https://images.pokemontcg.io/sv8/164_hires.png"
     }
   },
   {
@@ -571,8 +571,8 @@
     "name": "Energy Search Pro",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8-176/small",
-      "large": "https://images.scrydex.com/pokemon/sv8-176/large"
+      "small": "https://images.pokemontcg.io/sv8/176.png",
+      "large": "https://images.pokemontcg.io/sv8/176_hires.png"
     }
   },
   {
@@ -580,8 +580,8 @@
     "name": "Precious Trolley",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8-185/small",
-      "large": "https://images.scrydex.com/pokemon/sv8-185/large"
+      "small": "https://images.pokemontcg.io/sv8/185.png",
+      "large": "https://images.pokemontcg.io/sv8/185_hires.png"
     }
   },
   {
@@ -589,8 +589,8 @@
     "name": "Budew",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8pt5-004/small",
-      "large": "https://images.scrydex.com/pokemon/sv8pt5-004/large"
+      "small": "https://images.scrydex.com/pokemon/sv8pt5-004.png",
+      "large": "https://images.scrydex.com/pokemon/sv8pt5-004_hires.png"
     }
   },
   {
@@ -598,8 +598,8 @@
     "name": "Max Rod",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8pt5-116/small",
-      "large": "https://images.scrydex.com/pokemon/sv8pt5-116/large"
+      "small": "https://images.scrydex.com/pokemon/sv8pt5-116.png",
+      "large": "https://images.scrydex.com/pokemon/sv8pt5-116_hires.png"
     }
   },
   {
@@ -607,8 +607,8 @@
     "name": "Sparkling Crystal",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv8pt5-129/small",
-      "large": "https://images.scrydex.com/pokemon/sv8pt5-129/large"
+      "small": "https://images.scrydex.com/pokemon/sv8pt5-129.png",
+      "large": "https://images.scrydex.com/pokemon/sv8pt5-129_hires.png"
     }
   },
   {
@@ -616,8 +616,8 @@
     "name": "N's Darmanitan",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-027/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-027/large"
+      "small": "https://images.pokemontcg.io/sv9/027.png",
+      "large": "https://images.pokemontcg.io/sv9/027_hires.png"
     }
   },
   {
@@ -625,8 +625,8 @@
     "name": "Iono's Voltorb",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-047/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-047/large"
+      "small": "https://images.pokemontcg.io/sv9/047.png",
+      "large": "https://images.pokemontcg.io/sv9/047_hires.png"
     }
   },
   {
@@ -634,8 +634,8 @@
     "name": "Iono's Bellibolt ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-053/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-053/large"
+      "small": "https://images.pokemontcg.io/sv9/053.png",
+      "large": "https://images.pokemontcg.io/sv9/053_hires.png"
     }
   },
   {
@@ -643,8 +643,8 @@
     "name": "Iono's Kilowattrel",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-055/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-055/large"
+      "small": "https://images.pokemontcg.io/sv9/055.png",
+      "large": "https://images.pokemontcg.io/sv9/055_hires.png"
     }
   },
   {
@@ -652,8 +652,8 @@
     "name": "Lillie's Clefairy ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-056/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-056/large"
+      "small": "https://images.pokemontcg.io/sv9/056.png",
+      "large": "https://images.pokemontcg.io/sv9/056_hires.png"
     }
   },
   {
@@ -661,8 +661,8 @@
     "name": "Lillie's Ribombee",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-067/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-067/large"
+      "small": "https://images.pokemontcg.io/sv9/067.png",
+      "large": "https://images.pokemontcg.io/sv9/067_hires.png"
     }
   },
   {
@@ -670,8 +670,8 @@
     "name": "N's Zoroark ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-098/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-098/large"
+      "small": "https://images.pokemontcg.io/sv9/098.png",
+      "large": "https://images.pokemontcg.io/sv9/098_hires.png"
     }
   },
   {
@@ -679,8 +679,8 @@
     "name": "Hop's Zacian ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-111/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-111/large"
+      "small": "https://images.pokemontcg.io/sv9/111.png",
+      "large": "https://images.pokemontcg.io/sv9/111_hires.png"
     }
   },
   {
@@ -688,8 +688,8 @@
     "name": "N's Reshiram",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-116/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-116/large"
+      "small": "https://images.pokemontcg.io/sv9/116.png",
+      "large": "https://images.pokemontcg.io/sv9/116_hires.png"
     }
   },
   {
@@ -697,8 +697,8 @@
     "name": "Hop's Snorlax",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-117/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-117/large"
+      "small": "https://images.pokemontcg.io/sv9/117.png",
+      "large": "https://images.pokemontcg.io/sv9/117_hires.png"
     }
   },
   {
@@ -706,8 +706,8 @@
     "name": "Hop's Dubwool",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-136/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-136/large"
+      "small": "https://images.pokemontcg.io/sv9/136.png",
+      "large": "https://images.pokemontcg.io/sv9/136_hires.png"
     }
   },
   {
@@ -715,8 +715,8 @@
     "name": "Hop's Choice Band",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-148/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-148/large"
+      "small": "https://images.pokemontcg.io/sv9/148.png",
+      "large": "https://images.pokemontcg.io/sv9/148_hires.png"
     }
   },
   {
@@ -724,8 +724,8 @@
     "name": "Levincia",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-150/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-150/large"
+      "small": "https://images.pokemontcg.io/sv9/150.png",
+      "large": "https://images.pokemontcg.io/sv9/150_hires.png"
     }
   },
   {
@@ -733,8 +733,8 @@
     "name": "Lillie's Pearl",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-151/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-151/large"
+      "small": "https://images.pokemontcg.io/sv9/151.png",
+      "large": "https://images.pokemontcg.io/sv9/151_hires.png"
     }
   },
   {
@@ -742,8 +742,8 @@
     "name": "N's PP Up",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-153/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-153/large"
+      "small": "https://images.pokemontcg.io/sv9/153.png",
+      "large": "https://images.pokemontcg.io/sv9/153_hires.png"
     }
   },
   {
@@ -751,8 +751,8 @@
     "name": "Postwick",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sv9-154/small",
-      "large": "https://images.scrydex.com/pokemon/sv9-154/large"
+      "small": "https://images.pokemontcg.io/sv9/154.png",
+      "large": "https://images.pokemontcg.io/sv9/154_hires.png"
     }
   },
   {
@@ -760,8 +760,8 @@
     "name": "Kyurem ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-028/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-028/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/028.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/028_hires.png"
     }
   },
   {
@@ -769,8 +769,8 @@
     "name": "Eelektrik",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-031/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-031/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/031.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/031_hires.png"
     }
   },
   {
@@ -778,8 +778,8 @@
     "name": "Zekrom ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-034/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-034/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/034.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/034_hires.png"
     }
   },
   {
@@ -787,8 +787,8 @@
     "name": "Conkeldurr",
     "rarity": ["common"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-049/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-049/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/049.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/049_hires.png"
     }
   },
   {
@@ -796,8 +796,8 @@
     "name": "Genesect ex",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-067/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-067/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/067.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/067_hires.png"
     }
   },
   {
@@ -805,8 +805,8 @@
     "name": "Air Balloon",
     "rarity": ["holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/zsv10pt5-079/small",
-      "large": "https://images.scrydex.com/pokemon/zsv10pt5-079/large"
+      "small": "https://images.pokemontcg.io/zsv10pt5/079.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/079_hires.png"
     }
   },
   {
@@ -814,8 +814,8 @@
     "name": "Basic Water Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-011/small",
-      "large": "https://images.scrydex.com/pokemon/sve-011/large"
+      "small": "https://images.pokemontcg.io/sve/011.png",
+      "large": "https://images.pokemontcg.io/sve/011_hires.png"
     }
   },
   {
@@ -823,8 +823,8 @@
     "name": "Basic Lightning Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-012/small",
-      "large": "https://images.scrydex.com/pokemon/sve-012/large"
+      "small": "https://images.pokemontcg.io/sve/012.png",
+      "large": "https://images.pokemontcg.io/sve/012_hires.png"
     }
   },
   {
@@ -832,8 +832,8 @@
     "name": "Basic Psychic Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-013/small",
-      "large": "https://images.scrydex.com/pokemon/sve-013/large"
+      "small": "https://images.pokemontcg.io/sve/013.png",
+      "large": "https://images.pokemontcg.io/sve/013_hires.png"
     }
   },
   {
@@ -841,8 +841,8 @@
     "name": "Basic Fighting Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-014/small",
-      "large": "https://images.scrydex.com/pokemon/sve-014/large"
+      "small": "https://images.pokemontcg.io/sve/014.png",
+      "large": "https://images.pokemontcg.io/sve/014_hires.png"
     }
   },
   {
@@ -850,8 +850,8 @@
     "name": "Basic Darkness Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-015/small",
-      "large": "https://images.scrydex.com/pokemon/sve-015/large"
+      "small": "https://images.pokemontcg.io/sve/015.png",
+      "large": "https://images.pokemontcg.io/sve/015_hires.png"
     }
   },
   {
@@ -859,8 +859,8 @@
     "name": "Basic Metal Energy",
     "rarity": ["common", "holo"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/sve-016/small",
-      "large": "https://images.scrydex.com/pokemon/sve-016/large"
+      "small": "https://images.pokemontcg.io/sve/016.png",
+      "large": "https://images.pokemontcg.io/sve/016_hires.png"
     }
   }
 ]
