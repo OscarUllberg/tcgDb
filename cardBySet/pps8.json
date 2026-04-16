@@ -228,6 +228,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/117.png",
       "large": "https://images.pokemontcg.io/me1/117_hires.png"
