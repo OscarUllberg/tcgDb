@@ -7,6 +7,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/3.png",
       "large": "https://images.pokemontcg.io/me1/3_hires.png"
@@ -20,6 +22,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/22.png",
       "large": "https://images.pokemontcg.io/me1/22_hires.png"
@@ -33,6 +37,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/28.png",
       "large": "https://images.pokemontcg.io/me1/28_hires.png"
@@ -46,6 +52,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/36.png",
       "large": "https://images.pokemontcg.io/me1/36_hires.png"
@@ -59,6 +67,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/50.png",
       "large": "https://images.pokemontcg.io/me1/50_hires.png"
@@ -72,6 +82,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/60.png",
       "large": "https://images.pokemontcg.io/me1/60_hires.png"
@@ -85,6 +97,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/73.png",
       "large": "https://images.pokemontcg.io/me1/73_hires.png"
@@ -98,6 +112,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/74.png",
       "large": "https://images.pokemontcg.io/me1/74_hires.png"
@@ -111,6 +127,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
@@ -124,6 +142,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/77.png",
       "large": "https://images.pokemontcg.io/me1/77_hires.png"
@@ -137,6 +157,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/86.png",
       "large": "https://images.pokemontcg.io/me1/86_hires.png"
@@ -150,6 +172,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/94.png",
       "large": "https://images.pokemontcg.io/me1/94_hires.png"
@@ -163,6 +187,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/100.png",
       "large": "https://images.pokemontcg.io/me1/100_hires.png"
@@ -176,6 +202,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/101.png",
       "large": "https://images.pokemontcg.io/me1/101_hires.png"
@@ -189,6 +217,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/104.png",
       "large": "https://images.pokemontcg.io/me1/104_hires.png"
@@ -202,6 +232,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/114.png",
       "large": "https://images.pokemontcg.io/me1/114_hires.png"
@@ -215,6 +247,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/116.png",
       "large": "https://images.pokemontcg.io/me1/116_hires.png"
@@ -243,6 +277,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/118.png",
       "large": "https://images.pokemontcg.io/me1/118_hires.png"
@@ -256,6 +292,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/119.png",
       "large": "https://images.pokemontcg.io/me1/119_hires.png"
@@ -269,6 +307,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/121.png",
       "large": "https://images.pokemontcg.io/me1/121_hires.png"
@@ -282,6 +322,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/122.png",
       "large": "https://images.pokemontcg.io/me1/122_hires.png"
@@ -295,6 +337,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/124.png",
       "large": "https://images.pokemontcg.io/me1/124_hires.png"
@@ -308,6 +352,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/127.png",
       "large": "https://images.pokemontcg.io/me1/127_hires.png"
@@ -321,6 +367,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/128.png",
       "large": "https://images.pokemontcg.io/me1/128_hires.png"
@@ -334,6 +382,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/129.png",
       "large": "https://images.pokemontcg.io/me1/129_hires.png"
@@ -347,6 +397,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/me1/132.png",
       "large": "https://images.pokemontcg.io/me1/132_hires.png"
@@ -360,6 +412,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-1.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-1.jpg"
@@ -373,6 +427,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-2.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-2.jpg"
@@ -386,6 +442,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-3.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-3.jpg"
@@ -399,6 +457,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-4.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-4.jpg"
@@ -412,6 +472,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-5.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-5.jpg"
@@ -425,6 +487,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-6.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-6.jpg"
@@ -438,6 +502,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-7.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-7.jpg"
@@ -451,6 +517,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-8.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-8.jpg"
@@ -464,6 +532,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/13.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/13_hires.png"
@@ -477,6 +547,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/20.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/20_hires.png"
@@ -490,6 +562,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/3.png",
       "large": "https://images.pokemontcg.io/sv10/3_hires.png"
@@ -503,6 +577,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/8.png",
       "large": "https://images.pokemontcg.io/sv10/8_hires.png"
@@ -516,6 +592,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/10.png",
       "large": "https://images.pokemontcg.io/sv10/10_hires.png"
@@ -529,6 +607,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/20.png",
       "large": "https://images.pokemontcg.io/sv10/20_hires.png"
@@ -542,6 +622,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/33.png",
       "large": "https://images.pokemontcg.io/sv10/33_hires.png"
@@ -555,6 +637,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/34.png",
       "large": "https://images.pokemontcg.io/sv10/34_hires.png"
@@ -568,6 +652,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/36.png",
       "large": "https://images.pokemontcg.io/sv10/36_hires.png"
@@ -581,6 +667,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/39.png",
       "large": "https://images.pokemontcg.io/sv10/39_hires.png"
@@ -594,6 +682,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/81.png",
       "large": "https://images.pokemontcg.io/sv10/81_hires.png"
@@ -607,6 +697,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/103.png",
       "large": "https://images.pokemontcg.io/sv10/103_hires.png"
@@ -620,6 +712,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/104.png",
       "large": "https://images.pokemontcg.io/sv10/104_hires.png"
@@ -633,6 +727,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/119.png",
       "large": "https://images.pokemontcg.io/sv10/119_hires.png"
@@ -646,6 +742,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/122.png",
       "large": "https://images.pokemontcg.io/sv10/122_hires.png"
@@ -659,6 +757,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/139.png",
       "large": "https://images.pokemontcg.io/sv10/139_hires.png"
@@ -672,6 +772,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/162.png",
       "large": "https://images.pokemontcg.io/sv10/162_hires.png"
@@ -685,6 +787,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/165.png",
       "large": "https://images.pokemontcg.io/sv10/165_hires.png"
@@ -698,6 +802,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Suoporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/170.png",
       "large": "https://images.pokemontcg.io/sv10/170_hires.png"
@@ -711,6 +817,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/171.png",
       "large": "https://images.pokemontcg.io/sv10/171_hires.png"
@@ -724,6 +832,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/173.png",
       "large": "https://images.pokemontcg.io/sv10/173_hires.png"
@@ -737,6 +847,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/174.png",
       "large": "https://images.pokemontcg.io/sv10/174_hires.png"
@@ -750,6 +862,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/176.png",
       "large": "https://images.pokemontcg.io/sv10/176_hires.png"
@@ -763,6 +877,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/177.png",
       "large": "https://images.pokemontcg.io/sv10/177_hires.png"
@@ -776,6 +892,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/178.png",
       "large": "https://images.pokemontcg.io/sv10/178_hires.png"
@@ -789,6 +907,8 @@
       "type": "special energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Special"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/182.png",
       "large": "https://images.pokemontcg.io/sv10/182_hires.png"
@@ -802,6 +922,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/107.png",
       "large": "https://images.pokemontcg.io/sv7/107_hires.png"
@@ -815,6 +937,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/164.png",
       "large": "https://images.pokemontcg.io/sv8/164_hires.png"
@@ -828,6 +952,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/176.png",
       "large": "https://images.pokemontcg.io/sv8/176_hires.png"
@@ -841,6 +967,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/185.png",
       "large": "https://images.pokemontcg.io/sv8/185_hires.png"
@@ -854,6 +982,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/4.png",
       "large": "https://images.pokemontcg.io/sv8pt5/4_hires.png"
@@ -867,6 +997,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/116.png",
       "large": "https://images.pokemontcg.io/sv8pt5/116_hires.png"
@@ -880,6 +1012,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/129.png",
       "large": "https://images.pokemontcg.io/sv8pt5/129_hires.png"
@@ -893,6 +1027,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/27.png",
       "large": "https://images.pokemontcg.io/sv9/27_hires.png"
@@ -906,6 +1042,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/47.png",
       "large": "https://images.pokemontcg.io/sv9/47_hires.png"
@@ -919,6 +1057,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/53.png",
       "large": "https://images.pokemontcg.io/sv9/53_hires.png"
@@ -932,6 +1072,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/55.png",
       "large": "https://images.pokemontcg.io/sv9/55_hires.png"
@@ -945,6 +1087,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/56.png",
       "large": "https://images.pokemontcg.io/sv9/56_hires.png"
@@ -958,6 +1102,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/67.png",
       "large": "https://images.pokemontcg.io/sv9/67_hires.png"
@@ -971,6 +1117,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/98.png",
       "large": "https://images.pokemontcg.io/sv9/98_hires.png"
@@ -984,6 +1132,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/111.png",
       "large": "https://images.pokemontcg.io/sv9/111_hires.png"
@@ -997,6 +1147,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/116.png",
       "large": "https://images.pokemontcg.io/sv9/116_hires.png"
@@ -1010,6 +1162,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/117.png",
       "large": "https://images.pokemontcg.io/sv9/117_hires.png"
@@ -1023,6 +1177,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/136.png",
       "large": "https://images.pokemontcg.io/sv9/136_hires.png"
@@ -1036,6 +1192,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/148.png",
       "large": "https://images.pokemontcg.io/sv9/148_hires.png"
@@ -1049,6 +1207,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/150.png",
       "large": "https://images.pokemontcg.io/sv9/150_hires.png"
@@ -1062,6 +1222,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/151.png",
       "large": "https://images.pokemontcg.io/sv9/151_hires.png"
@@ -1075,6 +1237,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/153.png",
       "large": "https://images.pokemontcg.io/sv9/153_hires.png"
@@ -1088,6 +1252,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/sv9/154.png",
       "large": "https://images.pokemontcg.io/sv9/154_hires.png"
@@ -1101,6 +1267,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/28.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/28_hires.png"
@@ -1114,6 +1282,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/31.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/31_hires.png"
@@ -1127,6 +1297,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/34.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/34_hires.png"
@@ -1140,6 +1312,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/49.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/49_hires.png"
@@ -1153,6 +1327,8 @@
       "type": "pokemon",
       "side": "left"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/67.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/67_hires.png"
@@ -1166,6 +1342,8 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/79.png",
       "large": "https://images.pokemontcg.io/zsv10pt5/79_hires.png"
@@ -1179,6 +1357,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/11.png",
       "large": "https://images.pokemontcg.io/sve/11_hires.png"
@@ -1192,6 +1372,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/12.png",
       "large": "https://images.pokemontcg.io/sve/12_hires.png"
@@ -1205,6 +1387,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/13.png",
       "large": "https://images.pokemontcg.io/sve/13_hires.png"
@@ -1218,6 +1402,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/14.png",
       "large": "https://images.pokemontcg.io/sve/14_hires.png"
@@ -1231,6 +1417,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/15.png",
       "large": "https://images.pokemontcg.io/sve/15_hires.png"
@@ -1244,6 +1432,8 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/16.png",
       "large": "https://images.pokemontcg.io/sve/16_hires.png"

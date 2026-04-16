@@ -7,12 +7,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/109.png",
       "large": "https://images.pokemontcg.io/sv1/109_hires.png"
     }
   },
-
   {
     "id": "sv1-114",
     "name": "Lucario",
@@ -21,12 +22,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/114.png",
       "large": "https://images.pokemontcg.io/sv1/114_hires.png"
     }
   },
-
   {
     "id": "sv1-118",
     "name": "Hawlucha",
@@ -35,12 +37,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/118.png",
       "large": "https://images.pokemontcg.io/sv1/118_hires.png"
     }
   },
-
   {
     "id": "sv1-123",
     "name": "Great Tusk ex",
@@ -49,12 +52,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/123.png",
       "large": "https://images.pokemontcg.io/sv1/123_hires.png"
     }
   },
-
   {
     "id": "sv1-125",
     "name": "Koraidon ex",
@@ -63,12 +67,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/125.png",
       "large": "https://images.pokemontcg.io/sv1/125_hires.png"
     }
   },
-
   {
     "id": "sv1-127",
     "name": "Muk",
@@ -77,12 +82,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/127.png",
       "large": "https://images.pokemontcg.io/sv1/127_hires.png"
     }
   },
-
   {
     "id": "sv1-131",
     "name": "Toxicroak ex",
@@ -91,12 +97,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/131.png",
       "large": "https://images.pokemontcg.io/sv1/131_hires.png"
     }
   },
-
   {
     "id": "sv1-134",
     "name": "Kingambit",
@@ -105,12 +112,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/134.png",
       "large": "https://images.pokemontcg.io/sv1/134_hires.png"
     }
   },
-
   {
     "id": "sv1-142",
     "name": "Revavroom",
@@ -119,12 +127,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/142.png",
       "large": "https://images.pokemontcg.io/sv1/142_hires.png"
     }
   },
-
   {
     "id": "sv1-143",
     "name": "Iron Treads ex",
@@ -133,12 +142,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/143.png",
       "large": "https://images.pokemontcg.io/sv1/143_hires.png"
     }
   },
-
   {
     "id": "sv1-151",
     "name": "Skwovet",
@@ -147,12 +157,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/151.png",
       "large": "https://images.pokemontcg.io/sv1/151_hires.png"
     }
   },
-
   {
     "id": "sv1-158",
     "name": "Oinkologne ex",
@@ -161,12 +172,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/158.png",
       "large": "https://images.pokemontcg.io/sv1/158_hires.png"
     }
   },
-
   {
     "id": "sv1-166",
     "name": "Arven",
@@ -175,12 +187,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/166.png",
       "large": "https://images.pokemontcg.io/sv1/166_hires.png"
     }
   },
-
   {
     "id": "sv1-167",
     "name": "Beach Court",
@@ -189,12 +202,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/167.png",
       "large": "https://images.pokemontcg.io/sv1/167_hires.png"
     }
   },
-
   {
     "id": "sv1-169",
     "name": "Defiance Band",
@@ -203,12 +217,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/169.png",
       "large": "https://images.pokemontcg.io/sv1/169_hires.png"
     }
   },
-
   {
     "id": "sv1-170",
     "name": "Electric Generator",
@@ -217,12 +232,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/170.png",
       "large": "https://images.pokemontcg.io/sv1/170_hires.png"
     }
   },
-
   {
     "id": "sv1-175",
     "name": "Jacq",
@@ -231,12 +247,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/175.png",
       "large": "https://images.pokemontcg.io/sv1/175_hires.png"
     }
   },
-
   {
     "id": "sv1-179",
     "name": "Miriam",
@@ -245,12 +262,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/179.png",
       "large": "https://images.pokemontcg.io/sv1/179_hires.png"
     }
   },
-
   {
     "id": "sv1-181",
     "name": "Nest Ball",
@@ -259,12 +277,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/181.png",
       "large": "https://images.pokemontcg.io/sv1/181_hires.png"
     }
   },
-
   {
     "id": "sv1-183",
     "name": "Penny",
@@ -273,12 +292,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/183.png",
       "large": "https://images.pokemontcg.io/sv1/183_hires.png"
     }
   },
-
   {
     "id": "sv1-186",
     "name": "Pokégear 3.0",
@@ -287,12 +307,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/186.png",
       "large": "https://images.pokemontcg.io/sv1/186_hires.png"
     }
   },
-
   {
     "id": "sv1-189",
     "name": "Professor's Research (Professor Sada)",
@@ -301,12 +322,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/189.png",
       "large": "https://images.pokemontcg.io/sv1/189_hires.png"
     }
   },
-
   {
     "id": "sv1-19",
     "name": "Spidops ex",
@@ -315,12 +337,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/19.png",
       "large": "https://images.pokemontcg.io/sv1/19_hires.png"
     }
   },
-
   {
     "id": "sv1-190",
     "name": "Professor's Research (Professor Turo)",
@@ -329,12 +352,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/190.png",
       "large": "https://images.pokemontcg.io/sv1/190_hires.png"
     }
   },
-
   {
     "id": "sv1-191",
     "name": "Rare Candy",
@@ -343,12 +367,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/191.png",
       "large": "https://images.pokemontcg.io/sv1/191_hires.png"
     }
   },
-
   {
     "id": "sv1-194",
     "name": "Switch",
@@ -357,12 +382,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/194.png",
       "large": "https://images.pokemontcg.io/sv1/194_hires.png"
     }
   },
-
   {
     "id": "sv1-195",
     "name": "Team Star Grunt",
@@ -371,12 +397,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/195.png",
       "large": "https://images.pokemontcg.io/sv1/195_hires.png"
     }
   },
-
   {
     "id": "sv1-196",
     "name": "Ultra Ball",
@@ -385,12 +412,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/196.png",
       "large": "https://images.pokemontcg.io/sv1/196_hires.png"
     }
   },
-
   {
     "id": "sv1-41",
     "name": "Armarouge",
@@ -399,12 +427,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/41.png",
       "large": "https://images.pokemontcg.io/sv1/41_hires.png"
     }
   },
-
   {
     "id": "sv1-43",
     "name": "Slowbro",
@@ -413,12 +442,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/43.png",
       "large": "https://images.pokemontcg.io/sv1/43_hires.png"
     }
   },
-
   {
     "id": "sv1-61",
     "name": "Dondozo",
@@ -427,12 +457,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/61.png",
       "large": "https://images.pokemontcg.io/sv1/61_hires.png"
     }
   },
-
   {
     "id": "sv1-62",
     "name": "Tatsugiri",
@@ -441,12 +472,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/62.png",
       "large": "https://images.pokemontcg.io/sv1/62_hires.png"
     }
   },
-
   {
     "id": "sv1-65",
     "name": "Magnezone ex",
@@ -455,12 +487,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/65.png",
       "large": "https://images.pokemontcg.io/sv1/65_hires.png"
     }
   },
-
   {
     "id": "sv1-76",
     "name": "Pawmot",
@@ -469,12 +502,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/76.png",
       "large": "https://images.pokemontcg.io/sv1/76_hires.png"
     }
   },
-
   {
     "id": "sv1-81",
     "name": "Miraidon ex",
@@ -483,12 +517,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/81.png",
       "large": "https://images.pokemontcg.io/sv1/81_hires.png"
     }
   },
-
   {
     "id": "sv1-86",
     "name": "Gardevoir ex",
@@ -497,12 +532,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/86.png",
       "large": "https://images.pokemontcg.io/sv1/86_hires.png"
     }
   },
-
   {
     "id": "sv1-88",
     "name": "Banette ex",
@@ -511,12 +547,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/88.png",
       "large": "https://images.pokemontcg.io/sv1/88_hires.png"
     }
   },
-
   {
     "id": "sve-1",
     "name": "Basic Grass Energy",
@@ -525,12 +562,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/1.png",
       "large": "https://images.pokemontcg.io/sve/1_hires.png"
     }
   },
-
   {
     "id": "sve-2",
     "name": "Basic Fire Energy",
@@ -539,12 +577,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/2.png",
       "large": "https://images.pokemontcg.io/sve/2_hires.png"
     }
   },
-
   {
     "id": "sve-3",
     "name": "Basic Water Energy",
@@ -553,12 +592,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/3.png",
       "large": "https://images.pokemontcg.io/sve/3_hires.png"
     }
   },
-
   {
     "id": "sve-4",
     "name": "Basic Lightning Energy",
@@ -567,12 +607,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/4.png",
       "large": "https://images.pokemontcg.io/sve/4_hires.png"
     }
   },
-
   {
     "id": "sve-5",
     "name": "Basic Psychic Energy",
@@ -581,12 +622,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/5.png",
       "large": "https://images.pokemontcg.io/sve/5_hires.png"
     }
   },
-
   {
     "id": "sve-6",
     "name": "Basic Fighting Energy",
@@ -595,12 +637,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/6.png",
       "large": "https://images.pokemontcg.io/sve/6_hires.png"
     }
   },
-
   {
     "id": "sve-7",
     "name": "Basic Darkness Energy",
@@ -609,12 +652,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/7.png",
       "large": "https://images.pokemontcg.io/sve/7_hires.png"
     }
   },
-
   {
     "id": "sve-8",
     "name": "Basic Metal Energy",
@@ -623,12 +667,13 @@
       "type": "energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
     "images": {
       "small": "https://images.pokemontcg.io/sve/8.png",
       "large": "https://images.pokemontcg.io/sve/8_hires.png"
     }
   },
-
   {
     "id": "svp-16",
     "name": "Ampharos ex",
@@ -637,12 +682,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/16.png",
       "large": "https://images.pokemontcg.io/svp/16_hires.png"
     }
   },
-
   {
     "id": "svp-17",
     "name": "Lucario ex",
@@ -651,12 +697,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/17.png",
       "large": "https://images.pokemontcg.io/svp/17_hires.png"
     }
   },
-
   {
     "id": "svp-18",
     "name": "Cyclizar ex",
@@ -665,12 +712,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/18.png",
       "large": "https://images.pokemontcg.io/svp/18_hires.png"
     }
   },
-
   {
     "id": "svp-4",
     "name": "Mimikyu ex",
@@ -679,12 +727,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/4.png",
       "large": "https://images.pokemontcg.io/svp/4_hires.png"
     }
   },
-
   {
     "id": "swsh10-108",
     "name": "Registeel",
@@ -693,12 +742,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/108.png",
       "large": "https://images.pokemontcg.io/swsh10/108_hires.png"
     }
   },
-
   {
     "id": "swsh10-113",
     "name": "Origin Forme Dialga V",
@@ -707,12 +757,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/113.png",
       "large": "https://images.pokemontcg.io/swsh10/113_hires.png"
     }
   },
-
   {
     "id": "swsh10-114",
     "name": "Origin Forme Dialga VSTAR",
@@ -721,12 +772,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/114.png",
       "large": "https://images.pokemontcg.io/swsh10/114_hires.png"
     }
   },
-
   {
     "id": "swsh10-118",
     "name": "Regidrago",
@@ -735,12 +787,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/118.png",
       "large": "https://images.pokemontcg.io/swsh10/118_hires.png"
     }
   },
-
   {
     "id": "swsh10-130",
     "name": "Regigigas",
@@ -749,12 +802,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/130.png",
       "large": "https://images.pokemontcg.io/swsh10/130_hires.png"
     }
   },
-
   {
     "id": "swsh10-136",
     "name": "Canceling Cologne",
@@ -763,12 +817,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/136.png",
       "large": "https://images.pokemontcg.io/swsh10/136_hires.png"
     }
   },
-
   {
     "id": "swsh10-138",
     "name": "Cyllene",
@@ -777,12 +832,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/138.png",
       "large": "https://images.pokemontcg.io/swsh10/138_hires.png"
     }
   },
-
   {
     "id": "swsh10-139",
     "name": "Dark Patch",
@@ -791,12 +847,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/139.png",
       "large": "https://images.pokemontcg.io/swsh10/139_hires.png"
     }
   },
-
   {
     "id": "swsh10-141",
     "name": "Feather Ball",
@@ -805,12 +862,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/141.png",
       "large": "https://images.pokemontcg.io/swsh10/141_hires.png"
     }
   },
-
   {
     "id": "swsh10-142",
     "name": "Gapejaw Bog",
@@ -819,12 +877,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/142.png",
       "large": "https://images.pokemontcg.io/swsh10/142_hires.png"
     }
   },
-
   {
     "id": "swsh10-143",
     "name": "Gardenia's Vigor",
@@ -833,12 +892,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/143.png",
       "large": "https://images.pokemontcg.io/swsh10/143_hires.png"
     }
   },
-
   {
     "id": "swsh10-144",
     "name": "Grant",
@@ -847,12 +907,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/144.png",
       "large": "https://images.pokemontcg.io/swsh10/144_hires.png"
     }
   },
-
   {
     "id": "swsh10-145",
     "name": "Gutsy Pickaxe",
@@ -861,12 +922,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/145.png",
       "large": "https://images.pokemontcg.io/swsh10/145_hires.png"
     }
   },
-
   {
     "id": "swsh10-146",
     "name": "Hisuian Heavy Ball",
@@ -875,12 +937,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/146.png",
       "large": "https://images.pokemontcg.io/swsh10/146_hires.png"
     }
   },
-
   {
     "id": "swsh10-147",
     "name": "Irida",
@@ -889,12 +952,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/147.png",
       "large": "https://images.pokemontcg.io/swsh10/147_hires.png"
     }
   },
-
   {
     "id": "swsh10-150",
     "name": "Roxanne",
@@ -903,12 +967,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/150.png",
       "large": "https://images.pokemontcg.io/swsh10/150_hires.png"
     }
   },
-
   {
     "id": "swsh10-154",
     "name": "Switch Cart",
@@ -917,12 +982,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/154.png",
       "large": "https://images.pokemontcg.io/swsh10/154_hires.png"
     }
   },
-
   {
     "id": "swsh10-155",
     "name": "Temple of Sinnoh",
@@ -931,12 +997,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/155.png",
       "large": "https://images.pokemontcg.io/swsh10/155_hires.png"
     }
   },
-
   {
     "id": "swsh10-27",
     "name": "Radiant Heatran",
@@ -945,12 +1012,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/27.png",
       "large": "https://images.pokemontcg.io/swsh10/27_hires.png"
     }
   },
-
   {
     "id": "swsh10-30",
     "name": "Starmie V",
@@ -959,12 +1027,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/30.png",
       "large": "https://images.pokemontcg.io/swsh10/30_hires.png"
     }
   },
-
   {
     "id": "swsh10-37",
     "name": "Regice",
@@ -973,12 +1042,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/37.png",
       "large": "https://images.pokemontcg.io/swsh10/37_hires.png"
     }
   },
-
   {
     "id": "swsh10-39",
     "name": "Origin Forme Palkia V",
@@ -987,12 +1057,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/39.png",
       "large": "https://images.pokemontcg.io/swsh10/39_hires.png"
     }
   },
-
   {
     "id": "swsh10-40",
     "name": "Origin Forme Palkia VSTAR",
@@ -1001,12 +1072,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/40.png",
       "large": "https://images.pokemontcg.io/swsh10/40_hires.png"
     }
   },
-
   {
     "id": "swsh10-43",
     "name": "Hisuian Basculin",
@@ -1015,12 +1087,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/43.png",
       "large": "https://images.pokemontcg.io/swsh10/43_hires.png"
     }
   },
-
   {
     "id": "swsh10-46",
     "name": "Radiant Greninja",
@@ -1029,12 +1102,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/46.png",
       "large": "https://images.pokemontcg.io/swsh10/46_hires.png"
     }
   },
-
   {
     "id": "swsh10-51",
     "name": "Regieleki",
@@ -1043,12 +1117,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/51.png",
       "large": "https://images.pokemontcg.io/swsh10/51_hires.png"
     }
   },
-
   {
     "id": "swsh10-62",
     "name": "Gallade",
@@ -1057,12 +1132,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/62.png",
       "large": "https://images.pokemontcg.io/swsh10/62_hires.png"
     }
   },
-
   {
     "id": "swsh10-68",
     "name": "Diancie",
@@ -1071,12 +1147,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/68.png",
       "large": "https://images.pokemontcg.io/swsh10/68_hires.png"
     }
   },
-
   {
     "id": "swsh10-75",
     "name": "Regirock",
@@ -1085,12 +1162,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/75.png",
       "large": "https://images.pokemontcg.io/swsh10/75_hires.png"
     }
   },
-
   {
     "id": "swsh10-81",
     "name": "Radiant Hawlucha",
@@ -1099,12 +1177,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/81.png",
       "large": "https://images.pokemontcg.io/swsh10/81_hires.png"
     }
   },
-
   {
     "id": "swsh10pt5-30",
     "name": "Mewtwo V",
@@ -1113,12 +1192,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10pt5/30.png",
       "large": "https://images.pokemontcg.io/swsh10pt5/30_hires.png"
     }
   },
-
   {
     "id": "swsh10pt5-31",
     "name": "Mewtwo VSTAR",
@@ -1127,12 +1207,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10pt5/31.png",
       "large": "https://images.pokemontcg.io/swsh10pt5/31_hires.png"
     }
   },
-
   {
     "id": "swsh11-118",
     "name": "Drapion V",
@@ -1141,12 +1222,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/118.png",
       "large": "https://images.pokemontcg.io/swsh11/118_hires.png"
     }
   },
-
   {
     "id": "swsh11-119",
     "name": "Drapion VSTAR",
@@ -1155,12 +1237,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/119.png",
       "large": "https://images.pokemontcg.io/swsh11/119_hires.png"
     }
   },
-
   {
     "id": "swsh11-123",
     "name": "Radiant Hisuian Sneasler",
@@ -1169,12 +1252,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/123.png",
       "large": "https://images.pokemontcg.io/swsh11/123_hires.png"
     }
   },
-
   {
     "id": "swsh11-124",
     "name": "Radiant Steelix",
@@ -1183,12 +1267,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Metal"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/124.png",
       "large": "https://images.pokemontcg.io/swsh11/124_hires.png"
     }
   },
-
   {
     "id": "swsh11-130",
     "name": "Giratina V",
@@ -1197,12 +1282,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/130.png",
       "large": "https://images.pokemontcg.io/swsh11/130_hires.png"
     }
   },
-
   {
     "id": "swsh11-131",
     "name": "Giratina VSTAR",
@@ -1211,12 +1297,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/131.png",
       "large": "https://images.pokemontcg.io/swsh11/131_hires.png"
     }
   },
-
   {
     "id": "swsh11-135",
     "name": "Hisuian Goodra V",
@@ -1225,12 +1312,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/135.png",
       "large": "https://images.pokemontcg.io/swsh11/135_hires.png"
     }
   },
-
   {
     "id": "swsh11-136",
     "name": "Hisuian Goodra VSTAR",
@@ -1239,12 +1327,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/136.png",
       "large": "https://images.pokemontcg.io/swsh11/136_hires.png"
     }
   },
-
   {
     "id": "swsh11-143",
     "name": "Snorlax",
@@ -1253,12 +1342,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/143.png",
       "large": "https://images.pokemontcg.io/swsh11/143_hires.png"
     }
   },
-
   {
     "id": "swsh11-146",
     "name": "Hisuian Zoroark V",
@@ -1267,12 +1357,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/146.png",
       "large": "https://images.pokemontcg.io/swsh11/146_hires.png"
     }
   },
-
   {
     "id": "swsh11-147",
     "name": "Hisuian Zoroark VSTAR",
@@ -1281,12 +1372,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/147.png",
       "large": "https://images.pokemontcg.io/swsh11/147_hires.png"
     }
   },
-
   {
     "id": "swsh11-153",
     "name": "Arezu",
@@ -1295,12 +1387,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/153.png",
       "large": "https://images.pokemontcg.io/swsh11/153_hires.png"
     }
   },
-
   {
     "id": "swsh11-155",
     "name": "Colress's Experiment",
@@ -1309,12 +1402,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/155.png",
       "large": "https://images.pokemontcg.io/swsh11/155_hires.png"
     }
   },
-
   {
     "id": "swsh11-156",
     "name": "Damage Pump",
@@ -1323,12 +1417,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/156.png",
       "large": "https://images.pokemontcg.io/swsh11/156_hires.png"
     }
   },
-
   {
     "id": "swsh11-160",
     "name": "Lake Acuity",
@@ -1337,12 +1432,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/160.png",
       "large": "https://images.pokemontcg.io/swsh11/160_hires.png"
     }
   },
-
   {
     "id": "swsh11-161",
     "name": "Lost City",
@@ -1351,12 +1447,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/161.png",
       "large": "https://images.pokemontcg.io/swsh11/161_hires.png"
     }
   },
-
   {
     "id": "swsh11-163",
     "name": "Mirage Gate",
@@ -1365,12 +1462,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/163.png",
       "large": "https://images.pokemontcg.io/swsh11/163_hires.png"
     }
   },
-
   {
     "id": "swsh11-167",
     "name": "Thorton",
@@ -1379,12 +1477,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/167.png",
       "large": "https://images.pokemontcg.io/swsh11/167_hires.png"
     }
   },
-
   {
     "id": "swsh11-168",
     "name": "Tool Box",
@@ -1393,12 +1492,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/168.png",
       "large": "https://images.pokemontcg.io/swsh11/168_hires.png"
     }
   },
-
   {
     "id": "swsh11-48",
     "name": "Kyurem V",
@@ -1407,12 +1507,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/48.png",
       "large": "https://images.pokemontcg.io/swsh11/48_hires.png"
     }
   },
-
   {
     "id": "swsh11-49",
     "name": "Kyurem VMAX",
@@ -1421,12 +1522,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/49.png",
       "large": "https://images.pokemontcg.io/swsh11/49_hires.png"
     }
   },
-
   {
     "id": "swsh11-50",
     "name": "Cramorant",
@@ -1435,12 +1537,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/50.png",
       "large": "https://images.pokemontcg.io/swsh11/50_hires.png"
     }
   },
-
   {
     "id": "swsh11-62",
     "name": "Clefairy",
@@ -1449,12 +1552,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/62.png",
       "large": "https://images.pokemontcg.io/swsh11/62_hires.png"
     }
   },
-
   {
     "id": "swsh11-66",
     "name": "Gengar",
@@ -1463,12 +1567,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/66.png",
       "large": "https://images.pokemontcg.io/swsh11/66_hires.png"
     }
   },
-
   {
     "id": "swsh11-69",
     "name": "Radiant Gardevoir",
@@ -1477,12 +1582,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/69.png",
       "large": "https://images.pokemontcg.io/swsh11/69_hires.png"
     }
   },
-
   {
     "id": "swsh11-70",
     "name": "Sableye",
@@ -1491,12 +1597,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/70.png",
       "large": "https://images.pokemontcg.io/swsh11/70_hires.png"
     }
   },
-
   {
     "id": "swsh11-73",
     "name": "Banette",
@@ -1505,12 +1612,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/73.png",
       "large": "https://images.pokemontcg.io/swsh11/73_hires.png"
     }
   },
-
   {
     "id": "swsh11-79",
     "name": "Comfey",
@@ -1519,12 +1627,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/79.png",
       "large": "https://images.pokemontcg.io/swsh11/79_hires.png"
     }
   },
-
   {
     "id": "swsh11-84",
     "name": "Hisuian Arcanine",
@@ -1533,12 +1642,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/84.png",
       "large": "https://images.pokemontcg.io/swsh11/84_hires.png"
     }
   },
-
   {
     "id": "swsh12-120",
     "name": "Radiant Jirachi",
@@ -1547,12 +1657,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/120.png",
       "large": "https://images.pokemontcg.io/swsh12/120_hires.png"
     }
   },
-
   {
     "id": "swsh12-131",
     "name": "Dragonite",
@@ -1561,12 +1672,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/131.png",
       "large": "https://images.pokemontcg.io/swsh12/131_hires.png"
     }
   },
-
   {
     "id": "swsh12-135",
     "name": "Regidrago V",
@@ -1575,12 +1687,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/135.png",
       "large": "https://images.pokemontcg.io/swsh12/135_hires.png"
     }
   },
-
   {
     "id": "swsh12-136",
     "name": "Regidrago VSTAR",
@@ -1589,12 +1702,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Dragon"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/136.png",
       "large": "https://images.pokemontcg.io/swsh12/136_hires.png"
     }
   },
-
   {
     "id": "swsh12-138",
     "name": "Lugia V",
@@ -1603,12 +1717,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/138.png",
       "large": "https://images.pokemontcg.io/swsh12/138_hires.png"
     }
   },
-
   {
     "id": "swsh12-139",
     "name": "Lugia VSTAR",
@@ -1617,12 +1732,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/139.png",
       "large": "https://images.pokemontcg.io/swsh12/139_hires.png"
     }
   },
-
   {
     "id": "swsh12-140",
     "name": "Ho-Oh V",
@@ -1631,12 +1747,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/140.png",
       "large": "https://images.pokemontcg.io/swsh12/140_hires.png"
     }
   },
-
   {
     "id": "swsh12-147",
     "name": "Archeops",
@@ -1645,12 +1762,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/147.png",
       "large": "https://images.pokemontcg.io/swsh12/147_hires.png"
     }
   },
-
   {
     "id": "swsh12-154",
     "name": "Earthen Seal Stone",
@@ -1659,12 +1777,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/154.png",
       "large": "https://images.pokemontcg.io/swsh12/154_hires.png"
     }
   },
-
   {
     "id": "swsh12-156",
     "name": "Forest Seal Stone",
@@ -1673,12 +1792,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/156.png",
       "large": "https://images.pokemontcg.io/swsh12/156_hires.png"
     }
   },
-
   {
     "id": "swsh12-159",
     "name": "Lance",
@@ -1687,12 +1807,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/159.png",
       "large": "https://images.pokemontcg.io/swsh12/159_hires.png"
     }
   },
-
   {
     "id": "swsh12-16",
     "name": "Radiant Tsareena",
@@ -1701,12 +1822,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/16.png",
       "large": "https://images.pokemontcg.io/swsh12/16_hires.png"
     }
   },
-
   {
     "id": "swsh12-160",
     "name": "Leafy Camo Poncho",
@@ -1715,12 +1837,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/160.png",
       "large": "https://images.pokemontcg.io/swsh12/160_hires.png"
     }
   },
-
   {
     "id": "swsh12-164",
     "name": "Serena",
@@ -1729,12 +1852,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/164.png",
       "large": "https://images.pokemontcg.io/swsh12/164_hires.png"
     }
   },
-
   {
     "id": "swsh12-169",
     "name": "V Guard Energy",
@@ -1743,12 +1867,13 @@
       "type": "special energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Special"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/169.png",
       "large": "https://images.pokemontcg.io/swsh12/169_hires.png"
     }
   },
-
   {
     "id": "swsh12-33",
     "name": "Alolan Vulpix V",
@@ -1757,12 +1882,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/33.png",
       "large": "https://images.pokemontcg.io/swsh12/33_hires.png"
     }
   },
-
   {
     "id": "swsh12-34",
     "name": "Alolan Vulpix VSTAR",
@@ -1771,12 +1897,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/34.png",
       "large": "https://images.pokemontcg.io/swsh12/34_hires.png"
     }
   },
-
   {
     "id": "swsh12-38",
     "name": "Wailord",
@@ -1785,12 +1912,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/38.png",
       "large": "https://images.pokemontcg.io/swsh12/38_hires.png"
     }
   },
-
   {
     "id": "swsh12-57",
     "name": "Regieleki V",
@@ -1799,12 +1927,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/57.png",
       "large": "https://images.pokemontcg.io/swsh12/57_hires.png"
     }
   },
-
   {
     "id": "swsh12-58",
     "name": "Regieleki VMAX",
@@ -1813,12 +1942,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/58.png",
       "large": "https://images.pokemontcg.io/swsh12/58_hires.png"
     }
   },
-
   {
     "id": "swsh12-59",
     "name": "Radiant Alakazam",
@@ -1827,12 +1957,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/59.png",
       "large": "https://images.pokemontcg.io/swsh12/59_hires.png"
     }
   },
-
   {
     "id": "swsh12-68",
     "name": "Kirlia",
@@ -1841,12 +1972,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/68.png",
       "large": "https://images.pokemontcg.io/swsh12/68_hires.png"
     }
   },
-
   {
     "id": "swsh12-90",
     "name": "Hisuian Arcanine V",
@@ -1855,12 +1987,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fighting"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/90.png",
       "large": "https://images.pokemontcg.io/swsh12/90_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-105",
     "name": "Radiant Eternatus",
@@ -1869,12 +2002,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/105.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/105_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-107",
     "name": "Ditto",
@@ -1883,12 +2017,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/107.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/107_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-135",
     "name": "Lost Vacuum",
@@ -1897,12 +2032,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/135.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/135_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-143",
     "name": "Sky Seal Stone",
@@ -1911,12 +2047,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/143.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/143_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-145",
     "name": "Trekking Shoes",
@@ -1925,12 +2062,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/145.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/145_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-146",
     "name": "Ultra Ball",
@@ -1939,12 +2077,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/146.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/146_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-20",
     "name": "Radiant Charizard",
@@ -1953,12 +2092,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/20.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/20_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-51",
     "name": "Radiant Charjabug",
@@ -1967,12 +2107,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/51.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/51_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-62",
     "name": "Lunatone",
@@ -1981,12 +2122,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/62.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/62_hires.png"
     }
   },
-
   {
     "id": "swsh12pt5-69",
     "name": "Solrock",
@@ -1995,12 +2137,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/69.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/69_hires.png"
     }
   },
-
   {
     "id": "swsh9-121",
     "name": "Bibarel",
@@ -2009,12 +2152,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/121.png",
       "large": "https://images.pokemontcg.io/swsh9/121_hires.png"
     }
   },
-
   {
     "id": "swsh9-122",
     "name": "Arceus V",
@@ -2023,12 +2167,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/122.png",
       "large": "https://images.pokemontcg.io/swsh9/122_hires.png"
     }
   },
-
   {
     "id": "swsh9-123",
     "name": "Arceus VSTAR",
@@ -2037,12 +2182,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/123.png",
       "large": "https://images.pokemontcg.io/swsh9/123_hires.png"
     }
   },
-
   {
     "id": "swsh9-126",
     "name": "Tornadus",
@@ -2051,12 +2197,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Colorless"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/126.png",
       "large": "https://images.pokemontcg.io/swsh9/126_hires.png"
     }
   },
-
   {
     "id": "swsh9-132",
     "name": "Boss's Orders (Cyrus)",
@@ -2065,12 +2212,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/132.png",
       "large": "https://images.pokemontcg.io/swsh9/132_hires.png"
     }
   },
-
   {
     "id": "swsh9-134",
     "name": "Cheren's Care",
@@ -2079,12 +2227,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/134.png",
       "large": "https://images.pokemontcg.io/swsh9/134_hires.png"
     }
   },
-
   {
     "id": "swsh9-137",
     "name": "Collapsed Stadium",
@@ -2093,12 +2242,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/137.png",
       "large": "https://images.pokemontcg.io/swsh9/137_hires.png"
     }
   },
-
   {
     "id": "swsh9-138",
     "name": "Cynthia's Ambition",
@@ -2107,12 +2257,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/138.png",
       "large": "https://images.pokemontcg.io/swsh9/138_hires.png"
     }
   },
-
   {
     "id": "swsh9-144",
     "name": "Magma Basin",
@@ -2121,12 +2272,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/144.png",
       "large": "https://images.pokemontcg.io/swsh9/144_hires.png"
     }
   },
-
   {
     "id": "swsh9-146",
     "name": "Pot Helmet",
@@ -2135,12 +2287,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/146.png",
       "large": "https://images.pokemontcg.io/swsh9/146_hires.png"
     }
   },
-
   {
     "id": "swsh9-148",
     "name": "Roseanne's Backup",
@@ -2149,12 +2302,13 @@
       "type": "trainer",
       "side": "right"
     },
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/148.png",
       "large": "https://images.pokemontcg.io/swsh9/148_hires.png"
     }
   },
-
   {
     "id": "swsh9-151",
     "name": "Double Turbo Energy",
@@ -2163,12 +2317,13 @@
       "type": "special energy",
       "side": "right"
     },
+    "supertype": "Energy",
+    "subtypes": ["Special"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/151.png",
       "large": "https://images.pokemontcg.io/swsh9/151_hires.png"
     }
   },
-
   {
     "id": "swsh9-21",
     "name": "Moltres",
@@ -2177,12 +2332,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/21.png",
       "large": "https://images.pokemontcg.io/swsh9/21_hires.png"
     }
   },
-
   {
     "id": "swsh9-22",
     "name": "Entei V",
@@ -2191,12 +2347,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/22.png",
       "large": "https://images.pokemontcg.io/swsh9/22_hires.png"
     }
   },
-
   {
     "id": "swsh9-40",
     "name": "Lumineon V",
@@ -2205,12 +2362,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/40.png",
       "large": "https://images.pokemontcg.io/swsh9/40_hires.png"
     }
   },
-
   {
     "id": "swsh9-41",
     "name": "Manaphy",
@@ -2219,12 +2377,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Water"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/41.png",
       "large": "https://images.pokemontcg.io/swsh9/41_hires.png"
     }
   },
-
   {
     "id": "swsh9-45",
     "name": "Raichu V",
@@ -2233,12 +2392,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/45.png",
       "large": "https://images.pokemontcg.io/swsh9/45_hires.png"
     }
   },
-
   {
     "id": "swsh9-48",
     "name": "Raikou V",
@@ -2247,12 +2407,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Lightning"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/48.png",
       "large": "https://images.pokemontcg.io/swsh9/48_hires.png"
     }
   },
-
   {
     "id": "swsh9-7",
     "name": "Grotle",
@@ -2261,12 +2422,13 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/7.png",
       "large": "https://images.pokemontcg.io/swsh9/7_hires.png"
     }
   },
-
   {
     "id": "swsh9-91",
     "name": "Liepard",
@@ -2275,6 +2437,8 @@
       "type": "pokemon",
       "side": "right"
     },
+    "supertype": "Pokemon",
+    "types": ["Darkness"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/91.png",
       "large": "https://images.pokemontcg.io/swsh9/91_hires.png"
