@@ -135,7 +135,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/me1/86.png",
@@ -161,7 +161,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/me1/100.png",
@@ -499,7 +499,7 @@
     "rarity": ["common", "holo"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/8.png",
@@ -525,7 +525,7 @@
     "rarity": ["common", "holo"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/20.png",
@@ -551,7 +551,7 @@
     "rarity": ["common"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/34.png",
@@ -577,7 +577,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/39.png",
@@ -590,7 +590,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/81.png",
@@ -603,7 +603,7 @@
     "rarity": ["common"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/103.png",
@@ -616,7 +616,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/104.png",
@@ -629,7 +629,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/119.png",
@@ -642,7 +642,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/122.png",
@@ -655,7 +655,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv10/139.png",
@@ -889,7 +889,7 @@
     "rarity": ["holo"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/sv9/27.png",
@@ -1097,7 +1097,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/28.png",
@@ -1149,7 +1149,7 @@
     "rarity": ["rare"],
     "iconLocation": {
       "type": "pokemon",
-      "side": "right"
+      "side": "left"
     },
     "images": {
       "small": "https://images.pokemontcg.io/zsv10pt5/67.png",

@@ -3,6 +3,10 @@
     "id": "sv1-125",
     "name": "Koraidon ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/125.png",
       "large": "https://images.pokemontcg.io/sv1/125_hires.png"
@@ -13,6 +17,10 @@
     "id": "sv1-142",
     "name": "Revavroom",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/142.png",
       "large": "https://images.pokemontcg.io/sv1/142_hires.png"
@@ -23,6 +31,10 @@
     "id": "sv1-166",
     "name": "Arven",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/166.png",
       "large": "https://images.pokemontcg.io/sv1/166_hires.png"
@@ -33,6 +45,10 @@
     "id": "sv1-167",
     "name": "Beach Court",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/167.png",
       "large": "https://images.pokemontcg.io/sv1/167_hires.png"
@@ -43,6 +59,10 @@
     "id": "sv1-169",
     "name": "Defiance Band",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/169.png",
       "large": "https://images.pokemontcg.io/sv1/169_hires.png"
@@ -53,6 +73,10 @@
     "id": "sv1-170",
     "name": "Electric Generator",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/170.png",
       "large": "https://images.pokemontcg.io/sv1/170_hires.png"
@@ -63,6 +87,10 @@
     "id": "sv1-175",
     "name": "Jacq",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/175.png",
       "large": "https://images.pokemontcg.io/sv1/175_hires.png"
@@ -73,6 +101,10 @@
     "id": "sv1-176",
     "name": "Judge",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/176.png",
       "large": "https://images.pokemontcg.io/sv1/176_hires.png"
@@ -83,6 +115,10 @@
     "id": "sv1-181",
     "name": "Nest Ball",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/181.png",
       "large": "https://images.pokemontcg.io/sv1/181_hires.png"
@@ -93,6 +129,10 @@
     "id": "sv1-182",
     "name": "Pal Pad",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/182.png",
       "large": "https://images.pokemontcg.io/sv1/182_hires.png"
@@ -103,6 +143,10 @@
     "id": "sv1-183",
     "name": "Penny",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/183.png",
       "large": "https://images.pokemontcg.io/sv1/183_hires.png"
@@ -113,6 +157,10 @@
     "id": "sv1-189",
     "name": "Professor's Research (Professor Sada)",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/189.png",
       "large": "https://images.pokemontcg.io/sv1/189_hires.png"
@@ -123,6 +171,10 @@
     "id": "sv1-190",
     "name": "Professor's Research (Professor Turo)",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/190.png",
       "large": "https://images.pokemontcg.io/sv1/190_hires.png"
@@ -133,6 +185,10 @@
     "id": "sv1-191",
     "name": "Rare Candy",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/191.png",
       "large": "https://images.pokemontcg.io/sv1/191_hires.png"
@@ -143,6 +199,10 @@
     "id": "sv1-194",
     "name": "Switch",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/194.png",
       "large": "https://images.pokemontcg.io/sv1/194_hires.png"
@@ -153,6 +213,10 @@
     "id": "sv1-196",
     "name": "Ultra Ball",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/196.png",
       "large": "https://images.pokemontcg.io/sv1/196_hires.png"
@@ -163,6 +227,10 @@
     "id": "sv1-41",
     "name": "Armarouge",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/41.png",
       "large": "https://images.pokemontcg.io/sv1/41_hires.png"
@@ -173,6 +241,10 @@
     "id": "sv1-54",
     "name": "Quaquaval",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/54.png",
       "large": "https://images.pokemontcg.io/sv1/54_hires.png"
@@ -183,6 +255,10 @@
     "id": "sv1-81",
     "name": "Miraidon ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/81.png",
       "large": "https://images.pokemontcg.io/sv1/81_hires.png"
@@ -193,6 +269,10 @@
     "id": "sv1-86",
     "name": "Gardevoir ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/86.png",
       "large": "https://images.pokemontcg.io/sv1/86_hires.png"
@@ -203,6 +283,10 @@
     "id": "sv1-89",
     "name": "Drifloon",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/89.png",
       "large": "https://images.pokemontcg.io/sv1/89_hires.png"
@@ -213,6 +297,10 @@
     "id": "sv1-96",
     "name": "Klefki",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv1/96.png",
       "large": "https://images.pokemontcg.io/sv1/96_hires.png"
@@ -223,6 +311,10 @@
     "id": "sv2-127",
     "name": "Ting-Lu ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/127.png",
       "large": "https://images.pokemontcg.io/sv2/127_hires.png"
@@ -233,6 +325,10 @@
     "id": "sv2-15",
     "name": "Meowscarada ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/15.png",
       "large": "https://images.pokemontcg.io/sv2/15_hires.png"
@@ -243,6 +339,10 @@
     "id": "sv2-153",
     "name": "Noivern ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/153.png",
       "large": "https://images.pokemontcg.io/sv2/153_hires.png"
@@ -253,6 +353,10 @@
     "id": "sv2-159",
     "name": "Pelipper",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/159.png",
       "large": "https://images.pokemontcg.io/sv2/159_hires.png"
@@ -263,6 +367,10 @@
     "id": "sv2-169",
     "name": "Squawkabilly ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/169.png",
       "large": "https://images.pokemontcg.io/sv2/169_hires.png"
@@ -273,6 +381,10 @@
     "id": "sv2-171",
     "name": "Artazon",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/171.png",
       "large": "https://images.pokemontcg.io/sv2/171_hires.png"
@@ -283,6 +395,10 @@
     "id": "sv2-172",
     "name": "Boss's Orders (Ghetsis)",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/172.png",
       "large": "https://images.pokemontcg.io/sv2/172_hires.png"
@@ -293,6 +409,10 @@
     "id": "sv2-173",
     "name": "Bravery Charm",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/173.png",
       "large": "https://images.pokemontcg.io/sv2/173_hires.png"
@@ -303,6 +423,10 @@
     "id": "sv2-177",
     "name": "Clavell",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/177.png",
       "large": "https://images.pokemontcg.io/sv2/177_hires.png"
@@ -313,6 +437,10 @@
     "id": "sv2-181",
     "name": "Fighting Au Lait",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/181.png",
       "large": "https://images.pokemontcg.io/sv2/181_hires.png"
@@ -323,6 +451,10 @@
     "id": "sv2-185",
     "name": "Iono",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/185.png",
       "large": "https://images.pokemontcg.io/sv2/185_hires.png"
@@ -333,6 +465,10 @@
     "id": "sv2-188",
     "name": "Super Rod",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/188.png",
       "large": "https://images.pokemontcg.io/sv2/188_hires.png"
@@ -343,6 +479,10 @@
     "id": "sv2-189",
     "name": "Superior Energy Retrieval",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/189.png",
       "large": "https://images.pokemontcg.io/sv2/189_hires.png"
@@ -353,6 +493,10 @@
     "id": "sv2-190",
     "name": "Jet Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "special energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/190.png",
       "large": "https://images.pokemontcg.io/sv2/190_hires.png"
@@ -363,6 +507,10 @@
     "id": "sv2-191",
     "name": "Luminous Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "special energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/191.png",
       "large": "https://images.pokemontcg.io/sv2/191_hires.png"
@@ -373,6 +521,10 @@
     "id": "sv2-192",
     "name": "Reversal Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "special energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/192.png",
       "large": "https://images.pokemontcg.io/sv2/192_hires.png"
@@ -383,6 +535,10 @@
     "id": "sv2-37",
     "name": "Skeledirge ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/37.png",
       "large": "https://images.pokemontcg.io/sv2/37_hires.png"
@@ -393,6 +549,10 @@
     "id": "sv2-5",
     "name": "Forretress ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/5.png",
       "large": "https://images.pokemontcg.io/sv2/5_hires.png"
@@ -403,6 +563,10 @@
     "id": "sv2-60",
     "name": "Baxcalibur",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/60.png",
       "large": "https://images.pokemontcg.io/sv2/60_hires.png"
@@ -413,6 +577,10 @@
     "id": "sv2-61",
     "name": "Chien-Pao ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/61.png",
       "large": "https://images.pokemontcg.io/sv2/61_hires.png"
@@ -423,6 +591,10 @@
     "id": "sv2-71",
     "name": "Luxray",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/71.png",
       "large": "https://images.pokemontcg.io/sv2/71_hires.png"
@@ -433,6 +605,10 @@
     "id": "sv2-89",
     "name": "Spiritomb",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/89.png",
       "large": "https://images.pokemontcg.io/sv2/89_hires.png"
@@ -443,6 +619,10 @@
     "id": "sv2-93",
     "name": "Dedenne ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/93.png",
       "large": "https://images.pokemontcg.io/sv2/93_hires.png"
@@ -453,6 +633,10 @@
     "id": "sv2-97",
     "name": "Mimikyu",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv2/97.png",
       "large": "https://images.pokemontcg.io/sv2/97_hires.png"
@@ -463,6 +647,10 @@
     "id": "sv3-125",
     "name": "Charizard ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/125.png",
       "large": "https://images.pokemontcg.io/sv3/125_hires.png"
@@ -473,6 +661,10 @@
     "id": "sv3-164",
     "name": "Pidgeot ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/164.png",
       "large": "https://images.pokemontcg.io/sv3/164_hires.png"
@@ -483,6 +675,10 @@
     "id": "sv3-189",
     "name": "Letter of Encouragement",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/189.png",
       "large": "https://images.pokemontcg.io/sv3/189_hires.png"
@@ -493,6 +689,10 @@
     "id": "sv3-22",
     "name": "Toedscruel ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/22.png",
       "large": "https://images.pokemontcg.io/sv3/22_hires.png"
@@ -503,6 +703,10 @@
     "id": "sv3-66",
     "name": "Tyranitar ex",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/66.png",
       "large": "https://images.pokemontcg.io/sv3/66_hires.png"
@@ -513,6 +717,10 @@
     "id": "sv3-92",
     "name": "Lunatone",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/92.png",
       "large": "https://images.pokemontcg.io/sv3/92_hires.png"
@@ -523,6 +731,10 @@
     "id": "sv3-95",
     "name": "Claydol",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sv3/95.png",
       "large": "https://images.pokemontcg.io/sv3/95_hires.png"
@@ -533,6 +745,10 @@
     "id": "sve-1",
     "name": "Basic Grass Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/1.png",
       "large": "https://images.pokemontcg.io/sve/1_hires.png"
@@ -543,6 +759,10 @@
     "id": "sve-2",
     "name": "Basic Fire Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/2.png",
       "large": "https://images.pokemontcg.io/sve/2_hires.png"
@@ -553,6 +773,10 @@
     "id": "sve-3",
     "name": "Basic Water Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/3.png",
       "large": "https://images.pokemontcg.io/sve/3_hires.png"
@@ -563,6 +787,10 @@
     "id": "sve-4",
     "name": "Basic Lightning Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/4.png",
       "large": "https://images.pokemontcg.io/sve/4_hires.png"
@@ -573,6 +801,10 @@
     "id": "sve-5",
     "name": "Basic Psychic Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/5.png",
       "large": "https://images.pokemontcg.io/sve/5_hires.png"
@@ -583,6 +815,10 @@
     "id": "sve-6",
     "name": "Basic Fighting Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/6.png",
       "large": "https://images.pokemontcg.io/sve/6_hires.png"
@@ -593,6 +829,10 @@
     "id": "sve-7",
     "name": "Basic Darkness Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/7.png",
       "large": "https://images.pokemontcg.io/sve/7_hires.png"
@@ -603,6 +843,10 @@
     "id": "sve-8",
     "name": "Basic Metal Energy",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "energy",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/sve/8.png",
       "large": "https://images.pokemontcg.io/sve/8_hires.png"
@@ -613,6 +857,10 @@
     "id": "swsh11-130",
     "name": "Giratina V",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/130.png",
       "large": "https://images.pokemontcg.io/swsh11/130_hires.png"
@@ -623,6 +871,10 @@
     "id": "swsh11-131",
     "name": "Giratina VSTAR",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/131.png",
       "large": "https://images.pokemontcg.io/swsh11/131_hires.png"
@@ -633,6 +885,10 @@
     "id": "swsh11-135",
     "name": "Hisuian Goodra V",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/135.png",
       "large": "https://images.pokemontcg.io/swsh11/135_hires.png"
@@ -643,6 +899,10 @@
     "id": "swsh11-136",
     "name": "Hisuian Goodra VSTAR",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/136.png",
       "large": "https://images.pokemontcg.io/swsh11/136_hires.png"
@@ -653,6 +913,10 @@
     "id": "swsh11-153",
     "name": "Arezu",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/153.png",
       "large": "https://images.pokemontcg.io/swsh11/153_hires.png"
@@ -663,6 +927,10 @@
     "id": "swsh11-161",
     "name": "Lost City",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/161.png",
       "large": "https://images.pokemontcg.io/swsh11/161_hires.png"
@@ -673,6 +941,10 @@
     "id": "swsh12-131",
     "name": "Dragonite",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/131.png",
       "large": "https://images.pokemontcg.io/swsh12/131_hires.png"
@@ -683,6 +955,10 @@
     "id": "swsh12-135",
     "name": "Regidrago V",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/135.png",
       "large": "https://images.pokemontcg.io/swsh12/135_hires.png"
@@ -693,6 +969,10 @@
     "id": "swsh12-136",
     "name": "Regidrago VSTAR",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/136.png",
       "large": "https://images.pokemontcg.io/swsh12/136_hires.png"
@@ -703,6 +983,10 @@
     "id": "swsh12-138",
     "name": "Lugia V",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/138.png",
       "large": "https://images.pokemontcg.io/swsh12/138_hires.png"
@@ -713,6 +997,10 @@
     "id": "swsh12-139",
     "name": "Lugia VSTAR",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/139.png",
       "large": "https://images.pokemontcg.io/swsh12/139_hires.png"
@@ -723,6 +1011,10 @@
     "id": "swsh12-147",
     "name": "Archeops",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/147.png",
       "large": "https://images.pokemontcg.io/swsh12/147_hires.png"
@@ -733,6 +1025,10 @@
     "id": "swsh12-153",
     "name": "Capturing Aroma",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/153.png",
       "large": "https://images.pokemontcg.io/swsh12/153_hires.png"
@@ -743,6 +1039,10 @@
     "id": "swsh12-155",
     "name": "Emergency Jelly",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/155.png",
       "large": "https://images.pokemontcg.io/swsh12/155_hires.png"
@@ -753,6 +1053,10 @@
     "id": "swsh12-156",
     "name": "Forest Seal Stone",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/156.png",
       "large": "https://images.pokemontcg.io/swsh12/156_hires.png"
@@ -763,6 +1067,10 @@
     "id": "swsh12-167",
     "name": "Worker",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/167.png",
       "large": "https://images.pokemontcg.io/swsh12/167_hires.png"
@@ -773,6 +1081,10 @@
     "id": "swsh12-38",
     "name": "Wailord",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/38.png",
       "large": "https://images.pokemontcg.io/swsh12/38_hires.png"
@@ -783,6 +1095,10 @@
     "id": "swsh12-57",
     "name": "Regieleki V",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/57.png",
       "large": "https://images.pokemontcg.io/swsh12/57_hires.png"
@@ -793,6 +1109,10 @@
     "id": "swsh12-58",
     "name": "Regieleki VMAX",
     "rarity": ["rare"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/58.png",
       "large": "https://images.pokemontcg.io/swsh12/58_hires.png"
@@ -803,6 +1123,10 @@
     "id": "swsh12-68",
     "name": "Kirlia",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/68.png",
       "large": "https://images.pokemontcg.io/swsh12/68_hires.png"
@@ -813,6 +1137,10 @@
     "id": "swsh12pt5-135",
     "name": "Lost Vacuum",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/135.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/135_hires.png"
@@ -823,6 +1151,10 @@
     "id": "swsh12pt5-143",
     "name": "Sky Seal Stone",
     "rarity": ["common"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/143.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/143_hires.png"
@@ -833,6 +1165,10 @@
     "id": "swsh12pt5-145",
     "name": "Trekking Shoes",
     "rarity": ["common", "holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/145.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/145_hires.png"
@@ -843,6 +1179,10 @@
     "id": "swsh12pt5-146",
     "name": "Ultra Ball",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "trainer",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/146.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/146_hires.png"
@@ -853,6 +1193,10 @@
     "id": "swsh12pt5-36",
     "name": "Kyogre",
     "rarity": ["holo"],
+    "iconLocation": {
+      "type": "pokemon",
+      "side": "right"
+    },
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/36.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/36_hires.png"
