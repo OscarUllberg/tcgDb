@@ -32,7 +32,7 @@
   {
     "id": "sv1-123",
     "name": "Great Tusk ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/123.png",
       "large": "https://images.pokemontcg.io/sv1/123_hires.png"
@@ -42,7 +42,7 @@
   {
     "id": "sv1-125",
     "name": "Koraidon ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/125.png",
       "large": "https://images.pokemontcg.io/sv1/125_hires.png"
@@ -62,7 +62,7 @@
   {
     "id": "sv1-131",
     "name": "Toxicroak ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/131.png",
       "large": "https://images.pokemontcg.io/sv1/131_hires.png"
@@ -92,7 +92,7 @@
   {
     "id": "sv1-143",
     "name": "Iron Treads ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/143.png",
       "large": "https://images.pokemontcg.io/sv1/143_hires.png"
@@ -112,7 +112,7 @@
   {
     "id": "sv1-158",
     "name": "Oinkologne ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/158.png",
       "large": "https://images.pokemontcg.io/sv1/158_hires.png"
@@ -222,7 +222,7 @@
   {
     "id": "sv1-19",
     "name": "Spidops ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/19.png",
       "large": "https://images.pokemontcg.io/sv1/19_hires.png"
@@ -322,7 +322,7 @@
   {
     "id": "sv1-65",
     "name": "Magnezone ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/65.png",
       "large": "https://images.pokemontcg.io/sv1/65_hires.png"
@@ -342,7 +342,7 @@
   {
     "id": "sv1-81",
     "name": "Miraidon ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/81.png",
       "large": "https://images.pokemontcg.io/sv1/81_hires.png"
@@ -352,7 +352,7 @@
   {
     "id": "sv1-86",
     "name": "Gardevoir ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/86.png",
       "large": "https://images.pokemontcg.io/sv1/86_hires.png"
@@ -362,7 +362,7 @@
   {
     "id": "sv1-88",
     "name": "Banette ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/sv1/88.png",
       "large": "https://images.pokemontcg.io/sv1/88_hires.png"
@@ -452,7 +452,7 @@
   {
     "id": "svp-16",
     "name": "Ampharos ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/16.png",
       "large": "https://images.pokemontcg.io/svp/16_hires.png"
@@ -462,7 +462,7 @@
   {
     "id": "svp-17",
     "name": "Lucario ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/17.png",
       "large": "https://images.pokemontcg.io/svp/17_hires.png"
@@ -472,7 +472,7 @@
   {
     "id": "svp-18",
     "name": "Cyclizar ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/18.png",
       "large": "https://images.pokemontcg.io/svp/18_hires.png"
@@ -482,7 +482,7 @@
   {
     "id": "svp-4",
     "name": "Mimikyu ex",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/svp/4.png",
       "large": "https://images.pokemontcg.io/svp/4_hires.png"
@@ -502,7 +502,7 @@
   {
     "id": "swsh10-113",
     "name": "Origin Forme Dialga V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/113.png",
       "large": "https://images.pokemontcg.io/swsh10/113_hires.png"
@@ -512,7 +512,7 @@
   {
     "id": "swsh10-114",
     "name": "Origin Forme Dialga VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/114.png",
       "large": "https://images.pokemontcg.io/swsh10/114_hires.png"
@@ -682,7 +682,7 @@
   {
     "id": "swsh10-30",
     "name": "Starmie V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/30.png",
       "large": "https://images.pokemontcg.io/swsh10/30_hires.png"
@@ -702,7 +702,7 @@
   {
     "id": "swsh10-39",
     "name": "Origin Forme Palkia V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/39.png",
       "large": "https://images.pokemontcg.io/swsh10/39_hires.png"
@@ -712,7 +712,7 @@
   {
     "id": "swsh10-40",
     "name": "Origin Forme Palkia VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/40.png",
       "large": "https://images.pokemontcg.io/swsh10/40_hires.png"
@@ -732,7 +732,7 @@
   {
     "id": "swsh10-46",
     "name": "Radiant Greninja",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/46.png",
       "large": "https://images.pokemontcg.io/swsh10/46_hires.png"
@@ -782,7 +782,7 @@
   {
     "id": "swsh10-81",
     "name": "Radiant Hawlucha",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10/81.png",
       "large": "https://images.pokemontcg.io/swsh10/81_hires.png"
@@ -792,7 +792,7 @@
   {
     "id": "swsh10pt5-30",
     "name": "Mewtwo V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10pt5/30.png",
       "large": "https://images.pokemontcg.io/swsh10pt5/30_hires.png"
@@ -802,7 +802,7 @@
   {
     "id": "swsh10pt5-31",
     "name": "Mewtwo VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh10pt5/31.png",
       "large": "https://images.pokemontcg.io/swsh10pt5/31_hires.png"
@@ -812,7 +812,7 @@
   {
     "id": "swsh11-118",
     "name": "Drapion V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/118.png",
       "large": "https://images.pokemontcg.io/swsh11/118_hires.png"
@@ -822,7 +822,7 @@
   {
     "id": "swsh11-119",
     "name": "Drapion VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/119.png",
       "large": "https://images.pokemontcg.io/swsh11/119_hires.png"
@@ -832,7 +832,7 @@
   {
     "id": "swsh11-123",
     "name": "Radiant Hisuian Sneasler",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/123.png",
       "large": "https://images.pokemontcg.io/swsh11/123_hires.png"
@@ -842,7 +842,7 @@
   {
     "id": "swsh11-124",
     "name": "Radiant Steelix",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/124.png",
       "large": "https://images.pokemontcg.io/swsh11/124_hires.png"
@@ -852,7 +852,7 @@
   {
     "id": "swsh11-130",
     "name": "Giratina V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/130.png",
       "large": "https://images.pokemontcg.io/swsh11/130_hires.png"
@@ -862,7 +862,7 @@
   {
     "id": "swsh11-131",
     "name": "Giratina VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/131.png",
       "large": "https://images.pokemontcg.io/swsh11/131_hires.png"
@@ -872,7 +872,7 @@
   {
     "id": "swsh11-135",
     "name": "Hisuian Goodra V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/135.png",
       "large": "https://images.pokemontcg.io/swsh11/135_hires.png"
@@ -882,7 +882,7 @@
   {
     "id": "swsh11-136",
     "name": "Hisuian Goodra VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/136.png",
       "large": "https://images.pokemontcg.io/swsh11/136_hires.png"
@@ -902,7 +902,7 @@
   {
     "id": "swsh11-146",
     "name": "Hisuian Zoroark V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/146.png",
       "large": "https://images.pokemontcg.io/swsh11/146_hires.png"
@@ -912,7 +912,7 @@
   {
     "id": "swsh11-147",
     "name": "Hisuian Zoroark VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/147.png",
       "large": "https://images.pokemontcg.io/swsh11/147_hires.png"
@@ -1002,7 +1002,7 @@
   {
     "id": "swsh11-48",
     "name": "Kyurem V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/48.png",
       "large": "https://images.pokemontcg.io/swsh11/48_hires.png"
@@ -1012,7 +1012,7 @@
   {
     "id": "swsh11-49",
     "name": "Kyurem VMAX",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/49.png",
       "large": "https://images.pokemontcg.io/swsh11/49_hires.png"
@@ -1052,7 +1052,7 @@
   {
     "id": "swsh11-69",
     "name": "Radiant Gardevoir",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh11/69.png",
       "large": "https://images.pokemontcg.io/swsh11/69_hires.png"
@@ -1102,7 +1102,7 @@
   {
     "id": "swsh12-120",
     "name": "Radiant Jirachi",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/120.png",
       "large": "https://images.pokemontcg.io/swsh12/120_hires.png"
@@ -1122,7 +1122,7 @@
   {
     "id": "swsh12-135",
     "name": "Regidrago V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/135.png",
       "large": "https://images.pokemontcg.io/swsh12/135_hires.png"
@@ -1132,7 +1132,7 @@
   {
     "id": "swsh12-136",
     "name": "Regidrago VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/136.png",
       "large": "https://images.pokemontcg.io/swsh12/136_hires.png"
@@ -1142,7 +1142,7 @@
   {
     "id": "swsh12-138",
     "name": "Lugia V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/138.png",
       "large": "https://images.pokemontcg.io/swsh12/138_hires.png"
@@ -1152,7 +1152,7 @@
   {
     "id": "swsh12-139",
     "name": "Lugia VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/139.png",
       "large": "https://images.pokemontcg.io/swsh12/139_hires.png"
@@ -1162,7 +1162,7 @@
   {
     "id": "swsh12-140",
     "name": "Ho-Oh V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/140.png",
       "large": "https://images.pokemontcg.io/swsh12/140_hires.png"
@@ -1212,7 +1212,7 @@
   {
     "id": "swsh12-16",
     "name": "Radiant Tsareena",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/16.png",
       "large": "https://images.pokemontcg.io/swsh12/16_hires.png"
@@ -1252,7 +1252,7 @@
   {
     "id": "swsh12-33",
     "name": "Alolan Vulpix V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/33.png",
       "large": "https://images.pokemontcg.io/swsh12/33_hires.png"
@@ -1262,7 +1262,7 @@
   {
     "id": "swsh12-34",
     "name": "Alolan Vulpix VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/34.png",
       "large": "https://images.pokemontcg.io/swsh12/34_hires.png"
@@ -1282,7 +1282,7 @@
   {
     "id": "swsh12-57",
     "name": "Regieleki V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/57.png",
       "large": "https://images.pokemontcg.io/swsh12/57_hires.png"
@@ -1292,7 +1292,7 @@
   {
     "id": "swsh12-58",
     "name": "Regieleki VMAX",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/58.png",
       "large": "https://images.pokemontcg.io/swsh12/58_hires.png"
@@ -1302,7 +1302,7 @@
   {
     "id": "swsh12-59",
     "name": "Radiant Alakazam",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/59.png",
       "large": "https://images.pokemontcg.io/swsh12/59_hires.png"
@@ -1322,7 +1322,7 @@
   {
     "id": "swsh12-90",
     "name": "Hisuian Arcanine V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/90.png",
       "large": "https://images.pokemontcg.io/swsh12/90_hires.png"
@@ -1332,7 +1332,7 @@
   {
     "id": "swsh12pt5-105",
     "name": "Radiant Eternatus",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/105.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/105_hires.png"
@@ -1392,7 +1392,7 @@
   {
     "id": "swsh12pt5-20",
     "name": "Radiant Charizard",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/20.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/20_hires.png"
@@ -1402,7 +1402,7 @@
   {
     "id": "swsh12pt5-51",
     "name": "Radiant Charjabug",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/51.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/51_hires.png"
@@ -1442,7 +1442,7 @@
   {
     "id": "swsh9-122",
     "name": "Arceus V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/122.png",
       "large": "https://images.pokemontcg.io/swsh9/122_hires.png"
@@ -1452,7 +1452,7 @@
   {
     "id": "swsh9-123",
     "name": "Arceus VSTAR",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/123.png",
       "large": "https://images.pokemontcg.io/swsh9/123_hires.png"
@@ -1562,7 +1562,7 @@
   {
     "id": "swsh9-22",
     "name": "Entei V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/22.png",
       "large": "https://images.pokemontcg.io/swsh9/22_hires.png"
@@ -1572,7 +1572,7 @@
   {
     "id": "swsh9-40",
     "name": "Lumineon V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/40.png",
       "large": "https://images.pokemontcg.io/swsh9/40_hires.png"
@@ -1592,7 +1592,7 @@
   {
     "id": "swsh9-45",
     "name": "Raichu V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/45.png",
       "large": "https://images.pokemontcg.io/swsh9/45_hires.png"
@@ -1602,7 +1602,7 @@
   {
     "id": "swsh9-48",
     "name": "Raikou V",
-    "rarity": ["holo"],
+    "rarity": ["rare"],
     "images": {
       "small": "https://images.pokemontcg.io/swsh9/48.png",
       "large": "https://images.pokemontcg.io/swsh9/48_hires.png"
