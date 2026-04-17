@@ -1185,7 +1185,7 @@
     }
   },
   {
-    "id": "swsh10pt5-30",
+    "id": "pgo-30",
     "name": "Mewtwo V",
     "rarity": ["rare"],
     "iconLocation": {
@@ -1195,12 +1195,12 @@
     "supertype": "Pokemon",
     "types": ["Psychic"],
     "images": {
-      "small": "https://images.pokemontcg.io/swsh10pt5/30.png",
-      "large": "https://images.pokemontcg.io/swsh10pt5/30_hires.png"
+      "small": "https://images.pokemontcg.io/pgo/30.png",
+      "large": "https://images.pokemontcg.io/pgo/30_hires.png"
     }
   },
   {
-    "id": "swsh10pt5-31",
+    "id": "pgo-31",
     "name": "Mewtwo VSTAR",
     "rarity": ["rare"],
     "iconLocation": {
@@ -1210,8 +1210,8 @@
     "supertype": "Pokemon",
     "types": ["Psychic"],
     "images": {
-      "small": "https://images.pokemontcg.io/swsh10pt5/31.png",
-      "large": "https://images.pokemontcg.io/swsh10pt5/31_hires.png"
+      "small": "https://images.pokemontcg.io/pgo/31.png",
+      "large": "https://images.pokemontcg.io/pgo/31_hires.png"
     }
   },
   {
