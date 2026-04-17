@@ -49,7 +49,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "310",
+      "masterTotal": 310,
       "name": "Mega Evolution",
       "printedTotal": 132,
       "ptcgoCode": "MEG",
@@ -70,7 +70,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "214",
+      "masterTotal": 214,
       "name": "Phantasmal Flames",
       "printedTotal": 94,
       "ptcgoCode": "PFL",
@@ -91,7 +91,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "613",
+      "masterTotal": 613,
       "name": "Ascended Heroes",
       "printedTotal": 217,
       "ptcgoCode": "ASC",
@@ -112,7 +112,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "124",
+      "masterTotal": 124,
       "name": "Perfect Order",
       "printedTotal": 88,
       "ptcgoCode": "POR",
@@ -133,7 +133,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "1",
+      "masterTotal": 1,
       "name": "Chaos Rising",
       "printedTotal": 0,
       "ptcgoCode": "CRI",
@@ -156,7 +156,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "170",
+      "masterTotal": 170,
       "name": "Series One",
       "printedTotal": 170,
       "releaseDate": "2022/11/09",
@@ -175,7 +175,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "154",
+      "masterTotal": 154,
       "name": "Series Two",
       "printedTotal": 154,
       "releaseDate": "2023/01/19",
@@ -194,7 +194,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "163",
+      "masterTotal": 199,
       "name": "Series Three",
       "printedTotal": 163,
       "releaseDate": "2023/08/14",
@@ -213,7 +213,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "86",
+      "masterTotal": 114,
       "name": "Series Four",
       "printedTotal": 86,
       "releaseDate": "2024/02/14",
@@ -232,7 +232,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "86",
+      "masterTotal": 115,
       "name": "Series Five",
       "printedTotal": 86,
       "releaseDate": "2024/08/14",
@@ -251,7 +251,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "94",
+      "masterTotal": 113,
       "name": "Series Six",
       "printedTotal": 94,
       "releaseDate": "2025/02/14",
@@ -270,7 +270,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "96",
+      "masterTotal": 118,
       "name": "Series Seven",
       "printedTotal": 96,
       "releaseDate": "2025/08/14",
@@ -289,7 +289,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "90",
+      "masterTotal": 130,
       "name": "Series Eight",
       "printedTotal": 90,
       "releaseDate": "2026/01/01",
@@ -348,7 +348,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "444",
+      "masterTotal": 444,
       "name": "Scarlet & Violet",
       "printedTotal": 198,
       "ptcgoCode": "SVI",
@@ -369,7 +369,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "455",
+      "masterTotal": 455,
       "name": "Paldea Evolved",
       "printedTotal": 193,
       "ptcgoCode": "PAL",
@@ -390,7 +390,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "406",
+      "masterTotal": 406,
       "name": "Obsidian Flames",
       "printedTotal": 197,
       "ptcgoCode": "OBF",
@@ -411,7 +411,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "360",
+      "masterTotal": 360,
       "name": "151",
       "printedTotal": 165,
       "ptcgoCode": "MEW",
@@ -432,7 +432,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "428",
+      "masterTotal": 428,
       "name": "Paradox Rift",
       "printedTotal": 182,
       "ptcgoCode": "PAR",
@@ -453,7 +453,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "326",
+      "masterTotal": 326,
       "name": "Paldean Fates",
       "printedTotal": 91,
       "ptcgoCode": "PAF",
@@ -474,7 +474,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "358",
+      "masterTotal": 358,
       "name": "Temporal Forces",
       "printedTotal": 162,
       "ptcgoCode": "TEF",
@@ -495,7 +495,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "373",
+      "masterTotal": 373,
       "name": "Twilight Masquerade",
       "printedTotal": 167,
       "ptcgoCode": "TWM",
@@ -516,7 +516,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "154",
+      "masterTotal": 154,
       "name": "Shrouded Fable",
       "printedTotal": 64,
       "ptcgoCode": "SFA",
@@ -537,7 +537,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "300",
+      "masterTotal": 300,
       "name": "Stellar Crown",
       "printedTotal": 142,
       "ptcgoCode": "SCR",
@@ -558,7 +558,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "417",
+      "masterTotal": 417,
       "name": "Surging Sparks",
       "printedTotal": 191,
       "ptcgoCode": "SSP",
@@ -579,7 +579,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "447",
+      "masterTotal": 447,
       "name": "Prismatic Evolutions",
       "printedTotal": 131,
       "ptcgoCode": "PRE",
@@ -600,7 +600,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "333",
+      "masterTotal": 333,
       "name": "Journey Together",
       "printedTotal": 159,
       "ptcgoCode": "JTG",
@@ -621,7 +621,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "409",
+      "masterTotal": 409,
       "name": "Destined Rivals",
       "printedTotal": 182,
       "ptcgoCode": "DRI",
@@ -642,7 +642,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "403",
+      "masterTotal": 403,
       "name": "Black Bolt",
       "printedTotal": 86,
       "ptcgoCode": "BLK",
@@ -663,7 +663,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "405",
+      "masterTotal": 405,
       "name": "White Flare",
       "printedTotal": 86,
       "ptcgoCode": "WHT",
@@ -704,7 +704,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "381",
+      "masterTotal": 381,
       "name": "Sword & Shield",
       "printedTotal": 202,
       "ptcgoCode": "SSH",
@@ -723,7 +723,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "360",
+      "masterTotal": 360,
       "name": "Rebel Clash",
       "printedTotal": 192,
       "ptcgoCode": "RCL",
@@ -742,7 +742,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "356",
+      "masterTotal": 356,
       "name": "Darkness Ablaze",
       "printedTotal": 189,
       "ptcgoCode": "DAA",
@@ -761,7 +761,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "134",
+      "masterTotal": 134,
       "name": "Champion's Path",
       "printedTotal": 73,
       "ptcgoCode": "CPA",
@@ -798,7 +798,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "122",
+      "masterTotal": 122,
       "name": "Shining Fates Shiny Vault",
       "printedTotal": 122,
       "ptcgoCode": "SHF",
@@ -817,7 +817,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "119",
+      "masterTotal": 119,
       "name": "Shining Fates",
       "printedTotal": 72,
       "ptcgoCode": "SHF",
@@ -836,7 +836,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "306",
+      "masterTotal": 306,
       "name": "Battle Styles",
       "printedTotal": 163,
       "ptcgoCode": "BST",
@@ -855,7 +855,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "369",
+      "masterTotal": 369,
       "name": "Chilling Reign",
       "printedTotal": 198,
       "ptcgoCode": "CRE",
@@ -874,7 +874,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "369",
+      "masterTotal": 369,
       "name": "Evolving Skies",
       "printedTotal": 203,
       "ptcgoCode": "EVS",
@@ -892,7 +892,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "25",
+      "masterTotal": 25,
       "name": "Celebrations: Classic Collection",
       "printedTotal": 25,
       "ptcgoCode": "CEL",
@@ -911,7 +911,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "25",
+      "masterTotal": 25,
       "name": "Celebrations",
       "printedTotal": 25,
       "ptcgoCode": "CEL",
@@ -930,7 +930,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "501",
+      "masterTotal": 501,
       "name": "Fusion Strike",
       "printedTotal": 264,
       "ptcgoCode": "FST",
@@ -950,7 +950,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "310",
+      "masterTotal": 310,
       "name": "Brilliant Stars",
       "printedTotal": 172,
       "ptcgoCode": "BRS",
@@ -970,7 +970,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "30",
+      "masterTotal": 30,
       "name": "Brilliant Stars Trainer Gallery",
       "printedTotal": 30,
       "ptcgoCode": "BRS",
@@ -990,7 +990,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "344",
+      "masterTotal": 344,
       "name": "Astral Radiance",
       "printedTotal": 189,
       "ptcgoCode": "ASR",
@@ -1010,7 +1010,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "30",
+      "masterTotal": 30,
       "name": "Astral Radiance Trainer Gallery",
       "printedTotal": 30,
       "ptcgoCode": "ASR",
@@ -1030,7 +1030,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "145",
+      "masterTotal": 145,
       "name": "Pokémon GO",
       "printedTotal": 78,
       "ptcgoCode": "PGO",
@@ -1050,7 +1050,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "366",
+      "masterTotal": 366,
       "name": "Lost Origin",
       "printedTotal": 196,
       "ptcgoCode": "LOR",
@@ -1070,7 +1070,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "30",
+      "masterTotal": 30,
       "name": "Lost Origin Trainer Gallery",
       "printedTotal": 30,
       "ptcgoCode": "LOR",
@@ -1090,7 +1090,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "357",
+      "masterTotal": 357,
       "name": "Silver Tempest",
       "printedTotal": 195,
       "ptcgoCode": "SIT",
@@ -1110,7 +1110,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "30",
+      "masterTotal": 30,
       "name": "Silver Tempest Trainer Gallery",
       "printedTotal": 30,
       "ptcgoCode": "SIT",
@@ -1130,7 +1130,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "455",
+      "masterTotal": 455,
       "name": "Crown Zenith",
       "printedTotal": 272,
       "ptcgoCode": "CRZ",
@@ -1150,7 +1150,7 @@
         "standard": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "70",
+      "masterTotal": 70,
       "name": "Crown Zenith Galarian Gallery",
       "printedTotal": 70,
       "ptcgoCode": "CRZ",
@@ -1189,7 +1189,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "289",
+      "masterTotal": 289,
       "name": "Sun & Moon",
       "printedTotal": 149,
       "ptcgoCode": "SUM",
@@ -1208,7 +1208,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "287",
+      "masterTotal": 287,
       "name": "Guardians Rising",
       "printedTotal": 145,
       "ptcgoCode": "GRI",
@@ -1227,7 +1227,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "285",
+      "masterTotal": 285,
       "name": "Burning Shadows",
       "printedTotal": 147,
       "ptcgoCode": "BUS",
@@ -1246,7 +1246,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "138",
+      "masterTotal": 138,
       "name": "Shining Legends",
       "printedTotal": 73,
       "ptcgoCode": "SLG",
@@ -1265,7 +1265,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "216",
+      "masterTotal": 216,
       "name": "Crimson Invasion",
       "printedTotal": 111,
       "ptcgoCode": "CIN",
@@ -1284,7 +1284,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "298",
+      "masterTotal": 298,
       "name": "Ultra Prism",
       "printedTotal": 156,
       "ptcgoCode": "UPR",
@@ -1303,7 +1303,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "251",
+      "masterTotal": 251,
       "name": "Forbidden Light",
       "printedTotal": 131,
       "ptcgoCode": "FLI",
@@ -1322,7 +1322,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "320",
+      "masterTotal": 320,
       "name": "Celestial Storm",
       "printedTotal": 168,
       "ptcgoCode": "CES",
@@ -1341,7 +1341,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "134",
+      "masterTotal": 134,
       "name": "Dragon Majesty",
       "printedTotal": 70,
       "ptcgoCode": "DRM",
@@ -1360,7 +1360,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "410",
+      "masterTotal": 410,
       "name": "Lost Thunder",
       "printedTotal": 214,
       "ptcgoCode": "LOT",
@@ -1379,7 +1379,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "339",
+      "masterTotal": 339,
       "name": "Team Up",
       "printedTotal": 181,
       "ptcgoCode": "TEU",
@@ -1398,7 +1398,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "18",
+      "masterTotal": 18,
       "name": "Detective Pikachu",
       "printedTotal": 18,
       "ptcgoCode": "DET",
@@ -1417,7 +1417,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "410",
+      "masterTotal": 410,
       "name": "Unbroken Bonds",
       "printedTotal": 214,
       "ptcgoCode": "UNB",
@@ -1436,7 +1436,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "454",
+      "masterTotal": 454,
       "name": "Unified Minds",
       "printedTotal": 236,
       "ptcgoCode": "UNM",
@@ -1455,7 +1455,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "115",
+      "masterTotal": 115,
       "name": "Hidden Fates",
       "printedTotal": 68,
       "ptcgoCode": "HIF",
@@ -1474,7 +1474,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "94",
+      "masterTotal": 94,
       "name": "Hidden Fates Shiny Vault",
       "printedTotal": 94,
       "ptcgoCode": "HIF",
@@ -1493,7 +1493,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "464",
+      "masterTotal": 464,
       "name": "Cosmic Eclipse",
       "printedTotal": 236,
       "ptcgoCode": "CEC",
@@ -1532,7 +1532,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "39",
+      "masterTotal": 39,
       "name": "Kalos Starter Set",
       "printedTotal": 39,
       "ptcgoCode": "KSS",
@@ -1551,7 +1551,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "269",
+      "masterTotal": 269,
       "name": "XY",
       "printedTotal": 146,
       "ptcgoCode": "XY",
@@ -1570,7 +1570,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "200",
+      "masterTotal": 200,
       "name": "Flashfire",
       "printedTotal": 106,
       "ptcgoCode": "FLF",
@@ -1589,7 +1589,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "210",
+      "masterTotal": 210,
       "name": "Furious Fists",
       "printedTotal": 111,
       "ptcgoCode": "FFI",
@@ -1608,7 +1608,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "224",
+      "masterTotal": 224,
       "name": "Phantom Forces",
       "printedTotal": 119,
       "ptcgoCode": "PHF",
@@ -1627,7 +1627,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "296",
+      "masterTotal": 296,
       "name": "Primal Clash",
       "printedTotal": 160,
       "ptcgoCode": "PRC",
@@ -1646,7 +1646,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "66",
+      "masterTotal": 66,
       "name": "Double Crisis",
       "printedTotal": 34,
       "ptcgoCode": "DCR",
@@ -1665,7 +1665,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "196",
+      "masterTotal": 196,
       "name": "Roaring Skies",
       "printedTotal": 108,
       "ptcgoCode": "ROS",
@@ -1684,7 +1684,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "172",
+      "masterTotal": 172,
       "name": "Ancient Origins",
       "printedTotal": 98,
       "ptcgoCode": "AOR",
@@ -1703,7 +1703,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "302",
+      "masterTotal": 302,
       "name": "BREAKthrough",
       "printedTotal": 162,
       "ptcgoCode": "BKT",
@@ -1722,7 +1722,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "220",
+      "masterTotal": 220,
       "name": "BREAKpoint",
       "printedTotal": 122,
       "ptcgoCode": "BKP",
@@ -1741,7 +1741,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "184",
+      "masterTotal": 184,
       "name": "Generations",
       "printedTotal": 83,
       "ptcgoCode": "GEN",
@@ -1760,7 +1760,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "222",
+      "masterTotal": 222,
       "name": "Fates Collide",
       "printedTotal": 124,
       "ptcgoCode": "FCO",
@@ -1779,7 +1779,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "209",
+      "masterTotal": 209,
       "name": "Steam Siege",
       "printedTotal": 114,
       "ptcgoCode": "STS",
@@ -1798,7 +1798,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "196",
+      "masterTotal": 196,
       "name": "Evolutions",
       "printedTotal": 108,
       "ptcgoCode": "EVO",
@@ -1837,7 +1837,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "219",
+      "masterTotal": 219,
       "name": "Black & White",
       "printedTotal": 114,
       "ptcgoCode": "BLW",
@@ -1856,7 +1856,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "194",
+      "masterTotal": 194,
       "name": "Emerging Powers",
       "printedTotal": 98,
       "ptcgoCode": "EPO",
@@ -1875,7 +1875,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "198",
+      "masterTotal": 198,
       "name": "Noble Victories",
       "printedTotal": 101,
       "ptcgoCode": "NVI",
@@ -1894,7 +1894,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "190",
+      "masterTotal": 190,
       "name": "Next Destinies",
       "printedTotal": 99,
       "ptcgoCode": "NXD",
@@ -1913,7 +1913,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "207",
+      "masterTotal": 207,
       "name": "Dark Explorers",
       "printedTotal": 108,
       "ptcgoCode": "DEX",
@@ -1932,7 +1932,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "240",
+      "masterTotal": 240,
       "name": "Dragons Exalted",
       "printedTotal": 124,
       "ptcgoCode": "DRX",
@@ -1951,7 +1951,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "21",
+      "masterTotal": 21,
       "name": "Dragon Vault",
       "printedTotal": 20,
       "ptcgoCode": "DRV",
@@ -1970,7 +1970,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "283",
+      "masterTotal": 283,
       "name": "Boundaries Crossed",
       "printedTotal": 149,
       "ptcgoCode": "BCR",
@@ -1989,7 +1989,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "257",
+      "masterTotal": 257,
       "name": "Plasma Storm",
       "printedTotal": 135,
       "ptcgoCode": "PLS",
@@ -2008,7 +2008,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "222",
+      "masterTotal": 222,
       "name": "Plasma Freeze",
       "printedTotal": 116,
       "ptcgoCode": "PLF",
@@ -2027,7 +2027,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "190",
+      "masterTotal": 190,
       "name": "Plasma Blast",
       "printedTotal": 101,
       "ptcgoCode": "PLB",
@@ -2046,7 +2046,7 @@
         "expanded": "Legal",
         "unlimited": "Legal"
       },
-      "masterTotal": "241",
+      "masterTotal": 241,
       "name": "Legendary Treasures",
       "printedTotal": 113,
       "ptcgoCode": "LTR",
@@ -2083,7 +2083,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "124",
+      "masterTotal": 124,
       "name": "HeartGold & SoulSilver",
       "printedTotal": 123,
       "ptcgoCode": "HS",
@@ -2101,7 +2101,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "96",
+      "masterTotal": 96,
       "name": "HS—Unleashed",
       "printedTotal": 95,
       "ptcgoCode": "UL",
@@ -2119,7 +2119,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "91",
+      "masterTotal": 91,
       "name": "HS—Undaunted",
       "printedTotal": 90,
       "ptcgoCode": "UD",
@@ -2137,7 +2137,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "103",
+      "masterTotal": 103,
       "name": "HS—Triumphant",
       "printedTotal": 102,
       "ptcgoCode": "TM",
@@ -2155,7 +2155,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "106",
+      "masterTotal": 106,
       "name": "Call of Legends",
       "printedTotal": 95,
       "ptcgoCode": "CL",
@@ -2175,7 +2175,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "133",
+      "masterTotal": 133,
       "name": "Platinum",
       "printedTotal": 127,
       "ptcgoCode": "PL",
@@ -2193,7 +2193,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "120",
+      "masterTotal": 120,
       "name": "Rising Rivals",
       "printedTotal": 111,
       "ptcgoCode": "RR",
@@ -2211,7 +2211,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "153",
+      "masterTotal": 153,
       "name": "Supreme Victors",
       "printedTotal": 147,
       "ptcgoCode": "SV",
@@ -2229,7 +2229,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "111",
+      "masterTotal": 111,
       "name": "Arceus",
       "printedTotal": 99,
       "ptcgoCode": "AR",
@@ -2266,7 +2266,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "130",
+      "masterTotal": 130,
       "name": "Diamond & Pearl",
       "printedTotal": 130,
       "ptcgoCode": "DP",
@@ -2284,7 +2284,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "124",
+      "masterTotal": 124,
       "name": "Mysterious Treasures",
       "printedTotal": 123,
       "ptcgoCode": "MT",
@@ -2302,7 +2302,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "132",
+      "masterTotal": 132,
       "name": "Secret Wonders",
       "printedTotal": 132,
       "ptcgoCode": "SW",
@@ -2320,7 +2320,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "106",
+      "masterTotal": 106,
       "name": "Great Encounters",
       "printedTotal": 106,
       "ptcgoCode": "GE",
@@ -2338,7 +2338,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "100",
+      "masterTotal": 100,
       "name": "Majestic Dawn",
       "printedTotal": 100,
       "ptcgoCode": "MD",
@@ -2356,7 +2356,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "146",
+      "masterTotal": 146,
       "name": "Legends Awakened",
       "printedTotal": 146,
       "ptcgoCode": "LA",
@@ -2374,7 +2374,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "106",
+      "masterTotal": 106,
       "name": "Stormfront",
       "printedTotal": 100,
       "ptcgoCode": "SF",
@@ -2559,7 +2559,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "109",
+      "masterTotal": 109,
       "name": "Ruby & Sapphire",
       "printedTotal": 109,
       "ptcgoCode": "RS",
@@ -2577,7 +2577,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "100",
+      "masterTotal": 100,
       "name": "Sandstorm",
       "printedTotal": 100,
       "ptcgoCode": "SS",
@@ -2595,7 +2595,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "100",
+      "masterTotal": 100,
       "name": "Dragon",
       "printedTotal": 97,
       "ptcgoCode": "DR",
@@ -2613,7 +2613,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "97",
+      "masterTotal": 97,
       "name": "Team Magma vs Team Aqua",
       "printedTotal": 95,
       "ptcgoCode": "MA",
@@ -2631,7 +2631,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "102",
+      "masterTotal": 102,
       "name": "Hidden Legends",
       "printedTotal": 101,
       "ptcgoCode": "HL",
@@ -2681,7 +2681,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "116",
+      "masterTotal": 116,
       "name": "FireRed & LeafGreen",
       "printedTotal": 112,
       "ptcgoCode": "RG",
@@ -2699,7 +2699,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "111",
+      "masterTotal": 111,
       "name": "Team Rocket Returns",
       "printedTotal": 109,
       "ptcgoCode": "TRR",
@@ -2717,7 +2717,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "108",
+      "masterTotal": 108,
       "name": "Deoxys",
       "printedTotal": 107,
       "ptcgoCode": "DX",
@@ -2735,7 +2735,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "107",
+      "masterTotal": 107,
       "name": "Emerald",
       "printedTotal": 106,
       "ptcgoCode": "EM",
@@ -2753,7 +2753,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "145",
+      "masterTotal": 145,
       "name": "Unseen Forces",
       "printedTotal": 115,
       "ptcgoCode": "UF",
@@ -2771,7 +2771,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "114",
+      "masterTotal": 114,
       "name": "Delta Species",
       "printedTotal": 113,
       "ptcgoCode": "DS",
@@ -2789,7 +2789,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "93",
+      "masterTotal": 93,
       "name": "Legend Maker",
       "printedTotal": 92,
       "ptcgoCode": "LM",
@@ -2839,7 +2839,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "111",
+      "masterTotal": 111,
       "name": "Holon Phantoms",
       "printedTotal": 110,
       "ptcgoCode": "HP",
@@ -2857,7 +2857,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "100",
+      "masterTotal": 100,
       "name": "Crystal Guardians",
       "printedTotal": 100,
       "ptcgoCode": "CG",
@@ -2875,7 +2875,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "101",
+      "masterTotal": 101,
       "name": "Dragon Frontiers",
       "printedTotal": 101,
       "ptcgoCode": "DF",
@@ -2893,7 +2893,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "108",
+      "masterTotal": 108,
       "name": "Power Keepers",
       "printedTotal": 108,
       "ptcgoCode": "PK",
@@ -2913,7 +2913,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "165",
+      "masterTotal": 165,
       "name": "Expedition Base Set",
       "printedTotal": 165,
       "ptcgoCode": "EX",
@@ -2931,7 +2931,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "182",
+      "masterTotal": 182,
       "name": "Aquapolis",
       "printedTotal": 147,
       "ptcgoCode": "AQ",
@@ -2949,7 +2949,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "182",
+      "masterTotal": 182,
       "name": "Skyridge",
       "printedTotal": 144,
       "ptcgoCode": "SK",
@@ -3227,7 +3227,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "111",
+      "masterTotal": 111,
       "name": "Neo Genesis",
       "printedTotal": 111,
       "ptcgoCode": "N1",
@@ -3245,7 +3245,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "75",
+      "masterTotal": 75,
       "name": "Neo Discovery",
       "printedTotal": 75,
       "ptcgoCode": "N2",
@@ -3263,7 +3263,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "66",
+      "masterTotal": 66,
       "name": "Neo Revelation",
       "printedTotal": 64,
       "ptcgoCode": "N3",
@@ -3281,7 +3281,7 @@
       "legalities": {
         "unlimited": "Legal"
       },
-      "masterTotal": "113",
+      "masterTotal": 113,
       "name": "Neo Destiny",
       "printedTotal": 105,
       "ptcgoCode": "N4",
