@@ -142,6 +142,27 @@
       "regulation": "J",
       "total": 1,
       "updatedAt": "2026/03/12 21:00:00"
+    },
+    {
+      "id": "me5",
+      "images": {
+        "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me5-logo.png",
+        "symbol": "https://images.pokemontcg.io/me5/symbol.png"
+      },
+      "legalities": {
+        "expanded": "Legal",
+        "standard": "Legal",
+        "unlimited": "Legal"
+      },
+      "masterTotal": 1,
+      "name": "Pitch Black",
+      "printedTotal": 0,
+      "ptcgoCode": "PBL",
+      "releaseDate": "2026/07/17",
+      "series": "Mega Evolution",
+      "regulation": "J",
+      "total": 1,
+      "updatedAt": "2026/04/17 21:00:00"
     }
   ],
   [
