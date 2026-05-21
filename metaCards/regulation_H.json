@@ -14,7 +14,7 @@
     "id": "TEF-25",
     "regulation": "H",
     "name": "Iron Leaves ex",
-    "categories": ["Finisher"],
+    "categories": ["Finisher", "Prevent Retreat Locke"],
     "type": ["Grass"],
     "images": {
       "small": "https://images.pokemontcg.io/sv5/25.png",
@@ -861,7 +861,7 @@
     "id": "SSP-76",
     "regulation": "H",
     "name": "Latias ex",
-    "categories": ["Switching and Prize Denial"],
+    "categories": ["Switching and Prize Denial", "Free Retreat"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv8/76.png",

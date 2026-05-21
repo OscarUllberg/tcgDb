@@ -300,7 +300,7 @@
     "id": "POR-77",
     "regulation": "J",
     "name": "Lumiose City",
-    "categories": ["Pokémon Search","Basic"],
+    "categories": ["Pokémon Search", "Basic"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-77/small",
@@ -310,8 +310,8 @@
   {
     "id": "POR-78",
     "regulation": "J",
-    "name": "Lumiouse Galette",
-    "categories": ["Healing"],
+    "name": "Lumiose Galette",
+    "categories": ["Healing", "Prevent Special Conditions"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-78/small",
@@ -393,6 +393,296 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-88/small",
       "large": "https://images.scrydex.com/pokemon/me3-88/large"
+    }
+  },
+  {
+    "id": "CRI-13",
+    "regulation": "J",
+    "name": "Delphox",
+    "categories": ["Draw"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-13/small",
+      "large": "https://images.scrydex.com/pokemon/me5-13/large"
+    }
+  },
+  {
+    "id": "CRI-18",
+    "regulation": "J",
+    "name": "Delibird",
+    "categories": ["Energy Accerleration"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-18/small",
+      "large": "https://images.scrydex.com/pokemon/me5-18/large"
+    }
+  },
+  {
+    "id": "CRI-22",
+    "regulation": "J",
+    "name": "Mega Greninja ex",
+    "categories": ["Create Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-22/small",
+      "large": "https://images.scrydex.com/pokemon/me5-22/large"
+    }
+  },
+  {
+    "id": "CRI-47",
+    "regulation": "J",
+    "name": "Claydol",
+    "categories": ["Other Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-47/small",
+      "large": "https://images.scrydex.com/pokemon/me5-47/large"
+    }
+  },
+  {
+    "id": "CRI-50",
+    "regulation": "J",
+    "name": "Golbat",
+    "categories": ["Prevent Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-50/small",
+      "large": "https://images.scrydex.com/pokemon/me5-50/large"
+    }
+  },
+  {
+    "id": "CRI-51",
+    "regulation": "J",
+    "name": "Crobat",
+    "categories": ["Consistency and Setup"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-51/small",
+      "large": "https://images.scrydex.com/pokemon/me5-51/large"
+    }
+  },
+  {
+    "id": "CRI-52",
+    "regulation": "J",
+    "name": "Qwilfish",
+    "categories": ["Poison"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-52/small",
+      "large": "https://images.scrydex.com/pokemon/me5-52/large"
+    }
+  },
+  {
+    "id": "CRI-57",
+    "regulation": "J",
+    "name": "Garbodor",
+    "categories": ["Increase Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-57/small",
+      "large": "https://images.scrydex.com/pokemon/me5-57/large"
+    }
+  },
+  {
+    "id": "CRI-63",
+    "regulation": "J",
+    "name": "Ferrothorn",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-63/small",
+      "large": "https://images.scrydex.com/pokemon/me5-63/large"
+    }
+  },
+  {
+    "id": "CRI-64",
+    "regulation": "J",
+    "name": "Cobalion ex",
+    "categories": ["Finisher", "Prevent Retreat Locke"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-64/small",
+      "large": "https://images.scrydex.com/pokemon/me5-64/large"
+    }
+  },
+  {
+    "id": "CRI-65",
+    "regulation": "J",
+    "name": "Mega Dragalge ex",
+    "categories": ["Poison", "Tool Disruption", "Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-65/small",
+      "large": "https://images.scrydex.com/pokemon/me5-65/large"
+    }
+  },
+  {
+    "id": "CRI-13",
+    "regulation": "J",
+    "name": "Delphox",
+    "categories": ["Draw"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-13/small",
+      "large": "https://images.scrydex.com/pokemon/me5-13/large"
+    }
+  },
+  {
+    "id": "CRI-68",
+    "regulation": "J",
+    "name": "Goodra",
+    "categories": ["Retreat Locke"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-68/small",
+      "large": "https://images.scrydex.com/pokemon/me5-68/large"
+    }
+  },
+  {
+    "id": "CRI-70",
+    "regulation": "J",
+    "name": "Patrat",
+    "categories": ["Prevent Damage Counters"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-70/small",
+      "large": "https://images.scrydex.com/pokemon/me5-70/large"
+    }
+  },
+  {
+    "id": "CRI-73",
+    "regulation": "J",
+    "name": "Cinccino ex",
+    "categories": ["Prevent Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-73/small",
+      "large": "https://images.scrydex.com/pokemon/me5-73/large"
+    }
+  },
+  {
+    "id": "CRI-74",
+    "regulation": "J",
+    "name": "Adveristy Policy",
+    "categories": ["Draw"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-74/small",
+      "large": "https://images.scrydex.com/pokemon/me5-74/large"
+    }
+  },
+  {
+    "id": "CRI-76",
+    "regulation": "J",
+    "name": "AZ's Tranquility",
+    "categories": ["Switching and Prize Denial", "Healing"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-76/small",
+      "large": "https://images.scrydex.com/pokemon/me5-76/large"
+    }
+  },
+  {
+    "id": "CRI-78",
+    "regulation": "J",
+    "name": "Great Haul Net",
+    "categories": ["Recovery and Rebound"],
+    "type": ["Water"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-78/small",
+      "large": "https://images.scrydex.com/pokemon/me5-78/large"
+    }
+  },
+  {
+    "id": "CRI-79",
+    "regulation": "J",
+    "name": "Philippe",
+    "categories": ["Energy Accerleration"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-79/small",
+      "large": "https://images.scrydex.com/pokemon/me5-79/large"
+    }
+  },
+  {
+    "id": "CRI-80",
+    "regulation": "J",
+    "name": "Prism Tower",
+    "categories": ["Draw"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-80/small",
+      "large": "https://images.scrydex.com/pokemon/me5-80/large"
+    }
+  },
+  {
+    "id": "CRI-81",
+    "regulation": "J",
+    "name": "Roxie's Performance",
+    "categories": ["Retreat Locke", "Poison"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-81/small",
+      "large": "https://images.scrydex.com/pokemon/me5-81/large"
+    }
+  },
+  {
+    "id": "CRI-82",
+    "regulation": "J",
+    "name": "Special Red Card",
+    "categories": ["Hand Disruption", "Recovery and Rebound"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-82/small",
+      "large": "https://images.scrydex.com/pokemon/me5-82/large"
+    }
+  },
+  {
+    "id": "CRI-83",
+    "regulation": "J",
+    "name": "Transformation Tome",
+    "categories": ["Recovery and Rebound"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-83/small",
+      "large": "https://images.scrydex.com/pokemon/me5-83/large"
+    }
+  },
+  {
+    "id": "CRI-84",
+    "regulation": "J",
+    "name": "Bubbly Energy",
+    "categories": ["Special Energies", "Prevent Special Conditions"],
+    "type": ["Water"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-84/small",
+      "large": "https://images.scrydex.com/pokemon/me5-84/large"
+    }
+  },
+  {
+    "id": "CRI-85",
+    "regulation": "J",
+    "name": "Magnetic Energies",
+    "categories": [
+      "Special Energy",
+      "Switching and Prize Denial",
+      "Free Retreat"
+    ],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-85/small",
+      "large": "https://images.scrydex.com/pokemon/me5-85/large"
+    }
+  },
+  {
+    "id": "CRI-86",
+    "regulation": "J",
+    "name": "Nitro Energy",
+    "categories": ["Special Energies"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-86/small",
+      "large": "https://images.scrydex.com/pokemon/me5-86/large"
     }
   }
 ]
