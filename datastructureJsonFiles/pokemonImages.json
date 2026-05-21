@@ -161,11 +161,11 @@
   },
   "raichu mega-x": {
     "name": "Raichu Mega-X",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/raichu-mega-x.avif"
+    "image": "https://www.serebii.net/art/th/026-mx.png"
   },
   "raichu mega-y": {
     "name": "Raichu Mega-Y",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/raichu-mega-y.avif"
+    "image": "https://www.serebii.net/art/th/026-my.png"
   },
   "sandshrew": {
     "name": "Sandshrew",
@@ -217,7 +217,7 @@
   },
   "clefable mega": {
     "name": "Clefable Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/clefable-mega.avif"
+    "image": "https://www.serebii.net/art/th/036-m.png"
   },
   "vulpix": {
     "name": "Vulpix",
@@ -409,7 +409,7 @@
   },
   "victreebel mega": {
     "name": "Victreebel Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/victreebel-mega.avif"
+    "image": "https://www.serebii.net/art/th/071-m.png"
   },
   "tentacool": {
     "name": "Tentacool",
@@ -693,7 +693,7 @@
   },
   "starmie mega": {
     "name": "Starmie Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/starmie-mega.avif"
+    "image": "https://www.serebii.net/art/th/121-m.png"
   },
   "mr-mime": {
     "name": "Mr-Mime",
@@ -861,7 +861,7 @@
   },
   "dragonite mega": {
     "name": "Dragonite Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/dragonite-mega.avif"
+    "image": "https://www.serebii.net/art/th/149-m.png"
   },
   "mewtwo": {
     "name": "Mewtwo",
@@ -893,7 +893,7 @@
   },
   "meganium mega": {
     "name": "Meganium Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/meganium-mega.avif"
+    "image": "https://www.serebii.net/art/th/154-m.png"
   },
   "cyndaquil": {
     "name": "Cyndaquil",
@@ -925,7 +925,7 @@
   },
   "feraligatr mega": {
     "name": "Feraligatr Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/feraligatr-mega.avif"
+    "image": "https://www.serebii.net/art/th/160-m.png"
   },
   "sentret": {
     "name": "Sentret",
@@ -1233,7 +1233,7 @@
   },
   "skarmory mega": {
     "name": "Skarmory Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/skarmory-mega.avif"
+    "image": "https://www.serebii.net/art/th/227-m.png"
   },
   "houndour": {
     "name": "Houndour",
@@ -1841,7 +1841,7 @@
   },
   "chimecho mega": {
     "name": "Chimecho Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/chimecho-mega.avif"
+    "image": "https://www.serebii.net/art/th/358-m.png"
   },
   "absol": {
     "name": "Absol",
@@ -1853,7 +1853,7 @@
   },
   "absol mega-z": {
     "name": "Absol Mega-Z",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/absol-mega-z.avif"
+    "image": "https://www.serebii.net/art/th/359-mz.png"
   },
   "wynaut": {
     "name": "Wynaut",
@@ -2057,7 +2057,7 @@
   },
   "staraptor mega": {
     "name": "Staraptor Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/staraptor-mega.avif"
+    "image": "https://www.serebii.net/art/th/398-m.png"
   },
   "bidoof": {
     "name": "Bidoof",
@@ -2269,7 +2269,7 @@
   },
   "garchomp mega-z": {
     "name": "Garchomp Mega-Z",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/garchomp-mega-z.avif"
+    "image": "https://www.serebii.net/art/th/445-mz.png"
   },
   "munchlax": {
     "name": "Munchlax",
@@ -2289,7 +2289,7 @@
   },
   "lucario mega-z": {
     "name": "Lucario Mega-Z",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/lucario-mega-z.avif"
+    "image": "https://www.serebii.net/art/th/448-mz.png"
   },
   "hippopotas": {
     "name": "Hippopotas",
@@ -2421,7 +2421,7 @@
   },
   "froslass mega": {
     "name": "Froslass Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/froslass-mega.avif"
+    "image": "https://www.serebii.net/art/th/478-m.png"
   },
   "rotom": {
     "name": "Rotom",
@@ -2481,7 +2481,7 @@
   },
   "heatran mega": {
     "name": "Heatran Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/heatran-mega.avif"
+    "image": "https://www.serebii.net/art/th/485-m.png"
   },
   "regigigas": {
     "name": "Regigigas",
@@ -2513,7 +2513,7 @@
   },
   "darkrai mega": {
     "name": "Darkrai Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/darkrai-mega.avif"
+    "image": "https://www.serebii.net/art/th/491-m.png"
   },
   "shaymin": {
     "name": "Shaymin",
@@ -2557,7 +2557,7 @@
   },
   "emboar mega": {
     "name": "Emboar Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/emboar-mega.avif"
+    "image": "https://www.serebii.net/art/th/500-m.png"
   },
   "oshawott": {
     "name": "Oshawott",
@@ -2685,7 +2685,7 @@
   },
   "excadrill mega": {
     "name": "Excadrill Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/excadrill-mega.avif"
+    "image": "https://www.serebii.net/art/th/530-m.png"
   },
   "audino": {
     "name": "Audino",
@@ -2753,7 +2753,7 @@
   },
   "scolipede mega": {
     "name": "Scolipede Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/scolipede-mega.avif"
+    "image": "https://www.serebii.net/art/th/545-m.png"
   },
   "cottonee": {
     "name": "Cottonee",
@@ -2841,7 +2841,7 @@
   },
   "scrafty mega": {
     "name": "Scrafty Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/scrafty-mega.avif"
+    "image": "https://www.serebii.net/art/th/560-m.png"
   },
   "sigilyph": {
     "name": "Sigilyph",
@@ -3037,7 +3037,7 @@
   },
   "eelektross mega": {
     "name": "Eelektross Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/eelektross-mega.avif"
+    "image": "https://www.serebii.net/art/th/604-m.png"
   },
   "elgyem": {
     "name": "Elgyem",
@@ -3061,7 +3061,7 @@
   },
   "chandelure mega": {
     "name": "Chandelure Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/chandelure-mega.avif"
+    "image": "https://www.serebii.net/art/th/609-m.png"
   },
   "axew": {
     "name": "Axew",
@@ -3125,7 +3125,7 @@
   },
   "golurk mega": {
     "name": "Golurk Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/golurk-mega.avif"
+    "image": "https://www.serebii.net/art/th/623-m.png"
   },
   "pawniard": {
     "name": "Pawniard",
@@ -3277,7 +3277,7 @@
   },
   "chesnaught mega": {
     "name": "Chesnaught Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/chesnaught-mega.avif"
+    "image": "https://www.serebii.net/art/th/652-m.png"
   },
   "fennekin": {
     "name": "Fennekin",
@@ -3293,7 +3293,7 @@
   },
   "delphox mega": {
     "name": "Delphox Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/delphox-mega.avif"
+    "image": "https://www.serebii.net/art/th/655-m.png"
   },
   "froakie": {
     "name": "Froakie",
@@ -3309,7 +3309,7 @@
   },
   "greninja mega": {
     "name": "Greninja Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/greninja-mega.avif"
+    "image": "https://www.serebii.net/art/th/658-m.png"
   },
   "bunnelby": {
     "name": "Bunnelby",
@@ -3357,7 +3357,7 @@
   },
   "pyroar mega": {
     "name": "Pyroar Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pyroar-mega.avif"
+    "image": "https://www.serebii.net/art/th/668-m.png"
   },
   "flabebe": {
     "name": "Flabebe",
@@ -3369,7 +3369,7 @@
   },
   "floette mega": {
     "name": "Floette Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/floette-mega.avif"
+    "image": "https://www.serebii.net/art/th/670-m.png"
   },
   "florges": {
     "name": "Florges",
@@ -3405,7 +3405,7 @@
   },
   "meowstic mega": {
     "name": "Meowstic Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/meowstic-mega.avif"
+    "image": "https://www.serebii.net/art/th/678-m.png"
   },
   "honedge": {
     "name": "Honedge",
@@ -3445,7 +3445,7 @@
   },
   "malamar mega": {
     "name": "Malamar Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/malamar-mega.avif"
+    "image": "https://www.serebii.net/art/th/687-m.png"
   },
   "binacle": {
     "name": "Binacle",
@@ -3457,7 +3457,7 @@
   },
   "barbaracle mega": {
     "name": "Barbaracle Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/barbaracle-mega.avif"
+    "image": "https://www.serebii.net/art/th/689-m.png"
   },
   "skrelp": {
     "name": "Skrelp",
@@ -3469,7 +3469,7 @@
   },
   "dragalge mega": {
     "name": "Dragalge Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/dragalge-mega.avif"
+    "image": "https://www.serebii.net/art/th/691-m.png"
   },
   "clauncher": {
     "name": "Clauncher",
@@ -3603,9 +3603,9 @@
     "name": "Zygarde-Complete",
     "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/zygarde-complete.avif"
   },
-  "zygarde-complete mega": {
+  "zygarde mega": {
     "name": "Zygarde-Complete Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/zygarde-complete-mega.avif"
+    "image": "https://www.serebii.net/art/th/071-m.png"
   },
   "diancie": {
     "name": "Diancie",
@@ -3709,7 +3709,7 @@
   },
   "crabominable mega": {
     "name": "Crabominable Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/crabominable-mega.avif"
+    "image": "https://www.serebii.net/art/th/740-m.png"
   },
   "oricorio-baile": {
     "name": "Oricorio-Baile",
@@ -3849,7 +3849,7 @@
   },
   "golisopod mega": {
     "name": "Golisopod Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/golisopod-mega.avif"
+    "image": "https://www.serebii.net/art/th/768-m.png"
   },
   "sandygast": {
     "name": "Sandygast",
@@ -3901,7 +3901,7 @@
   },
   "drampa mega": {
     "name": "Drampa Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/drampa-mega.avif"
+    "image": "https://www.serebii.net/art/th/780-m.png"
   },
   "dhelmise": {
     "name": "Dhelmise",
@@ -4001,7 +4001,7 @@
   },
   "magearna mega": {
     "name": "Magearna Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/magearna-mega.avif"
+    "image": "https://www.serebii.net/art/th/801-m.png"
   },
   "marshadow": {
     "name": "Marshadow",
@@ -4029,7 +4029,7 @@
   },
   "zeraora mega": {
     "name": "Zeraora Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/zeraora-mega.avif"
+    "image": "https://www.serebii.net/art/th/807-m.png"
   },
   "meltan": {
     "name": "Meltan",
@@ -4749,7 +4749,7 @@
   },
   "scovillain mega": {
     "name": "Scovillain Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/scovillain-mega.avif"
+    "image": "https://www.serebii.net/art/th/952-m.png"
   },
   "rellor": {
     "name": "Rellor",
@@ -4829,7 +4829,7 @@
   },
   "glimmora mega": {
     "name": "Glimmora Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/glimmora-mega.avif"
+    "image": "https://www.serebii.net/art/th/970-m.png"
   },
   "greavard": {
     "name": "Greavard",
@@ -4865,7 +4865,7 @@
   },
   "tatsugiri mega": {
     "name": "Tatsugiri Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/tatsugiri-mega.avif"
+    "image": "https://www.serebii.net/art/th/978-m.png"
   },
   "annihilape": {
     "name": "Annihilape",
@@ -4949,7 +4949,7 @@
   },
   "baxcalibur mega": {
     "name": "Baxcalibur Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/baxcalibur-mega.avif"
+    "image": "https://www.serebii.net/art/th/998-m.png"
   },
   "gimmighoul": {
     "name": "Gimmighoul",
