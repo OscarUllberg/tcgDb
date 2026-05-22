@@ -13,7 +13,7 @@
   },
   "venusaur mega": {
     "name": "Venusaur Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/d/dc/Menu_CP_0003-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/venusaur-mega.png"
   },
   "venusaur gigantamax": {
     "name": "Venusaur Gigantamax",
@@ -33,11 +33,11 @@
   },
   "charizard mega-x": {
     "name": "Charizard Mega-X",
-    "image": "https://archives.bulbagarden.net/media/upload/f/fb/Menu_CP_0006-Mega_X.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/charizard-mega-x.png"
   },
   "charizard mega-y": {
     "name": "Charizard Mega-Y",
-    "image": "https://archives.bulbagarden.net/media/upload/3/3d/Menu_CP_0006-Mega_Y.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/charizard-mega-y.png"
   },
   "charizard gigantamax": {
     "name": "Charizard Gigantamax",
@@ -57,7 +57,7 @@
   },
   "blastoise mega": {
     "name": "Blastoise Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/7/78/Menu_CP_0009-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/blastoise-mega.png"
   },
   "blastoise gigantamax": {
     "name": "Blastoise Gigantamax",
@@ -93,7 +93,7 @@
   },
   "beedrill mega": {
     "name": "Beedrill Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/0/0f/Menu_CP_0015-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/beedrill-mega.png"
   },
   "pidgey": {
     "name": "Pidgey",
@@ -105,7 +105,7 @@
   },
   "pidgeot": {
     "name": "Pidgeot",
-    "image": "https://archives.bulbagarden.net/media/upload/7/7b/Menu_CP_0018.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/pidgeot.png"
   },
   "pidgeot mega": {
     "name": "Pidgeot Mega",
@@ -217,7 +217,7 @@
   },
   "clefable mega": {
     "name": "Clefable Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/9/9a/Menu_CP_0036-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/clefable-mega.png"
   },
   "vulpix": {
     "name": "Vulpix",
@@ -377,7 +377,7 @@
   },
   "alakazam mega": {
     "name": "Alakazam Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/21/Menu_CP_0065-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/alakazam-mega.png"
   },
   "machop": {
     "name": "Machop",
@@ -409,7 +409,7 @@
   },
   "victreebel mega": {
     "name": "Victreebel Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/a/a7/Menu_CP_0071-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/victreebel-mega.png"
   },
   "tentacool": {
     "name": "Tentacool",
@@ -477,7 +477,7 @@
   },
   "slowbro mega": {
     "name": "Slowbro Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/a/a4/Menu_CP_0080-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/slowbro-mega.png"
   },
   "magnemite": {
     "name": "Magnemite",
@@ -549,7 +549,7 @@
   },
   "gengar mega": {
     "name": "Gengar Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/1f/Menu_CP_0094-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/gengar-mega.png"
   },
   "gengar gigantamax": {
     "name": "Gengar Gigantamax",
@@ -665,7 +665,7 @@
   },
   "kangaskhan mega": {
     "name": "Kangaskhan Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/6/6d/Menu_CP_0115-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/kangaskhan-mega.png"
   },
   "horsea": {
     "name": "Horsea",
@@ -693,7 +693,7 @@
   },
   "starmie mega": {
     "name": "Starmie Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/26/Menu_CP_0121-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/starmie-mega.png"
   },
   "mr-mime": {
     "name": "Mr-Mime",
@@ -725,7 +725,7 @@
   },
   "pinsir mega": {
     "name": "Pinsir Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/d/df/Menu_CP_0127-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/pinsir-mega.png"
   },
   "tauros": {
     "name": "Tauros",
@@ -753,7 +753,7 @@
   },
   "gyarados mega": {
     "name": "Gyarados Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/3/36/Menu_CP_0130-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/gyarados-mega.png"
   },
   "lapras": {
     "name": "Lapras",
@@ -813,7 +813,7 @@
   },
   "aerodactyl mega": {
     "name": "Aerodactyl Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/9/9f/Menu_CP_0142-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/aerodactyl-mega.png"
   },
   "snorlax": {
     "name": "Snorlax",
@@ -861,7 +861,7 @@
   },
   "dragonite mega": {
     "name": "Dragonite Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/7/79/Menu_CP_0149-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/dragonite-mega.png"
   },
   "mewtwo": {
     "name": "Mewtwo",
@@ -893,7 +893,7 @@
   },
   "meganium mega": {
     "name": "Meganium Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/5/5a/Menu_CP_0154-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/meganium-mega.png"
   },
   "cyndaquil": {
     "name": "Cyndaquil",
@@ -925,7 +925,7 @@
   },
   "feraligatr mega": {
     "name": "Feraligatr Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/2b/Menu_CP_0160-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/feraligatr-mega.png"
   },
   "sentret": {
     "name": "Sentret",
@@ -1013,7 +1013,7 @@
   },
   "ampharos mega": {
     "name": "Ampharos Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/b/ba/Menu_CP_0181-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/ampharos-mega.png"
   },
   "bellossom": {
     "name": "Bellossom",
@@ -1133,7 +1133,7 @@
   },
   "steelix mega": {
     "name": "Steelix Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/25/Menu_CP_0208-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/steelix-mega.png"
   },
   "snubbull": {
     "name": "Snubbull",
@@ -1157,7 +1157,7 @@
   },
   "scizor mega": {
     "name": "Scizor Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/27/Menu_CP_0212-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/scizor-mega.png"
   },
   "shuckle": {
     "name": "Shuckle",
@@ -1169,7 +1169,7 @@
   },
   "heracross mega": {
     "name": "Heracross Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/c/c6/Menu_CP_0214-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/heracross-mega.png"
   },
   "sneasel": {
     "name": "Sneasel",
@@ -1233,7 +1233,7 @@
   },
   "skarmory mega": {
     "name": "Skarmory Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/3/33/Menu_CP_0227-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/skarmory-mega.png"
   },
   "houndour": {
     "name": "Houndour",
@@ -1245,7 +1245,7 @@
   },
   "houndoom mega": {
     "name": "Houndoom Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/b/ba/Menu_CP_0229-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/houndoom-mega.png"
   },
   "kingdra": {
     "name": "Kingdra",
@@ -1325,7 +1325,7 @@
   },
   "tyranitar mega": {
     "name": "Tyranitar Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/6/6b/Menu_CP_0248-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/tyranitar-mega.png"
   },
   "lugia": {
     "name": "Lugia",
@@ -1485,7 +1485,7 @@
   },
   "gardevoir mega": {
     "name": "Gardevoir Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/4/4e/Menu_CP_0282-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/gardevoir-mega.png"
   },
   "surskit": {
     "name": "Surskit",
@@ -1569,7 +1569,7 @@
   },
   "sableye mega": {
     "name": "Sableye Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/18/Menu_CP_0302-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/sableye-mega.png"
   },
   "mawile": {
     "name": "Mawile",
@@ -1593,7 +1593,7 @@
   },
   "aggron mega": {
     "name": "Aggron Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/f/ff/Menu_CP_0306-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/aggron-mega.png"
   },
   "meditite": {
     "name": "Meditite",
@@ -1605,7 +1605,7 @@
   },
   "medicham mega": {
     "name": "Medicham Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/8/8d/Menu_CP_0308-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/medicham-mega.png"
   },
   "electrike": {
     "name": "Electrike",
@@ -1617,7 +1617,7 @@
   },
   "manectric mega": {
     "name": "Manectric Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/3/3b/Menu_CP_0310-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/manectric-mega.png"
   },
   "plusle": {
     "name": "Plusle",
@@ -1657,7 +1657,7 @@
   },
   "sharpedo mega": {
     "name": "Sharpedo Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/a/a9/Menu_CP_0319-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/sharpedo-mega.png"
   },
   "wailmer": {
     "name": "Wailmer",
@@ -1677,7 +1677,7 @@
   },
   "camerupt mega": {
     "name": "Camerupt Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/9/94/Menu_CP_0323-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/camerupt-mega.png"
   },
   "torkoal": {
     "name": "Torkoal",
@@ -1725,7 +1725,7 @@
   },
   "altaria mega": {
     "name": "Altaria Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/1a/Menu_CP_0334-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/altaria-mega.png"
   },
   "zangoose": {
     "name": "Zangoose",
@@ -1821,7 +1821,7 @@
   },
   "banette mega": {
     "name": "Banette Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/9/99/Menu_CP_0354-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/banette-mega.png"
   },
   "duskull": {
     "name": "Duskull",
@@ -1841,7 +1841,7 @@
   },
   "chimecho mega": {
     "name": "Chimecho Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/9/9e/Menu_CP_0358-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/chimecho-mega.png"
   },
   "absol": {
     "name": "Absol",
@@ -1849,7 +1849,7 @@
   },
   "absol mega": {
     "name": "Absol Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/d/d5/Menu_CP_0359-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/absol-mega.png"
   },
   "absol mega-z": {
     "name": "Absol Mega-Z",
@@ -1869,7 +1869,7 @@
   },
   "glalie mega": {
     "name": "Glalie Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/f/fb/Menu_CP_0362-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/glalie-mega.png"
   },
   "spheal": {
     "name": "Spheal",
@@ -2193,7 +2193,7 @@
   },
   "lopunny mega": {
     "name": "Lopunny Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/2/24/Menu_CP_0428-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/lopunny-mega.png"
   },
   "mismagius": {
     "name": "Mismagius",
@@ -2265,7 +2265,7 @@
   },
   "garchomp mega": {
     "name": "Garchomp Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/14/Menu_CP_0445-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/garchomp-mega.png"
   },
   "garchomp mega-z": {
     "name": "Garchomp Mega-Z",
@@ -2285,7 +2285,7 @@
   },
   "lucario mega": {
     "name": "Lucario Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/3/36/Menu_CP_0448-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/lucario-mega.png"
   },
   "lucario mega-z": {
     "name": "Lucario Mega-Z",
@@ -2341,7 +2341,7 @@
   },
   "abomasnow mega": {
     "name": "Abomasnow Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/7/77/Menu_CP_0460-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/abomasnow-mega.png"
   },
   "weavile": {
     "name": "Weavile",
@@ -2405,7 +2405,7 @@
   },
   "gallade mega": {
     "name": "Gallade Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/a/a3/Menu_CP_0475-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/gallade-mega.png"
   },
   "probopass": {
     "name": "Probopass",
@@ -2421,7 +2421,7 @@
   },
   "froslass mega": {
     "name": "Froslass Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/a/ab/Menu_CP_0478-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/froslass-mega.png"
   },
   "rotom": {
     "name": "Rotom",
@@ -2557,7 +2557,7 @@
   },
   "emboar mega": {
     "name": "Emboar Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/6/6a/Menu_CP_0500-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/emboar-mega.png"
   },
   "oshawott": {
     "name": "Oshawott",
@@ -2685,7 +2685,7 @@
   },
   "excadrill mega": {
     "name": "Excadrill Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/b/b1/Menu_CP_0530-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/excadrill-mega.png"
   },
   "audino": {
     "name": "Audino",
@@ -2693,7 +2693,7 @@
   },
   "audino mega": {
     "name": "Audino Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/8/84/Menu_CP_0531-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/audino-mega.png"
   },
   "timburr": {
     "name": "Timburr",
@@ -3061,7 +3061,7 @@
   },
   "chandelure mega": {
     "name": "Chandelure Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/4/40/Menu_CP_0609-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/chandelure-mega.png"
   },
   "axew": {
     "name": "Axew",
@@ -3125,7 +3125,7 @@
   },
   "golurk mega": {
     "name": "Golurk Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/b/ba/Menu_CP_0623-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/golurk-mega.png"
   },
   "pawniard": {
     "name": "Pawniard",
@@ -3277,7 +3277,7 @@
   },
   "chesnaught mega": {
     "name": "Chesnaught Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/14/Menu_CP_0652-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/chesnaught-mega.png"
   },
   "fennekin": {
     "name": "Fennekin",
@@ -3293,7 +3293,7 @@
   },
   "delphox mega": {
     "name": "Delphox Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/6/65/Menu_CP_0655-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/delphox-mega.png"
   },
   "froakie": {
     "name": "Froakie",
@@ -3309,7 +3309,7 @@
   },
   "greninja mega": {
     "name": "Greninja Mega",
-    "image": "https://archives.bulbagarden.net/media/upload/1/13/Menu_CP_0658-Mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/greninja-mega.png"
   },
   "bunnelby": {
     "name": "Bunnelby",
@@ -3367,9 +3367,13 @@
     "name": "Floette",
     "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/floette.png"
   },
+  "floette-eternal": {
+    "name": "Floette Eternal",
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/floette-eternal.png"
+  },
   "floette mega": {
     "name": "Floette Mega",
-    "image": "https://www.serebii.net/art/th/670-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/floette-mega.png"
   },
   "florges": {
     "name": "Florges",
@@ -3405,7 +3409,7 @@
   },
   "meowstic mega": {
     "name": "Meowstic Mega",
-    "image": "https://www.serebii.net/art/th/678-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/meowstic-mega.png"
   },
   "honedge": {
     "name": "Honedge",
@@ -3513,7 +3517,7 @@
   },
   "hawlucha mega": {
     "name": "Hawlucha Mega",
-    "image": "https://img.pokemondb.net/sprites/scarlet-violet/normal/hawlucha-mega.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/hawlucha-mega.png"
   },
   "dedenne": {
     "name": "Dedenne",
@@ -3709,7 +3713,7 @@
   },
   "crabominable mega": {
     "name": "Crabominable Mega",
-    "image": "https://www.serebii.net/art/th/740-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/crabominable-mega.png"
   },
   "oricorio-baile": {
     "name": "Oricorio-Baile",
@@ -3901,7 +3905,7 @@
   },
   "drampa mega": {
     "name": "Drampa Mega",
-    "image": "https://www.serebii.net/art/th/780-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/drampa-mega.png"
   },
   "dhelmise": {
     "name": "Dhelmise",
@@ -4749,7 +4753,7 @@
   },
   "scovillain mega": {
     "name": "Scovillain Mega",
-    "image": "https://www.serebii.net/art/th/952-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/scovillain-mega.png"
   },
   "rellor": {
     "name": "Rellor",
@@ -4829,7 +4833,7 @@
   },
   "glimmora mega": {
     "name": "Glimmora Mega",
-    "image": "https://www.serebii.net/art/th/970-m.png"
+    "image": "https://file.garden/aXn3EDBNFgfYF4Cb/sprites/glimmora-mega.png"
   },
   "greavard": {
     "name": "Greavard",
