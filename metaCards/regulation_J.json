@@ -402,7 +402,7 @@
     "categories": ["Draw"],
     "type": ["Fire"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-13/small",
+      "small": "https://images.scrydex.com/pokemon/me4-13/medium",
       "large": "https://images.scrydex.com/pokemon/me4-13/large"
     }
   },
@@ -413,7 +413,7 @@
     "categories": ["Energy Accerleration"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-18/small",
+      "small": "https://images.scrydex.com/pokemon/me4-18/medium",
       "large": "https://images.scrydex.com/pokemon/me4-18/large"
     }
   },
@@ -424,7 +424,7 @@
     "categories": ["Create Damage"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-22/small",
+      "small": "https://images.scrydex.com/pokemon/me4-22/medium",
       "large": "https://images.scrydex.com/pokemon/me4-22/large"
     }
   },
@@ -435,7 +435,7 @@
     "categories": ["Other Disruption"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-47/small",
+      "small": "https://images.scrydex.com/pokemon/me4-47/medium",
       "large": "https://images.scrydex.com/pokemon/me4-47/large"
     }
   },
@@ -446,7 +446,7 @@
     "categories": ["Prevent Damage"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-50/small",
+      "small": "https://images.scrydex.com/pokemon/me4-50/medium",
       "large": "https://images.scrydex.com/pokemon/me4-50/large"
     }
   },
@@ -457,7 +457,7 @@
     "categories": ["Consistency and Setup"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-51/small",
+      "small": "https://images.scrydex.com/pokemon/me4-51/medium",
       "large": "https://images.scrydex.com/pokemon/me4-51/large"
     }
   },
@@ -468,7 +468,7 @@
     "categories": ["Poison"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-52/small",
+      "small": "https://images.scrydex.com/pokemon/me4-52/medium",
       "large": "https://images.scrydex.com/pokemon/me4-52/large"
     }
   },
@@ -479,7 +479,7 @@
     "categories": ["Increase Damage"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-57/small",
+      "small": "https://images.scrydex.com/pokemon/me4-57/medium",
       "large": "https://images.scrydex.com/pokemon/me4-57/large"
     }
   },
@@ -490,7 +490,7 @@
     "categories": ["Mill"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-63/small",
+      "small": "https://images.scrydex.com/pokemon/me4-63/medium",
       "large": "https://images.scrydex.com/pokemon/me4-63/large"
     }
   },
@@ -501,7 +501,7 @@
     "categories": ["Finisher", "Prevent Retreat Locke"],
     "type": ["Metal"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-64/small",
+      "small": "https://images.scrydex.com/pokemon/me4-64/medium",
       "large": "https://images.scrydex.com/pokemon/me4-64/large"
     }
   },
@@ -512,19 +512,8 @@
     "categories": ["Poison", "Tool Disruption", "Energy Disruption"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-65/small",
+      "small": "https://images.scrydex.com/pokemon/me4-65/medium",
       "large": "https://images.scrydex.com/pokemon/me4-65/large"
-    }
-  },
-  {
-    "id": "CRI-13",
-    "regulation": "J",
-    "name": "Delphox",
-    "categories": ["Draw"],
-    "type": ["Fire"],
-    "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-13/small",
-      "large": "https://images.scrydex.com/pokemon/me4-13/large"
     }
   },
   {
@@ -534,7 +523,7 @@
     "categories": ["Retreat Locke"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-68/small",
+      "small": "https://images.scrydex.com/pokemon/me4-68/medium",
       "large": "https://images.scrydex.com/pokemon/me4-68/large"
     }
   },
@@ -545,7 +534,7 @@
     "categories": ["Prevent Damage Counters"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-70/small",
+      "small": "https://images.scrydex.com/pokemon/me4-70/medium",
       "large": "https://images.scrydex.com/pokemon/me4-70/large"
     }
   },
@@ -556,7 +545,7 @@
     "categories": ["Prevent Damage"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-73/small",
+      "small": "https://images.scrydex.com/pokemon/me4-73/medium",
       "large": "https://images.scrydex.com/pokemon/me4-73/large"
     }
   },
@@ -567,7 +556,7 @@
     "categories": ["Draw"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-74/small",
+      "small": "https://images.scrydex.com/pokemon/me4-74/medium",
       "large": "https://images.scrydex.com/pokemon/me4-74/large"
     }
   },
@@ -578,7 +567,7 @@
     "categories": ["Switching and Prize Denial", "Healing"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-76/small",
+      "small": "https://images.scrydex.com/pokemon/me4-76/medium",
       "large": "https://images.scrydex.com/pokemon/me4-76/large"
     }
   },
@@ -589,7 +578,7 @@
     "categories": ["Recovery and Rebound"],
     "type": ["Water"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-78/small",
+      "small": "https://images.scrydex.com/pokemon/me4-78/medium",
       "large": "https://images.scrydex.com/pokemon/me4-78/large"
     }
   },
@@ -600,7 +589,7 @@
     "categories": ["Energy Accerleration"],
     "type": ["Metal"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-79/small",
+      "small": "https://images.scrydex.com/pokemon/me4-79/medium",
       "large": "https://images.scrydex.com/pokemon/me4-79/large"
     }
   },
@@ -611,7 +600,7 @@
     "categories": ["Draw"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-80/small",
+      "small": "https://images.scrydex.com/pokemon/me4-80/medium",
       "large": "https://images.scrydex.com/pokemon/me4-80/large"
     }
   },
@@ -622,7 +611,7 @@
     "categories": ["Retreat Locke", "Poison"],
     "type": [],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-81/small",
+      "small": "https://images.scrydex.com/pokemon/me4-81/medium",
       "large": "https://images.scrydex.com/pokemon/me4-81/large"
     }
   },
@@ -633,7 +622,7 @@
     "categories": ["Hand Disruption", "Recovery and Rebound"],
     "type": [],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-82/small",
+      "small": "https://images.scrydex.com/pokemon/me4-82/medium",
       "large": "https://images.scrydex.com/pokemon/me4-82/large"
     }
   },
@@ -644,7 +633,7 @@
     "categories": ["Recovery and Rebound"],
     "type": [],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-83/small",
+      "small": "https://images.scrydex.com/pokemon/me4-83/medium",
       "large": "https://images.scrydex.com/pokemon/me4-83/large"
     }
   },
@@ -655,7 +644,7 @@
     "categories": ["Special Energies", "Prevent Special Conditions"],
     "type": ["Water"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-84/small",
+      "small": "https://images.scrydex.com/pokemon/me4-84/medium",
       "large": "https://images.scrydex.com/pokemon/me4-84/large"
     }
   },
@@ -670,7 +659,7 @@
     ],
     "type": ["Metal"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-85/small",
+      "small": "https://images.scrydex.com/pokemon/me4-85/medium",
       "large": "https://images.scrydex.com/pokemon/me4-85/large"
     }
   },
@@ -681,7 +670,7 @@
     "categories": ["Special Energies"],
     "type": ["Fire"],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me4-86/small",
+      "small": "https://images.scrydex.com/pokemon/me4-86/medium",
       "large": "https://images.scrydex.com/pokemon/me4-86/large"
     }
   }
