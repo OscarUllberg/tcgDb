@@ -42,7 +42,7 @@
       "id": "me1",
       "images": {
         "logo": "https://images.pokemontcg.io/me1/logo.png",
-        "symbol": "https://images.pokemontcg.io/me1/symbol.png"
+        "symbol": "https://images.scrydex.com/pokemon/me1-symbol/symbol"
       },
       "legalities": {
         "expanded": "Legal",
@@ -63,7 +63,7 @@
       "id": "me2",
       "images": {
         "logo": "https://images.pokemontcg.io/me2/logo.png",
-        "symbol": "https://images.pokemontcg.io/me2/symbol.png"
+        "symbol": "https://images.scrydex.com/pokemon/me2-symbol/symbol"
       },
       "legalities": {
         "expanded": "Legal",
@@ -105,7 +105,7 @@
       "id": "me3",
       "images": {
         "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me3-logo.png",
-        "symbol": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me3-symbol.png"
+        "symbol": "https://images.scrydex.com/pokemon/me3-symbol/symbol"
       },
       "legalities": {
         "expanded": "Legal",
