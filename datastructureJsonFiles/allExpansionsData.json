@@ -317,6 +317,25 @@
       "series": "Play! Series",
       "total": 90,
       "updatedAt": "2026/01/01 15:00:00"
+    },
+    {
+      "id": "pps9",
+      "images": {
+        "logo": "https://static.tcgcollector.com/content/images/af/d5/37/afd537c122580b32a7a16871c9d76379b2e7581bed8c28a07a74f81fb6eb21ad.webp",
+        "symbol": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/attend-events/play_pokemon_logo.png"
+      },
+      "legalities": {
+        "expanded": "Legal",
+        "standard": "Legal",
+        "unlimited": "Legal"
+      },
+      "masterTotal": 108,
+      "name": "Series Nine",
+      "printedTotal": 80,
+      "releaseDate": "2026/07/01",
+      "series": "Play! Series",
+      "total": 80,
+      "updatedAt": "2026/07/01 15:00:00"
     }
   ],
   [
