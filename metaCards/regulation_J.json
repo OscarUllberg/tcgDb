@@ -673,5 +673,357 @@
       "small": "https://images.scrydex.com/pokemon/me4-86/medium",
       "large": "https://images.scrydex.com/pokemon/me4-86/large"
     }
+  },
+  {
+    "id": "PBL-5",
+    "regulation": "J",
+    "name": "Poltchageist",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-9/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-9/large"
+    }
+  },
+  {
+    "id": "PBL-6",
+    "regulation": "J",
+    "name": "Sinistcha",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-6/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-6/large"
+    }
+  },
+  {
+    "id": "PBL-9",
+    "regulation": "J",
+    "name": "Sizzlipede",
+    "categories": ["Bug Out"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-9/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-9/large"
+    }
+  },
+  {
+    "id": "PBL-10",
+    "regulation": "J",
+    "name": "Centiskorch",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-10/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-10/large"
+    }
+  },
+  {
+    "id": "PBL-17",
+    "regulation": "J",
+    "name": "Relicanth",
+    "categories": ["Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-17/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-17/large"
+    }
+  },
+  {
+    "id": "PBL-20",
+    "regulation": "J",
+    "name": "Primarina",
+    "categories": ["Healing"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-20/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-20/large"
+    }
+  },
+  {
+    "id": "PBL-24",
+    "regulation": "J",
+    "name": "Manectric",
+    "categories": ["Prevent Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-24/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-24/large"
+    }
+  },
+  {
+    "id": "PBL-28",
+    "regulation": "J",
+    "name": "Miraidon",
+    "categories": ["Energy Switching"],
+    "type": ["Electric"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-28/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-28/large"
+    }
+  },
+  {
+    "id": "PBL-33",
+    "regulation": "J",
+    "name": "Shuppet",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-33/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-33/large"
+    }
+  },
+  {
+    "id": "PBL-34",
+    "regulation": "J",
+    "name": "Banette",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-34/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-34/large"
+    }
+  },
+  {
+    "id": "PBL-35",
+    "regulation": "J",
+    "name": "Spiritomb",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-35/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-35/large"
+    }
+  },
+  {
+    "id": "PBL-38",
+    "regulation": "J",
+    "name": "Mega Chandelure ex",
+    "categories": ["Retreat Locke"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-38/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-38/large"
+    }
+  },
+  {
+    "id": "PBL-39",
+    "regulation": "J",
+    "name": "Dhelmise",
+    "categories": ["Hide 'n' Sneak"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-39/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-39/large"
+    }
+  },
+  {
+    "id": "PBL-45",
+    "regulation": "J",
+    "name": "Rampardos ex",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-45/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-45/large"
+    }
+  },
+  {
+    "id": "PBL-52",
+    "regulation": "J",
+    "name": "Malamar",
+    "categories": ["Confusion"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-52/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-52/large"
+    }
+  },
+  {
+    "id": "PBL-59",
+    "regulation": "J",
+    "name": "Chi-Yu",
+    "categories": [""],
+    "type": ["Darkness"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-59/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-59/large"
+    }
+  },
+  {
+    "id": "PBL-62",
+    "regulation": "J",
+    "name": "Bastiodon",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-62/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-62/large"
+    }
+  },
+  {
+    "id": "PBL-65",
+    "regulation": "J",
+    "name": "Mega Excadrill ex",
+    "categories": ["Mill"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-65/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-65/large"
+    }
+  },
+  {
+    "id": "PBL-65",
+    "regulation": "J",
+    "name": "Mega Excadrill ex",
+    "categories": ["Draw", "Notable Attacker"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-65/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-65/large"
+    }
+  },
+  {
+    "id": "PBL-70",
+    "regulation": "J",
+    "name": "Silvally",
+    "categories": ["Consistency and Setup"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-70/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-70/large"
+    }
+  },
+  {
+    "id": "PBL-74",
+    "regulation": "J",
+    "name": "Backtrack Badge",
+    "categories": [""],
+    "type": ["Colorless"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-74/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-74/large"
+    }
+  },
+  {
+    "id": "PBL-75",
+    "regulation": "J",
+    "name": "Dark Bell",
+    "categories": ["Confusion"],
+    "type": ["Darkness"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-75/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-75/large"
+    }
+  },
+  {
+    "id": "PBL-65",
+    "regulation": "J",
+    "name": "Mega Excadrill ex",
+    "categories": ["Mill"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-65/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-65/large"
+    }
+  },
+  {
+    "id": "PBL-76",
+    "regulation": "J",
+    "name": "Fossil Quarry",
+    "categories": ["Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-76/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-76/large"
+    }
+  },
+  {
+    "id": "PBL-77",
+    "regulation": "J",
+    "name": "Gladion's Final Battle",
+    "categories": ["Increase Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-77/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-77/large"
+    }
+  },
+  {
+    "id": "PBL-78",
+    "regulation": "J",
+    "name": "Gwynn",
+    "categories": ["Draw", "Discard Cards"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-78/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-78/large"
+    }
+  },
+  {
+    "id": "PBL-76",
+    "regulation": "J",
+    "name": "Fossil Quarry",
+    "categories": ["Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-76/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-76/large"
+    }
+  },
+  {
+    "id": "PBL-80",
+    "regulation": "J",
+    "name": "Misty's Vitality",
+    "categories": ["Energy Accerleration"],
+    "type": ["Water"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-80/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-80/large"
+    }
+  },
+  {
+    "id": "PBL-81",
+    "regulation": "J",
+    "name": "Rust Syndicate Grunt",
+    "categories": ["Energy Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-81/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-81/large"
+    }
+  },
+  {
+    "id": "PBL-82",
+    "regulation": "J",
+    "name": "Tremendous Bomb",
+    "categories": ["Create Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-82/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-82/large"
+    }
+  },
+  {
+    "id": "PBL-83",
+    "regulation": "J",
+    "name": "Shadowy Energy",
+    "categories": ["Special Energies", "Bench Barrier", "Prevent Damage"],
+    "type": ["Darkness"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-83/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-83/large"
+    }
+  },
+  {
+    "id": "PBL-84",
+    "regulation": "J",
+    "name": "Voltaic Energy",
+    "categories": ["Special Energies", "Increase Damage"],
+    "type": ["Lightning"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-84/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-84/large"
+    }
   }
 ]
