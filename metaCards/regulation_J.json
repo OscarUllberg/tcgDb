@@ -572,14 +572,14 @@
     }
   },
   {
-    "id": "PFL-69",
+    "id": "CRI-69",
     "regulation": "J",
     "name": "Tauros",
     "categories": ["Tauros - Raging Charge"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/me2/152.png",
-      "large": "https://images.pokemontcg.io/me2/152_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me4-69/medium",
+      "large": "https://images.scrydex.com/pokemon/me4-69/large"
     }
   },
   {
@@ -736,8 +736,8 @@
     "categories": ["Hide 'n' Sneak"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me5-9/medium",
-      "large": "https://images.scrydex.com/pokemon/me5-9/large"
+      "small": "https://images.scrydex.com/pokemon/me5-5/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-5/large"
     }
   },
   {
@@ -777,7 +777,7 @@
     "id": "PBL-17",
     "regulation": "J",
     "name": "Relicanth",
-    "categories": ["Fossil"],
+    "categories": ["Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-17/medium",
@@ -898,7 +898,7 @@
     "id": "PBL-45",
     "regulation": "J",
     "name": "Rampardos ex",
-    "categories": ["Energy Disruption"],
+    "categories": ["Energy Disruption", "Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-45/medium",
@@ -1019,7 +1019,7 @@
     "id": "PBL-76",
     "regulation": "J",
     "name": "Fossil Quarry",
-    "categories": ["Fossil"],
+    "categories": ["Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-76/medium",

@@ -1080,6 +1080,193 @@
     }
   },
   {
+    "id": "DRI-112",
+    "regulation": "I",
+    "name": "Team Rocket's Ekans",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/112.png",
+      "large": "https://images.pokemontcg.io/sv10/112_hires.png"
+    }
+  },
+  {
+    "id": "DRI-113",
+    "regulation": "I",
+    "name": "Team Rocket's Arbok",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/113.png",
+      "large": "https://images.pokemontcg.io/sv10/113_hires.png"
+    }
+  },
+  {
+    "id": "DRI-114",
+    "regulation": "I",
+    "name": "Team Rocket's Nidoran♀",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/114.png",
+      "large": "https://images.pokemontcg.io/sv10/114_hires.png"
+    }
+  },
+  {
+    "id": "DRI-115",
+    "regulation": "I",
+    "name": "Team Rocket's Nidorina",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/115.png",
+      "large": "https://images.pokemontcg.io/sv10/115_hires.png"
+    }
+  },
+  {
+    "id": "DRI-116",
+    "regulation": "I",
+    "name": "Team Rocket's Nidoqueen",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/116.png",
+      "large": "https://images.pokemontcg.io/sv10/116_hires.png"
+    }
+  },
+  {
+    "id": "DRI-117",
+    "regulation": "I",
+    "name": "Team Rocket's Nidoran♂",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/117.png",
+      "large": "https://images.pokemontcg.io/sv10/117_hires.png"
+    }
+  },
+  {
+    "id": "DRI-118",
+    "regulation": "I",
+    "name": "Team Rocket's Nidorino",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/118.png",
+      "large": "https://images.pokemontcg.io/sv10/118_hires.png"
+    }
+  },
+  {
+    "id": "DRI-119",
+    "regulation": "I",
+    "name": "Team Rocket's Nidoking ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/119.png",
+      "large": "https://images.pokemontcg.io/sv10/119_hires.png"
+    }
+  },
+  {
+    "id": "DRI-120",
+    "regulation": "I",
+    "name": "Team Rocket's Zubat",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/120.png",
+      "large": "https://images.pokemontcg.io/sv10/120_hires.png"
+    }
+  },
+  {
+    "id": "DRI-121",
+    "regulation": "I",
+    "name": "Team Rocket's Golbat",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/121.png",
+      "large": "https://images.pokemontcg.io/sv10/121_hires.png"
+    }
+  },
+  {
+    "id": "DRI-122",
+    "regulation": "I",
+    "name": "Team Rocket's Crobat ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/122.png",
+      "large": "https://images.pokemontcg.io/sv10/122_hires.png"
+    }
+  },
+  {
+    "id": "DRI-123",
+    "regulation": "I",
+    "name": "Team Rocket's Grimer",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/123.png",
+      "large": "https://images.pokemontcg.io/sv10/123_hires.png"
+    }
+  },
+  {
+    "id": "DRI-124",
+    "regulation": "I",
+    "name": "Team Rocket's Muk",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/124.png",
+      "large": "https://images.pokemontcg.io/sv10/124_hires.png"
+    }
+  },
+  {
+    "id": "DRI-125",
+    "regulation": "I",
+    "name": "Team Rocket's Koffing",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/125.png",
+      "large": "https://images.pokemontcg.io/sv10/125_hires.png"
+    }
+  },
+  {
+    "id": "DRI-126",
+    "regulation": "I",
+    "name": "Team Rocket's Weezing",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/126.png",
+      "large": "https://images.pokemontcg.io/sv10/126_hires.png"
+    }
+  },
+  {
+    "id": "DRI-127",
+    "regulation": "I",
+    "name": "Team Rocket's Murkrow",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/127.png",
+      "large": "https://images.pokemontcg.io/sv10/127_hires.png"
+    }
+  },
+  {
+    "id": "DRI-128",
+    "regulation": "I",
+    "name": "Team Rocket's Sneasel",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/128.png",
+      "large": "https://images.pokemontcg.io/sv10/128_hires.png"
+    }
+  },
+  {
     "id": "DRI-129",
     "regulation": "I",
     "name": "Cynthia's Spiritomb",
@@ -1234,6 +1421,50 @@
     }
   },
   {
+    "id": "DRI-147",
+    "regulation": "I",
+    "name": "Team Rocket's Rattata",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/147.png",
+      "large": "https://images.pokemontcg.io/sv10/147_hires.png"
+    }
+  },
+  {
+    "id": "DRI-148",
+    "regulation": "I",
+    "name": "Team Rocket's Raticate",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/148.png",
+      "large": "https://images.pokemontcg.io/sv10/148_hires.png"
+    }
+  },
+  {
+    "id": "DRI-149",
+    "regulation": "I",
+    "name": "Team Rocket's Meowth",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/149.png",
+      "large": "https://images.pokemontcg.io/sv10/149_hires.png"
+    }
+  },
+  {
+    "id": "DRI-150",
+    "regulation": "I",
+    "name": "Team Rocket's Persian ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/150.png",
+      "large": "https://images.pokemontcg.io/sv10/150_hires.png"
+    }
+  },
+  {
     "id": "DRI-152",
     "regulation": "I",
     "name": "Tauros",
@@ -1242,6 +1473,39 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv10/152.png",
       "large": "https://images.pokemontcg.io/sv10/152_hires.png"
+    }
+  },
+  {
+    "id": "DRI-153",
+    "regulation": "I",
+    "name": "Team Rocket's Porygon",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/153.png",
+      "large": "https://images.pokemontcg.io/sv10/153_hires.png"
+    }
+  },
+  {
+    "id": "DRI-154",
+    "regulation": "I",
+    "name": "Team Rocket's Porygon2",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/154.png",
+      "large": "https://images.pokemontcg.io/sv10/154_hires.png"
+    }
+  },
+  {
+    "id": "DRI-155",
+    "regulation": "I",
+    "name": "Team Rocket's Porygon-Z",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/155.png",
+      "large": "https://images.pokemontcg.io/sv10/155_hires.png"
     }
   },
   {
@@ -1344,10 +1608,43 @@
     }
   },
   {
+    "id": "DRI-170",
+    "regulation": "I",
+    "name": "Team Rocket's Archer",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/170.png",
+      "large": "https://images.pokemontcg.io/sv10/170_hires.png"
+    }
+  },
+  {
+    "id": "DRI-171",
+    "regulation": "I",
+    "name": "Team Rocket's Ariana",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/171.png",
+      "large": "https://images.pokemontcg.io/sv10/171_hires.png"
+    }
+  },
+  {
+    "id": "DRI-172",
+    "regulation": "I",
+    "name": "Team Rocket's Bother-Bot",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/172.png",
+      "large": "https://images.pokemontcg.io/sv10/172_hires.png"
+    }
+  },
+  {
     "id": "DRI-173",
     "regulation": "I",
     "name": "Team Rocket's Factory",
-    "categories": ["Draw"],
+    "categories": ["Draw", "Team Rocket's"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/173.png",
@@ -1355,10 +1652,32 @@
     }
   },
   {
+    "id": "DRI-174",
+    "regulation": "I",
+    "name": "Team Rocket's Giovanni",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/174.png",
+      "large": "https://images.pokemontcg.io/sv10/174_hires.png"
+    }
+  },
+  {
+    "id": "DRI-175",
+    "regulation": "I",
+    "name": "Team Rocket's Great Ball",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/175.png",
+      "large": "https://images.pokemontcg.io/sv10/175_hires.png"
+    }
+  },
+  {
     "id": "DRI-176",
     "regulation": "I",
     "name": "Team Rocket's Petrel",
-    "categories": ["Consistency and Setup"],
+    "categories": ["Consistency and Setup", "Team Rocket's"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/176.png",
@@ -1366,10 +1685,32 @@
     }
   },
   {
+    "id": "DRI-177",
+    "regulation": "I",
+    "name": "Team Rocket's Proton",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/177.png",
+      "large": "https://images.pokemontcg.io/sv10/177_hires.png"
+    }
+  },
+  {
+    "id": "DRI-178",
+    "regulation": "I",
+    "name": "Team Rocket's Transceiver",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/178.png",
+      "large": "https://images.pokemontcg.io/sv10/178_hires.png"
+    }
+  },
+  {
     "id": "DRI-179",
     "regulation": "I",
     "name": "Team Rocket's Venture Bomb",
-    "categories": ["Create Damage"],
+    "categories": ["Create Damage", "Team Rocket's"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/179.png",
@@ -1380,11 +1721,22 @@
     "id": "DRI-180",
     "regulation": "I",
     "name": "Team Rocket's Watchtower",
-    "categories": ["Negate Abilities"],
+    "categories": ["Negate Abilities", "Team Rocket's"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/180.png",
       "large": "https://images.pokemontcg.io/sv10/180_hires.png"
+    }
+  },
+  {
+    "id": "DRI-182",
+    "regulation": "I",
+    "name": "Team Rocket's Energy",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/182.png",
+      "large": "https://images.pokemontcg.io/sv10/182_hires.png"
     }
   },
   {
@@ -1982,14 +2334,14 @@
     }
   },
   {
-    "id": "PFL-152",
+    "id": "PFL-48",
     "regulation": "I",
     "name": "Paldean Tauros",
     "categories": ["Tauros - Raging Charge"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/me2/152.png",
-      "large": "https://images.pokemontcg.io/me2/152_hires.png"
+      "small": "https://images.pokemontcg.io/me2/48.png",
+      "large": "https://images.pokemontcg.io/me2/48_hires.png"
     }
   },
   {
@@ -2190,8 +2542,8 @@
     "categories": ["N's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/49.png",
-      "large": "https://images.pokemontcg.io/sv11/49_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-49/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-49/large"
     }
   },
   {
@@ -2201,8 +2553,8 @@
     "categories": ["N's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/50.png",
-      "large": "https://images.pokemontcg.io/sv11/50_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-50/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-50/large"
     }
   },
   {
@@ -2212,8 +2564,8 @@
     "categories": ["N's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/51.png",
-      "large": "https://images.pokemontcg.io/sv11/51_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-51/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-51/large"
     }
   },
   {
@@ -2256,8 +2608,30 @@
     "categories": ["Hop's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/68.png",
-      "large": "https://images.pokemontcg.io/sv11/68_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-68/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-68/large"
+    }
+  },
+  {
+    "id": "ASC-77",
+    "regulation": "I",
+    "name": "Team Rocket's Exeggcute",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-77/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-77/large"
+    }
+  },
+  {
+    "id": "ASC-78",
+    "regulation": "I",
+    "name": "Team Rocket's Exeggutor",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-78/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-78/large"
     }
   },
   {
@@ -2267,8 +2641,8 @@
     "categories": ["Hop's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/95.png",
-      "large": "https://images.pokemontcg.io/sv11/95_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-95/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-95/large"
     }
   },
   {
@@ -2278,19 +2652,41 @@
     "categories": ["Hop's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/96.png",
-      "large": "https://images.pokemontcg.io/sv11/96_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-96/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-96/large"
+    }
+  },
+  {
+    "id": "ASC-100",
+    "regulation": "I",
+    "name": "Team Rocket's Diglett",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-100/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-100/large"
     }
   },
   {
     "id": "ASC-101",
     "regulation": "I",
     "name": "Team Rocket's Dugtrio",
-    "categories": ["Create Damage"],
+    "categories": ["Create Damage", "Team Rocket's"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-101/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-101/large"
+    }
+  },
+  {
+    "id": "ASC-127",
+    "regulation": "I",
+    "name": "Team Rocket's Honchkrow",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-127/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-127/large"
     }
   },
   {
@@ -2338,14 +2734,25 @@
     }
   },
   {
+    "id": "ASC-162",
+    "regulation": "I",
+    "name": "Team Rocket's Kangaskhan ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-162/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-162/large"
+    }
+  },
+  {
     "id": "ASC-163",
     "regulation": "I",
     "name": "Larry's Dunsparce",
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/163.png",
-      "large": "https://images.pokemontcg.io/sv11/163_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-163/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-163/large"
     }
   },
   {
@@ -2355,8 +2762,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/164.png",
-      "large": "https://images.pokemontcg.io/sv11/164_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-164/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-164/large"
     }
   },
   {
@@ -2366,8 +2773,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/168.png",
-      "large": "https://images.pokemontcg.io/sv11/168_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-168/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-168/large"
     }
   },
   {
@@ -2377,8 +2784,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/169.png",
-      "large": "https://images.pokemontcg.io/sv11/169_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-169/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-169/large"
     }
   },
   {
@@ -2388,8 +2795,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/170.png",
-      "large": "https://images.pokemontcg.io/sv11/170_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-170/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-170/large"
     }
   },
   {
@@ -2399,8 +2806,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/173.png",
-      "large": "https://images.pokemontcg.io/sv11/173_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-173/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-173/large"
     }
   },
   {
@@ -2410,8 +2817,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/174.png",
-      "large": "https://images.pokemontcg.io/sv11/174_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-174/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-174/large"
     }
   },
   {
@@ -2421,8 +2828,8 @@
     "categories": ["Larry's"],
     "type": [""],
     "images": {
-      "small": "https://images.pokemontcg.io/sv11/175.png",
-      "large": "https://images.pokemontcg.io/sv11/175_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-175/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-175/large"
     }
   },
   {
@@ -2467,6 +2874,17 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-197/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-197/large"
+    }
+  },
+  {
+    "id": "ASC-206",
+    "regulation": "I",
+    "name": "Team Rocket's Hypnotizer",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-206/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-206/large"
     }
   },
   {
