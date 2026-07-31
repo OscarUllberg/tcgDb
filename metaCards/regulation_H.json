@@ -242,6 +242,28 @@
     }
   },
   {
+    "id": "TWM-15",
+    "regulation": "H",
+    "name": "Thwackey",
+    "categories": ["Festival Lead"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/15.png",
+      "large": "https://images.pokemontcg.io/sv6/15_hires.png"
+    }
+  },
+  {
+    "id": "TWM-18",
+    "regulation": "H",
+    "name": "Dipplin",
+    "categories": ["Festival Lead"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/18.png",
+      "large": "https://images.pokemontcg.io/sv6/18_hires.png"
+    }
+  },
+  {
     "id": "TWM-25",
     "regulation": "H",
     "name": "Teal Mask Ogerpon",
@@ -283,6 +305,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv6/77.png",
       "large": "https://images.pokemontcg.io/sv6/77_hires.png"
+    }
+  },
+  {
+    "id": "TWM-89",
+    "regulation": "H",
+    "name": "Swirlix",
+    "categories": ["Festival Lead"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/89.png",
+      "large": "https://images.pokemontcg.io/sv6/89_hires.png"
     }
   },
   {
@@ -360,6 +393,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv6/148.png",
       "large": "https://images.pokemontcg.io/sv6/148_hires.png"
+    }
+  },
+  {
+    "id": "TWM-149",
+    "regulation": "H",
+    "name": "Festival Grounds",
+    "categories": ["Festival Lead", "Prevent Special Conditions"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/149.png",
+      "large": "https://images.pokemontcg.io/sv6/149_hires.png"
     }
   },
   {
@@ -627,14 +671,91 @@
     }
   },
   {
+    "id": "SCR-130",
+    "regulation": "H",
+    "name": "Antique Root Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/130.png",
+      "large": "https://images.pokemontcg.io/sv7/130_hires.png"
+    }
+  },
+  {
+    "id": "SCR-5",
+    "regulation": "H",
+    "name": "Lileep",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/5.png",
+      "large": "https://images.pokemontcg.io/sv7/5_hires.png"
+    }
+  },
+  {
     "id": "SCR-6",
     "regulation": "H",
     "name": "Cradily",
-    "categories": ["Burn", "Confuse", "Poison"],
+    "categories": ["Burn", "Confuse", "Poison", "Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.pokemontcg.io/sv7/6.png",
       "large": "https://images.pokemontcg.io/sv7/6_hires.png"
+    }
+  },
+  {
+    "id": "SCR-129",
+    "regulation": "H",
+    "name": "Antique Cover Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/129.png",
+      "large": "https://images.pokemontcg.io/sv7/129_hires.png"
+    }
+  },
+  {
+    "id": "SCR-37",
+    "regulation": "H",
+    "name": "Tirtouga",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/37.png",
+      "large": "https://images.pokemontcg.io/sv7/37_hires.png"
+    }
+  },
+  {
+    "id": "SCR-38",
+    "regulation": "H",
+    "name": "Carracosta",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/38.png",
+      "large": "https://images.pokemontcg.io/sv7/38_hires.png"
+    }
+  },
+  {
+    "id": "SCR-42",
+    "regulation": "H",
+    "name": "Crabominable",
+    "categories": ["Food Prep"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/42.png",
+      "large": "https://images.pokemontcg.io/sv7/42_hires.png"
+    }
+  },
+  {
+    "id": "SCR-45",
+    "regulation": "H",
+    "name": "Veluza",
+    "categories": ["Food Prep"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/45.png",
+      "large": "https://images.pokemontcg.io/sv7/45_hires.png"
     }
   },
   {
@@ -679,6 +800,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv7/119.png",
       "large": "https://images.pokemontcg.io/sv7/119_hires.png"
+    }
+  },
+  {
+    "id": "SCR-120",
+    "regulation": "H",
+    "name": "Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/120.png",
+      "large": "https://images.pokemontcg.io/sv7/120_hires.png"
     }
   },
   {
@@ -770,6 +902,17 @@
     }
   },
   {
+    "id": "SCR-138",
+    "regulation": "H",
+    "name": "Kofu",
+    "categories": ["Food Prep", "Draw"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/138.png",
+      "large": "https://images.pokemontcg.io/sv7/138_hires.png"
+    }
+  },
+  {
     "id": "SCR-140",
     "regulation": "H",
     "name": "Occa Berry",
@@ -811,6 +954,28 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv8/9.png",
       "large": "https://images.pokemontcg.io/sv8/9_hires.png"
+    }
+  },
+  {
+    "id": "SSP-18",
+    "regulation": "H",
+    "name": "Paldean Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/18.png",
+      "large": "https://images.pokemontcg.io/sv8/18_hires.png"
+    }
+  },
+  {
+    "id": "SSP-39",
+    "regulation": "H",
+    "name": "Paldean Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/39.png",
+      "large": "https://images.pokemontcg.io/sv8/39_hires.png"
     }
   },
   {
@@ -877,6 +1042,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv8/87.png",
       "large": "https://images.pokemontcg.io/sv8/87_hires.png"
+    }
+  },
+  {
+    "id": "SSP-101",
+    "regulation": "H",
+    "name": "Paldean Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/101.png",
+      "large": "https://images.pokemontcg.io/sv8/101_hires.png"
     }
   },
   {
@@ -1112,6 +1288,28 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv8pt5/4.png",
       "large": "https://images.pokemontcg.io/sv8pt5/4_hires.png"
+    }
+  },
+  {
+    "id": "PRE-20",
+    "regulation": "H",
+    "name": "Goldeen",
+    "categories": ["Festival Lead"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8pt5/20.png",
+      "large": "https://images.pokemontcg.io/sv8pt5/20_hires.png"
+    }
+  },
+  {
+    "id": "PRE-21",
+    "regulation": "H",
+    "name": "Seaking",
+    "categories": ["Festival Lead"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8pt5/21.png",
+      "large": "https://images.pokemontcg.io/sv8pt5/21_hires.png"
     }
   },
   {

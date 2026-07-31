@@ -1,5 +1,347 @@
 [
   {
+    "id": "JTG-26",
+    "regulation": "I",
+    "name": "N's Darumaka",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/26.png",
+      "large": "https://images.pokemontcg.io/sv9/26_hires.png"
+    }
+  },
+  {
+    "id": "JTG-27",
+    "regulation": "I",
+    "name": "N's Darmanitan",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/27.png",
+      "large": "https://images.pokemontcg.io/sv9/27_hires.png"
+    }
+  },
+  {
+    "id": "JTG-47",
+    "regulation": "I",
+    "name": "Iono's Voltorb",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/47.png",
+      "large": "https://images.pokemontcg.io/sv9/47_hires.png"
+    }
+  },
+  {
+    "id": "JTG-48",
+    "regulation": "I",
+    "name": "Iono's Electrode",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/48.png",
+      "large": "https://images.pokemontcg.io/sv9/48_hires.png"
+    }
+  },
+  {
+    "id": "JTG-49",
+    "regulation": "I",
+    "name": "N's Joltik",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/49.png",
+      "large": "https://images.pokemontcg.io/sv9/49_hires.png"
+    }
+  },
+  {
+    "id": "JTG-52",
+    "regulation": "I",
+    "name": "Iono's Tadbulb",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/52.png",
+      "large": "https://images.pokemontcg.io/sv9/52_hires.png"
+    }
+  },
+  {
+    "id": "JTG-53",
+    "regulation": "I",
+    "name": "Iono's Bellibolt ex",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/53.png",
+      "large": "https://images.pokemontcg.io/sv9/53_hires.png"
+    }
+  },
+  {
+    "id": "JTG-54",
+    "regulation": "I",
+    "name": "Iono's Wattrel",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/54.png",
+      "large": "https://images.pokemontcg.io/sv9/54_hires.png"
+    }
+  },
+  {
+    "id": "JTG-55",
+    "regulation": "I",
+    "name": "Iono's Kilowattrel",
+    "categories": ["Iono's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/55.png",
+      "large": "https://images.pokemontcg.io/sv9/55_hires.png"
+    }
+  },
+  {
+    "id": "JTG-56",
+    "regulation": "I",
+    "name": "Lillie's Clefairy",
+    "categories": ["Lillie's", "Notable Attacker"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/56.png",
+      "large": "https://images.pokemontcg.io/sv9/56_hires.png"
+    }
+  },
+  {
+    "id": "JTG-64",
+    "regulation": "I",
+    "name": "N's Sigilyph",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/64.png",
+      "large": "https://images.pokemontcg.io/sv9/64_hires.png"
+    }
+  },
+  {
+    "id": "JTG-66",
+    "regulation": "I",
+    "name": "Lillie's Cutifly",
+    "categories": ["Lillie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/66.png",
+      "large": "https://images.pokemontcg.io/sv9/66_hires.png"
+    }
+  },
+  {
+    "id": "JTG-67",
+    "regulation": "I",
+    "name": "Lillie's Ribombee",
+    "categories": ["Lillie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/67.png",
+      "large": "https://images.pokemontcg.io/sv9/67_hires.png"
+    }
+  },
+  {
+    "id": "JTG-68",
+    "regulation": "I",
+    "name": "Lillie's Comfey",
+    "categories": ["Lillie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/68.png",
+      "large": "https://images.pokemontcg.io/sv9/68_hires.png"
+    }
+  },
+  {
+    "id": "JTG-86",
+    "regulation": "I",
+    "name": "Hop's Silicobra",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/86.png",
+      "large": "https://images.pokemontcg.io/sv9/86_hires.png"
+    }
+  },
+  {
+    "id": "JTG-87",
+    "regulation": "I",
+    "name": "Hop's Sandaconda",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/87.png",
+      "large": "https://images.pokemontcg.io/sv9/87_hires.png"
+    }
+  },
+  {
+    "id": "JTG-96",
+    "regulation": "I",
+    "name": "N's Purrloin",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/96.png",
+      "large": "https://images.pokemontcg.io/sv9/96_hires.png"
+    }
+  },
+  {
+    "id": "JTG-97",
+    "regulation": "I",
+    "name": "N's Zorua",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/97.png",
+      "large": "https://images.pokemontcg.io/sv9/97_hires.png"
+    }
+  },
+  {
+    "id": "JTG-98",
+    "regulation": "I",
+    "name": "N's Zoroark ex",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/98.png",
+      "large": "https://images.pokemontcg.io/sv9/98_hires.png"
+    }
+  },
+  {
+    "id": "JTG-103",
+    "regulation": "I",
+    "name": "N's Klink",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/103.png",
+      "large": "https://images.pokemontcg.io/sv9/103_hires.png"
+    }
+  },
+  {
+    "id": "JTG-104",
+    "regulation": "I",
+    "name": "N's Klang",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/104.png",
+      "large": "https://images.pokemontcg.io/sv9/104_hires.png"
+    }
+  },
+  {
+    "id": "JTG-105",
+    "regulation": "I",
+    "name": "N's Klinklang",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/105.png",
+      "large": "https://images.pokemontcg.io/sv9/105_hires.png"
+    }
+  },
+  {
+    "id": "JTG-108",
+    "regulation": "I",
+    "name": "Hop's Corviknight",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/108.png",
+      "large": "https://images.pokemontcg.io/sv9/108_hires.png"
+    }
+  },
+  {
+    "id": "JTG-111",
+    "regulation": "I",
+    "name": "Hop's Zacian ex",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/111.png",
+      "large": "https://images.pokemontcg.io/sv9/111_hires.png"
+    }
+  },
+  {
+    "id": "JTG-116",
+    "regulation": "I",
+    "name": "N's Reshiram",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/116.png",
+      "large": "https://images.pokemontcg.io/sv9/116_hires.png"
+    }
+  },
+  {
+    "id": "JTG-117",
+    "regulation": "I",
+    "name": "Hop's Snorlax",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/117.png",
+      "large": "https://images.pokemontcg.io/sv9/117_hires.png"
+    }
+  },
+  {
+    "id": "JTG-133",
+    "regulation": "I",
+    "name": "Hop's Rookidee",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/133.png",
+      "large": "https://images.pokemontcg.io/sv9/133_hires.png"
+    }
+  },
+  {
+    "id": "JTG-134",
+    "regulation": "I",
+    "name": "Hop's Corvisquire",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/134.png",
+      "large": "https://images.pokemontcg.io/sv9/134_hires.png"
+    }
+  },
+  {
+    "id": "JTG-135",
+    "regulation": "I",
+    "name": "Hop's Wooloo",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/135.png",
+      "large": "https://images.pokemontcg.io/sv9/135_hires.png"
+    }
+  },
+  {
+    "id": "JTG-136",
+    "regulation": "I",
+    "name": "Hop's Dubwool",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/136.png",
+      "large": "https://images.pokemontcg.io/sv9/136_hires.png"
+    }
+  },
+  {
+    "id": "JTG-138",
+    "regulation": "I",
+    "name": "Hop's Cramorant",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/138.png",
+      "large": "https://images.pokemontcg.io/sv9/138_hires.png"
+    }
+  },
+
+  {
     "id": "JTG-146",
     "regulation": "I",
     "name": "Brock's Scouting",
@@ -8,6 +350,28 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv9/146.png",
       "large": "https://images.pokemontcg.io/sv9/146_hires.png"
+    }
+  },
+  {
+    "id": "JTG-147",
+    "regulation": "I",
+    "name": "Hop's Bag",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/147.png",
+      "large": "https://images.pokemontcg.io/sv9/147_hires.png"
+    }
+  },
+  {
+    "id": "JTG-148",
+    "regulation": "I",
+    "name": "Hop's Choice Band",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/148.png",
+      "large": "https://images.pokemontcg.io/sv9/148_hires.png"
     }
   },
   {
@@ -30,6 +394,50 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv9/150.png",
       "large": "https://images.pokemontcg.io/sv9/150_hires.png"
+    }
+  },
+  {
+    "id": "JTG-151",
+    "regulation": "I",
+    "name": "Lillie's Pearl",
+    "categories": ["Lillie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/151.png",
+      "large": "https://images.pokemontcg.io/sv9/151_hires.png"
+    }
+  },
+  {
+    "id": "JTG-152",
+    "regulation": "I",
+    "name": "N's Castle",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/152.png",
+      "large": "https://images.pokemontcg.io/sv9/152_hires.png"
+    }
+  },
+  {
+    "id": "JTG-153",
+    "regulation": "I",
+    "name": "N's PP Up",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/153.png",
+      "large": "https://images.pokemontcg.io/sv9/153_hires.png"
+    }
+  },
+  {
+    "id": "JTG-154",
+    "regulation": "I",
+    "name": "Postwick",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/154.png",
+      "large": "https://images.pokemontcg.io/sv9/154_hires.png"
     }
   },
   {
@@ -110,6 +518,39 @@
     }
   },
   {
+    "id": "DRI-1",
+    "regulation": "I",
+    "name": "Ethan's Pinsir",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/1.png",
+      "large": "https://images.pokemontcg.io/sv10/1_hires.png"
+    }
+  },
+  {
+    "id": "DRI-7",
+    "regulation": "I",
+    "name": "Cynthia's Roselia",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/7.png",
+      "large": "https://images.pokemontcg.io/sv10/7_hires.png"
+    }
+  },
+  {
+    "id": "DRI-8",
+    "regulation": "I",
+    "name": "Cynthia's Roserade",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/8.png",
+      "large": "https://images.pokemontcg.io/sv10/8_hires.png"
+    }
+  },
+  {
     "id": "DRI-10",
     "regulation": "I",
     "name": "Shaymin",
@@ -132,10 +573,131 @@
     }
   },
   {
+    "id": "DRI-15",
+    "regulation": "I",
+    "name": "Team Rocket's Blipbug",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/15.png",
+      "large": "https://images.pokemontcg.io/sv10/15_hires.png"
+    }
+  },
+  {
+    "id": "DRI-19",
+    "regulation": "I",
+    "name": "Team Rocket's Tarountula",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/19.png",
+      "large": "https://images.pokemontcg.io/sv10/19_hires.png"
+    }
+  },
+  {
+    "id": "DRI-20",
+    "regulation": "I",
+    "name": "Team Rocket's Spidops",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/20.png",
+      "large": "https://images.pokemontcg.io/sv10/20_hires.png"
+    }
+  },
+  {
+    "id": "DRI-31",
+    "regulation": "I",
+    "name": "Team Rocket's Moltres ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/31.png",
+      "large": "https://images.pokemontcg.io/sv10/31_hires.png"
+    }
+  },
+  {
+    "id": "DRI-32",
+    "regulation": "I",
+    "name": "Ethan's Cyndaquil",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/32.png",
+      "large": "https://images.pokemontcg.io/sv10/32_hires.png"
+    }
+  },
+  {
+    "id": "DRI-33",
+    "regulation": "I",
+    "name": "Ethan's Quilava",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/33.png",
+      "large": "https://images.pokemontcg.io/sv10/33_hires.png"
+    }
+  },
+  {
+    "id": "DRI-34",
+    "regulation": "I",
+    "name": "Ethan's Typhlosion",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/34.png",
+      "large": "https://images.pokemontcg.io/sv10/34_hires.png"
+    }
+  },
+  {
+    "id": "DRI-35",
+    "regulation": "I",
+    "name": "Ethan's Slugma",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/35.png",
+      "large": "https://images.pokemontcg.io/sv10/35_hires.png"
+    }
+  },
+  {
+    "id": "DRI-36",
+    "regulation": "I",
+    "name": "Ethan's Magcargo",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/36.png",
+      "large": "https://images.pokemontcg.io/sv10/36_hires.png"
+    }
+  },
+  {
+    "id": "DRI-37",
+    "regulation": "I",
+    "name": "Team Rocket's Houndour",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/37.png",
+      "large": "https://images.pokemontcg.io/sv10/37_hires.png"
+    }
+  },
+  {
+    "id": "DRI-38",
+    "regulation": "I",
+    "name": "Team Rocket's Houndoom",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/38.png",
+      "large": "https://images.pokemontcg.io/sv10/38_hires.png"
+    }
+  },
+  {
     "id": "DRI-39",
     "regulation": "I",
     "name": "Ethan's Ho-Oh ex",
-    "categories": ["Energy Acceleration"],
+    "categories": ["Energy Acceleration", "Ethan's"],
     "type": ["Fire"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/39.png",
@@ -143,14 +705,587 @@
     }
   },
   {
+    "id": "DRI-45",
+    "regulation": "I",
+    "name": "Misty's Psyduck",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/45.png",
+      "large": "https://images.pokemontcg.io/sv10/45_hires.png"
+    }
+  },
+  {
+    "id": "DRI-46",
+    "regulation": "I",
+    "name": "Misty's Staryu",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/46.png",
+      "large": "https://images.pokemontcg.io/sv10/46_hires.png"
+    }
+  },
+  {
+    "id": "DRI-47",
+    "regulation": "I",
+    "name": "Misty's Starmie",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/47.png",
+      "large": "https://images.pokemontcg.io/sv10/47_hires.png"
+    }
+  },
+  {
+    "id": "DRI-48",
+    "regulation": "I",
+    "name": "Misty's Magikarp",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/48.png",
+      "large": "https://images.pokemontcg.io/sv10/48_hires.png"
+    }
+  },
+  {
+    "id": "DRI-49",
+    "regulation": "I",
+    "name": "Misty's Gyarados",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/49.png",
+      "large": "https://images.pokemontcg.io/sv10/49_hires.png"
+    }
+  },
+  {
+    "id": "DRI-50",
+    "regulation": "I",
+    "name": "Misty's Lapras",
+    "categories": ["Misty's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/50.png",
+      "large": "https://images.pokemontcg.io/sv10/50_hires.png"
+    }
+  },
+  {
+    "id": "DRI-51",
+    "regulation": "I",
+    "name": "Team Rocket's Articuno",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/51.png",
+      "large": "https://images.pokemontcg.io/sv10/51_hires.png"
+    }
+  },
+
+  {
+    "id": "DRI-52",
+    "regulation": "I",
+    "name": "Cynthia's Feebas",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/52.png",
+      "large": "https://images.pokemontcg.io/sv10/52_hires.png"
+    }
+  },
+  {
+    "id": "DRI-53",
+    "regulation": "I",
+    "name": "Cynthia's Milotic",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/53.png",
+      "large": "https://images.pokemontcg.io/sv10/53_hires.png"
+    }
+  },
+  {
+    "id": "DRI-70",
+    "regulation": "I",
+    "name": "Team Rocket's Zapdos",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/70.png",
+      "large": "https://images.pokemontcg.io/sv10/70_hires.png"
+    }
+  },
+  {
+    "id": "DRI-71",
+    "regulation": "I",
+    "name": "Ethan's Pichu",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/71.png",
+      "large": "https://images.pokemontcg.io/sv10/71_hires.png"
+    }
+  },
+  {
+    "id": "DRI-72",
+    "regulation": "I",
+    "name": "Team Rocket's Mareep",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/72.png",
+      "large": "https://images.pokemontcg.io/sv10/72_hires.png"
+    }
+  },
+  {
+    "id": "DRI-73",
+    "regulation": "I",
+    "name": "Team Rocket's Flaaffy",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/73.png",
+      "large": "https://images.pokemontcg.io/sv10/73_hires.png"
+    }
+  },
+  {
+    "id": "DRI-74",
+    "regulation": "I",
+    "name": "Team Rocket's Ampharos",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/74.png",
+      "large": "https://images.pokemontcg.io/sv10/74_hires.png"
+    }
+  },
+  {
+    "id": "DRI-79",
+    "regulation": "I",
+    "name": "Team Rocket's Drowzee",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/79.png",
+      "large": "https://images.pokemontcg.io/sv10/79_hires.png"
+    }
+  },
+  {
+    "id": "DRI-80",
+    "regulation": "I",
+    "name": "Team Rocket's Hypno",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/80.png",
+      "large": "https://images.pokemontcg.io/sv10/80_hires.png"
+    }
+  },
+  {
+    "id": "DRI-81",
+    "regulation": "I",
+    "name": "Team Rocket's Mewtwo ex",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/81.png",
+      "large": "https://images.pokemontcg.io/sv10/81_hires.png"
+    }
+  },
+  {
+    "id": "DRI-82",
+    "regulation": "I",
+    "name": "Team Rocket's Wobbuffet",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/82.png",
+      "large": "https://images.pokemontcg.io/sv10/82_hires.png"
+    }
+  },
+  {
+    "id": "DRI-83",
+    "regulation": "I",
+    "name": "Steven's Baltoy",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/83.png",
+      "large": "https://images.pokemontcg.io/sv10/83_hires.png"
+    }
+  },
+  {
+    "id": "DRI-84",
+    "regulation": "I",
+    "name": "Steven's Claydol",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/84.png",
+      "large": "https://images.pokemontcg.io/sv10/84_hires.png"
+    }
+  },
+  {
+    "id": "DRI-85",
+    "regulation": "I",
+    "name": "Team Rocket's Chingling",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/85.png",
+      "large": "https://images.pokemontcg.io/sv10/85_hires.png"
+    }
+  },
+  {
+    "id": "DRI-86",
+    "regulation": "I",
+    "name": "Steven's Carbink",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/86.png",
+      "large": "https://images.pokemontcg.io/sv10/86_hires.png"
+    }
+  },
+  {
+    "id": "DRI-87",
+    "regulation": "I",
+    "name": "Team Rocket's Mimikyu",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/87.png",
+      "large": "https://images.pokemontcg.io/sv10/87_hires.png"
+    }
+  },
+  {
+    "id": "DRI-88",
+    "regulation": "I",
+    "name": "Team Rocket's Dottler",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/88.png",
+      "large": "https://images.pokemontcg.io/sv10/88_hires.png"
+    }
+  },
+  {
+    "id": "DRI-89",
+    "regulation": "I",
+    "name": "Team Rocket's Orbeetle",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/89.png",
+      "large": "https://images.pokemontcg.io/sv10/89_hires.png"
+    }
+  },
+  {
+    "id": "DRI-93",
+    "regulation": "I",
+    "name": "Ethan's Sudowoodo",
+    "categories": ["Ethan's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/93.png",
+      "large": "https://images.pokemontcg.io/sv10/93_hires.png"
+    }
+  },
+  {
+    "id": "DRI-94",
+    "regulation": "I",
+    "name": "Team Rocket's Larvitar",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/94.png",
+      "large": "https://images.pokemontcg.io/sv10/94_hires.png"
+    }
+  },
+  {
+    "id": "DRI-95",
+    "regulation": "I",
+    "name": "Team Rocket's Pupitar",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/95.png",
+      "large": "https://images.pokemontcg.io/sv10/95_hires.png"
+    }
+  },
+  {
+    "id": "DRI-96",
+    "regulation": "I",
+    "name": "Team Rocket's Tyranitar",
+    "categories": ["Team Rocket's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/96.png",
+      "large": "https://images.pokemontcg.io/sv10/96_hires.png"
+    }
+  },
+  {
+    "id": "DRI-102",
+    "regulation": "I",
+    "name": "Cynthia's Gible",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/102.png",
+      "large": "https://images.pokemontcg.io/sv10/102_hires.png"
+    }
+  },
+  {
+    "id": "DRI-103",
+    "regulation": "I",
+    "name": "Cynthia's Gabite",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/103.png",
+      "large": "https://images.pokemontcg.io/sv10/103_hires.png"
+    }
+  },
+  {
+    "id": "DRI-104",
+    "regulation": "I",
+    "name": "Cynthia's Garchomp ex",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/104.png",
+      "large": "https://images.pokemontcg.io/sv10/104_hires.png"
+    }
+  },
+  {
+    "id": "DRI-109",
+    "regulation": "I",
+    "name": "Arven's Toedscool",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/109.png",
+      "large": "https://images.pokemontcg.io/sv10/109_hires.png"
+    }
+  },
+  {
+    "id": "DRI-110",
+    "regulation": "I",
+    "name": "Arven's Toedscruel",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/110.png",
+      "large": "https://images.pokemontcg.io/sv10/110_hires.png"
+    }
+  },
+  {
+    "id": "DRI-129",
+    "regulation": "I",
+    "name": "Cynthia's Spiritomb",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/129.png",
+      "large": "https://images.pokemontcg.io/sv10/129_hires.png"
+    }
+  },
+  {
+    "id": "DRI-130",
+    "regulation": "I",
+    "name": "Marnie's Purrloin",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/130.png",
+      "large": "https://images.pokemontcg.io/sv10/130_hires.png"
+    }
+  },
+  {
+    "id": "DRI-131",
+    "regulation": "I",
+    "name": "Marnie's Liepard",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/131.png",
+      "large": "https://images.pokemontcg.io/sv10/131_hires.png"
+    }
+  },
+  {
+    "id": "DRI-132",
+    "regulation": "I",
+    "name": "Marnie's Scraggy",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/132.png",
+      "large": "https://images.pokemontcg.io/sv10/132_hires.png"
+    }
+  },
+  {
+    "id": "DRI-133",
+    "regulation": "I",
+    "name": "Marnie's Scrafty",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/133.png",
+      "large": "https://images.pokemontcg.io/sv10/133_hires.png"
+    }
+  },
+  {
+    "id": "DRI-134",
+    "regulation": "I",
+    "name": "Marnie's Impidimp",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/134.png",
+      "large": "https://images.pokemontcg.io/sv10/134_hires.png"
+    }
+  },
+  {
+    "id": "DRI-135",
+    "regulation": "I",
+    "name": "Marnie's Morgrem",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/135.png",
+      "large": "https://images.pokemontcg.io/sv10/135_hires.png"
+    }
+  },
+  {
+    "id": "DRI-136",
+    "regulation": "I",
+    "name": "Marnie's Grimmsnarl ex",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/136.png",
+      "large": "https://images.pokemontcg.io/sv10/136_hires.png"
+    }
+  },
+  {
+    "id": "DRI-137",
+    "regulation": "I",
+    "name": "Marnie's Morpeko",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/137.png",
+      "large": "https://images.pokemontcg.io/sv10/137_hires.png"
+    }
+  },
+  {
+    "id": "DRI-138",
+    "regulation": "I",
+    "name": "Arven's Maschiff",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/138.png",
+      "large": "https://images.pokemontcg.io/sv10/138_hires.png"
+    }
+  },
+  {
+    "id": "DRI-139",
+    "regulation": "I",
+    "name": "Arven's Mabosstiff ex",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/139.png",
+      "large": "https://images.pokemontcg.io/sv10/139_hires.png"
+    }
+  },
+  {
+    "id": "DRI-143",
+    "regulation": "I",
+    "name": "Steven's Beldum",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/143.png",
+      "large": "https://images.pokemontcg.io/sv10/143_hires.png"
+    }
+  },
+  {
+    "id": "DRI-144",
+    "regulation": "I",
+    "name": "Steven's Metang",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/144.png",
+      "large": "https://images.pokemontcg.io/sv10/144_hires.png"
+    }
+  },
+  {
     "id": "DRI-145",
     "regulation": "I",
     "name": "Steven's Metagross ex",
-    "categories": ["Energy Acceleration"],
+    "categories": ["Energy Acceleration", "Steven's"],
     "type": ["Metal", "Psychic"],
     "images": {
       "small": "https://images.pokemontcg.io/sv10/145.png",
       "large": "https://images.pokemontcg.io/sv10/145_hires.png"
+    }
+  },
+  {
+    "id": "DRI-152",
+    "regulation": "I",
+    "name": "Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/152.png",
+      "large": "https://images.pokemontcg.io/sv10/152_hires.png"
+    }
+  },
+  {
+    "id": "DRI-158",
+    "regulation": "I",
+    "name": "Arven's Skwovet",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/158.png",
+      "large": "https://images.pokemontcg.io/sv10/158_hires.png"
+    }
+  },
+  {
+    "id": "DRI-159",
+    "regulation": "I",
+    "name": "Arven's Greedent",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/159.png",
+      "large": "https://images.pokemontcg.io/sv10/159_hires.png"
+    }
+  },
+  {
+    "id": "DRI-161",
+    "regulation": "I",
+    "name": "Arven's Sandwich",
+    "categories": ["Arven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/161.png",
+      "large": "https://images.pokemontcg.io/sv10/161_hires.png"
+    }
+  },
+  {
+    "id": "DRI-162",
+    "regulation": "I",
+    "name": "Cynthia's Power Weight",
+    "categories": ["Cynthia's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/162.png",
+      "large": "https://images.pokemontcg.io/sv10/162_hires.png"
     }
   },
   {
@@ -165,6 +1300,28 @@
     }
   },
   {
+    "id": "DRI-165",
+    "regulation": "I",
+    "name": "Ethan's Adventure",
+    "categories": ["Ethan's"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/165.png",
+      "large": "https://images.pokemontcg.io/sv10/165_hires.png"
+    }
+  },
+  {
+    "id": "DRI-166",
+    "regulation": "I",
+    "name": "Granite Cave",
+    "categories": ["Steven's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/166.png",
+      "large": "https://images.pokemontcg.io/sv10/166_hires.png"
+    }
+  },
+  {
     "id": "DRI-168",
     "regulation": "I",
     "name": "Sacred Ash",
@@ -173,6 +1330,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv10/168.png",
       "large": "https://images.pokemontcg.io/sv10/168_hires.png"
+    }
+  },
+  {
+    "id": "DRI-169",
+    "regulation": "I",
+    "name": "Spikemuth Stadium",
+    "categories": ["Marnie's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv10/169.png",
+      "large": "https://images.pokemontcg.io/sv10/169_hires.png"
     }
   },
   {
@@ -217,6 +1385,28 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv10/180.png",
       "large": "https://images.pokemontcg.io/sv10/180_hires.png"
+    }
+  },
+  {
+    "id": "BLK-22",
+    "regulation": "I",
+    "name": "Tirtouga",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/zsv10pt5/22.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/22_hires.png"
+    }
+  },
+  {
+    "id": "BLK-23",
+    "regulation": "I",
+    "name": "Carracosta",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/zsv10pt5/23.png",
+      "large": "https://images.pokemontcg.io/zsv10pt5/23_hires.png"
     }
   },
   {
@@ -349,6 +1539,39 @@
     "images": {
       "small": "https://images.pokemontcg.io/rsv10pt5/45.png",
       "large": "https://images.pokemontcg.io/rsv10pt5/45_hires.png"
+    }
+  },
+  {
+    "id": "WHT-79",
+    "regulation": "I",
+    "name": "Antique Plume Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/rsv10pt5/79.png",
+      "large": "https://images.pokemontcg.io/rsv10pt5/79_hires.png"
+    }
+  },
+  {
+    "id": "WHT-50",
+    "regulation": "I",
+    "name": "Archen",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/rsv10pt5/50.png",
+      "large": "https://images.pokemontcg.io/rsv10pt5/50_hires.png"
+    }
+  },
+  {
+    "id": "WHT-51",
+    "regulation": "I",
+    "name": "Archeops",
+    "categories": ["Antique Fossil", "Other Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/rsv10pt5/51.png",
+      "large": "https://images.pokemontcg.io/rsv10pt5/51_hires.png"
     }
   },
   {
@@ -759,6 +1982,17 @@
     }
   },
   {
+    "id": "PFL-152",
+    "regulation": "I",
+    "name": "Paldean Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/152.png",
+      "large": "https://images.pokemontcg.io/me2/152_hires.png"
+    }
+  },
+  {
     "id": "PFL-56",
     "regulation": "I",
     "name": "Mega Gengar ex",
@@ -950,6 +2184,39 @@
     }
   },
   {
+    "id": "ASC-49",
+    "regulation": "I",
+    "name": "N's Vanillite",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/49.png",
+      "large": "https://images.pokemontcg.io/sv11/49_hires.png"
+    }
+  },
+  {
+    "id": "ASC-50",
+    "regulation": "I",
+    "name": "N's Vanillish",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/50.png",
+      "large": "https://images.pokemontcg.io/sv11/50_hires.png"
+    }
+  },
+  {
+    "id": "ASC-51",
+    "regulation": "I",
+    "name": "N's Vanilluxe",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/51.png",
+      "large": "https://images.pokemontcg.io/sv11/51_hires.png"
+    }
+  },
+  {
     "id": "ASC-53",
     "regulation": "I",
     "name": "Frosmoth",
@@ -980,6 +2247,39 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-64/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-64/large"
+    }
+  },
+  {
+    "id": "ASC-68",
+    "regulation": "I",
+    "name": "Hop's Pincurchin ex",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/68.png",
+      "large": "https://images.pokemontcg.io/sv11/68_hires.png"
+    }
+  },
+  {
+    "id": "ASC-95",
+    "regulation": "I",
+    "name": "Hop's Phantump",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/95.png",
+      "large": "https://images.pokemontcg.io/sv11/95_hires.png"
+    }
+  },
+  {
+    "id": "ASC-96",
+    "regulation": "I",
+    "name": "Hop's Trevenant",
+    "categories": ["Hop's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/96.png",
+      "large": "https://images.pokemontcg.io/sv11/96_hires.png"
     }
   },
   {
@@ -1030,11 +2330,110 @@
     "id": "ASC-155",
     "regulation": "I",
     "name": "N's Zekrom",
-    "categories": ["Wall Break"],
+    "categories": ["N's"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-155/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-155/large"
+    }
+  },
+  {
+    "id": "ASC-163",
+    "regulation": "I",
+    "name": "Larry's Dunsparce",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/163.png",
+      "large": "https://images.pokemontcg.io/sv11/163_hires.png"
+    }
+  },
+  {
+    "id": "ASC-164",
+    "regulation": "I",
+    "name": "Larry's Dudunsparce ex",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/164.png",
+      "large": "https://images.pokemontcg.io/sv11/164_hires.png"
+    }
+  },
+  {
+    "id": "ASC-168",
+    "regulation": "I",
+    "name": "Larry's Starly",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/168.png",
+      "large": "https://images.pokemontcg.io/sv11/168_hires.png"
+    }
+  },
+  {
+    "id": "ASC-169",
+    "regulation": "I",
+    "name": "Larry's Staravia",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/169.png",
+      "large": "https://images.pokemontcg.io/sv11/169_hires.png"
+    }
+  },
+  {
+    "id": "ASC-170",
+    "regulation": "I",
+    "name": "Larry's Staraptor",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/170.png",
+      "large": "https://images.pokemontcg.io/sv11/170_hires.png"
+    }
+  },
+  {
+    "id": "ASC-173",
+    "regulation": "I",
+    "name": "Larry's Rufflet",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/173.png",
+      "large": "https://images.pokemontcg.io/sv11/173_hires.png"
+    }
+  },
+  {
+    "id": "ASC-174",
+    "regulation": "I",
+    "name": "Larry's Braviary",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/174.png",
+      "large": "https://images.pokemontcg.io/sv11/174_hires.png"
+    }
+  },
+  {
+    "id": "ASC-175",
+    "regulation": "I",
+    "name": "Larry's Komala",
+    "categories": ["Larry's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/sv11/175.png",
+      "large": "https://images.pokemontcg.io/sv11/175_hires.png"
+    }
+  },
+  {
+    "id": "ASC-182",
+    "regulation": "I",
+    "name": "Anthea & Concordia",
+    "categories": ["N's"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-182/large"
     }
   },
   {

@@ -121,10 +121,32 @@
     }
   },
   {
+    "id": "POR-69",
+    "regulation": "J",
+    "name": "Antique Sail Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-69/small",
+      "large": "https://images.scrydex.com/pokemon/me3-69/large"
+    }
+  },
+  {
+    "id": "POR-23",
+    "regulation": "J",
+    "name": "Amaura",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-23/small",
+      "large": "https://images.scrydex.com/pokemon/me3-23/large"
+    }
+  },
+  {
     "id": "POR-24",
     "regulation": "J",
     "name": "Aurorus",
-    "categories": ["Reduce Damage"],
+    "categories": ["Reduce Damage", "Antique Fossil"],
     "type": ["Water"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-24/small",
@@ -176,10 +198,32 @@
     }
   },
   {
+    "id": "POR-68",
+    "regulation": "J",
+    "name": "Antique Jaw Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-68/small",
+      "large": "https://images.scrydex.com/pokemon/me3-68/large"
+    }
+  },
+  {
+    "id": "POR-44",
+    "regulation": "J",
+    "name": "Tyrant",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me3-44/small",
+      "large": "https://images.scrydex.com/pokemon/me3-44/large"
+    }
+  },
+  {
     "id": "POR-45",
     "regulation": "J",
     "name": "Tyrantrum",
-    "categories": ["Mill"],
+    "categories": ["Mill", "Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me3-45/small",
@@ -528,6 +572,17 @@
     }
   },
   {
+    "id": "PFL-69",
+    "regulation": "J",
+    "name": "Tauros",
+    "categories": ["Tauros - Raging Charge"],
+    "type": [""],
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/152.png",
+      "large": "https://images.pokemontcg.io/me2/152_hires.png"
+    }
+  },
+  {
     "id": "CRI-70",
     "regulation": "J",
     "name": "Patrat",
@@ -756,7 +811,7 @@
     "regulation": "J",
     "name": "Miraidon",
     "categories": ["Energy Switching"],
-    "type": ["Electric"],
+    "type": ["Lightning"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-28/medium",
       "large": "https://images.scrydex.com/pokemon/me5-28/large"
@@ -818,6 +873,28 @@
     }
   },
   {
+    "id": "PBL-73",
+    "regulation": "J",
+    "name": "Antique Skull Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-73/small",
+      "large": "https://images.scrydex.com/pokemon/me5-73/large"
+    }
+  },
+  {
+    "id": "PBL-44",
+    "regulation": "J",
+    "name": "Cranidos",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-44/small",
+      "large": "https://images.scrydex.com/pokemon/me5-44/large"
+    }
+  },
+  {
     "id": "PBL-45",
     "regulation": "J",
     "name": "Rampardos ex",
@@ -832,7 +909,7 @@
     "id": "PBL-52",
     "regulation": "J",
     "name": "Malamar",
-    "categories": ["Confusion"],
+    "categories": ["Confuse"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-52/medium",
@@ -851,10 +928,32 @@
     }
   },
   {
+    "id": "PBL-72",
+    "regulation": "J",
+    "name": "Antique Armor Fossil",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-72/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-72/large"
+    }
+  },
+  {
+    "id": "PBL-61",
+    "regulation": "J",
+    "name": "Shieldon",
+    "categories": ["Antique Fossil"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me5-61/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-61/large"
+    }
+  },
+  {
     "id": "PBL-62",
     "regulation": "J",
     "name": "Bastiodon",
-    "categories": ["Energy Disruption"],
+    "categories": ["Energy Disruption", "Antique Fossil"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-62/medium",
@@ -873,14 +972,14 @@
     }
   },
   {
-    "id": "PBL-65",
+    "id": "PBL-68",
     "regulation": "J",
-    "name": "Mega Excadrill ex",
+    "name": "Toucannon",
     "categories": ["Draw", "Notable Attacker"],
     "type": [""],
     "images": {
-      "small": "https://images.scrydex.com/pokemon/me5-65/medium",
-      "large": "https://images.scrydex.com/pokemon/me5-65/large"
+      "small": "https://images.scrydex.com/pokemon/me5-68/medium",
+      "large": "https://images.scrydex.com/pokemon/me5-68/large"
     }
   },
   {
@@ -909,22 +1008,11 @@
     "id": "PBL-75",
     "regulation": "J",
     "name": "Dark Bell",
-    "categories": ["Confusion"],
+    "categories": ["Confuse"],
     "type": ["Darkness"],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-75/medium",
       "large": "https://images.scrydex.com/pokemon/me5-75/large"
-    }
-  },
-  {
-    "id": "PBL-65",
-    "regulation": "J",
-    "name": "Mega Excadrill ex",
-    "categories": ["Mill"],
-    "type": ["Metal"],
-    "images": {
-      "small": "https://images.scrydex.com/pokemon/me5-65/medium",
-      "large": "https://images.scrydex.com/pokemon/me5-65/large"
     }
   },
   {
@@ -942,7 +1030,7 @@
     "id": "PBL-77",
     "regulation": "J",
     "name": "Gladion's Final Battle",
-    "categories": ["Increase Damage"],
+    "categories": ["Non-Rulebox", "Increase Damage"],
     "type": [""],
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-77/medium",
