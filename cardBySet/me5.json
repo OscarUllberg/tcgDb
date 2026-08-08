@@ -2287,6 +2287,7 @@
     "id": "me5-42",
     "name": "Mankey",
     "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "hp": "50",
     "types": ["Fighting"],
     "attacks": [
