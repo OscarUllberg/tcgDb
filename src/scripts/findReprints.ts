@@ -13,7 +13,7 @@ type Card = {
 
 const findAllReprints = (
   updatedCardById: Record<string, Card>,
-  reprintListData: Record<string, string[]>
+  reprintListData: Record<string, string[]>,
 ) => {
   // ---- 1. Build flat list of ALL old cards ----
   const oldCards: Card[] = [];
@@ -42,7 +42,10 @@ const findAllReprints = (
         a.hp === b.hp &&
         JSON.stringify(a.types) === JSON.stringify(b.types) &&
         JSON.stringify(a.attacks?.[0]) === JSON.stringify(b.attacks?.[0]) &&
-        JSON.stringify(a.abilities?.[0]) === JSON.stringify(b.abilities?.[0])
+        JSON.stringify(a.attacks?.[1]) === JSON.stringify(b.attacks?.[1]) &&
+        JSON.stringify(a.attacks?.[4]) === JSON.stringify(b.attacks?.[4]) &&
+        JSON.stringify(a.abilities?.[0]) === JSON.stringify(b.abilities?.[0]) &&
+        JSON.stringify(a.retreatCost) === JSON.stringify(b.retreatCost)
       );
     } else {
       // Non-Pokemon → compare only name
@@ -84,10 +87,13 @@ const findAllReprints = (
 
   const sortedReprintListData = Object.keys(reprintListData)
     .sort()
-    .reduce((acc, key) => {
-      acc[key] = reprintListData[key].sort();
-      return acc;
-    }, {} as Record<string, string[]>);
+    .reduce(
+      (acc, key) => {
+        acc[key] = reprintListData[key].sort();
+        return acc;
+      },
+      {} as Record<string, string[]>,
+    );
 
   console.log("✅ 4. Update ReprintList with this:", sortedReprintListData);
   console.log("----------------------------------------------------");
