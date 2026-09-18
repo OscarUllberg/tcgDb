@@ -496,17 +496,6 @@
     }
   },
   {
-    "id": "JTG-56",
-    "regulation": "I",
-    "name": "Lillie's Clefairy",
-    "categories": ["Notable Attacker"],
-    "type": ["Psychic"],
-    "images": {
-      "small": "https://images.pokemontcg.io/sv9/56.png",
-      "large": "https://images.pokemontcg.io/sv9/56_hires.png"
-    }
-  },
-  {
     "id": "JTG-8",
     "regulation": "I",
     "name": "Maractus",

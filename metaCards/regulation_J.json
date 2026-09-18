@@ -708,7 +708,7 @@
     "regulation": "J",
     "name": "Magnetic Energies",
     "categories": [
-      "Special Energy",
+      "Special Energies",
       "Switching and Prize Denial",
       "Free Retreat"
     ],
@@ -1112,6 +1112,226 @@
     "images": {
       "small": "https://images.scrydex.com/pokemon/me5-84/medium",
       "large": "https://images.scrydex.com/pokemon/me5-84/large"
+    }
+  },
+  {
+    "id": "30C-4",
+    "regulation": "J",
+    "name": "Illumise",
+    "categories": ["Increase Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-4/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-4/large"
+    }
+  },
+  {
+    "id": "30C-8",
+    "regulation": "J",
+    "name": "Vivillion",
+    "categories": ["Pokémon Search"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-8/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-8/large"
+    }
+  },
+  {
+    "id": "30C-15",
+    "regulation": "J",
+    "name": "Fuecoco ex",
+    "categories": ["Finisher"],
+    "type": ["Fire"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-15/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-15/large"
+    }
+  },
+  {
+    "id": "30C-21",
+    "regulation": "J",
+    "name": "Greninja ex",
+    "categories": ["Bench Sniping"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-21/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-21/large"
+    }
+  },
+  {
+    "id": "30C-22",
+    "regulation": "J",
+    "name": "Wishiwashi",
+    "categories": ["Create Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-22/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-22/large"
+    }
+  },
+  {
+    "id": "30C-53",
+    "regulation": "J",
+    "name": "Pikachu ex",
+    "categories": ["Pokémon Search"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-53/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-53/large"
+    }
+  },
+  {
+    "id": "30C-53",
+    "regulation": "J",
+    "name": "Pikachu ex",
+    "categories": ["Energy Acceleration"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-53/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-53/large"
+    }
+  },
+  {
+    "id": "30C-66",
+    "regulation": "J",
+    "name": "Mew ex",
+    "categories": ["Notable Attacker"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-66/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-66/large"
+    }
+  },
+  {
+    "id": "30C-69",
+    "regulation": "J",
+    "name": "Espeon",
+    "categories": ["Other Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-69/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-69/large"
+    }
+  },
+  {
+    "id": "30C-72",
+    "regulation": "J",
+    "name": "Unown",
+    "categories": ["Extra Prize"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-72/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-72/large"
+    }
+  },
+  {
+    "id": "30C-96",
+    "regulation": "J",
+    "name": "Zoroark",
+    "categories": ["Switching and Prize Denial"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-96/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-96/large"
+    }
+  },
+  {
+    "id": "30C-100",
+    "regulation": "J",
+    "name": "Yveltal",
+    "categories": ["Other Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-100/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-100/large"
+    }
+  },
+  {
+    "id": "30C-105",
+    "regulation": "J",
+    "name": "Solgaleo",
+    "categories": ["Energy Acceleration"],
+    "type": ["Metal"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-105/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-105/large"
+    }
+  },
+  {
+    "id": "30C-108",
+    "regulation": "J",
+    "name": "Gholdengo",
+    "categories": ["Extra Prize"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-108/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-108/large"
+    }
+  },
+  {
+    "id": "30C-109",
+    "regulation": "J",
+    "name": "Salamence ex",
+    "categories": [""],
+    "type": ["Dragon"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-109/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-109/large"
+    }
+  },
+  {
+    "id": "30C-115",
+    "regulation": "J",
+    "name": "Ditto",
+    "categories": ["Consistency and Setup"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-115/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-115/large"
+    }
+  },
+  {
+    "id": "30C-116",
+    "regulation": "J",
+    "name": "Eevee",
+    "categories": ["Hand Disruption"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-116/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-116/large"
+    }
+  },
+  {
+    "id": "30C-120",
+    "regulation": "J",
+    "name": "Igglybuff",
+    "categories": ["Bouncy Circle"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-120/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-120/large"
+    }
+  },
+  {
+    "id": "30C-124",
+    "regulation": "J",
+    "name": "Minior",
+    "categories": ["Bench Sniping"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-124/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-124/large"
+    }
+  },
+  {
+    "id": "30C-125",
+    "regulation": "J",
+    "name": "Maushold",
+    "categories": ["Mill"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me55-125/medium",
+      "large": "https://images.scrydex.com/pokemon/me55-125/large"
     }
   }
 ]
