@@ -178,6 +178,8 @@
     "LC-1",
     "TWM-82",
     "MEP-3",
+    "MEP-9",
+    "MEP-3",
     "MEP-9"
   ],
   "alakazam e4": ["RR-38"],
@@ -217,7 +219,8 @@
     "TEU-114",
     "TEU-115",
     "30C-2",
-    "30C-129"
+    "30C-129",
+    "MEP-2"
   ],
   "alolan exeggutor ex": ["SSP-133", "SSP-225", "SSP-242", "SSP-248"],
   "alolan exeggutor v": ["PGO-5", "PGO-71"],
@@ -371,7 +374,8 @@
     "EVS-56",
     "STS-40",
     "CRI-29",
-    "CRI-90"
+    "CRI-90",
+    "MEP-75"
   ],
   "ampharos ex": ["DR-89", "PR-SV-16"],
   "ampharos spirit link": ["AOR-70"],
@@ -621,7 +625,8 @@
     "ROS-16",
     "ROS-17",
     "30C-18",
-    "30C-132"
+    "30C-132",
+    "MEP-18"
   ],
   "articuno ex": ["RG-114", "PR-NP-32"],
   "articuno-ex": ["PLS-25", "PLS-132"],
@@ -840,7 +845,8 @@
     "ASR-110",
     "STS-70",
     "PBL-62",
-    "PBL-93"
+    "PBL-93",
+    "MEP-85"
   ],
   "bastiodon gl": ["RR-2"],
   "battle cage": ["PFL-85", "PFL-116"],
@@ -1066,7 +1072,8 @@
     "FCO-22",
     "FLF-48",
     "ROS-38",
-    "POR-42"
+    "POR-42",
+    "MEP-87"
   ],
   "binding mochi": ["SFA-55", "PRE-95"],
   "bird keeper": ["DAA-159", "SHF-66"],
@@ -1506,6 +1513,7 @@
     "SLG-1",
     "PR-SM-SM198",
     "PGO-1",
+    "MEP-37",
     "MEP-37"
   ],
   "buneary": [
@@ -1780,7 +1788,7 @@
   "celebi ◇": ["LOT-19"],
   "celebi ★": ["CG-100"],
   "celebi-ex": ["BCR-9", "BCR-141"],
-  "celebratory fanfare": ["MEP-28"],
+  "celebratory fanfare": ["MEP-28", "MEP-28"],
   "celesteela": ["CES-100", "PR-SM-SM131"],
   "celesteela-gx": [
     "UNB-163",
@@ -1813,6 +1821,7 @@
     "SSP-35",
     "SSP-197",
     "PFL-20",
+    "MEP-14",
     "MEP-14"
   ],
   "ceruledge ex": ["SSP-36", "PRE-147"],
@@ -1900,7 +1909,8 @@
     "SSP-33",
     "PFL-19",
     "MEP-22",
-    "PBL-11"
+    "PBL-11",
+    "MEP-22"
   ],
   "charity": ["G1-99"],
   "charizard": [
@@ -2023,6 +2033,7 @@
     "EVO-9",
     "PFL-11",
     "ASC-20",
+    "MEP-38",
     "MEP-38"
   ],
   "charmander δ": ["CG-49"],
@@ -2055,7 +2066,8 @@
     "GEN-RC4",
     "EVO-10",
     "PFL-12",
-    "ASC-21"
+    "ASC-21",
+    "MEP-79"
   ],
   "charmeleon δ": ["CG-30"],
   "charon's choice": ["RR-RT6"],
@@ -2119,7 +2131,8 @@
     "PR-XY-XY01",
     "PR-XY-XY88",
     "CRI-5",
-    "CRI-87"
+    "CRI-87",
+    "MEP-58"
   ],
   "chewtle": ["SCR-43", "SSH-60", "VIV-38", "SHF-26", "SHF-SV028", "FST-80"],
   "chi-yu": ["MEG-31", "PAR-29", "TWM-39", "PR-SV-57", "PBL-59"],
@@ -2133,6 +2146,7 @@
     "PAL-274",
     "PR-SV-30"
   ],
+  "chikoria": ["MEP-46"],
   "chikorita": [
     "MT-77",
     "EX-99",
@@ -2149,6 +2163,7 @@
     "GEN-RC1",
     "BKP-1",
     "ASC-8",
+    "MEP-69",
     "MEP-69"
   ],
   "chikorita δ": ["DF-44"],
@@ -2167,6 +2182,7 @@
     "UPR-21",
     "BRS-24",
     "STS-18",
+    "MEP-41",
     "MEP-41"
   ],
   "chimecho": [
@@ -2728,7 +2744,8 @@
     "BST-91",
     "PHF-33",
     "CRI-51",
-    "CRI-93"
+    "CRI-93",
+    "MEP-76"
   ],
   "crobat break": ["PR-XY-XY181"],
   "crobat ex": ["DX-96"],
@@ -2883,7 +2900,8 @@
     "LOT-39",
     "LOT-40",
     "ASR-23",
-    "BKT-18"
+    "BKT-18",
+    "MEP-47"
   ],
   "cyndaquil δ": ["DF-45"],
   "cynthia": ["UPR-119", "UPR-119a", "UPR-148"],
@@ -3199,7 +3217,15 @@
   ],
   "delinquent": ["BKP-98", "BKP-98a", "BKP-98b"],
   "delivery drone": ["PAL-178"],
-  "delphox": ["FLI-17", "SIT-27", "KSS-10", "XY-26", "FCO-13", "CRI-13"],
+  "delphox": [
+    "FLI-17",
+    "SIT-27",
+    "KSS-10",
+    "XY-26",
+    "FCO-13",
+    "CRI-13",
+    "MEP-74"
+  ],
   "delphox break": ["FCO-14"],
   "delphox v": ["LOR-27", "LOR-173"],
   "delphox-ex": ["PR-XY-XY19"],
@@ -3293,7 +3319,8 @@
     "CEC-98",
     "UNM-20",
     "PBL-39",
-    "PBL-91"
+    "PBL-91",
+    "MEP-84"
   ],
   "dhelmise v": ["SSH-9", "SSH-187", "SHF-9"],
   "dhelmise vmax": ["SHF-10"],
@@ -3404,7 +3431,8 @@
     "CRZ-107",
     "CRZ-GG22",
     "PR-XY-XY40",
-    "30C-115"
+    "30C-115",
+    "MEP-115"
   ],
   "ditto v": ["SHF-50", "SHF-SV118"],
   "ditto vmax": ["SHF-51", "SHF-SV119"],
@@ -3492,6 +3520,7 @@
     "UNM-94",
     "POR-57",
     "POR-98",
+    "MEP-67",
     "MEP-67"
   ],
   "double aqua energy": ["DCR-33"],
@@ -3694,6 +3723,7 @@
     "ASR-64",
     "STS-47",
     "UNM-81",
+    "MEP-6",
     "MEP-6"
   ],
   "drifblim fb": ["SV-3"],
@@ -3717,7 +3747,8 @@
     "UNM-80",
     "MEP-5",
     "30C-73",
-    "30C-136"
+    "30C-136",
+    "MEP-5"
   ],
   "drilbur": [
     "EPO-54",
@@ -4505,7 +4536,7 @@
   ],
   "espeon & deoxys-gx": ["PR-SM-SM240", "UNM-72"],
   "espeon e4": ["RR-18"],
-  "espeon ex": ["UF-102", "PRE-34", "PRE-155", "30C-70"],
+  "espeon ex": ["UF-102", "PRE-34", "PRE-155", "30C-70", "MEP-70"],
   "espeon v": ["EVS-64", "EVS-179", "EVS-180"],
   "espeon vmax": ["EVS-65", "FST-270"],
   "espeon δ": ["DS-4"],
@@ -4750,7 +4781,9 @@
     "FCO-11",
     "BKT-25",
     "PR-XY-XY02",
-    "CRI-11"
+    "CRI-11",
+    "MEP-59",
+    "MEP-80"
   ],
   "fennel": ["BLK-82", "BLK-162"],
   "feraligatr": [
@@ -5063,6 +5096,7 @@
     "PRC-110",
     "PFL-53",
     "PFL-101",
+    "MEP-16",
     "MEP-16"
   ],
   "flygon ex": ["LM-87", "PK-94", "SSP-106", "SSP-222"],
@@ -5168,7 +5202,8 @@
     "PR-XY-XY03",
     "PR-XY-XY138",
     "CRI-20",
-    "CRI-88"
+    "CRI-88",
+    "MEP-60"
   ],
   "frogadier": [
     "OBF-57",
@@ -5220,7 +5255,8 @@
     "PAR-23",
     "SSP-29",
     "PR-SV-2",
-    "PR-SV-79"
+    "PR-SV-79",
+    "MEP-62"
   ],
   "fuecoco ex": ["30C-15", "30C-147"],
   "full face guard": ["EVS-148", "EVS-231"],
@@ -5894,6 +5930,7 @@
     "BKP-17",
     "ASC-40",
     "CEC-41",
+    "MEP-8",
     "MEP-8"
   ],
   "golduck break": ["BKP-18"],
@@ -5970,7 +6007,8 @@
     "PHF-77",
     "AOR-60",
     "FST-197",
-    "CRI-68"
+    "CRI-68",
+    "MEP-77"
   ],
   "goomy": [
     "GRI-94",
@@ -6184,7 +6222,8 @@
     "PR-SV-54",
     "PR-SV-132",
     "30C-21",
-    "30C-148"
+    "30C-148",
+    "MEP-21"
   ],
   "greninja v": ["FST-73"],
   "greninja-ex": ["PR-XY-XY20"],
@@ -6220,7 +6259,15 @@
   "grimmsnarl vmax": ["DAA-115", "SHF-SV117"],
   "grimsley": ["UNM-199", "UNM-234"],
   "grimsley's move": ["PFL-90", "PFL-120"],
-  "grookey": ["TWM-14", "SSH-10", "SSH-11", "SHF-11", "SHF-SV004", "CRE-16"],
+  "grookey": [
+    "TWM-14",
+    "SSH-10",
+    "SSH-11",
+    "SHF-11",
+    "SHF-SV004",
+    "CRE-16",
+    "MEP-52"
+  ],
   "grookey on the ball": ["FUT20-3"],
   "grotle": [
     "PLS-2",
@@ -6485,6 +6532,7 @@
     "PFL-55",
     "ASC-124",
     "POR-49",
+    "MEP-27",
     "MEP-27"
   ],
   "hawlucha": [
@@ -8468,6 +8516,7 @@
     "PR-SM-SM08",
     "PR-SM-SM23",
     "SIT-30",
+    "MEP-44",
     "MEP-44"
   ],
   "litwick": [
@@ -8605,7 +8654,8 @@
     "FCO-63",
     "PR-XY-XY140",
     "UNM-117",
-    "30C-83"
+    "30C-83",
+    "MEP-83"
   ],
   "lucario & melmetal-gx": ["UNB-120", "UNB-203", "UNB-224", "PR-SM-SM192"],
   "lucario c": ["SV-31"],
@@ -8709,6 +8759,7 @@
     "DAA-72",
     "XY-63",
     "ASC-105",
+    "MEP-4",
     "MEP-4"
   ],
   "lurantis": ["DRI-14", "PR-SM-SM25", "BST-15", "UNM-16"],
@@ -9221,6 +9272,7 @@
     "LOR-97",
     "FFI-51",
     "FST-142",
+    "MEP-68",
     "MEP-68"
   ],
   "malamar": [
@@ -9641,19 +9693,21 @@
     "PFL-125",
     "PFL-130",
     "MEP-23",
+    "MEP-29",
+    "MEP-23",
     "MEP-29"
   ],
-  "mega charizard y ex": ["ASC-22", "ASC-294", "MEP-30"],
-  "mega clefable ex": ["POR-31", "POR-103", "POR-119"],
-  "mega darkrai ex": ["PBL-48", "PBL-101", "PBL-116", "PBL-120"],
+  "mega charizard y ex": ["ASC-22", "ASC-294", "MEP-30", "MEP-30"],
+  "mega clefable ex": ["POR-31", "POR-103", "POR-119", "MEP-72"],
+  "mega darkrai ex": ["PBL-48", "PBL-101", "PBL-116", "PBL-120", "MEP-101"],
   "mega delphox ex": ["PBL-8"],
   "mega diancie ex": ["PFL-41", "ASC-267", "ASC-282"],
   "mega dragalge ex": ["CRI-65", "CRI-104", "CRI-118"],
-  "mega dragonite ex": ["ASC-152", "ASC-271", "ASC-290", "ASC-295"],
+  "mega dragonite ex": ["ASC-152", "ASC-271", "ASC-290", "ASC-295", "MEP-152"],
   "mega eelektross ex": ["ASC-61", "ASC-266", "ASC-278"],
-  "mega emboar ex": ["ASC-31", "ASC-273"],
+  "mega emboar ex": ["ASC-31", "ASC-273", "MEP-31"],
   "mega excadrill ex": ["PBL-65", "PBL-103"],
-  "mega feraligatr ex": ["ASC-43", "ASC-274"],
+  "mega feraligatr ex": ["ASC-43", "ASC-274", "MEP-43"],
   "mega floette ex": ["CRI-35", "CRI-101", "CRI-117"],
   "mega froslass ex": ["ASC-47", "ASC-265", "ASC-275"],
   "mega gallade ex": ["CRI-48"],
@@ -9665,11 +9719,11 @@
     "ASC-89",
     "MEP-60"
   ],
-  "mega gengar ex": ["PFL-56", "ASC-125", "ASC-269", "ASC-284"],
-  "mega greninja ex": ["CRI-22", "CRI-100", "CRI-116", "CRI-122"],
+  "mega gengar ex": ["PFL-56", "ASC-125", "ASC-269", "ASC-284", "MEP-73"],
+  "mega greninja ex": ["CRI-22", "CRI-100", "CRI-116", "CRI-122", "MEP-81"],
   "mega hawlucha ex": ["ASC-116", "ASC-268", "ASC-283"],
   "mega heracross ex": ["ASC-4", "ASC-108"],
-  "mega kangaskhan ex": ["MEG-104", "MEG-164", "MEG-182", "MEP-25"],
+  "mega kangaskhan ex": ["MEG-104", "MEG-164", "MEG-182", "MEP-25", "MEP-25"],
   "mega latias ex": ["MEG-100", "MEG-163", "MEG-181", "MEP-11"],
   "mega lopunny & jigglypuff-gx": ["CEC-165", "CEC-225", "CEC-226", "CEC-261"],
   "mega lopunny ex": ["PFL-84", "PFL-115", "PFL-128"],
@@ -9680,11 +9734,13 @@
     "MEG-188",
     "ASC-113",
     "MEP-12",
+    "MEP-33",
+    "MEP-12",
     "MEP-33"
   ],
   "mega manectric ex": ["MEG-50", "MEG-158"],
   "mega mawile ex": ["MEG-94", "MEG-162"],
-  "mega meganium ex": ["ASC-10", "ASC-272"],
+  "mega meganium ex": ["ASC-10", "ASC-272", "MEP-10"],
   "mega pyroar ex": ["CRI-15", "CRI-99"],
   "mega sableye & tyranitar-gx": ["UNM-126", "UNM-225", "UNM-226", "UNM-245"],
   "mega scrafty ex": ["ASC-135", "ASC-270", "ASC-285"],
@@ -9695,7 +9751,7 @@
   "mega starmie ex": ["POR-21", "POR-102", "POR-118"],
   "mega turbo": ["ROS-86"],
   "mega venusaur ex": ["MEG-3", "MEG-155", "MEG-177", "MEP-13"],
-  "mega zeraora ex": ["PBL-27", "PBL-98", "PBL-114"],
+  "mega zeraora ex": ["PBL-27", "PBL-98", "PBL-114", "MEP-98"],
   "mega zygarde ex": ["POR-47", "POR-104", "POR-120", "POR-124"],
   "meganium": [
     "MT-13",
@@ -9712,6 +9768,7 @@
     "N1-11",
     "LOT-8",
     "BKP-3",
+    "MEP-1",
     "MEP-1"
   ],
   "meganium ex": ["UF-106"],
@@ -9744,6 +9801,7 @@
     "PFL-40",
     "FST-124",
     "UNM-123",
+    "MEP-26",
     "MEP-26"
   ],
   "meloetta ex": ["BLK-44", "BLK-159", "BLK-167"],
@@ -9969,7 +10027,8 @@
     "30C-65",
     "30C-R",
     "30C-G",
-    "30C-B"
+    "30C-B",
+    "MEP-65"
   ],
   "mew ex": [
     "MEW-151",
@@ -10013,7 +10072,8 @@
     "EVO-51",
     "PR-XY-XY100",
     "PR-XY-XY101",
-    "30C-63"
+    "30C-63",
+    "MEP-63"
   ],
   "mewtwo & mew-gx": ["PR-SM-SM191", "UNM-71", "UNM-222", "UNM-242"],
   "mewtwo ex": ["RS-101", "PAR-58", "30C-64", "30C-151", "30C-157"],
@@ -10229,7 +10289,8 @@
     "PR-SV-92",
     "PR-SV-148",
     "PBL-28",
-    "30C-62"
+    "30C-62",
+    "MEP-82"
   ],
   "miraidon ex": [
     "PAF-243",
@@ -10348,7 +10409,8 @@
     "PR-XY-XY127",
     "PFL-14",
     "30C-11",
-    "30C-130"
+    "30C-130",
+    "MEP-11"
   ],
   "moltres & zapdos & articuno-gx": [
     "HIF-44",
@@ -10577,7 +10639,7 @@
   "n's vanillish": ["ASC-50"],
   "n's vanillite": ["ASC-49"],
   "n's vanilluxe": ["ASC-51"],
-  "n's zekrom": ["ASC-155", "MEP-31"],
+  "n's zekrom": ["ASC-155", "MEP-31", "MEP-155"],
   "n's zoroark ex": [
     "JTG-98",
     "JTG-175",
@@ -10740,7 +10802,8 @@
     "RR-73",
     "TEU-55",
     "PRC-67",
-    "30C-88"
+    "30C-88",
+    "MEP-88"
   ],
   "nidorina δ": ["DF-34"],
   "nidorino": [
@@ -11128,7 +11191,7 @@
     "CRZ-GG04",
     "FST-42"
   ],
-  "oricorio ex": ["PFL-18", "PFL-110", "ASC-24", "MEP-24"],
+  "oricorio ex": ["PFL-18", "PFL-110", "ASC-24", "MEP-24", "MEP-24"],
   "oricorio-gx": ["CEC-95", "CEC-217", "CEC-255"],
   "origin forme dialga v": ["ASR-113", "ASR-177"],
   "origin forme dialga vstar": ["ASR-114", "ASR-198", "ASR-210", "CRZ-GG68"],
@@ -11148,7 +11211,8 @@
     "WHT-105",
     "ASR-41",
     "VIV-33",
-    "STS-30"
+    "STS-30",
+    "MEP-51"
   ],
   "pachirisu": [
     "PAF-138",
@@ -11799,7 +11863,9 @@
     "30C-53",
     "30C-54",
     "30C-149",
-    "30C-150"
+    "30C-150",
+    "MEP-149",
+    "MEP-150"
   ],
   "pikachu on the ball": ["FUT20-1"],
   "pikachu v": ["LOR-TG16", "VIV-43", "VIV-170", "BRS-157", "FST-86"],
@@ -11908,6 +11974,7 @@
     "PFL-98",
     "CEC-54",
     "CEC-239",
+    "MEP-42",
     "MEP-42"
   ],
   "plasma energy": ["PLB-91", "PLS-127", "PLF-106"],
@@ -12178,7 +12245,8 @@
     "PR-SM-SM03",
     "PR-SM-SM24",
     "MEP-45",
-    "PBL-18"
+    "PBL-18",
+    "MEP-45"
   ],
   "poppy": ["OBF-193", "OBF-220", "OBF-227"],
   "porygon": [
@@ -12451,6 +12519,7 @@
     "ASC-39",
     "ASC-226",
     "CEC-40",
+    "MEP-7",
     "MEP-7"
   ],
   "psyduck δ": ["HP-81"],
@@ -13717,7 +13786,8 @@
     "SHF-SV015",
     "CRE-26",
     "ASC-36",
-    "ASC-225"
+    "ASC-225",
+    "MEP-53"
   ],
   "scorbunny on the ball": ["FUT20-4"],
   "scorched earth": ["FCO-110", "PRC-138"],
@@ -13929,6 +13999,7 @@
     "PR-BLW-BW20",
     "FCO-7",
     "POR-6",
+    "MEP-64",
     "MEP-64"
   ],
   "serperior ex": ["BLK-3", "BLK-156", "BLK-164"],
@@ -14635,7 +14706,8 @@
     "GEN-32",
     "BKP-19",
     "PBL-29",
-    "30C-16"
+    "30C-16",
+    "MEP-86"
   ],
   "slowpoke & psyduck-gx": ["UNM-35", "UNM-217", "UNM-218", "UNM-239"],
   "slugma": [
@@ -14729,7 +14801,8 @@
     "CEC-43",
     "UNM-131",
     "MEP-20",
-    "30CC-25"
+    "30CC-25",
+    "MEP-20"
   ],
   "sneasel ex": ["RS-103"],
   "snivy": [
@@ -14743,7 +14816,8 @@
     "BLK-1",
     "BLK-87",
     "FCO-5",
-    "POR-4"
+    "POR-4",
+    "MEP-49"
   ],
   "snom": [
     "MEG-42",
@@ -14864,7 +14938,7 @@
     "PFL-37",
     "FST-115"
   ],
-  "sobble": ["MEG-39", "SSH-54", "SSH-55", "SHF-SV025", "CRE-41"],
+  "sobble": ["MEG-39", "SSH-54", "SSH-55", "SHF-SV025", "CRE-41", "MEP-54"],
   "sobble on the ball": ["FUT20-5"],
   "solgaleo": ["GRI-87", "CES-99", "CEL-21", "CEC-142", "30C-105"],
   "solgaleo & lunala-gx": ["CEC-75", "CEC-216", "CEC-254"],
@@ -15061,7 +15135,8 @@
     "PAL-196",
     "JTG-16",
     "PR-SV-1",
-    "PR-SV-76"
+    "PR-SV-76",
+    "MEP-61"
   ],
   "sprigatito ex": ["PR-SV-87", "ASC-251"],
   "spritzee": [
@@ -15109,6 +15184,7 @@
     "TEU-22",
     "TEU-23",
     "PGO-15",
+    "MEP-39",
     "MEP-39"
   ],
   "stadium nav": ["UNM-208"],
@@ -15643,7 +15719,7 @@
     "PR-XY-XY04",
     "CEC-155"
   ],
-  "sylveon ex": ["SSP-86", "PRE-41", "PRE-156", "30C-71", "30C-153"],
+  "sylveon ex": ["SSP-86", "PRE-41", "PRE-156", "30C-71", "30C-153", "MEP-71"],
   "sylveon v": ["EVS-74", "EVS-183", "EVS-184", "BRS-TG14"],
   "sylveon vmax": ["EVS-75", "EVS-211", "EVS-212", "BRS-TG15"],
   "sylveon-ex": ["GEN-RC21", "GEN-RC32"],
@@ -16033,7 +16109,8 @@
     "WHT-96",
     "BST-23",
     "ASC-29",
-    "CEC-31"
+    "CEC-31",
+    "MEP-50"
   ],
   "tera orb": ["SSP-189"],
   "terapagos": ["SSP-161", "ASC-178"],
@@ -16283,7 +16360,8 @@
     "FFI-12",
     "PRC-25",
     "PRC-26",
-    "PR-XY-XY37"
+    "PR-XY-XY37",
+    "MEP-56"
   ],
   "torchic ★": ["TRR-108"],
   "torkoal": [
@@ -16355,7 +16433,8 @@
     "DRM-22",
     "PHF-15",
     "ASC-41",
-    "FST-55"
+    "FST-55",
+    "MEP-48"
   ],
   "totodile δ": ["DF-67"],
   "toucannon": ["SUM-108", "LOT-166", "VIV-145", "PBL-68", "PBL-94"],
@@ -16378,7 +16457,8 @@
     "PFL-67",
     "FST-105",
     "FST-106",
-    "30C-58"
+    "30C-58",
+    "MEP-78"
   ],
   "toxicroak": [
     "LTR-63",
@@ -16415,7 +16495,8 @@
     "MEP-17",
     "30C-59",
     "30C-60",
-    "30C-134"
+    "30C-134",
+    "MEP-17"
   ],
   "toxtricity ex": ["PAR-100", "PAR-227"],
   "toxtricity v": ["RCL-70", "RCL-182", "SHF-SV112"],
@@ -16590,6 +16671,7 @@
     "UPR-7",
     "CRZ-GG31",
     "BRS-6",
+    "MEP-40",
     "MEP-40"
   ],
   "turtwig gl": ["RR-85"],
@@ -16678,7 +16760,7 @@
   "tyranitar δ": ["DS-16"],
   "tyranitar-ex": ["AOR-42", "AOR-91"],
   "tyranitar-gx": ["LOT-121", "LOT-203", "LOT-223"],
-  "tyrantrum": ["FLI-69", "FFI-62", "POR-45", "MEP-66"],
+  "tyrantrum": ["FLI-69", "FFI-62", "POR-45", "MEP-66", "MEP-66"],
   "tyrantrum-ex": ["PR-XY-XY70"],
   "tyrogue": [
     "LA-126",
@@ -16748,7 +16830,7 @@
     "30C-91"
   ],
   "umbreon & darkrai-gx": ["PR-SM-SM241", "UNM-125"],
-  "umbreon ex": ["UF-112", "PRE-60", "PRE-161", "30C-92"],
+  "umbreon ex": ["UF-112", "PRE-60", "PRE-161", "30C-92", "MEP-110"],
   "umbreon v": ["EVS-94", "EVS-188", "EVS-189", "BRS-TG22"],
   "umbreon vmax": ["EVS-95", "EVS-214", "EVS-215", "BRS-TG23"],
   "umbreon δ": ["DS-17"],
@@ -17096,7 +17178,8 @@
     "CEC-30",
     "FST-36",
     "UNM-26",
-    "30C-13"
+    "30C-13",
+    "MEP-13"
   ],
   "victini ex": ["OBF-33", "PR-SV-142"],
   "victini v": ["SSH-25", "BST-21", "BST-144"],
@@ -17603,6 +17686,7 @@
     "AOR-56",
     "CEC-148",
     "UNM-144",
+    "MEP-19",
     "MEP-19"
   ],
   "whimsicott ex": ["WHT-5", "WHT-157", "WHT-165"],
@@ -17979,7 +18063,8 @@
     "PFL-45",
     "PFL-100",
     "MEP-15",
-    "30C-106"
+    "30C-106",
+    "MEP-15"
   ],
   "zacian v": [
     "CEL-16",
@@ -18054,7 +18139,8 @@
     "EVO-42",
     "ROS-23",
     "30C-55",
-    "30C-133"
+    "30C-133",
+    "MEP-55"
   ],
   "zapdos ex": [
     "MEW-145",
@@ -18118,7 +18204,8 @@
     "CRZ-52",
     "VIV-61",
     "FST-102",
-    "30C-57"
+    "30C-57",
+    "MEP-57"
   ],
   "zeraora v": ["CRZ-53", "SIT-TG16", "CRE-53", "CRE-165", "CRE-166"],
   "zeraora vmax": ["CRZ-54", "CRZ-GG42"],
