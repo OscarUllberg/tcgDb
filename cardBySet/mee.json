@@ -134,5 +134,141 @@
       "small": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-8.jpg",
       "large": "https://file.garden/aXn3EDBNFgfYF4Cb/mee/mee-8.jpg"
     }
+  },
+  {
+    "id": "mee-9",
+    "name": "Basic Grass Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "1",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-9/small",
+      "large": "https://images.scrydex.com/pokemon/mee-9/medium"
+    }
+  },
+  {
+    "id": "mee-10",
+    "name": "Basic Fire Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "2",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-10/small",
+      "large": "https://images.scrydex.com/pokemon/mee-10/medium"
+    }
+  },
+  {
+    "id": "mee-11",
+    "name": "Basic Water Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "3",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-11/small",
+      "large": "https://images.scrydex.com/pokemon/mee-11/medium"
+    }
+  },
+  {
+    "id": "mee-12",
+    "name": "Basic Lightning Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "4",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-12/small",
+      "large": "https://images.scrydex.com/pokemon/mee-12/medium"
+    }
+  },
+  {
+    "id": "mee-13",
+    "name": "Basic Psychic Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "5",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-13/small",
+      "large": "https://images.scrydex.com/pokemon/mee-13/medium"
+    }
+  },
+  {
+    "id": "mee-14",
+    "name": "Basic Fighting Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "6",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-14/small",
+      "large": "https://images.scrydex.com/pokemon/mee-14/medium"
+    }
+  },
+  {
+    "id": "mee-15",
+    "name": "Basic Darkness Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "7",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-15/small",
+      "large": "https://images.scrydex.com/pokemon/mee-15/medium"
+    }
+  },
+  {
+    "id": "mee-16",
+    "name": "Basic Metal Energy",
+    "supertype": "Energy",
+    "subtypes": ["Basic"],
+    "number": "8",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/mee-16/small",
+      "large": "https://images.scrydex.com/pokemon/mee-16/medium"
+    }
   }
 ]
