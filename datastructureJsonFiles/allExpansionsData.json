@@ -211,9 +211,9 @@
       "id": "me6",
       "name": "Delta Reign",
       "series": "Mega Evolution",
-      "total": 0,
-      "masterTotal": 0,
-      "printedTotal": 0,
+      "total": 141,
+      "masterTotal": 228,
+      "printedTotal": 103,
       "regulation": "J",
       "legalities": {
         "unlimited": "Legal",
@@ -226,6 +226,27 @@
       "images": {
         "symbol": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me6-symbol.png",
         "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me6-logo.png"
+      }
+    },
+    {
+      "id": "me7",
+      "name": "Flowing Fists",
+      "series": "Mega Evolution",
+      "total": 0,
+      "masterTotal": 0,
+      "printedTotal": 0,
+      "regulation": "J",
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FLO",
+      "releaseDate": "2027/02/05",
+      "updatedAt": "2026/09/14 15:00:00",
+      "images": {
+        "symbol": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me7-symbol.png",
+        "logo": "https://file.garden/aXn3EDBNFgfYF4Cb/sets/mega%20evolution/me7-logo.png"
       }
     }
   ],

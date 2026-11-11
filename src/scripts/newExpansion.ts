@@ -5,8 +5,8 @@ import sortCardsByName from "./sortCardsByName";
 
 const newExpansion = async () => {
   console.log("----------------------------------------------------");
-  const expansionCode = "mep";
-  const expansionId = "MEP";
+  const expansionCode = "me6";
+  const expansionId = "DLR";
 
   // read new set
   const newExpansionData = await fetch(`cardBySet/${expansionCode}.json`).then(
