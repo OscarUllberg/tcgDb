@@ -1333,5 +1333,402 @@
       "small": "https://images.scrydex.com/pokemon/me55-125/medium",
       "large": "https://images.scrydex.com/pokemon/me55-125/large"
     }
+  },
+
+  {
+    "id": "DLR-3",
+    "regulation": "J",
+    "name": "Masquerain",
+    "categories": ["Bug Out"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-3/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-3/large"
+    }
+  },
+  {
+    "id": "DLR-5",
+    "regulation": "J",
+    "name": "Cacturne",
+    "categories": ["Counter Ability"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-5/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-5/large"
+    }
+  },
+  {
+    "id": "DLR-6",
+    "regulation": "J",
+    "name": "Comber",
+    "categories": ["Bug Out"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-6/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-6/large"
+    }
+  },
+  {
+    "id": "DLR-11",
+    "regulation": "J",
+    "name": "Golisopod ex",
+    "categories": ["Retreat Locke"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-11/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-11/large"
+    }
+  },
+  {
+    "id": "DLR-14",
+    "regulation": "J",
+    "name": "Meowscarade ex",
+    "categories": ["Bench Snipe"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-14/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-14/large"
+    }
+  },
+  {
+    "id": "DLR-17",
+    "regulation": "J",
+    "name": "Arboliva",
+    "categories": ["Gust"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-17/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-17/large"
+    }
+  },
+  {
+    "id": "DLR-21",
+    "regulation": "J",
+    "name": "Magmortar",
+    "categories": ["Energy Acceleration"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-21/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-21/large"
+    }
+  },
+  {
+    "id": "DLR-26",
+    "regulation": "J",
+    "name": "Kyogra",
+    "categories": ["Bench Snipe"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-26/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-26/large"
+    }
+  },
+  {
+    "id": "DLR-28",
+    "regulation": "J",
+    "name": "Jellicent",
+    "categories": ["Draw"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-28/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-28/large"
+    }
+  },
+  {
+    "id": "DLR-35",
+    "regulation": "J",
+    "name": "Thunerdurs",
+    "categories": ["Incarnate Solidarity"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-35/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-35/large"
+    }
+  },
+  {
+    "id": "DLR-39",
+    "regulation": "J",
+    "name": "Pawmot",
+    "categories": ["Energy Acceleration"],
+    "type": ["Lightning"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-39/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-39/large"
+    }
+  },
+  {
+    "id": "DLR-45",
+    "regulation": "J",
+    "name": "Giratina",
+    "categories": ["Block Damage"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-45/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-45/large"
+    }
+  },
+  {
+    "id": "DLR-48",
+    "regulation": "J",
+    "name": "Enamorus",
+    "categories": ["Incarnate Solidarity"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-48/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-48/large"
+    }
+  },
+  {
+    "id": "DLR-54",
+    "regulation": "J",
+    "name": "Landorus",
+    "categories": ["Incarnate Solidarity"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-54/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-54/large"
+    }
+  },
+  {
+    "id": "DLR-57",
+    "regulation": "J",
+    "name": "Nidoqueen",
+    "categories": ["Gust"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-57/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-57/large"
+    }
+  },
+  {
+    "id": "DLR-58",
+    "regulation": "J",
+    "name": "Spinarak",
+    "categories": ["Bug Out"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-58/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-58/large"
+    }
+  },
+  {
+    "id": "DLR-75",
+    "regulation": "J",
+    "name": "Kommo-o",
+    "categories": ["Energy Acceleration"],
+    "type": ["Dragon"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-75/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-75/large"
+    }
+  },
+  {
+    "id": "DLR-79",
+    "regulation": "J",
+    "name": "Delibird",
+    "categories": ["Energy Search"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-79/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-79/large"
+    }
+  },
+  {
+    "id": "DLR-80",
+    "regulation": "J",
+    "name": "Azurill",
+    "categories": ["Energy Acceleration"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-80/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-80/large"
+    }
+  },
+  {
+    "id": "DLR-82",
+    "regulation": "J",
+    "name": "Altaria",
+    "categories": ["Free Retreat"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-82/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-82/large"
+    }
+  },
+  {
+    "id": "DLR-84",
+    "regulation": "J",
+    "name": "Mega Rayquaza ex",
+    "categories": ["Energy Acceleration"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-84/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-84/large"
+    }
+  },
+  {
+    "id": "DLR-85",
+    "regulation": "J",
+    "name": "Tornadus",
+    "categories": ["Incarnate Solidarity"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-85/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-85/large"
+    }
+  },
+  {
+    "id": "DLR-88",
+    "regulation": "J",
+    "name": "Talonflame ex",
+    "categories": ["Consistency and Setup"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-88/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-88/large"
+    }
+  },
+  {
+    "id": "DLR-89",
+    "regulation": "J",
+    "name": "Aarune",
+    "categories": ["Supporter Search", "Stadium Search"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-89/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-89/large"
+    }
+  },
+  {
+    "id": "DLR-90",
+    "regulation": "J",
+    "name": "Adventure Lantern",
+    "categories": ["Energy Search"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-90/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-90/large"
+    }
+  },
+  {
+    "id": "DLR-91",
+    "regulation": "J",
+    "name": "Custom Vest",
+    "categories": ["Reduce Damage"],
+    "type": [""],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-91/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-91/large"
+    }
+  },
+  {
+    "id": "DLR-93",
+    "regulation": "J",
+    "name": "Grisham",
+    "categories": ["Healing"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-93/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-93/large"
+    }
+  },
+  {
+    "id": "DLR-94",
+    "regulation": "J",
+    "name": "Legendary Pyroduct Left",
+    "categories": ["Counter Abilities"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-94/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-94/large"
+    }
+  },
+  {
+    "id": "DLR-95",
+    "regulation": "J",
+    "name": "Legendary Pyroduct Right",
+    "categories": ["Counter Abilities"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-95/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-95/large"
+    }
+  },
+  {
+    "id": "DLR-96",
+    "regulation": "J",
+    "name": "Legendary Summit Left",
+    "categories": ["Prize Denial"],
+    "type": ["Colorless"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-96/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-96/large"
+    }
+  },
+  {
+    "id": "DLR-97",
+    "regulation": "J",
+    "name": "Legendary Summit Right",
+    "categories": ["Prize Denial"],
+    "type": ["Colorless"],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-97/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-97/large"
+    }
+  },
+  {
+    "id": "DLR-98",
+    "regulation": "J",
+    "name": "Legendary Trench Left",
+    "categories": ["Healing"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-98/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-98/large"
+    }
+  },
+  {
+    "id": "DLR-99",
+    "regulation": "J",
+    "name": "Legendary Trench Right",
+    "categories": ["Healing"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-99/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-99/large"
+    }
+  },
+  {
+    "id": "DLR-100",
+    "regulation": "J",
+    "name": "Mega Rayquaza Cap",
+    "categories": ["Energy Acceleration"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-100/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-100/large"
+    }
+  },
+  {
+    "id": "DLR-101",
+    "regulation": "J",
+    "name": "Tasty Rice Ball",
+    "categories": ["Healing"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-101/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-101/large"
+    }
+  },
+  {
+    "id": "DLR-102",
+    "regulation": "J",
+    "name": "Zinnias Trust",
+    "categories": ["Switching", "Energy Switching"],
+    "type": [],
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me6-102/medium",
+      "large": "https://images.scrydex.com/pokemon/me6-102/large"
+    }
   }
 ]
