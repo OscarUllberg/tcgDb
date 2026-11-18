@@ -105,21 +105,6 @@
     }
   },
   {
-    "id": "me2pt5-151",
-    "name": "Dragonair",
-    "rarity": ["common"],
-    "iconLocation": {
-      "type": "pokemon",
-      "side": "right"
-    },
-    "supertype": "Pokemon",
-    "types": ["Dragon"],
-    "images": {
-      "small": "https://images.scrydex.com/pokemon/me2pt5-151/small",
-      "large": "https://images.scrydex.com/pokemon/me2pt5-151/large"
-    }
-  },
-  {
     "id": "sv10-33",
     "name": "Ethan's Quilava",
     "rarity": ["common"],
